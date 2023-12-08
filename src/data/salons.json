@@ -1,14 +1,14 @@
 [
     {
-        "name": "BAIC | АЛЬФА",
-        "address": "г. Самара, ул. Новоурицкая, д.&nbsp;22",
-        "phone":  "8 (846) 321-00-00",
-        "work_hours": "пн — вс: 8:00 — 20:00",
+        "name": "Джили Партнер",
+        "address": "Загородное шоссе, 13/1, Оренбург",
+        "phone":  "8 (3532) 40-53-53",
+        "work_hours": "пн-пт 9:00-19:00,<br>сб 9:00-18:00,<br>вс 9:00 -18:00 (сервис не работает)",
         "map": {
             "zoom": 17,
-            "balloon": "img/empty-locator.png",
-            "coords": [53.183971, 50.151672],
-            "ya_link": "https://yandex.ru/maps/51/samara/?from=api-maps&ll=50.228953%2C53.274141&mode=routes&origin=jsapi_2_1_79&pt=50.227754%2C53.275197~50.178598%2C53.138397&rtext=~53.274703%2C50.227773&rtt=auto&ruri=~ymapsbm1%3A%2F%2Fgeo%3Fdata%3DCgg1NzM5MDc3OBJJ0KDQvtGB0YHQuNGPLCDQodCw0LzQsNGA0LAsINCU0LXQvNC-0LrRgNCw0YLQuNGH0LXRgdC60LDRjyDRg9C70LjRhtCwLCA1NSIKDTnpSEIVzhlVQg%2C%2C&z=16.89"
+            "balloon": "img/geely-locator.png",
+            "coords": [51.844881, 55.154843],
+            "ya_link": "https://yandex.ru/maps/48/orenburg/?ll=55.154674%2C51.844799&mode=routes&rtext=~51.844881%2C55.154843&rtt=pd&ruri=~ymapsbm1%3A%2F%2Fgeo%3Fdata%3DCgg2Njk2NjYwOBJF0KDQvtGB0YHQuNGPLCDQntGA0LXQvdCx0YPRgNCzLCDQl9Cw0LPQvtGA0L7QtNC90L7QtSDRiNC-0YHRgdC1LCAxMy8xIgoNkJ5cQhUpYU9C&z=17"
         }
     }
 ]
