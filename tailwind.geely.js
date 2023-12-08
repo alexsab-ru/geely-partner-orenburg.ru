@@ -18,9 +18,11 @@ export const theme = {
       'sand-silver': '#E2E2E2',
       'lunar-maria-gray': '#A3B0BA',
       'space-gray': '#313E48',
-      'purple': '#7D5EA8',
-      'orange': '#F48026',
-      'red': '#DF202A',
+      purple: '#7D5EA8',
+      orange: '#F48026',
+      red: {
+        500: '#DF202A',
+      },
       yellow: {
         500: '#FECA57',
       },
