@@ -10,4 +10,6 @@ export default defineConfig({
 		}),
 		alpinejs()
 	],
+	site: 'https://geely-partner.ru',
+	base: '/'
 });
