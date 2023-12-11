@@ -1,6 +1,7 @@
 export const SITE_NAME = 'Джили Партнер'; // Название сайта по умолчанию
 export const LEGAL_ENTITY = 'ООО "ПАРТНЕР"'; // Юр лицо
 export const LEGAL_INN = '5610229506'; // ИНН
+export const LEGAL_CITY = 'г. Оренбург'; // Город
 export const SITE_DESCR = 'Официальный дилерский центр Geely в Оренбурге'; // Описание сайта по умолчанию
 
 export const BRAND = 'Geely';
