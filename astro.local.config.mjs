@@ -1,6 +1,6 @@
 import { defineConfig } from 'astro/config';
-import tailwind from '@astrojs/tailwind';
-import alpinejs from '@astrojs/alpinejs';
+import tailwind from "@astrojs/tailwind";
+import alpinejs from "@astrojs/alpinejs";
 import sitemap from "@astrojs/sitemap";
 import robots from "astro-robots";
 import mdx from "@astrojs/mdx";
@@ -9,13 +9,13 @@ import mdx from "@astrojs/mdx";
 export default defineConfig({
 	integrations: [
 		tailwind({
-			configFile: './tailwind.geely.js'
+			configFile: './tailwind.config.js'
 		}),
 		sitemap(),
 		robots(),
 		alpinejs(),
 		mdx()
 	],
-	site: 'https://geely-partner.ru',
-	base: '/'
+	// site: 'https://alexsab-ru.github.io',
+	// base: 'astro-website'
 });
