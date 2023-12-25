@@ -10,21 +10,9 @@ import Button from '@/components/Button/Button.astro';
 
 Максимальная выгода до 687 000 руб. при покупке нового автомобиля Geely
 
-<img srcset="/img/banners/specialnye-predlozheniya-na-avtomobili-geely/3-Cars_April.webp 500w,
-		/img/banners/specialnye-predlozheniya-na-avtomobili-geely/3-Cars_April.webp 800w,
-		/img/banners/specialnye-predlozheniya-na-avtomobili-geely/3-Cars_April.webp 1200w"
-	sizes="(min-width: 1280px) 1200px,
-		(min-width: 768px) 400px,
-		100vw"
+<img srcset="/img/banners/specialnye-predlozheniya-na-avtomobili-geely/3-Cars_April.webp 1x,
+		/img/banners/specialnye-predlozheniya-na-avtomobili-geely/3-Cars_April.webp 1.5x"
 	src="/img/banners/specialnye-predlozheniya-na-avtomobili-geely/3-Cars_April.webp" alt="Car" />
-
-<picture>
-	<source media="(min-width: 1200px)" srcset="/img/banners/specialnye-predlozheniya-na-avtomobili-geely/3-Cars_April.webp" />
-	<source media="(min-width: 942px)" srcset="/img/banners/specialnye-predlozheniya-na-avtomobili-geely/3-Cars_April.webp" />
-	<source media="(min-width: 576px)" srcset="/img/banners/specialnye-predlozheniya-na-avtomobili-geely/3-Cars_April.webp" />
-	<source media="(min-width: 320px)" srcset="/img/banners/specialnye-predlozheniya-na-avtomobili-geely/3-Cars_April.webp" />
-	<img src="/img/banners/specialnye-predlozheniya-na-avtomobili-geely/3-Cars_April.webp" alt="Спецпредложение на покупку зимних шин" />
-</picture>
 
  
 
@@ -46,8 +34,9 @@ import Button from '@/components/Button/Button.astro';
 
  
 
-<table border="1">
-	<tbody>
+<div class="overflow-auto min-w-full">
+<table border="1" class="inline-block min-w-full w-auto">
+	<thead>
 		<tr>
 			<th>Модель нового автомобиля</th>
 			<th>Комплектация нового автомобиля</th>
@@ -58,6 +47,8 @@ import Button from '@/components/Button/Button.astro';
 			<th>Выгода по программе Лояльный<sup>5</sup> / Специальный<sup>6</sup> Трейд-ин, руб.</th>
 			<th>Максимальная выгода до, руб.</th>
 		</tr>
+	</thead>
+	<tbody>
 		<tr>
 			<td>Emgrand</td>
 			<td>Все комплектации</td>
@@ -156,25 +147,7 @@ import Button from '@/components/Button/Button.astro';
 		</tr>
 	</tbody>
 </table>
-
- 
-
-| Модель нового автомобиля | Комплектация нового автомобиля | Выгода при покупке шин1, руб. | Специальная выгода2, руб. | Выгода по программе Трейд-ин3, руб. | Выгода по программе Geely Finance4, руб. | Выгода по программе Лояльный5 / Специальный6 Трейд-ин,  руб. | Максимальная выгода до, руб. |
-|---|---|---|---|---|---|---|---|
-| Emgrand | Все комплектации | 30 000 | 50 000 | 100 000 | 150 000 | 150 000 | 380 000* |
-| Новый Geely Coolray | Все комплектации | 30 000 | 50 000 | 70 000 | 70 000 | 120 000 | 270 000** |
-| Geely Coolray | Comfort | 30 000 | - | 135 000 | 135 000 | 185 000 | 350 000 |
-| Luxury | 30 000 | 65 000 | 175 000 | 175 000 | 225 000 | 495 000 |
-| Flagship | 30 000 | 155 000 | 185 000 | 185 000 | 235 000 | 605 000 |
-| Flagship Sport | 30 000 | 155 000 | 185 000 | 185 000 | 235 000 | 605 000*** |
-| Geely Atlas Pro | Comfort 2WD |
-| Luxury 2WD | 30 000 | 80 000 | 200 000 | 200 000 | 250 000 | 560 000 |
-| Luxury 4WD |
-| Flagship 4WD |
-| Flagship 4WD | 30 000 | 150 000 | 220 000 | 220 000 | 270 000 | 670 000**** |
-| Geely Tugella |
-| (MY 23) | Все комплектации | 30 000 | 100 000 | 290 000 | 160 000 | 330 000 | 620 000***** |
-| Geely Monjaro | Все комплектации | 30 000 | 150 000 | 230 000 | 227 000 | 280 000 | 687 000****** |
+</div>
 
  
 
