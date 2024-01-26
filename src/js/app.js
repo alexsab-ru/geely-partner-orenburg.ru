@@ -4,13 +4,12 @@ import './modules/modals';
 
 import { connectForms, cookiecook } from '@alexsab-ru/scripts';
 cookiecook();
-connectForms('https://alexsab.ru/lead/geely/partner/', function() {
-});
+connectForms('https://alexsab.ru/lead/geely/partner/');
 
 import GLightbox from 'glightbox';
 import 'glightbox/dist/css/glightbox.min.css';
 const lightbox = GLightbox({
-    moreLength: 0,
+	moreLength: 0,
 });
 
 grecaptcha.ready(function() {
