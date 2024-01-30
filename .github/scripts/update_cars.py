@@ -10,7 +10,7 @@ import xml.etree.ElementTree as ET
 
 def process_unique_id(unique_id, replace = "-"):
     # Удаление специальных символов
-    processed_id = re.sub(r'[.,()"\']', '', unique_id)
+    processed_id = re.sub(r'[\/\\?%*:|"<>.,;\'\[\]()&]', '', unique_id)
 
     # Удаление пробелов и приведение к нижнему регистру
     processed_id = processed_id.replace(" ", replace).lower()
