@@ -47,6 +47,9 @@ def create_file(car, filename, unique_id):
 
     thumb = f"/img/models/{model_mapping.get(model, '../404.jpg?').get('folder')}/colors/{model_mapping.get(model, '../404.jpg?').get('color').get(color, '../../../404.jpg?')}.webp"
 
+    global error_404_found
+    if "404" in thumb:
+        error_404_found = True
 
     # Forming the YAML frontmatter
     content = "---\n"
@@ -140,6 +143,9 @@ def update_yaml(car, filename):
 
     return filename
 
+
+# Переменная для отслеживания наличия 404 ошибки
+error_404_found = False
 
 filename = 'cars.xml'
 
@@ -387,3 +393,14 @@ for existing_file in os.listdir(directory):
     filepath = os.path.join(directory, existing_file)
     if filepath not in existing_files:
         os.remove(filepath)
+
+if error_404_found:
+    with open('output.txt', 'w') as file:
+        file.write("error 404 found")
+else:
+    with open('output.txt', 'w') as file:
+        file.write("no error")
+
+if error_404_found:
+    print("error 404 found")
+
