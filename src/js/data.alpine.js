@@ -3,8 +3,6 @@ import { BASE_URL, SITE_URL } from '../const';
 
 import { declOfNums } from "@/js/utils/numbers.format";
 
-import { declOfNums } from "@/js/utils/numbers.format";
-
 document.addEventListener('alpine:init', () => {
 	Alpine.data('header', () => ({
 		open: false,
