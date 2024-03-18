@@ -1,15 +1,25 @@
 import { phoneFormat } from '@/js/utils/numbers.format';
 
-export const BASE_URL = 'https://alexsab-ru.github.io/astro-json/'; // Адрес для JSON
-export const SITE_URL = 'geely-partner.ru'; // URL сайта по умолчанию
-export const SITE_NAME = 'Джили Партнер'; // Название сайта по умолчанию
-export const LEGAL_ENTITY = 'ООО "ПАРТНЕР"'; // Юр лицо
-export const LEGAL_INN = '5609202210'; // ИНН
-export const LEGAL_CITY = 'г. Оренбург'; // Город
-export const LEGAL_CITY_WHERE = 'Оренбурге'; // где? в Городе
-export const SITE_DESCR = 'Официальный дилерский центр Geely в Оренбурге'; // Описание сайта по умолчанию
-export const TELEGRAM = 'geely_partner_orenburg'; // Имя пользователя в Телегам
-export const PHONE = '+7 (3532) 40-53-53'; // Телефон по умолчанию
+// Адрес для JSON
+export const BASE_URL = 'https://alexsab-ru.github.io/astro-json/';
+// URL сайта по умолчанию
+export const SITE_URL = 'geely-partner.ru';
+// Название сайта по умолчанию
+export const SITE_NAME = 'Джили Партнер';
+// Юр лицо
+export const LEGAL_ENTITY = 'ООО "ПАРТНЕР"';
+// ИНН
+export const LEGAL_INN = '5609202210';
+// Город
+export const LEGAL_CITY = 'г. Оренбург';
+// где? в Городе
+export const LEGAL_CITY_WHERE = 'Оренбурге';
+// Описание сайта по умолчанию
+export const SITE_DESCR = 'Официальный дилерский центр Geely в Оренбурге';
+// Имя пользователя в Телегам
+export const TELEGRAM = 'geely_partner_orenburg';
+// Телефон по умолчанию
+export const PHONE = '+7 (3532) 40-53-53';
 
 export const BRAND = 'Geely';
 
