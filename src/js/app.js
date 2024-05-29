@@ -5,7 +5,7 @@ import './modules/latest.posts';
 
 import { connectForms, cookiecook } from '@alexsab-ru/scripts';
 cookiecook();
-connectForms('https://alexsab.ru/lead/test/');
+connectForms('https://alexsab.ru/lead/geely/partner/', {confirmModalText: 'Вы уже оставляли заявку сегодня, с Вами обязательно свяжутся в ближайшее время!'});
 
 import GLightbox from 'glightbox';
 import 'glightbox/dist/css/glightbox.min.css';
