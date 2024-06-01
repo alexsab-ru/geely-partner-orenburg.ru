@@ -28,7 +28,7 @@ def create_file(car, filename, unique_id):
         print(f"VIN: {vin}. Не хватает модели: {model} или цвета: {color}")
         print("")
         with open('output.txt', 'a') as file:
-            file.write(f"Error: Model '{model}' or Color '{color}' not found<br>")
+            file.write(f"Error: Model '{model}' or Color '{color}' not found<br/>\n")
         # Если 'model' или 'color' не найдены, используем путь к изображению ошибки 404
         thumb = "/img/404.jpg"
         global error_404_found
