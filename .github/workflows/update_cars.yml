@@ -100,10 +100,10 @@ jobs:
 
   notify_telegram:
     needs: build
-    if: needs.build.outputs.script_output == 'error 404 found'
+    if: ${{ needs.build.outputs.script_output != '' }}
     uses: ./.github/workflows/github-telegram.yml
     with:
-      additional-text: 'No model or color found. Check please'
+      additional-text: "<pre>${{ needs.build.outputs.script_output }}</pre>"
     secrets:
       TELEGRAM_TO: ${{ secrets.TELEGRAM_TO }}
       TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
