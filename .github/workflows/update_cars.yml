@@ -52,8 +52,6 @@ jobs:
       id: set_output
       run: |
         if [ -f output.txt ]; then
-          echo "script_output=$(<output.txt)"
-          echo "script_output=$(<output.txt)" >> $GITHUB_ENV
           echo "script_output=$(<output.txt)" >> $GITHUB_OUTPUT
         fi
 
