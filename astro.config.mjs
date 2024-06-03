@@ -27,9 +27,9 @@ export default defineConfig({
 		icon(),
 	],
 	redirects: {
-		'/special-offers/leto-raduet-vygodnym-predlozheniem/': {
+		'/special-offers/vesna-raduet-vygodnym-predlozheniem/': {
 			status: 301,
-			destination:'/special-offers/vesna-raduet-vygodnym-predlozheniem/'
+			destination:'/special-offers/leto-raduet-vygodnym-predlozheniem/'
 		}
 	},
 	site: 'https://geely-partner.ru',
