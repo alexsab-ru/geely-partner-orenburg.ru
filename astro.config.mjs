@@ -32,6 +32,6 @@ export default defineConfig({
 			destination:'/special-offers/leto-raduet-vygodnym-predlozheniem/'
 		}
 	},
-	site: 'https://geely-partner.ru',
-	base: '/'
+	site: 'https://alexsab-ru.github.io',
+	base: '/geely-partner.ru/'
 });
