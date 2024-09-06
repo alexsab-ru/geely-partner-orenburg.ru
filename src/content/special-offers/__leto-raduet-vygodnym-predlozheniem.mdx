@@ -8,6 +8,8 @@ breadcrumb: Лето радует выгодным предложением
 h1: Лето радует выгодным предложением
 ---
 import Button from '@/components/Button/Button.astro';
+import { SITE_NAME, PHONE } from '@/const';
+import { phoneFormat } from '@/js/utils/numbers.format';
 
 Только в Geely Партнер Оренбург вы можете приобрести новый <b>Belgee X50</b> по цене <b>от 1 980 990 рублей</b>.<sup>*</sup><br/>
 <br/>
@@ -19,7 +21,7 @@ Geely Партнер Оренбург – ваш идеальный выбор!<
 
 Ждем Вас по адресу: Загородное шоссе 13/1<br/>
 
-Подробности в отделе продаж по телефону: <a href="tel:+73532405353">+7 (3532) 40-53-53</a>
+Подробности в отделе продаж по телефону: <a href={`tel:${phoneFormat(PHONE)}`}>{PHONE}</a>
 
 <div class="flex justify-center mt-10 mb-5">
     <Button

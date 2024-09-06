@@ -8,6 +8,8 @@ breadcrumb: Программа "Выгодное Техническое Обсл
 h1: Программа "Выгодное Техническое Обслуживание"
 ---
 import Button from '@/components/Button/Button.astro';
+import { SITE_NAME, PHONE } from '@/const';
+import { phoneFormat } from '@/js/utils/numbers.format';
 // import url from Astro;
 
 <picture>
@@ -29,7 +31,7 @@ import Button from '@/components/Button/Button.astro';
 
 Одновременно с ТО скидка предоставляется на все сопутствующие работы и запчасти.
 
-Подробности предложения уточняйте у мастера-консультанта по телефону <a href="tel:+73532405353">+7 (3532) 40-53-53</a>
+Подробности предложения уточняйте у мастера-консультанта по телефону <a href={`tel:${phoneFormat(PHONE)}`}>{PHONE}</a>
 
 <div class="flex justify-center mt-10 mb-5">
     <Button 
