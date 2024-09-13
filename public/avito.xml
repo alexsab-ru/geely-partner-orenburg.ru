@@ -431,91 +431,6 @@
 			</multiposting>
 		<url>https://geelyorenburg.ru/cars/geely-atlas-pro-15-amt-177-лс-4wd-flagship-plus-черный-2024/</url></car>
 		<car>
-			<unique_id>06ffd161cb58ccaa8bda067de9505ca3</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Prestige</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>10</run>
-			<year>2024</year>
-			<price>2515990</price>
-			<credit_discount>135000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>185000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z4RB904270</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/8aab5ad3e160366056e055380a9d86a1.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/59f3bbf175efe90451841ca0c896f0ff.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/9f0a725268489462bd94241dd248998a.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/6acda799c3d15c6d7b6b54d47b1fdf92.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/5fdc7e63a1415a68a510073899194a5d.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/e7acd47451ebf51cb40959c25fccb465.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/22f5a9916a89488386ab877044c7098a.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/402d9f3cbfcd383554524808de127956.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/a6429da6e65740fa64734fb4f69807d3.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/a854ddcacde7cd76089fb6b6787cc080.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/2a6f6696739724b1bd74a06aba7e13e5.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/10ae448a1d53a5b3bda0ffea0034cfce.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/beec1becc7368c370645ed02488a03e2.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/87b4682aad4fe6f5c67f445832ca043b.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-x50-15-amt-150-лс-prestige-красный-2024/</url></car>
-		<car>
-			<unique_id>5859001c1f26b3c0d98bf838cc6a1cdd</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Prestige</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>12</run>
-			<year>2024</year>
-			<price>2515990</price>
-			<credit_discount>135000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>185000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z5RB913169</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/f42b37e5da63eaa100614fdb8fc6a692.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/d1546345c19cada75ce228e7933780e6.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/6c2f70c1989bcfcc81b8be5cdd5c9a1a.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/aa23cc7d34f8f5895334e34f151f4bf9.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/2dbf7603bcdf1a36001d30ca5450f105.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/b6498db6ebc661e1b73ddfa6a59a421d.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/375aa6812ce717d82f4470488092ff93.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/d6197094a7a754eec428cbbc196a9d19.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/85c2e060f2d4305550a21ecc6196b899.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/e0d03dc90dc37257af5f635e001e27aa.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/120c5ee4723832549692c6aa3fa2ff38.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/09eb6930bd07e1e0fa9f8a021ac0a5a4.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/0fbf3fd798791de7c8c844b8b9feb18a.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-x50-15-amt-150-лс-prestige-красный-2024/</url></car>
-		<car>
 			<unique_id>08cf194a6c2005c19188443662f7cd4c</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Coolray, I Рестайлинг</folder_id>
@@ -543,6 +458,34 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://geelyorenburg.ru/cars/geely-coolray-i-рестайлинг-15-amt-147-лс-exclusive-серый-2023/</url></car>
+		<car>
+			<unique_id>f8571ed5e5f5e6859faf7b7faca3cab0</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Coolray, I Рестайлинг</folder_id>
+			<modification_id>1.5 AMT (147 л.с.)</modification_id>
+			<complectation_name>Exclusive</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>5</run>
+			<year>2024</year>
+			<price>2979990</price>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>300000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37622Z2RX532364</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geelyorenburg.ru/cars/geely-coolray-i-рестайлинг-15-amt-147-лс-exclusive-серый-2024/</url></car>
 		<car>
 			<unique_id>b9894a6c18cc4aee9cd62aac25d5f587</unique_id>
 			<mark_id>Geely</mark_id>
@@ -589,34 +532,6 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://geelyorenburg.ru/cars/geely-coolray-i-рестайлинг-15-amt-147-лс-exclusive-серый-2023/</url></car>
-		<car>
-			<unique_id>f8571ed5e5f5e6859faf7b7faca3cab0</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Coolray, I Рестайлинг</folder_id>
-			<modification_id>1.5 AMT (147 л.с.)</modification_id>
-			<complectation_name>Exclusive</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>5</run>
-			<year>2024</year>
-			<price>2979990</price>
-			<credit_discount>100000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>300000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37622Z2RX532364</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-coolray-i-рестайлинг-15-amt-147-лс-exclusive-серый-2024/</url></car>
 		<car>
 			<unique_id>6337769cfcdc05843c7388f5e46ad2bf</unique_id>
 			<mark_id>Geely</mark_id>
@@ -733,18 +648,18 @@
 			</multiposting>
 		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-mt-122-лс-comfort-белый-2023/</url></car>
 		<car>
-			<unique_id>bc9a94595a4f4c38dfc8ad27987eb690</unique_id>
+			<unique_id>d2cc6017b08e0b4e991fd604f30cf76e</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Emgrand, II</folder_id>
 			<modification_id>1.5 AT (122 л.с.)</modification_id>
 			<complectation_name>Flagship</complectation_name>
 			<body_type>Седан</body_type>
 			<wheel>левый</wheel>
-			<color>Оранжевый</color>
+			<color>БЕЛЫЙ</color>
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>37</run>
+			<run>8</run>
 			<year>2023</year>
 			<price>2539990</price>
 			<credit_discount>200000</credit_discount>
@@ -753,23 +668,22 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>350000</max_discount>
 			<currency>RUR</currency>
-			<vin>LB3F31031PG020010</vin>
+			<vin>LB3F31036PG028510</vin>
 			<description />
 			<images>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ff6d7bf921108379389f8acc9ced16b5.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/15f7164d87831a8b29838132ba9b5a87.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/14efb389722d324c413428bc7a466668.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/86cfc2d97ad84757e31e6e5e2cd341f8.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/71f23a4b8befedc73c365c41b3e3b9e0.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/84de38cd295a04912c528e87e3550bda.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/088eb8b42991b8f6d1c509f330bdf38c.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ecda475b9683a58625fc2dc9adf8ec62.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/1b31ab9565112dc1fc839e0189862c99.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036PG028510/9fec671b8b3ddcfb254a0fe4648587c7.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036PG028510/fff3a144a593afdc96caf4f2fb157403.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036PG028510/17171512106389ef6e09e2d8b6a74259.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036PG028510/44f521f44637c8981bc8863086be2519.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036PG028510/e1c78bd78f51a3ce82de75661ef10bbc.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036PG028510/cbf1bd746249aa13dd0ff295d74a1e17.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036PG028510/2e1acbd3d2bd1851d61d9c3f236d138b.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036PG028510/e41295e1208b22b3b0455e55e5259b5c.jpeg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-оранжевый-2023/</url></car>
+		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-белый-2023/</url></car>
 		<car>
 			<unique_id>4c3d04cc7dcafccdd2b05cbff9236d42</unique_id>
 			<mark_id>Geely</mark_id>
@@ -827,18 +741,18 @@
 			</multiposting>
 		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-белый-2023/</url></car>
 		<car>
-			<unique_id>d2cc6017b08e0b4e991fd604f30cf76e</unique_id>
+			<unique_id>bc9a94595a4f4c38dfc8ad27987eb690</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Emgrand, II</folder_id>
 			<modification_id>1.5 AT (122 л.с.)</modification_id>
 			<complectation_name>Flagship</complectation_name>
 			<body_type>Седан</body_type>
 			<wheel>левый</wheel>
-			<color>БЕЛЫЙ</color>
+			<color>Оранжевый</color>
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>8</run>
+			<run>37</run>
 			<year>2023</year>
 			<price>2539990</price>
 			<credit_discount>200000</credit_discount>
@@ -847,22 +761,23 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>350000</max_discount>
 			<currency>RUR</currency>
-			<vin>LB3F31036PG028510</vin>
+			<vin>LB3F31031PG020010</vin>
 			<description />
 			<images>
-				<image>https://photo.toyotasever.ru/LB3F31036PG028510/9fec671b8b3ddcfb254a0fe4648587c7.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31036PG028510/fff3a144a593afdc96caf4f2fb157403.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31036PG028510/17171512106389ef6e09e2d8b6a74259.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31036PG028510/44f521f44637c8981bc8863086be2519.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31036PG028510/e1c78bd78f51a3ce82de75661ef10bbc.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31036PG028510/cbf1bd746249aa13dd0ff295d74a1e17.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31036PG028510/2e1acbd3d2bd1851d61d9c3f236d138b.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31036PG028510/e41295e1208b22b3b0455e55e5259b5c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ff6d7bf921108379389f8acc9ced16b5.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/15f7164d87831a8b29838132ba9b5a87.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/14efb389722d324c413428bc7a466668.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/86cfc2d97ad84757e31e6e5e2cd341f8.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/71f23a4b8befedc73c365c41b3e3b9e0.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/84de38cd295a04912c528e87e3550bda.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/088eb8b42991b8f6d1c509f330bdf38c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ecda475b9683a58625fc2dc9adf8ec62.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/1b31ab9565112dc1fc839e0189862c99.jpeg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-белый-2023/</url></car>
+		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-оранжевый-2023/</url></car>
 		<car>
 			<unique_id>fea0c71cd38f9a1f1b23ce60fa7795c7</unique_id>
 			<mark_id>Geely</mark_id>
@@ -3261,431 +3176,6 @@
 			</multiposting>
 		<url>https://geelyorenburg.ru/cars/geely-atlas-pro-15-amt-177-лс-4wd-flagship-plus-черный-2024/</url></car>
 		<car>
-			<unique_id>06ffd161cb58ccaa8bda067de9505ca3</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Prestige</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>да</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>10</run>
-			<year>2024</year>
-			<price>2515990</price>
-			<credit_discount>135000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>185000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z4RB994270</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/8aab5ad3e160366056e055380a9d86a1.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/59f3bbf175efe90451841ca0c896f0ff.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/9f0a725268489462bd94241dd248998a.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/6acda799c3d15c6d7b6b54d47b1fdf92.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/5fdc7e63a1415a68a510073899194a5d.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/e7acd47451ebf51cb40959c25fccb465.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/22f5a9916a89488386ab877044c7098a.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/402d9f3cbfcd383554524808de127956.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/a6429da6e65740fa64734fb4f69807d3.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/a854ddcacde7cd76089fb6b6787cc080.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/2a6f6696739724b1bd74a06aba7e13e5.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/10ae448a1d53a5b3bda0ffea0034cfce.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/beec1becc7368c370645ed02488a03e2.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/87b4682aad4fe6f5c67f445832ca043b.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-x50-15-amt-150-лс-prestige-красный-2024/</url></car>
-		<car>
-			<unique_id>06ffd161cb58ccaa8bda067de9505ca3</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Prestige</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>да</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>10</run>
-			<year>2024</year>
-			<price>2515990</price>
-			<credit_discount>135000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>185000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z4RB994269</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/8aab5ad3e160366056e055380a9d86a1.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/59f3bbf175efe90451841ca0c896f0ff.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/9f0a725268489462bd94241dd248998a.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/6acda799c3d15c6d7b6b54d47b1fdf92.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/5fdc7e63a1415a68a510073899194a5d.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/e7acd47451ebf51cb40959c25fccb465.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/22f5a9916a89488386ab877044c7098a.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/402d9f3cbfcd383554524808de127956.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/a6429da6e65740fa64734fb4f69807d3.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/a854ddcacde7cd76089fb6b6787cc080.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/2a6f6696739724b1bd74a06aba7e13e5.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/10ae448a1d53a5b3bda0ffea0034cfce.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/beec1becc7368c370645ed02488a03e2.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/87b4682aad4fe6f5c67f445832ca043b.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-x50-15-amt-150-лс-prestige-красный-2024/</url></car>
-		<car>
-			<unique_id>06ffd161cb58ccaa8bda067de9505ca3</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Prestige</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>да</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>10</run>
-			<year>2024</year>
-			<price>2515990</price>
-			<credit_discount>135000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>185000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z4RB994268</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/8aab5ad3e160366056e055380a9d86a1.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/59f3bbf175efe90451841ca0c896f0ff.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/9f0a725268489462bd94241dd248998a.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/6acda799c3d15c6d7b6b54d47b1fdf92.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/5fdc7e63a1415a68a510073899194a5d.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/e7acd47451ebf51cb40959c25fccb465.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/22f5a9916a89488386ab877044c7098a.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/402d9f3cbfcd383554524808de127956.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/a6429da6e65740fa64734fb4f69807d3.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/a854ddcacde7cd76089fb6b6787cc080.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/2a6f6696739724b1bd74a06aba7e13e5.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/10ae448a1d53a5b3bda0ffea0034cfce.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/beec1becc7368c370645ed02488a03e2.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/87b4682aad4fe6f5c67f445832ca043b.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-x50-15-amt-150-лс-prestige-красный-2024/</url></car>
-		<car>
-			<unique_id>06ffd161cb58ccaa8bda067de9505ca3</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Prestige</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>да</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>10</run>
-			<year>2024</year>
-			<price>2515990</price>
-			<credit_discount>135000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>185000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z4RB994267</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/8aab5ad3e160366056e055380a9d86a1.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/59f3bbf175efe90451841ca0c896f0ff.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/9f0a725268489462bd94241dd248998a.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/6acda799c3d15c6d7b6b54d47b1fdf92.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/5fdc7e63a1415a68a510073899194a5d.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/e7acd47451ebf51cb40959c25fccb465.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/22f5a9916a89488386ab877044c7098a.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/402d9f3cbfcd383554524808de127956.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/a6429da6e65740fa64734fb4f69807d3.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/a854ddcacde7cd76089fb6b6787cc080.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/2a6f6696739724b1bd74a06aba7e13e5.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/10ae448a1d53a5b3bda0ffea0034cfce.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/beec1becc7368c370645ed02488a03e2.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/87b4682aad4fe6f5c67f445832ca043b.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-x50-15-amt-150-лс-prestige-красный-2024/</url></car>
-		<car>
-			<unique_id>06ffd161cb58ccaa8bda067de9505ca3</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Prestige</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>да</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>10</run>
-			<year>2024</year>
-			<price>2515990</price>
-			<credit_discount>135000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>185000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z4RB994266</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/8aab5ad3e160366056e055380a9d86a1.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/59f3bbf175efe90451841ca0c896f0ff.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/9f0a725268489462bd94241dd248998a.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/6acda799c3d15c6d7b6b54d47b1fdf92.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/5fdc7e63a1415a68a510073899194a5d.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/e7acd47451ebf51cb40959c25fccb465.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/22f5a9916a89488386ab877044c7098a.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/402d9f3cbfcd383554524808de127956.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/a6429da6e65740fa64734fb4f69807d3.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/a854ddcacde7cd76089fb6b6787cc080.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/2a6f6696739724b1bd74a06aba7e13e5.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/10ae448a1d53a5b3bda0ffea0034cfce.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/beec1becc7368c370645ed02488a03e2.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB904270/87b4682aad4fe6f5c67f445832ca043b.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-x50-15-amt-150-лс-prestige-красный-2024/</url></car>
-		<car>
-			<unique_id>5859001c1f26b3c0d98bf838cc6a1cdd</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Prestige</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>да</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>12</run>
-			<year>2024</year>
-			<price>2515990</price>
-			<credit_discount>135000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>185000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z5RB993169</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/f42b37e5da63eaa100614fdb8fc6a692.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/d1546345c19cada75ce228e7933780e6.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/6c2f70c1989bcfcc81b8be5cdd5c9a1a.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/aa23cc7d34f8f5895334e34f151f4bf9.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/2dbf7603bcdf1a36001d30ca5450f105.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/b6498db6ebc661e1b73ddfa6a59a421d.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/375aa6812ce717d82f4470488092ff93.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/d6197094a7a754eec428cbbc196a9d19.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/85c2e060f2d4305550a21ecc6196b899.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/e0d03dc90dc37257af5f635e001e27aa.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/120c5ee4723832549692c6aa3fa2ff38.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/09eb6930bd07e1e0fa9f8a021ac0a5a4.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/0fbf3fd798791de7c8c844b8b9feb18a.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-x50-15-amt-150-лс-prestige-красный-2024/</url></car>
-		<car>
-			<unique_id>5859001c1f26b3c0d98bf838cc6a1cdd</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Prestige</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>да</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>12</run>
-			<year>2024</year>
-			<price>2515990</price>
-			<credit_discount>135000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>185000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z5RB993168</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/f42b37e5da63eaa100614fdb8fc6a692.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/d1546345c19cada75ce228e7933780e6.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/6c2f70c1989bcfcc81b8be5cdd5c9a1a.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/aa23cc7d34f8f5895334e34f151f4bf9.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/2dbf7603bcdf1a36001d30ca5450f105.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/b6498db6ebc661e1b73ddfa6a59a421d.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/375aa6812ce717d82f4470488092ff93.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/d6197094a7a754eec428cbbc196a9d19.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/85c2e060f2d4305550a21ecc6196b899.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/e0d03dc90dc37257af5f635e001e27aa.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/120c5ee4723832549692c6aa3fa2ff38.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/09eb6930bd07e1e0fa9f8a021ac0a5a4.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/0fbf3fd798791de7c8c844b8b9feb18a.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-x50-15-amt-150-лс-prestige-красный-2024/</url></car>
-		<car>
-			<unique_id>5859001c1f26b3c0d98bf838cc6a1cdd</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Prestige</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>да</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>12</run>
-			<year>2024</year>
-			<price>2515990</price>
-			<credit_discount>135000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>185000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z5RB993167</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/f42b37e5da63eaa100614fdb8fc6a692.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/d1546345c19cada75ce228e7933780e6.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/6c2f70c1989bcfcc81b8be5cdd5c9a1a.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/aa23cc7d34f8f5895334e34f151f4bf9.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/2dbf7603bcdf1a36001d30ca5450f105.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/b6498db6ebc661e1b73ddfa6a59a421d.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/375aa6812ce717d82f4470488092ff93.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/d6197094a7a754eec428cbbc196a9d19.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/85c2e060f2d4305550a21ecc6196b899.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/e0d03dc90dc37257af5f635e001e27aa.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/120c5ee4723832549692c6aa3fa2ff38.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/09eb6930bd07e1e0fa9f8a021ac0a5a4.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/0fbf3fd798791de7c8c844b8b9feb18a.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-x50-15-amt-150-лс-prestige-красный-2024/</url></car>
-		<car>
-			<unique_id>5859001c1f26b3c0d98bf838cc6a1cdd</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Prestige</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>да</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>12</run>
-			<year>2024</year>
-			<price>2515990</price>
-			<credit_discount>135000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>185000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z5RB993166</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/f42b37e5da63eaa100614fdb8fc6a692.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/d1546345c19cada75ce228e7933780e6.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/6c2f70c1989bcfcc81b8be5cdd5c9a1a.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/aa23cc7d34f8f5895334e34f151f4bf9.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/2dbf7603bcdf1a36001d30ca5450f105.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/b6498db6ebc661e1b73ddfa6a59a421d.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/375aa6812ce717d82f4470488092ff93.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/d6197094a7a754eec428cbbc196a9d19.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/85c2e060f2d4305550a21ecc6196b899.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/e0d03dc90dc37257af5f635e001e27aa.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/120c5ee4723832549692c6aa3fa2ff38.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/09eb6930bd07e1e0fa9f8a021ac0a5a4.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/0fbf3fd798791de7c8c844b8b9feb18a.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-x50-15-amt-150-лс-prestige-красный-2024/</url></car>
-		<car>
-			<unique_id>5859001c1f26b3c0d98bf838cc6a1cdd</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Prestige</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>да</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>12</run>
-			<year>2024</year>
-			<price>2515990</price>
-			<credit_discount>135000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>185000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z5RB993165</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/f42b37e5da63eaa100614fdb8fc6a692.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/d1546345c19cada75ce228e7933780e6.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/6c2f70c1989bcfcc81b8be5cdd5c9a1a.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/aa23cc7d34f8f5895334e34f151f4bf9.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/2dbf7603bcdf1a36001d30ca5450f105.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/b6498db6ebc661e1b73ddfa6a59a421d.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/375aa6812ce717d82f4470488092ff93.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/d6197094a7a754eec428cbbc196a9d19.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/85c2e060f2d4305550a21ecc6196b899.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/e0d03dc90dc37257af5f635e001e27aa.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/120c5ee4723832549692c6aa3fa2ff38.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/09eb6930bd07e1e0fa9f8a021ac0a5a4.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5RB913169/0fbf3fd798791de7c8c844b8b9feb18a.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-x50-15-amt-150-лс-prestige-красный-2024/</url></car>
-		<car>
 			<unique_id>08cf194a6c2005c19188443662f7cd4c</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Coolray, I Рестайлинг</folder_id>
@@ -3825,6 +3315,146 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://geelyorenburg.ru/cars/geely-coolray-i-рестайлинг-15-amt-147-лс-exclusive-серый-2023/</url></car>
+		<car>
+			<unique_id>f8571ed5e5f5e6859faf7b7faca3cab0</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Coolray, I Рестайлинг</folder_id>
+			<modification_id>1.5 AMT (147 л.с.)</modification_id>
+			<complectation_name>Exclusive</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>да</metallic>
+			<availability>в пути</availability>
+			<custom>растаможен</custom>
+			<run>5</run>
+			<year>2024</year>
+			<price>2979990</price>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>300000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37622Z2RX592364</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geelyorenburg.ru/cars/geely-coolray-i-рестайлинг-15-amt-147-лс-exclusive-серый-2024/</url></car>
+		<car>
+			<unique_id>f8571ed5e5f5e6859faf7b7faca3cab0</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Coolray, I Рестайлинг</folder_id>
+			<modification_id>1.5 AMT (147 л.с.)</modification_id>
+			<complectation_name>Exclusive</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>да</metallic>
+			<availability>в пути</availability>
+			<custom>растаможен</custom>
+			<run>5</run>
+			<year>2024</year>
+			<price>2979990</price>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>300000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37622Z2RX592363</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geelyorenburg.ru/cars/geely-coolray-i-рестайлинг-15-amt-147-лс-exclusive-серый-2024/</url></car>
+		<car>
+			<unique_id>f8571ed5e5f5e6859faf7b7faca3cab0</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Coolray, I Рестайлинг</folder_id>
+			<modification_id>1.5 AMT (147 л.с.)</modification_id>
+			<complectation_name>Exclusive</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>да</metallic>
+			<availability>в пути</availability>
+			<custom>растаможен</custom>
+			<run>5</run>
+			<year>2024</year>
+			<price>2979990</price>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>300000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37622Z2RX592362</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geelyorenburg.ru/cars/geely-coolray-i-рестайлинг-15-amt-147-лс-exclusive-серый-2024/</url></car>
+		<car>
+			<unique_id>f8571ed5e5f5e6859faf7b7faca3cab0</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Coolray, I Рестайлинг</folder_id>
+			<modification_id>1.5 AMT (147 л.с.)</modification_id>
+			<complectation_name>Exclusive</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>да</metallic>
+			<availability>в пути</availability>
+			<custom>растаможен</custom>
+			<run>5</run>
+			<year>2024</year>
+			<price>2979990</price>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>300000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37622Z2RX592361</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geelyorenburg.ru/cars/geely-coolray-i-рестайлинг-15-amt-147-лс-exclusive-серый-2024/</url></car>
+		<car>
+			<unique_id>f8571ed5e5f5e6859faf7b7faca3cab0</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Coolray, I Рестайлинг</folder_id>
+			<modification_id>1.5 AMT (147 л.с.)</modification_id>
+			<complectation_name>Exclusive</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>да</metallic>
+			<availability>в пути</availability>
+			<custom>растаможен</custom>
+			<run>5</run>
+			<year>2024</year>
+			<price>2979990</price>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>300000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37622Z2RX592360</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geelyorenburg.ru/cars/geely-coolray-i-рестайлинг-15-amt-147-лс-exclusive-серый-2024/</url></car>
 		<car>
 			<unique_id>b9894a6c18cc4aee9cd62aac25d5f587</unique_id>
 			<mark_id>Geely</mark_id>
@@ -4055,146 +3685,6 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://geelyorenburg.ru/cars/geely-coolray-i-рестайлинг-15-amt-147-лс-exclusive-серый-2023/</url></car>
-		<car>
-			<unique_id>f8571ed5e5f5e6859faf7b7faca3cab0</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Coolray, I Рестайлинг</folder_id>
-			<modification_id>1.5 AMT (147 л.с.)</modification_id>
-			<complectation_name>Exclusive</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>5</run>
-			<year>2024</year>
-			<price>2979990</price>
-			<credit_discount>100000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>300000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37622Z2RX592364</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-coolray-i-рестайлинг-15-amt-147-лс-exclusive-серый-2024/</url></car>
-		<car>
-			<unique_id>f8571ed5e5f5e6859faf7b7faca3cab0</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Coolray, I Рестайлинг</folder_id>
-			<modification_id>1.5 AMT (147 л.с.)</modification_id>
-			<complectation_name>Exclusive</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>5</run>
-			<year>2024</year>
-			<price>2979990</price>
-			<credit_discount>100000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>300000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37622Z2RX592363</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-coolray-i-рестайлинг-15-amt-147-лс-exclusive-серый-2024/</url></car>
-		<car>
-			<unique_id>f8571ed5e5f5e6859faf7b7faca3cab0</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Coolray, I Рестайлинг</folder_id>
-			<modification_id>1.5 AMT (147 л.с.)</modification_id>
-			<complectation_name>Exclusive</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>5</run>
-			<year>2024</year>
-			<price>2979990</price>
-			<credit_discount>100000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>300000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37622Z2RX592362</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-coolray-i-рестайлинг-15-amt-147-лс-exclusive-серый-2024/</url></car>
-		<car>
-			<unique_id>f8571ed5e5f5e6859faf7b7faca3cab0</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Coolray, I Рестайлинг</folder_id>
-			<modification_id>1.5 AMT (147 л.с.)</modification_id>
-			<complectation_name>Exclusive</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>5</run>
-			<year>2024</year>
-			<price>2979990</price>
-			<credit_discount>100000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>300000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37622Z2RX592361</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-coolray-i-рестайлинг-15-amt-147-лс-exclusive-серый-2024/</url></car>
-		<car>
-			<unique_id>f8571ed5e5f5e6859faf7b7faca3cab0</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Coolray, I Рестайлинг</folder_id>
-			<modification_id>1.5 AMT (147 л.с.)</modification_id>
-			<complectation_name>Exclusive</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>5</run>
-			<year>2024</year>
-			<price>2979990</price>
-			<credit_discount>100000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>300000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37622Z2RX592360</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-coolray-i-рестайлинг-15-amt-147-лс-exclusive-серый-2024/</url></car>
 		<car>
 			<unique_id>6337769cfcdc05843c7388f5e46ad2bf</unique_id>
 			<mark_id>Geely</mark_id>
@@ -4771,18 +4261,18 @@
 			</multiposting>
 		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-mt-122-лс-comfort-белый-2023/</url></car>
 		<car>
-			<unique_id>bc9a94595a4f4c38dfc8ad27987eb690</unique_id>
+			<unique_id>d2cc6017b08e0b4e991fd604f30cf76e</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Emgrand, II</folder_id>
 			<modification_id>1.5 AT (122 л.с.)</modification_id>
 			<complectation_name>Flagship</complectation_name>
 			<body_type>Седан</body_type>
 			<wheel>левый</wheel>
-			<color>Оранжевый</color>
+			<color>БЕЛЫЙ</color>
 			<metallic>нет</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>37</run>
+			<run>8</run>
 			<year>2023</year>
 			<price>2539990</price>
 			<credit_discount>200000</credit_discount>
@@ -4791,36 +4281,35 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>350000</max_discount>
 			<currency>RUR</currency>
-			<vin>LB3F31031PG090010</vin>
+			<vin>LB3F31036PG098510</vin>
 			<description />
 			<images>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ff6d7bf921108379389f8acc9ced16b5.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/15f7164d87831a8b29838132ba9b5a87.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/14efb389722d324c413428bc7a466668.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/86cfc2d97ad84757e31e6e5e2cd341f8.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/71f23a4b8befedc73c365c41b3e3b9e0.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/84de38cd295a04912c528e87e3550bda.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/088eb8b42991b8f6d1c509f330bdf38c.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ecda475b9683a58625fc2dc9adf8ec62.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/1b31ab9565112dc1fc839e0189862c99.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036PG028510/9fec671b8b3ddcfb254a0fe4648587c7.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036PG028510/fff3a144a593afdc96caf4f2fb157403.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036PG028510/17171512106389ef6e09e2d8b6a74259.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036PG028510/44f521f44637c8981bc8863086be2519.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036PG028510/e1c78bd78f51a3ce82de75661ef10bbc.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036PG028510/cbf1bd746249aa13dd0ff295d74a1e17.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036PG028510/2e1acbd3d2bd1851d61d9c3f236d138b.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036PG028510/e41295e1208b22b3b0455e55e5259b5c.jpeg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-оранжевый-2023/</url></car>
+		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-белый-2023/</url></car>
 		<car>
-			<unique_id>bc9a94595a4f4c38dfc8ad27987eb690</unique_id>
+			<unique_id>d2cc6017b08e0b4e991fd604f30cf76e</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Emgrand, II</folder_id>
 			<modification_id>1.5 AT (122 л.с.)</modification_id>
 			<complectation_name>Flagship</complectation_name>
 			<body_type>Седан</body_type>
 			<wheel>левый</wheel>
-			<color>Оранжевый</color>
+			<color>БЕЛЫЙ</color>
 			<metallic>нет</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>37</run>
+			<run>8</run>
 			<year>2023</year>
 			<price>2539990</price>
 			<credit_discount>200000</credit_discount>
@@ -4829,36 +4318,35 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>350000</max_discount>
 			<currency>RUR</currency>
-			<vin>LB3F31031PG090009</vin>
+			<vin>LB3F31036PG098509</vin>
 			<description />
 			<images>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ff6d7bf921108379389f8acc9ced16b5.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/15f7164d87831a8b29838132ba9b5a87.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/14efb389722d324c413428bc7a466668.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/86cfc2d97ad84757e31e6e5e2cd341f8.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/71f23a4b8befedc73c365c41b3e3b9e0.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/84de38cd295a04912c528e87e3550bda.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/088eb8b42991b8f6d1c509f330bdf38c.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ecda475b9683a58625fc2dc9adf8ec62.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/1b31ab9565112dc1fc839e0189862c99.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036PG028510/9fec671b8b3ddcfb254a0fe4648587c7.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036PG028510/fff3a144a593afdc96caf4f2fb157403.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036PG028510/17171512106389ef6e09e2d8b6a74259.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036PG028510/44f521f44637c8981bc8863086be2519.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036PG028510/e1c78bd78f51a3ce82de75661ef10bbc.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036PG028510/cbf1bd746249aa13dd0ff295d74a1e17.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036PG028510/2e1acbd3d2bd1851d61d9c3f236d138b.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036PG028510/e41295e1208b22b3b0455e55e5259b5c.jpeg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-оранжевый-2023/</url></car>
+		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-белый-2023/</url></car>
 		<car>
-			<unique_id>bc9a94595a4f4c38dfc8ad27987eb690</unique_id>
+			<unique_id>d2cc6017b08e0b4e991fd604f30cf76e</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Emgrand, II</folder_id>
 			<modification_id>1.5 AT (122 л.с.)</modification_id>
 			<complectation_name>Flagship</complectation_name>
 			<body_type>Седан</body_type>
 			<wheel>левый</wheel>
-			<color>Оранжевый</color>
+			<color>БЕЛЫЙ</color>
 			<metallic>нет</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>37</run>
+			<run>8</run>
 			<year>2023</year>
 			<price>2539990</price>
 			<credit_discount>200000</credit_discount>
@@ -4867,36 +4355,35 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>350000</max_discount>
 			<currency>RUR</currency>
-			<vin>LB3F31031PG090008</vin>
+			<vin>LB3F31036PG098508</vin>
 			<description />
 			<images>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ff6d7bf921108379389f8acc9ced16b5.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/15f7164d87831a8b29838132ba9b5a87.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/14efb389722d324c413428bc7a466668.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/86cfc2d97ad84757e31e6e5e2cd341f8.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/71f23a4b8befedc73c365c41b3e3b9e0.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/84de38cd295a04912c528e87e3550bda.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/088eb8b42991b8f6d1c509f330bdf38c.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ecda475b9683a58625fc2dc9adf8ec62.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/1b31ab9565112dc1fc839e0189862c99.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036PG028510/9fec671b8b3ddcfb254a0fe4648587c7.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036PG028510/fff3a144a593afdc96caf4f2fb157403.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036PG028510/17171512106389ef6e09e2d8b6a74259.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036PG028510/44f521f44637c8981bc8863086be2519.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036PG028510/e1c78bd78f51a3ce82de75661ef10bbc.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036PG028510/cbf1bd746249aa13dd0ff295d74a1e17.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036PG028510/2e1acbd3d2bd1851d61d9c3f236d138b.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036PG028510/e41295e1208b22b3b0455e55e5259b5c.jpeg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-оранжевый-2023/</url></car>
+		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-белый-2023/</url></car>
 		<car>
-			<unique_id>bc9a94595a4f4c38dfc8ad27987eb690</unique_id>
+			<unique_id>d2cc6017b08e0b4e991fd604f30cf76e</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Emgrand, II</folder_id>
 			<modification_id>1.5 AT (122 л.с.)</modification_id>
 			<complectation_name>Flagship</complectation_name>
 			<body_type>Седан</body_type>
 			<wheel>левый</wheel>
-			<color>Оранжевый</color>
+			<color>БЕЛЫЙ</color>
 			<metallic>нет</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>37</run>
+			<run>8</run>
 			<year>2023</year>
 			<price>2539990</price>
 			<credit_discount>200000</credit_discount>
@@ -4905,36 +4392,35 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>350000</max_discount>
 			<currency>RUR</currency>
-			<vin>LB3F31031PG090007</vin>
+			<vin>LB3F31036PG098507</vin>
 			<description />
 			<images>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ff6d7bf921108379389f8acc9ced16b5.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/15f7164d87831a8b29838132ba9b5a87.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/14efb389722d324c413428bc7a466668.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/86cfc2d97ad84757e31e6e5e2cd341f8.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/71f23a4b8befedc73c365c41b3e3b9e0.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/84de38cd295a04912c528e87e3550bda.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/088eb8b42991b8f6d1c509f330bdf38c.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ecda475b9683a58625fc2dc9adf8ec62.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/1b31ab9565112dc1fc839e0189862c99.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036PG028510/9fec671b8b3ddcfb254a0fe4648587c7.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036PG028510/fff3a144a593afdc96caf4f2fb157403.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036PG028510/17171512106389ef6e09e2d8b6a74259.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036PG028510/44f521f44637c8981bc8863086be2519.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036PG028510/e1c78bd78f51a3ce82de75661ef10bbc.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036PG028510/cbf1bd746249aa13dd0ff295d74a1e17.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036PG028510/2e1acbd3d2bd1851d61d9c3f236d138b.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036PG028510/e41295e1208b22b3b0455e55e5259b5c.jpeg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-оранжевый-2023/</url></car>
+		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-белый-2023/</url></car>
 		<car>
-			<unique_id>bc9a94595a4f4c38dfc8ad27987eb690</unique_id>
+			<unique_id>d2cc6017b08e0b4e991fd604f30cf76e</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Emgrand, II</folder_id>
 			<modification_id>1.5 AT (122 л.с.)</modification_id>
 			<complectation_name>Flagship</complectation_name>
 			<body_type>Седан</body_type>
 			<wheel>левый</wheel>
-			<color>Оранжевый</color>
+			<color>БЕЛЫЙ</color>
 			<metallic>нет</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>37</run>
+			<run>8</run>
 			<year>2023</year>
 			<price>2539990</price>
 			<credit_discount>200000</credit_discount>
@@ -4943,23 +4429,22 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>350000</max_discount>
 			<currency>RUR</currency>
-			<vin>LB3F31031PG090006</vin>
+			<vin>LB3F31036PG098506</vin>
 			<description />
 			<images>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ff6d7bf921108379389f8acc9ced16b5.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/15f7164d87831a8b29838132ba9b5a87.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/14efb389722d324c413428bc7a466668.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/86cfc2d97ad84757e31e6e5e2cd341f8.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/71f23a4b8befedc73c365c41b3e3b9e0.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/84de38cd295a04912c528e87e3550bda.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/088eb8b42991b8f6d1c509f330bdf38c.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ecda475b9683a58625fc2dc9adf8ec62.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/1b31ab9565112dc1fc839e0189862c99.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036PG028510/9fec671b8b3ddcfb254a0fe4648587c7.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036PG028510/fff3a144a593afdc96caf4f2fb157403.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036PG028510/17171512106389ef6e09e2d8b6a74259.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036PG028510/44f521f44637c8981bc8863086be2519.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036PG028510/e1c78bd78f51a3ce82de75661ef10bbc.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036PG028510/cbf1bd746249aa13dd0ff295d74a1e17.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036PG028510/2e1acbd3d2bd1851d61d9c3f236d138b.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036PG028510/e41295e1208b22b3b0455e55e5259b5c.jpeg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-оранжевый-2023/</url></car>
+		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-белый-2023/</url></car>
 		<car>
 			<unique_id>4c3d04cc7dcafccdd2b05cbff9236d42</unique_id>
 			<mark_id>Geely</mark_id>
@@ -5241,18 +4726,18 @@
 			</multiposting>
 		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-белый-2023/</url></car>
 		<car>
-			<unique_id>d2cc6017b08e0b4e991fd604f30cf76e</unique_id>
+			<unique_id>bc9a94595a4f4c38dfc8ad27987eb690</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Emgrand, II</folder_id>
 			<modification_id>1.5 AT (122 л.с.)</modification_id>
 			<complectation_name>Flagship</complectation_name>
 			<body_type>Седан</body_type>
 			<wheel>левый</wheel>
-			<color>БЕЛЫЙ</color>
+			<color>Оранжевый</color>
 			<metallic>нет</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>8</run>
+			<run>37</run>
 			<year>2023</year>
 			<price>2539990</price>
 			<credit_discount>200000</credit_discount>
@@ -5261,35 +4746,36 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>350000</max_discount>
 			<currency>RUR</currency>
-			<vin>LB3F31036PG098510</vin>
+			<vin>LB3F31031PG090010</vin>
 			<description />
 			<images>
-				<image>https://photo.toyotasever.ru/LB3F31036PG028510/9fec671b8b3ddcfb254a0fe4648587c7.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31036PG028510/fff3a144a593afdc96caf4f2fb157403.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31036PG028510/17171512106389ef6e09e2d8b6a74259.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31036PG028510/44f521f44637c8981bc8863086be2519.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31036PG028510/e1c78bd78f51a3ce82de75661ef10bbc.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31036PG028510/cbf1bd746249aa13dd0ff295d74a1e17.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31036PG028510/2e1acbd3d2bd1851d61d9c3f236d138b.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31036PG028510/e41295e1208b22b3b0455e55e5259b5c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ff6d7bf921108379389f8acc9ced16b5.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/15f7164d87831a8b29838132ba9b5a87.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/14efb389722d324c413428bc7a466668.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/86cfc2d97ad84757e31e6e5e2cd341f8.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/71f23a4b8befedc73c365c41b3e3b9e0.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/84de38cd295a04912c528e87e3550bda.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/088eb8b42991b8f6d1c509f330bdf38c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ecda475b9683a58625fc2dc9adf8ec62.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/1b31ab9565112dc1fc839e0189862c99.jpeg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-белый-2023/</url></car>
+		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-оранжевый-2023/</url></car>
 		<car>
-			<unique_id>d2cc6017b08e0b4e991fd604f30cf76e</unique_id>
+			<unique_id>bc9a94595a4f4c38dfc8ad27987eb690</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Emgrand, II</folder_id>
 			<modification_id>1.5 AT (122 л.с.)</modification_id>
 			<complectation_name>Flagship</complectation_name>
 			<body_type>Седан</body_type>
 			<wheel>левый</wheel>
-			<color>БЕЛЫЙ</color>
+			<color>Оранжевый</color>
 			<metallic>нет</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>8</run>
+			<run>37</run>
 			<year>2023</year>
 			<price>2539990</price>
 			<credit_discount>200000</credit_discount>
@@ -5298,35 +4784,36 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>350000</max_discount>
 			<currency>RUR</currency>
-			<vin>LB3F31036PG098509</vin>
+			<vin>LB3F31031PG090009</vin>
 			<description />
 			<images>
-				<image>https://photo.toyotasever.ru/LB3F31036PG028510/9fec671b8b3ddcfb254a0fe4648587c7.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31036PG028510/fff3a144a593afdc96caf4f2fb157403.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31036PG028510/17171512106389ef6e09e2d8b6a74259.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31036PG028510/44f521f44637c8981bc8863086be2519.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31036PG028510/e1c78bd78f51a3ce82de75661ef10bbc.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31036PG028510/cbf1bd746249aa13dd0ff295d74a1e17.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31036PG028510/2e1acbd3d2bd1851d61d9c3f236d138b.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31036PG028510/e41295e1208b22b3b0455e55e5259b5c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ff6d7bf921108379389f8acc9ced16b5.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/15f7164d87831a8b29838132ba9b5a87.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/14efb389722d324c413428bc7a466668.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/86cfc2d97ad84757e31e6e5e2cd341f8.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/71f23a4b8befedc73c365c41b3e3b9e0.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/84de38cd295a04912c528e87e3550bda.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/088eb8b42991b8f6d1c509f330bdf38c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ecda475b9683a58625fc2dc9adf8ec62.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/1b31ab9565112dc1fc839e0189862c99.jpeg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-белый-2023/</url></car>
+		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-оранжевый-2023/</url></car>
 		<car>
-			<unique_id>d2cc6017b08e0b4e991fd604f30cf76e</unique_id>
+			<unique_id>bc9a94595a4f4c38dfc8ad27987eb690</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Emgrand, II</folder_id>
 			<modification_id>1.5 AT (122 л.с.)</modification_id>
 			<complectation_name>Flagship</complectation_name>
 			<body_type>Седан</body_type>
 			<wheel>левый</wheel>
-			<color>БЕЛЫЙ</color>
+			<color>Оранжевый</color>
 			<metallic>нет</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>8</run>
+			<run>37</run>
 			<year>2023</year>
 			<price>2539990</price>
 			<credit_discount>200000</credit_discount>
@@ -5335,35 +4822,36 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>350000</max_discount>
 			<currency>RUR</currency>
-			<vin>LB3F31036PG098508</vin>
+			<vin>LB3F31031PG090008</vin>
 			<description />
 			<images>
-				<image>https://photo.toyotasever.ru/LB3F31036PG028510/9fec671b8b3ddcfb254a0fe4648587c7.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31036PG028510/fff3a144a593afdc96caf4f2fb157403.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31036PG028510/17171512106389ef6e09e2d8b6a74259.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31036PG028510/44f521f44637c8981bc8863086be2519.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31036PG028510/e1c78bd78f51a3ce82de75661ef10bbc.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31036PG028510/cbf1bd746249aa13dd0ff295d74a1e17.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31036PG028510/2e1acbd3d2bd1851d61d9c3f236d138b.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31036PG028510/e41295e1208b22b3b0455e55e5259b5c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ff6d7bf921108379389f8acc9ced16b5.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/15f7164d87831a8b29838132ba9b5a87.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/14efb389722d324c413428bc7a466668.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/86cfc2d97ad84757e31e6e5e2cd341f8.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/71f23a4b8befedc73c365c41b3e3b9e0.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/84de38cd295a04912c528e87e3550bda.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/088eb8b42991b8f6d1c509f330bdf38c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ecda475b9683a58625fc2dc9adf8ec62.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/1b31ab9565112dc1fc839e0189862c99.jpeg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-белый-2023/</url></car>
+		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-оранжевый-2023/</url></car>
 		<car>
-			<unique_id>d2cc6017b08e0b4e991fd604f30cf76e</unique_id>
+			<unique_id>bc9a94595a4f4c38dfc8ad27987eb690</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Emgrand, II</folder_id>
 			<modification_id>1.5 AT (122 л.с.)</modification_id>
 			<complectation_name>Flagship</complectation_name>
 			<body_type>Седан</body_type>
 			<wheel>левый</wheel>
-			<color>БЕЛЫЙ</color>
+			<color>Оранжевый</color>
 			<metallic>нет</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>8</run>
+			<run>37</run>
 			<year>2023</year>
 			<price>2539990</price>
 			<credit_discount>200000</credit_discount>
@@ -5372,35 +4860,36 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>350000</max_discount>
 			<currency>RUR</currency>
-			<vin>LB3F31036PG098507</vin>
+			<vin>LB3F31031PG090007</vin>
 			<description />
 			<images>
-				<image>https://photo.toyotasever.ru/LB3F31036PG028510/9fec671b8b3ddcfb254a0fe4648587c7.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31036PG028510/fff3a144a593afdc96caf4f2fb157403.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31036PG028510/17171512106389ef6e09e2d8b6a74259.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31036PG028510/44f521f44637c8981bc8863086be2519.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31036PG028510/e1c78bd78f51a3ce82de75661ef10bbc.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31036PG028510/cbf1bd746249aa13dd0ff295d74a1e17.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31036PG028510/2e1acbd3d2bd1851d61d9c3f236d138b.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31036PG028510/e41295e1208b22b3b0455e55e5259b5c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ff6d7bf921108379389f8acc9ced16b5.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/15f7164d87831a8b29838132ba9b5a87.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/14efb389722d324c413428bc7a466668.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/86cfc2d97ad84757e31e6e5e2cd341f8.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/71f23a4b8befedc73c365c41b3e3b9e0.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/84de38cd295a04912c528e87e3550bda.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/088eb8b42991b8f6d1c509f330bdf38c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ecda475b9683a58625fc2dc9adf8ec62.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/1b31ab9565112dc1fc839e0189862c99.jpeg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-белый-2023/</url></car>
+		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-оранжевый-2023/</url></car>
 		<car>
-			<unique_id>d2cc6017b08e0b4e991fd604f30cf76e</unique_id>
+			<unique_id>bc9a94595a4f4c38dfc8ad27987eb690</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Emgrand, II</folder_id>
 			<modification_id>1.5 AT (122 л.с.)</modification_id>
 			<complectation_name>Flagship</complectation_name>
 			<body_type>Седан</body_type>
 			<wheel>левый</wheel>
-			<color>БЕЛЫЙ</color>
+			<color>Оранжевый</color>
 			<metallic>нет</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>8</run>
+			<run>37</run>
 			<year>2023</year>
 			<price>2539990</price>
 			<credit_discount>200000</credit_discount>
@@ -5409,22 +4898,23 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>350000</max_discount>
 			<currency>RUR</currency>
-			<vin>LB3F31036PG098506</vin>
+			<vin>LB3F31031PG090006</vin>
 			<description />
 			<images>
-				<image>https://photo.toyotasever.ru/LB3F31036PG028510/9fec671b8b3ddcfb254a0fe4648587c7.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31036PG028510/fff3a144a593afdc96caf4f2fb157403.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31036PG028510/17171512106389ef6e09e2d8b6a74259.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31036PG028510/44f521f44637c8981bc8863086be2519.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31036PG028510/e1c78bd78f51a3ce82de75661ef10bbc.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31036PG028510/cbf1bd746249aa13dd0ff295d74a1e17.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31036PG028510/2e1acbd3d2bd1851d61d9c3f236d138b.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31036PG028510/e41295e1208b22b3b0455e55e5259b5c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ff6d7bf921108379389f8acc9ced16b5.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/15f7164d87831a8b29838132ba9b5a87.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/14efb389722d324c413428bc7a466668.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/86cfc2d97ad84757e31e6e5e2cd341f8.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/71f23a4b8befedc73c365c41b3e3b9e0.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/84de38cd295a04912c528e87e3550bda.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/088eb8b42991b8f6d1c509f330bdf38c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ecda475b9683a58625fc2dc9adf8ec62.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/1b31ab9565112dc1fc839e0189862c99.jpeg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-белый-2023/</url></car>
+		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-оранжевый-2023/</url></car>
 		<car>
 			<unique_id>fea0c71cd38f9a1f1b23ce60fa7795c7</unique_id>
 			<mark_id>Geely</mark_id>
