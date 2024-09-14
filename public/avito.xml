@@ -648,6 +648,44 @@
 			</multiposting>
 		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-mt-122-лс-comfort-белый-2023/</url></car>
 		<car>
+			<unique_id>bc9a94595a4f4c38dfc8ad27987eb690</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Emgrand, II</folder_id>
+			<modification_id>1.5 AT (122 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Седан</body_type>
+			<wheel>левый</wheel>
+			<color>Оранжевый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>37</run>
+			<year>2023</year>
+			<price>2539990</price>
+			<credit_discount>200000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>150000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>350000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB3F31031PG020010</vin>
+			<description />
+			<images>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ff6d7bf921108379389f8acc9ced16b5.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/15f7164d87831a8b29838132ba9b5a87.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/14efb389722d324c413428bc7a466668.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/86cfc2d97ad84757e31e6e5e2cd341f8.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/71f23a4b8befedc73c365c41b3e3b9e0.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/84de38cd295a04912c528e87e3550bda.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/088eb8b42991b8f6d1c509f330bdf38c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ecda475b9683a58625fc2dc9adf8ec62.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/1b31ab9565112dc1fc839e0189862c99.jpeg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-оранжевый-2023/</url></car>
+		<car>
 			<unique_id>d2cc6017b08e0b4e991fd604f30cf76e</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Emgrand, II</folder_id>
@@ -740,44 +778,6 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-белый-2023/</url></car>
-		<car>
-			<unique_id>bc9a94595a4f4c38dfc8ad27987eb690</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Emgrand, II</folder_id>
-			<modification_id>1.5 AT (122 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Седан</body_type>
-			<wheel>левый</wheel>
-			<color>Оранжевый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>37</run>
-			<year>2023</year>
-			<price>2539990</price>
-			<credit_discount>200000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>350000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3F31031PG020010</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ff6d7bf921108379389f8acc9ced16b5.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/15f7164d87831a8b29838132ba9b5a87.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/14efb389722d324c413428bc7a466668.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/86cfc2d97ad84757e31e6e5e2cd341f8.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/71f23a4b8befedc73c365c41b3e3b9e0.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/84de38cd295a04912c528e87e3550bda.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/088eb8b42991b8f6d1c509f330bdf38c.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ecda475b9683a58625fc2dc9adf8ec62.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/1b31ab9565112dc1fc839e0189862c99.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-оранжевый-2023/</url></car>
 		<car>
 			<unique_id>fea0c71cd38f9a1f1b23ce60fa7795c7</unique_id>
 			<mark_id>Geely</mark_id>
@@ -4261,6 +4261,196 @@
 			</multiposting>
 		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-mt-122-лс-comfort-белый-2023/</url></car>
 		<car>
+			<unique_id>bc9a94595a4f4c38dfc8ad27987eb690</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Emgrand, II</folder_id>
+			<modification_id>1.5 AT (122 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Седан</body_type>
+			<wheel>левый</wheel>
+			<color>Оранжевый</color>
+			<metallic>нет</metallic>
+			<availability>в пути</availability>
+			<custom>растаможен</custom>
+			<run>37</run>
+			<year>2023</year>
+			<price>2539990</price>
+			<credit_discount>200000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>150000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>350000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB3F31031PG090010</vin>
+			<description />
+			<images>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ff6d7bf921108379389f8acc9ced16b5.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/15f7164d87831a8b29838132ba9b5a87.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/14efb389722d324c413428bc7a466668.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/86cfc2d97ad84757e31e6e5e2cd341f8.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/71f23a4b8befedc73c365c41b3e3b9e0.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/84de38cd295a04912c528e87e3550bda.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/088eb8b42991b8f6d1c509f330bdf38c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ecda475b9683a58625fc2dc9adf8ec62.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/1b31ab9565112dc1fc839e0189862c99.jpeg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-оранжевый-2023/</url></car>
+		<car>
+			<unique_id>bc9a94595a4f4c38dfc8ad27987eb690</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Emgrand, II</folder_id>
+			<modification_id>1.5 AT (122 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Седан</body_type>
+			<wheel>левый</wheel>
+			<color>Оранжевый</color>
+			<metallic>нет</metallic>
+			<availability>в пути</availability>
+			<custom>растаможен</custom>
+			<run>37</run>
+			<year>2023</year>
+			<price>2539990</price>
+			<credit_discount>200000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>150000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>350000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB3F31031PG090009</vin>
+			<description />
+			<images>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ff6d7bf921108379389f8acc9ced16b5.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/15f7164d87831a8b29838132ba9b5a87.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/14efb389722d324c413428bc7a466668.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/86cfc2d97ad84757e31e6e5e2cd341f8.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/71f23a4b8befedc73c365c41b3e3b9e0.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/84de38cd295a04912c528e87e3550bda.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/088eb8b42991b8f6d1c509f330bdf38c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ecda475b9683a58625fc2dc9adf8ec62.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/1b31ab9565112dc1fc839e0189862c99.jpeg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-оранжевый-2023/</url></car>
+		<car>
+			<unique_id>bc9a94595a4f4c38dfc8ad27987eb690</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Emgrand, II</folder_id>
+			<modification_id>1.5 AT (122 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Седан</body_type>
+			<wheel>левый</wheel>
+			<color>Оранжевый</color>
+			<metallic>нет</metallic>
+			<availability>в пути</availability>
+			<custom>растаможен</custom>
+			<run>37</run>
+			<year>2023</year>
+			<price>2539990</price>
+			<credit_discount>200000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>150000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>350000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB3F31031PG090008</vin>
+			<description />
+			<images>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ff6d7bf921108379389f8acc9ced16b5.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/15f7164d87831a8b29838132ba9b5a87.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/14efb389722d324c413428bc7a466668.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/86cfc2d97ad84757e31e6e5e2cd341f8.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/71f23a4b8befedc73c365c41b3e3b9e0.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/84de38cd295a04912c528e87e3550bda.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/088eb8b42991b8f6d1c509f330bdf38c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ecda475b9683a58625fc2dc9adf8ec62.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/1b31ab9565112dc1fc839e0189862c99.jpeg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-оранжевый-2023/</url></car>
+		<car>
+			<unique_id>bc9a94595a4f4c38dfc8ad27987eb690</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Emgrand, II</folder_id>
+			<modification_id>1.5 AT (122 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Седан</body_type>
+			<wheel>левый</wheel>
+			<color>Оранжевый</color>
+			<metallic>нет</metallic>
+			<availability>в пути</availability>
+			<custom>растаможен</custom>
+			<run>37</run>
+			<year>2023</year>
+			<price>2539990</price>
+			<credit_discount>200000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>150000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>350000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB3F31031PG090007</vin>
+			<description />
+			<images>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ff6d7bf921108379389f8acc9ced16b5.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/15f7164d87831a8b29838132ba9b5a87.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/14efb389722d324c413428bc7a466668.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/86cfc2d97ad84757e31e6e5e2cd341f8.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/71f23a4b8befedc73c365c41b3e3b9e0.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/84de38cd295a04912c528e87e3550bda.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/088eb8b42991b8f6d1c509f330bdf38c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ecda475b9683a58625fc2dc9adf8ec62.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/1b31ab9565112dc1fc839e0189862c99.jpeg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-оранжевый-2023/</url></car>
+		<car>
+			<unique_id>bc9a94595a4f4c38dfc8ad27987eb690</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Emgrand, II</folder_id>
+			<modification_id>1.5 AT (122 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Седан</body_type>
+			<wheel>левый</wheel>
+			<color>Оранжевый</color>
+			<metallic>нет</metallic>
+			<availability>в пути</availability>
+			<custom>растаможен</custom>
+			<run>37</run>
+			<year>2023</year>
+			<price>2539990</price>
+			<credit_discount>200000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>150000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>350000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB3F31031PG090006</vin>
+			<description />
+			<images>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ff6d7bf921108379389f8acc9ced16b5.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/15f7164d87831a8b29838132ba9b5a87.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/14efb389722d324c413428bc7a466668.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/86cfc2d97ad84757e31e6e5e2cd341f8.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/71f23a4b8befedc73c365c41b3e3b9e0.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/84de38cd295a04912c528e87e3550bda.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/088eb8b42991b8f6d1c509f330bdf38c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ecda475b9683a58625fc2dc9adf8ec62.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/1b31ab9565112dc1fc839e0189862c99.jpeg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-оранжевый-2023/</url></car>
+		<car>
 			<unique_id>d2cc6017b08e0b4e991fd604f30cf76e</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Emgrand, II</folder_id>
@@ -4725,196 +4915,6 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-белый-2023/</url></car>
-		<car>
-			<unique_id>bc9a94595a4f4c38dfc8ad27987eb690</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Emgrand, II</folder_id>
-			<modification_id>1.5 AT (122 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Седан</body_type>
-			<wheel>левый</wheel>
-			<color>Оранжевый</color>
-			<metallic>нет</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>37</run>
-			<year>2023</year>
-			<price>2539990</price>
-			<credit_discount>200000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>350000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3F31031PG090010</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ff6d7bf921108379389f8acc9ced16b5.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/15f7164d87831a8b29838132ba9b5a87.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/14efb389722d324c413428bc7a466668.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/86cfc2d97ad84757e31e6e5e2cd341f8.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/71f23a4b8befedc73c365c41b3e3b9e0.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/84de38cd295a04912c528e87e3550bda.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/088eb8b42991b8f6d1c509f330bdf38c.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ecda475b9683a58625fc2dc9adf8ec62.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/1b31ab9565112dc1fc839e0189862c99.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-оранжевый-2023/</url></car>
-		<car>
-			<unique_id>bc9a94595a4f4c38dfc8ad27987eb690</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Emgrand, II</folder_id>
-			<modification_id>1.5 AT (122 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Седан</body_type>
-			<wheel>левый</wheel>
-			<color>Оранжевый</color>
-			<metallic>нет</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>37</run>
-			<year>2023</year>
-			<price>2539990</price>
-			<credit_discount>200000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>350000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3F31031PG090009</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ff6d7bf921108379389f8acc9ced16b5.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/15f7164d87831a8b29838132ba9b5a87.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/14efb389722d324c413428bc7a466668.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/86cfc2d97ad84757e31e6e5e2cd341f8.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/71f23a4b8befedc73c365c41b3e3b9e0.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/84de38cd295a04912c528e87e3550bda.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/088eb8b42991b8f6d1c509f330bdf38c.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ecda475b9683a58625fc2dc9adf8ec62.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/1b31ab9565112dc1fc839e0189862c99.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-оранжевый-2023/</url></car>
-		<car>
-			<unique_id>bc9a94595a4f4c38dfc8ad27987eb690</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Emgrand, II</folder_id>
-			<modification_id>1.5 AT (122 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Седан</body_type>
-			<wheel>левый</wheel>
-			<color>Оранжевый</color>
-			<metallic>нет</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>37</run>
-			<year>2023</year>
-			<price>2539990</price>
-			<credit_discount>200000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>350000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3F31031PG090008</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ff6d7bf921108379389f8acc9ced16b5.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/15f7164d87831a8b29838132ba9b5a87.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/14efb389722d324c413428bc7a466668.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/86cfc2d97ad84757e31e6e5e2cd341f8.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/71f23a4b8befedc73c365c41b3e3b9e0.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/84de38cd295a04912c528e87e3550bda.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/088eb8b42991b8f6d1c509f330bdf38c.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ecda475b9683a58625fc2dc9adf8ec62.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/1b31ab9565112dc1fc839e0189862c99.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-оранжевый-2023/</url></car>
-		<car>
-			<unique_id>bc9a94595a4f4c38dfc8ad27987eb690</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Emgrand, II</folder_id>
-			<modification_id>1.5 AT (122 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Седан</body_type>
-			<wheel>левый</wheel>
-			<color>Оранжевый</color>
-			<metallic>нет</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>37</run>
-			<year>2023</year>
-			<price>2539990</price>
-			<credit_discount>200000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>350000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3F31031PG090007</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ff6d7bf921108379389f8acc9ced16b5.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/15f7164d87831a8b29838132ba9b5a87.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/14efb389722d324c413428bc7a466668.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/86cfc2d97ad84757e31e6e5e2cd341f8.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/71f23a4b8befedc73c365c41b3e3b9e0.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/84de38cd295a04912c528e87e3550bda.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/088eb8b42991b8f6d1c509f330bdf38c.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ecda475b9683a58625fc2dc9adf8ec62.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/1b31ab9565112dc1fc839e0189862c99.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-оранжевый-2023/</url></car>
-		<car>
-			<unique_id>bc9a94595a4f4c38dfc8ad27987eb690</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Emgrand, II</folder_id>
-			<modification_id>1.5 AT (122 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Седан</body_type>
-			<wheel>левый</wheel>
-			<color>Оранжевый</color>
-			<metallic>нет</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>37</run>
-			<year>2023</year>
-			<price>2539990</price>
-			<credit_discount>200000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>350000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3F31031PG090006</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ff6d7bf921108379389f8acc9ced16b5.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/15f7164d87831a8b29838132ba9b5a87.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/14efb389722d324c413428bc7a466668.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/86cfc2d97ad84757e31e6e5e2cd341f8.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/71f23a4b8befedc73c365c41b3e3b9e0.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/84de38cd295a04912c528e87e3550bda.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/088eb8b42991b8f6d1c509f330bdf38c.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ecda475b9683a58625fc2dc9adf8ec62.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/1b31ab9565112dc1fc839e0189862c99.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-оранжевый-2023/</url></car>
 		<car>
 			<unique_id>fea0c71cd38f9a1f1b23ce60fa7795c7</unique_id>
 			<mark_id>Geely</mark_id>
