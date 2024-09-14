@@ -29,45 +29,6 @@
 			</multiposting>
 		<url>https://geelyorenburg.ru/cars/belgee-x50-15-amt-150-лс-active-белый-2024/</url></car>
 		<car>
-			<unique_id>b7b85bc2ad1e18e5f01b9715f6031c04</unique_id>
-			<mark_id>BelGee</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>2415990</price>
-			<credit_discount>135000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>185000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z2RB933220</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2RB933220/29acbee2938f65cbcb7397cbb24d7a15.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2RB933220/bfbe650360664e1ee665a07f11e60c61.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2RB933220/64b30d23298eb5400c96ad637dc8bb00.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2RB933220/4d8fcf5542d7f9b7e0332a0242e13230.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2RB933220/c99a80fa6679e6218703925cb3fe0ad8.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2RB933220/d63ef7918b65cb96c233cbc47c6b01d3.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2RB933220/81188ff5cf9d316c3b265c169f553ec4.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2RB933220/29c7ffe14f1385b8198aa0560c172117.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2RB933220/2c847c13baef5fae9f6708708a71e0e5.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2RB933220/6a3d12c2db39e0c5c68b3372e1a25ecb.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/belgee-x50-15-amt-150-лс-style-серый-2024/</url></car>
-		<car>
 			<unique_id>d46a002c3683ebdacc0e69133153946a</unique_id>
 			<mark_id>BelGee</mark_id>
 			<folder_id>X50</folder_id>
@@ -477,6 +438,34 @@
 			</multiposting>
 		<url>https://geelyorenburg.ru/cars/geely-coolray-i-рестайлинг-15-amt-147-лс-exclusive-серый-2023/</url></car>
 		<car>
+			<unique_id>30f2b78fa02a651a1761e075ce6c7015</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Coolray, I</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>БЕЛЫЙ</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>9</run>
+			<year>2024</year>
+			<price>2949990</price>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>300000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37622Z4RX526355</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geelyorenburg.ru/cars/geely-coolray-i-15-amt-150-лс-flagship-белый-2024/</url></car>
+		<car>
 			<unique_id>6337769cfcdc05843c7388f5e46ad2bf</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Coolray, I</folder_id>
@@ -535,34 +524,6 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://geelyorenburg.ru/cars/geely-coolray-i-15-amt-150-лс-flagship-красный-2024/</url></car>
-		<car>
-			<unique_id>30f2b78fa02a651a1761e075ce6c7015</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Coolray, I</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>БЕЛЫЙ</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>9</run>
-			<year>2024</year>
-			<price>2949990</price>
-			<credit_discount>100000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>300000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37622Z4RX526355</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-coolray-i-15-amt-150-лс-flagship-белый-2024/</url></car>
 		<car>
 			<unique_id>74e6f02837e7810ef720f6c979271001</unique_id>
 			<mark_id>Geely</mark_id>
@@ -1109,201 +1070,6 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://geelyorenburg.ru/cars/belgee-x50-15-amt-150-лс-active-белый-2024/</url></car>
-		<car>
-			<unique_id>b7b85bc2ad1e18e5f01b9715f6031c04</unique_id>
-			<mark_id>BelGee</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>2415990</price>
-			<credit_discount>135000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>185000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z2RB993220</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2RB933220/29acbee2938f65cbcb7397cbb24d7a15.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2RB933220/bfbe650360664e1ee665a07f11e60c61.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2RB933220/64b30d23298eb5400c96ad637dc8bb00.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2RB933220/4d8fcf5542d7f9b7e0332a0242e13230.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2RB933220/c99a80fa6679e6218703925cb3fe0ad8.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2RB933220/d63ef7918b65cb96c233cbc47c6b01d3.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2RB933220/81188ff5cf9d316c3b265c169f553ec4.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2RB933220/29c7ffe14f1385b8198aa0560c172117.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2RB933220/2c847c13baef5fae9f6708708a71e0e5.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2RB933220/6a3d12c2db39e0c5c68b3372e1a25ecb.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/belgee-x50-15-amt-150-лс-style-серый-2024/</url></car>
-		<car>
-			<unique_id>b7b85bc2ad1e18e5f01b9715f6031c04</unique_id>
-			<mark_id>BelGee</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>2415990</price>
-			<credit_discount>135000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>185000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z2RB993219</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2RB933220/29acbee2938f65cbcb7397cbb24d7a15.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2RB933220/bfbe650360664e1ee665a07f11e60c61.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2RB933220/64b30d23298eb5400c96ad637dc8bb00.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2RB933220/4d8fcf5542d7f9b7e0332a0242e13230.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2RB933220/c99a80fa6679e6218703925cb3fe0ad8.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2RB933220/d63ef7918b65cb96c233cbc47c6b01d3.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2RB933220/81188ff5cf9d316c3b265c169f553ec4.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2RB933220/29c7ffe14f1385b8198aa0560c172117.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2RB933220/2c847c13baef5fae9f6708708a71e0e5.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2RB933220/6a3d12c2db39e0c5c68b3372e1a25ecb.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/belgee-x50-15-amt-150-лс-style-серый-2024/</url></car>
-		<car>
-			<unique_id>b7b85bc2ad1e18e5f01b9715f6031c04</unique_id>
-			<mark_id>BelGee</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>2415990</price>
-			<credit_discount>135000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>185000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z2RB993218</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2RB933220/29acbee2938f65cbcb7397cbb24d7a15.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2RB933220/bfbe650360664e1ee665a07f11e60c61.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2RB933220/64b30d23298eb5400c96ad637dc8bb00.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2RB933220/4d8fcf5542d7f9b7e0332a0242e13230.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2RB933220/c99a80fa6679e6218703925cb3fe0ad8.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2RB933220/d63ef7918b65cb96c233cbc47c6b01d3.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2RB933220/81188ff5cf9d316c3b265c169f553ec4.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2RB933220/29c7ffe14f1385b8198aa0560c172117.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2RB933220/2c847c13baef5fae9f6708708a71e0e5.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2RB933220/6a3d12c2db39e0c5c68b3372e1a25ecb.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/belgee-x50-15-amt-150-лс-style-серый-2024/</url></car>
-		<car>
-			<unique_id>b7b85bc2ad1e18e5f01b9715f6031c04</unique_id>
-			<mark_id>BelGee</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>2415990</price>
-			<credit_discount>135000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>185000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z2RB993217</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2RB933220/29acbee2938f65cbcb7397cbb24d7a15.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2RB933220/bfbe650360664e1ee665a07f11e60c61.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2RB933220/64b30d23298eb5400c96ad637dc8bb00.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2RB933220/4d8fcf5542d7f9b7e0332a0242e13230.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2RB933220/c99a80fa6679e6218703925cb3fe0ad8.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2RB933220/d63ef7918b65cb96c233cbc47c6b01d3.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2RB933220/81188ff5cf9d316c3b265c169f553ec4.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2RB933220/29c7ffe14f1385b8198aa0560c172117.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2RB933220/2c847c13baef5fae9f6708708a71e0e5.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2RB933220/6a3d12c2db39e0c5c68b3372e1a25ecb.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/belgee-x50-15-amt-150-лс-style-серый-2024/</url></car>
-		<car>
-			<unique_id>b7b85bc2ad1e18e5f01b9715f6031c04</unique_id>
-			<mark_id>BelGee</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>2415990</price>
-			<credit_discount>135000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>185000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z2RB993216</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2RB933220/29acbee2938f65cbcb7397cbb24d7a15.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2RB933220/bfbe650360664e1ee665a07f11e60c61.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2RB933220/64b30d23298eb5400c96ad637dc8bb00.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2RB933220/4d8fcf5542d7f9b7e0332a0242e13230.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2RB933220/c99a80fa6679e6218703925cb3fe0ad8.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2RB933220/d63ef7918b65cb96c233cbc47c6b01d3.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2RB933220/81188ff5cf9d316c3b265c169f553ec4.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2RB933220/29c7ffe14f1385b8198aa0560c172117.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2RB933220/2c847c13baef5fae9f6708708a71e0e5.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2RB933220/6a3d12c2db39e0c5c68b3372e1a25ecb.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/belgee-x50-15-amt-150-лс-style-серый-2024/</url></car>
 		<car>
 			<unique_id>d46a002c3683ebdacc0e69133153946a</unique_id>
 			<mark_id>BelGee</mark_id>
@@ -3350,6 +3116,146 @@
 			</multiposting>
 		<url>https://geelyorenburg.ru/cars/geely-coolray-i-рестайлинг-15-amt-147-лс-exclusive-серый-2023/</url></car>
 		<car>
+			<unique_id>30f2b78fa02a651a1761e075ce6c7015</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Coolray, I</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>БЕЛЫЙ</color>
+			<metallic>нет</metallic>
+			<availability>в пути</availability>
+			<custom>растаможен</custom>
+			<run>9</run>
+			<year>2024</year>
+			<price>2949990</price>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>300000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37622Z4RX596355</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geelyorenburg.ru/cars/geely-coolray-i-15-amt-150-лс-flagship-белый-2024/</url></car>
+		<car>
+			<unique_id>30f2b78fa02a651a1761e075ce6c7015</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Coolray, I</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>БЕЛЫЙ</color>
+			<metallic>нет</metallic>
+			<availability>в пути</availability>
+			<custom>растаможен</custom>
+			<run>9</run>
+			<year>2024</year>
+			<price>2949990</price>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>300000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37622Z4RX596354</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geelyorenburg.ru/cars/geely-coolray-i-15-amt-150-лс-flagship-белый-2024/</url></car>
+		<car>
+			<unique_id>30f2b78fa02a651a1761e075ce6c7015</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Coolray, I</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>БЕЛЫЙ</color>
+			<metallic>нет</metallic>
+			<availability>в пути</availability>
+			<custom>растаможен</custom>
+			<run>9</run>
+			<year>2024</year>
+			<price>2949990</price>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>300000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37622Z4RX596353</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geelyorenburg.ru/cars/geely-coolray-i-15-amt-150-лс-flagship-белый-2024/</url></car>
+		<car>
+			<unique_id>30f2b78fa02a651a1761e075ce6c7015</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Coolray, I</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>БЕЛЫЙ</color>
+			<metallic>нет</metallic>
+			<availability>в пути</availability>
+			<custom>растаможен</custom>
+			<run>9</run>
+			<year>2024</year>
+			<price>2949990</price>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>300000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37622Z4RX596352</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geelyorenburg.ru/cars/geely-coolray-i-15-amt-150-лс-flagship-белый-2024/</url></car>
+		<car>
+			<unique_id>30f2b78fa02a651a1761e075ce6c7015</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Coolray, I</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>БЕЛЫЙ</color>
+			<metallic>нет</metallic>
+			<availability>в пути</availability>
+			<custom>растаможен</custom>
+			<run>9</run>
+			<year>2024</year>
+			<price>2949990</price>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>300000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37622Z4RX596351</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geelyorenburg.ru/cars/geely-coolray-i-15-amt-150-лс-flagship-белый-2024/</url></car>
+		<car>
 			<unique_id>6337769cfcdc05843c7388f5e46ad2bf</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Coolray, I</folder_id>
@@ -3644,146 +3550,6 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://geelyorenburg.ru/cars/geely-coolray-i-15-amt-150-лс-flagship-красный-2024/</url></car>
-		<car>
-			<unique_id>30f2b78fa02a651a1761e075ce6c7015</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Coolray, I</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>БЕЛЫЙ</color>
-			<metallic>нет</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>9</run>
-			<year>2024</year>
-			<price>2949990</price>
-			<credit_discount>100000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>300000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37622Z4RX596355</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-coolray-i-15-amt-150-лс-flagship-белый-2024/</url></car>
-		<car>
-			<unique_id>30f2b78fa02a651a1761e075ce6c7015</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Coolray, I</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>БЕЛЫЙ</color>
-			<metallic>нет</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>9</run>
-			<year>2024</year>
-			<price>2949990</price>
-			<credit_discount>100000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>300000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37622Z4RX596354</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-coolray-i-15-amt-150-лс-flagship-белый-2024/</url></car>
-		<car>
-			<unique_id>30f2b78fa02a651a1761e075ce6c7015</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Coolray, I</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>БЕЛЫЙ</color>
-			<metallic>нет</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>9</run>
-			<year>2024</year>
-			<price>2949990</price>
-			<credit_discount>100000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>300000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37622Z4RX596353</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-coolray-i-15-amt-150-лс-flagship-белый-2024/</url></car>
-		<car>
-			<unique_id>30f2b78fa02a651a1761e075ce6c7015</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Coolray, I</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>БЕЛЫЙ</color>
-			<metallic>нет</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>9</run>
-			<year>2024</year>
-			<price>2949990</price>
-			<credit_discount>100000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>300000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37622Z4RX596352</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-coolray-i-15-amt-150-лс-flagship-белый-2024/</url></car>
-		<car>
-			<unique_id>30f2b78fa02a651a1761e075ce6c7015</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Coolray, I</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>БЕЛЫЙ</color>
-			<metallic>нет</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>9</run>
-			<year>2024</year>
-			<price>2949990</price>
-			<credit_discount>100000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>300000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37622Z4RX596351</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-coolray-i-15-amt-150-лс-flagship-белый-2024/</url></car>
 		<car>
 			<unique_id>74e6f02837e7810ef720f6c979271001</unique_id>
 			<mark_id>Geely</mark_id>
