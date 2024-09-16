@@ -108,6 +108,34 @@
 			</multiposting>
 		<url>https://geelyorenburg.ru/cars/belgee-x50-15-amt-150-лс-style-белый-2024/</url></car>
 		<car>
+			<unique_id>050bac70c84f3aa3ebbd5d92cf7c068e</unique_id>
+			<mark_id>BelGee</mark_id>
+			<folder_id>X70</folder_id>
+			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
+			<complectation_name>Prestige+</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>7</run>
+			<year>2024</year>
+			<price>3214990</price>
+			<credit_discount>200000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>250000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>450000</max_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8722D5RB318954</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geelyorenburg.ru/cars/belgee-x70-15-amt-177-лс-4wd-prestige-plus-серый-2024/</url></car>
+		<car>
 			<unique_id>8061d0bc6079e256fa8a0a689dd50294</unique_id>
 			<mark_id>BelGee</mark_id>
 			<folder_id>X70</folder_id>
@@ -152,34 +180,6 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://geelyorenburg.ru/cars/belgee-x70-15-amt-177-лс-4wd-prestige-plus-черный-2024/</url></car>
-		<car>
-			<unique_id>050bac70c84f3aa3ebbd5d92cf7c068e</unique_id>
-			<mark_id>BelGee</mark_id>
-			<folder_id>X70</folder_id>
-			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
-			<complectation_name>Prestige+</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>7</run>
-			<year>2024</year>
-			<price>3214990</price>
-			<credit_discount>200000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>450000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8722D5RB318954</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/belgee-x70-15-amt-177-лс-4wd-prestige-plus-серый-2024/</url></car>
 		<car>
 			<unique_id>942d92b1b388314205647c069d7a6c04</unique_id>
 			<mark_id>Geely</mark_id>
@@ -466,34 +466,6 @@
 			</multiposting>
 		<url>https://geelyorenburg.ru/cars/geely-coolray-i-15-amt-150-лс-flagship-белый-2024/</url></car>
 		<car>
-			<unique_id>6337769cfcdc05843c7388f5e46ad2bf</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Coolray, I</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>2949990</price>
-			<credit_discount>100000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>300000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37622Z6RX524073</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-coolray-i-15-amt-150-лс-flagship-серый-2024/</url></car>
-		<car>
 			<unique_id>7da5ff662a143c85c4a5aa4d8cdb7f44</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Coolray, I</folder_id>
@@ -525,6 +497,34 @@
 			</multiposting>
 		<url>https://geelyorenburg.ru/cars/geely-coolray-i-15-amt-150-лс-flagship-красный-2024/</url></car>
 		<car>
+			<unique_id>6337769cfcdc05843c7388f5e46ad2bf</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Coolray, I</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>8</run>
+			<year>2024</year>
+			<price>2949990</price>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>300000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37622Z6RX524073</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geelyorenburg.ru/cars/geely-coolray-i-15-amt-150-лс-flagship-серый-2024/</url></car>
+		<car>
 			<unique_id>74e6f02837e7810ef720f6c979271001</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Emgrand, II</folder_id>
@@ -552,6 +552,72 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-mt-122-лс-comfort-белый-2023/</url></car>
+		<car>
+			<unique_id>bc9a94595a4f4c38dfc8ad27987eb690</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Emgrand, II</folder_id>
+			<modification_id>1.5 AT (122 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Седан</body_type>
+			<wheel>левый</wheel>
+			<color>Оранжевый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>37</run>
+			<year>2023</year>
+			<price>2539990</price>
+			<credit_discount>200000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>150000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>350000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB3F31031PG020010</vin>
+			<description />
+			<images>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ff6d7bf921108379389f8acc9ced16b5.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/15f7164d87831a8b29838132ba9b5a87.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/14efb389722d324c413428bc7a466668.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/86cfc2d97ad84757e31e6e5e2cd341f8.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/71f23a4b8befedc73c365c41b3e3b9e0.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/84de38cd295a04912c528e87e3550bda.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/088eb8b42991b8f6d1c509f330bdf38c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ecda475b9683a58625fc2dc9adf8ec62.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/1b31ab9565112dc1fc839e0189862c99.jpeg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-оранжевый-2023/</url></car>
+		<car>
+			<unique_id>c403b9e67b155ba14bbf2f824d003e35</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Emgrand, II</folder_id>
+			<modification_id>1.5 AT (122 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Седан</body_type>
+			<wheel>левый</wheel>
+			<color>БЕЛЫЙ</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>10</run>
+			<year>2023</year>
+			<price>2539990</price>
+			<credit_discount>200000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>150000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>350000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB3F31034PG028425</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-белый-2023/</url></car>
 		<car>
 			<unique_id>d2cc6017b08e0b4e991fd604f30cf76e</unique_id>
 			<mark_id>Geely</mark_id>
@@ -617,72 +683,6 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-белый-2023/</url></car>
-		<car>
-			<unique_id>c403b9e67b155ba14bbf2f824d003e35</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Emgrand, II</folder_id>
-			<modification_id>1.5 AT (122 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Седан</body_type>
-			<wheel>левый</wheel>
-			<color>БЕЛЫЙ</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>10</run>
-			<year>2023</year>
-			<price>2539990</price>
-			<credit_discount>200000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>350000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3F31034PG028425</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-белый-2023/</url></car>
-		<car>
-			<unique_id>bc9a94595a4f4c38dfc8ad27987eb690</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Emgrand, II</folder_id>
-			<modification_id>1.5 AT (122 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Седан</body_type>
-			<wheel>левый</wheel>
-			<color>Оранжевый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>37</run>
-			<year>2023</year>
-			<price>2539990</price>
-			<credit_discount>200000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>350000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3F31031PG020010</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ff6d7bf921108379389f8acc9ced16b5.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/15f7164d87831a8b29838132ba9b5a87.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/14efb389722d324c413428bc7a466668.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/86cfc2d97ad84757e31e6e5e2cd341f8.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/71f23a4b8befedc73c365c41b3e3b9e0.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/84de38cd295a04912c528e87e3550bda.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/088eb8b42991b8f6d1c509f330bdf38c.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ecda475b9683a58625fc2dc9adf8ec62.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/1b31ab9565112dc1fc839e0189862c99.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-оранжевый-2023/</url></car>
 		<car>
 			<unique_id>fea0c71cd38f9a1f1b23ce60fa7795c7</unique_id>
 			<mark_id>Geely</mark_id>
@@ -1422,6 +1422,146 @@
 			</multiposting>
 		<url>https://geelyorenburg.ru/cars/belgee-x50-15-amt-150-лс-style-белый-2024/</url></car>
 		<car>
+			<unique_id>050bac70c84f3aa3ebbd5d92cf7c068e</unique_id>
+			<mark_id>BelGee</mark_id>
+			<folder_id>X70</folder_id>
+			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
+			<complectation_name>Prestige+</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>да</metallic>
+			<availability>в пути</availability>
+			<custom>растаможен</custom>
+			<run>7</run>
+			<year>2024</year>
+			<price>3214990</price>
+			<credit_discount>200000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>250000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>450000</max_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8722D5RB398954</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geelyorenburg.ru/cars/belgee-x70-15-amt-177-лс-4wd-prestige-plus-серый-2024/</url></car>
+		<car>
+			<unique_id>050bac70c84f3aa3ebbd5d92cf7c068e</unique_id>
+			<mark_id>BelGee</mark_id>
+			<folder_id>X70</folder_id>
+			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
+			<complectation_name>Prestige+</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>да</metallic>
+			<availability>в пути</availability>
+			<custom>растаможен</custom>
+			<run>7</run>
+			<year>2024</year>
+			<price>3214990</price>
+			<credit_discount>200000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>250000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>450000</max_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8722D5RB398953</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geelyorenburg.ru/cars/belgee-x70-15-amt-177-лс-4wd-prestige-plus-серый-2024/</url></car>
+		<car>
+			<unique_id>050bac70c84f3aa3ebbd5d92cf7c068e</unique_id>
+			<mark_id>BelGee</mark_id>
+			<folder_id>X70</folder_id>
+			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
+			<complectation_name>Prestige+</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>да</metallic>
+			<availability>в пути</availability>
+			<custom>растаможен</custom>
+			<run>7</run>
+			<year>2024</year>
+			<price>3214990</price>
+			<credit_discount>200000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>250000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>450000</max_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8722D5RB398952</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geelyorenburg.ru/cars/belgee-x70-15-amt-177-лс-4wd-prestige-plus-серый-2024/</url></car>
+		<car>
+			<unique_id>050bac70c84f3aa3ebbd5d92cf7c068e</unique_id>
+			<mark_id>BelGee</mark_id>
+			<folder_id>X70</folder_id>
+			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
+			<complectation_name>Prestige+</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>да</metallic>
+			<availability>в пути</availability>
+			<custom>растаможен</custom>
+			<run>7</run>
+			<year>2024</year>
+			<price>3214990</price>
+			<credit_discount>200000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>250000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>450000</max_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8722D5RB398951</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geelyorenburg.ru/cars/belgee-x70-15-amt-177-лс-4wd-prestige-plus-серый-2024/</url></car>
+		<car>
+			<unique_id>050bac70c84f3aa3ebbd5d92cf7c068e</unique_id>
+			<mark_id>BelGee</mark_id>
+			<folder_id>X70</folder_id>
+			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
+			<complectation_name>Prestige+</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>да</metallic>
+			<availability>в пути</availability>
+			<custom>растаможен</custom>
+			<run>7</run>
+			<year>2024</year>
+			<price>3214990</price>
+			<credit_discount>200000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>250000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>450000</max_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8722D5RB398950</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geelyorenburg.ru/cars/belgee-x70-15-amt-177-лс-4wd-prestige-plus-серый-2024/</url></car>
+		<car>
 			<unique_id>8061d0bc6079e256fa8a0a689dd50294</unique_id>
 			<mark_id>BelGee</mark_id>
 			<folder_id>X70</folder_id>
@@ -1646,146 +1786,6 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://geelyorenburg.ru/cars/belgee-x70-15-amt-177-лс-4wd-prestige-plus-черный-2024/</url></car>
-		<car>
-			<unique_id>050bac70c84f3aa3ebbd5d92cf7c068e</unique_id>
-			<mark_id>BelGee</mark_id>
-			<folder_id>X70</folder_id>
-			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
-			<complectation_name>Prestige+</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>7</run>
-			<year>2024</year>
-			<price>3214990</price>
-			<credit_discount>200000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>450000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8722D5RB398954</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/belgee-x70-15-amt-177-лс-4wd-prestige-plus-серый-2024/</url></car>
-		<car>
-			<unique_id>050bac70c84f3aa3ebbd5d92cf7c068e</unique_id>
-			<mark_id>BelGee</mark_id>
-			<folder_id>X70</folder_id>
-			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
-			<complectation_name>Prestige+</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>7</run>
-			<year>2024</year>
-			<price>3214990</price>
-			<credit_discount>200000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>450000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8722D5RB398953</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/belgee-x70-15-amt-177-лс-4wd-prestige-plus-серый-2024/</url></car>
-		<car>
-			<unique_id>050bac70c84f3aa3ebbd5d92cf7c068e</unique_id>
-			<mark_id>BelGee</mark_id>
-			<folder_id>X70</folder_id>
-			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
-			<complectation_name>Prestige+</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>7</run>
-			<year>2024</year>
-			<price>3214990</price>
-			<credit_discount>200000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>450000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8722D5RB398952</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/belgee-x70-15-amt-177-лс-4wd-prestige-plus-серый-2024/</url></car>
-		<car>
-			<unique_id>050bac70c84f3aa3ebbd5d92cf7c068e</unique_id>
-			<mark_id>BelGee</mark_id>
-			<folder_id>X70</folder_id>
-			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
-			<complectation_name>Prestige+</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>7</run>
-			<year>2024</year>
-			<price>3214990</price>
-			<credit_discount>200000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>450000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8722D5RB398951</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/belgee-x70-15-amt-177-лс-4wd-prestige-plus-серый-2024/</url></car>
-		<car>
-			<unique_id>050bac70c84f3aa3ebbd5d92cf7c068e</unique_id>
-			<mark_id>BelGee</mark_id>
-			<folder_id>X70</folder_id>
-			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
-			<complectation_name>Prestige+</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>7</run>
-			<year>2024</year>
-			<price>3214990</price>
-			<credit_discount>200000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>450000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8722D5RB398950</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/belgee-x70-15-amt-177-лс-4wd-prestige-plus-серый-2024/</url></car>
 		<car>
 			<unique_id>942d92b1b388314205647c069d7a6c04</unique_id>
 			<mark_id>Geely</mark_id>
@@ -3212,146 +3212,6 @@
 			</multiposting>
 		<url>https://geelyorenburg.ru/cars/geely-coolray-i-15-amt-150-лс-flagship-белый-2024/</url></car>
 		<car>
-			<unique_id>6337769cfcdc05843c7388f5e46ad2bf</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Coolray, I</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>2949990</price>
-			<credit_discount>100000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>300000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37622Z6RX594073</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-coolray-i-15-amt-150-лс-flagship-серый-2024/</url></car>
-		<car>
-			<unique_id>6337769cfcdc05843c7388f5e46ad2bf</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Coolray, I</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>2949990</price>
-			<credit_discount>100000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>300000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37622Z6RX594072</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-coolray-i-15-amt-150-лс-flagship-серый-2024/</url></car>
-		<car>
-			<unique_id>6337769cfcdc05843c7388f5e46ad2bf</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Coolray, I</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>2949990</price>
-			<credit_discount>100000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>300000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37622Z6RX594071</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-coolray-i-15-amt-150-лс-flagship-серый-2024/</url></car>
-		<car>
-			<unique_id>6337769cfcdc05843c7388f5e46ad2bf</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Coolray, I</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>2949990</price>
-			<credit_discount>100000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>300000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37622Z6RX594070</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-coolray-i-15-amt-150-лс-flagship-серый-2024/</url></car>
-		<car>
-			<unique_id>6337769cfcdc05843c7388f5e46ad2bf</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Coolray, I</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>2949990</price>
-			<credit_discount>100000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>300000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37622Z6RX594069</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-coolray-i-15-amt-150-лс-flagship-серый-2024/</url></car>
-		<car>
 			<unique_id>7da5ff662a143c85c4a5aa4d8cdb7f44</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Coolray, I</folder_id>
@@ -3507,6 +3367,146 @@
 			</multiposting>
 		<url>https://geelyorenburg.ru/cars/geely-coolray-i-15-amt-150-лс-flagship-красный-2024/</url></car>
 		<car>
+			<unique_id>6337769cfcdc05843c7388f5e46ad2bf</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Coolray, I</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>да</metallic>
+			<availability>в пути</availability>
+			<custom>растаможен</custom>
+			<run>8</run>
+			<year>2024</year>
+			<price>2949990</price>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>300000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37622Z6RX594073</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geelyorenburg.ru/cars/geely-coolray-i-15-amt-150-лс-flagship-серый-2024/</url></car>
+		<car>
+			<unique_id>6337769cfcdc05843c7388f5e46ad2bf</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Coolray, I</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>да</metallic>
+			<availability>в пути</availability>
+			<custom>растаможен</custom>
+			<run>8</run>
+			<year>2024</year>
+			<price>2949990</price>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>300000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37622Z6RX594072</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geelyorenburg.ru/cars/geely-coolray-i-15-amt-150-лс-flagship-серый-2024/</url></car>
+		<car>
+			<unique_id>6337769cfcdc05843c7388f5e46ad2bf</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Coolray, I</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>да</metallic>
+			<availability>в пути</availability>
+			<custom>растаможен</custom>
+			<run>8</run>
+			<year>2024</year>
+			<price>2949990</price>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>300000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37622Z6RX594071</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geelyorenburg.ru/cars/geely-coolray-i-15-amt-150-лс-flagship-серый-2024/</url></car>
+		<car>
+			<unique_id>6337769cfcdc05843c7388f5e46ad2bf</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Coolray, I</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>да</metallic>
+			<availability>в пути</availability>
+			<custom>растаможен</custom>
+			<run>8</run>
+			<year>2024</year>
+			<price>2949990</price>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>300000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37622Z6RX594070</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geelyorenburg.ru/cars/geely-coolray-i-15-amt-150-лс-flagship-серый-2024/</url></car>
+		<car>
+			<unique_id>6337769cfcdc05843c7388f5e46ad2bf</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Coolray, I</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>да</metallic>
+			<availability>в пути</availability>
+			<custom>растаможен</custom>
+			<run>8</run>
+			<year>2024</year>
+			<price>2949990</price>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>300000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37622Z6RX594069</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geelyorenburg.ru/cars/geely-coolray-i-15-amt-150-лс-flagship-серый-2024/</url></car>
+		<car>
 			<unique_id>74e6f02837e7810ef720f6c979271001</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Emgrand, II</folder_id>
@@ -3646,6 +3646,336 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-mt-122-лс-comfort-белый-2023/</url></car>
+		<car>
+			<unique_id>bc9a94595a4f4c38dfc8ad27987eb690</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Emgrand, II</folder_id>
+			<modification_id>1.5 AT (122 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Седан</body_type>
+			<wheel>левый</wheel>
+			<color>Оранжевый</color>
+			<metallic>нет</metallic>
+			<availability>в пути</availability>
+			<custom>растаможен</custom>
+			<run>37</run>
+			<year>2023</year>
+			<price>2539990</price>
+			<credit_discount>200000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>150000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>350000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB3F31031PG090010</vin>
+			<description />
+			<images>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ff6d7bf921108379389f8acc9ced16b5.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/15f7164d87831a8b29838132ba9b5a87.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/14efb389722d324c413428bc7a466668.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/86cfc2d97ad84757e31e6e5e2cd341f8.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/71f23a4b8befedc73c365c41b3e3b9e0.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/84de38cd295a04912c528e87e3550bda.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/088eb8b42991b8f6d1c509f330bdf38c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ecda475b9683a58625fc2dc9adf8ec62.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/1b31ab9565112dc1fc839e0189862c99.jpeg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-оранжевый-2023/</url></car>
+		<car>
+			<unique_id>bc9a94595a4f4c38dfc8ad27987eb690</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Emgrand, II</folder_id>
+			<modification_id>1.5 AT (122 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Седан</body_type>
+			<wheel>левый</wheel>
+			<color>Оранжевый</color>
+			<metallic>нет</metallic>
+			<availability>в пути</availability>
+			<custom>растаможен</custom>
+			<run>37</run>
+			<year>2023</year>
+			<price>2539990</price>
+			<credit_discount>200000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>150000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>350000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB3F31031PG090009</vin>
+			<description />
+			<images>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ff6d7bf921108379389f8acc9ced16b5.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/15f7164d87831a8b29838132ba9b5a87.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/14efb389722d324c413428bc7a466668.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/86cfc2d97ad84757e31e6e5e2cd341f8.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/71f23a4b8befedc73c365c41b3e3b9e0.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/84de38cd295a04912c528e87e3550bda.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/088eb8b42991b8f6d1c509f330bdf38c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ecda475b9683a58625fc2dc9adf8ec62.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/1b31ab9565112dc1fc839e0189862c99.jpeg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-оранжевый-2023/</url></car>
+		<car>
+			<unique_id>bc9a94595a4f4c38dfc8ad27987eb690</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Emgrand, II</folder_id>
+			<modification_id>1.5 AT (122 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Седан</body_type>
+			<wheel>левый</wheel>
+			<color>Оранжевый</color>
+			<metallic>нет</metallic>
+			<availability>в пути</availability>
+			<custom>растаможен</custom>
+			<run>37</run>
+			<year>2023</year>
+			<price>2539990</price>
+			<credit_discount>200000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>150000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>350000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB3F31031PG090008</vin>
+			<description />
+			<images>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ff6d7bf921108379389f8acc9ced16b5.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/15f7164d87831a8b29838132ba9b5a87.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/14efb389722d324c413428bc7a466668.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/86cfc2d97ad84757e31e6e5e2cd341f8.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/71f23a4b8befedc73c365c41b3e3b9e0.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/84de38cd295a04912c528e87e3550bda.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/088eb8b42991b8f6d1c509f330bdf38c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ecda475b9683a58625fc2dc9adf8ec62.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/1b31ab9565112dc1fc839e0189862c99.jpeg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-оранжевый-2023/</url></car>
+		<car>
+			<unique_id>bc9a94595a4f4c38dfc8ad27987eb690</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Emgrand, II</folder_id>
+			<modification_id>1.5 AT (122 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Седан</body_type>
+			<wheel>левый</wheel>
+			<color>Оранжевый</color>
+			<metallic>нет</metallic>
+			<availability>в пути</availability>
+			<custom>растаможен</custom>
+			<run>37</run>
+			<year>2023</year>
+			<price>2539990</price>
+			<credit_discount>200000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>150000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>350000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB3F31031PG090007</vin>
+			<description />
+			<images>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ff6d7bf921108379389f8acc9ced16b5.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/15f7164d87831a8b29838132ba9b5a87.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/14efb389722d324c413428bc7a466668.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/86cfc2d97ad84757e31e6e5e2cd341f8.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/71f23a4b8befedc73c365c41b3e3b9e0.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/84de38cd295a04912c528e87e3550bda.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/088eb8b42991b8f6d1c509f330bdf38c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ecda475b9683a58625fc2dc9adf8ec62.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/1b31ab9565112dc1fc839e0189862c99.jpeg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-оранжевый-2023/</url></car>
+		<car>
+			<unique_id>bc9a94595a4f4c38dfc8ad27987eb690</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Emgrand, II</folder_id>
+			<modification_id>1.5 AT (122 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Седан</body_type>
+			<wheel>левый</wheel>
+			<color>Оранжевый</color>
+			<metallic>нет</metallic>
+			<availability>в пути</availability>
+			<custom>растаможен</custom>
+			<run>37</run>
+			<year>2023</year>
+			<price>2539990</price>
+			<credit_discount>200000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>150000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>350000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB3F31031PG090006</vin>
+			<description />
+			<images>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ff6d7bf921108379389f8acc9ced16b5.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/15f7164d87831a8b29838132ba9b5a87.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/14efb389722d324c413428bc7a466668.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/86cfc2d97ad84757e31e6e5e2cd341f8.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/71f23a4b8befedc73c365c41b3e3b9e0.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/84de38cd295a04912c528e87e3550bda.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/088eb8b42991b8f6d1c509f330bdf38c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ecda475b9683a58625fc2dc9adf8ec62.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31031PG020010/1b31ab9565112dc1fc839e0189862c99.jpeg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-оранжевый-2023/</url></car>
+		<car>
+			<unique_id>c403b9e67b155ba14bbf2f824d003e35</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Emgrand, II</folder_id>
+			<modification_id>1.5 AT (122 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Седан</body_type>
+			<wheel>левый</wheel>
+			<color>БЕЛЫЙ</color>
+			<metallic>нет</metallic>
+			<availability>в пути</availability>
+			<custom>растаможен</custom>
+			<run>10</run>
+			<year>2023</year>
+			<price>2539990</price>
+			<credit_discount>200000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>150000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>350000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB3F31034PG098425</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-белый-2023/</url></car>
+		<car>
+			<unique_id>c403b9e67b155ba14bbf2f824d003e35</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Emgrand, II</folder_id>
+			<modification_id>1.5 AT (122 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Седан</body_type>
+			<wheel>левый</wheel>
+			<color>БЕЛЫЙ</color>
+			<metallic>нет</metallic>
+			<availability>в пути</availability>
+			<custom>растаможен</custom>
+			<run>10</run>
+			<year>2023</year>
+			<price>2539990</price>
+			<credit_discount>200000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>150000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>350000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB3F31034PG098424</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-белый-2023/</url></car>
+		<car>
+			<unique_id>c403b9e67b155ba14bbf2f824d003e35</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Emgrand, II</folder_id>
+			<modification_id>1.5 AT (122 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Седан</body_type>
+			<wheel>левый</wheel>
+			<color>БЕЛЫЙ</color>
+			<metallic>нет</metallic>
+			<availability>в пути</availability>
+			<custom>растаможен</custom>
+			<run>10</run>
+			<year>2023</year>
+			<price>2539990</price>
+			<credit_discount>200000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>150000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>350000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB3F31034PG098423</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-белый-2023/</url></car>
+		<car>
+			<unique_id>c403b9e67b155ba14bbf2f824d003e35</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Emgrand, II</folder_id>
+			<modification_id>1.5 AT (122 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Седан</body_type>
+			<wheel>левый</wheel>
+			<color>БЕЛЫЙ</color>
+			<metallic>нет</metallic>
+			<availability>в пути</availability>
+			<custom>растаможен</custom>
+			<run>10</run>
+			<year>2023</year>
+			<price>2539990</price>
+			<credit_discount>200000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>150000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>350000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB3F31034PG098422</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-белый-2023/</url></car>
+		<car>
+			<unique_id>c403b9e67b155ba14bbf2f824d003e35</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Emgrand, II</folder_id>
+			<modification_id>1.5 AT (122 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Седан</body_type>
+			<wheel>левый</wheel>
+			<color>БЕЛЫЙ</color>
+			<metallic>нет</metallic>
+			<availability>в пути</availability>
+			<custom>растаможен</custom>
+			<run>10</run>
+			<year>2023</year>
+			<price>2539990</price>
+			<credit_discount>200000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>150000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>350000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB3F31034PG098421</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-белый-2023/</url></car>
 		<car>
 			<unique_id>d2cc6017b08e0b4e991fd604f30cf76e</unique_id>
 			<mark_id>Geely</mark_id>
@@ -3971,336 +4301,6 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-белый-2023/</url></car>
-		<car>
-			<unique_id>c403b9e67b155ba14bbf2f824d003e35</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Emgrand, II</folder_id>
-			<modification_id>1.5 AT (122 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Седан</body_type>
-			<wheel>левый</wheel>
-			<color>БЕЛЫЙ</color>
-			<metallic>нет</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>10</run>
-			<year>2023</year>
-			<price>2539990</price>
-			<credit_discount>200000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>350000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3F31034PG098425</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-белый-2023/</url></car>
-		<car>
-			<unique_id>c403b9e67b155ba14bbf2f824d003e35</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Emgrand, II</folder_id>
-			<modification_id>1.5 AT (122 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Седан</body_type>
-			<wheel>левый</wheel>
-			<color>БЕЛЫЙ</color>
-			<metallic>нет</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>10</run>
-			<year>2023</year>
-			<price>2539990</price>
-			<credit_discount>200000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>350000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3F31034PG098424</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-белый-2023/</url></car>
-		<car>
-			<unique_id>c403b9e67b155ba14bbf2f824d003e35</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Emgrand, II</folder_id>
-			<modification_id>1.5 AT (122 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Седан</body_type>
-			<wheel>левый</wheel>
-			<color>БЕЛЫЙ</color>
-			<metallic>нет</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>10</run>
-			<year>2023</year>
-			<price>2539990</price>
-			<credit_discount>200000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>350000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3F31034PG098423</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-белый-2023/</url></car>
-		<car>
-			<unique_id>c403b9e67b155ba14bbf2f824d003e35</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Emgrand, II</folder_id>
-			<modification_id>1.5 AT (122 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Седан</body_type>
-			<wheel>левый</wheel>
-			<color>БЕЛЫЙ</color>
-			<metallic>нет</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>10</run>
-			<year>2023</year>
-			<price>2539990</price>
-			<credit_discount>200000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>350000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3F31034PG098422</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-белый-2023/</url></car>
-		<car>
-			<unique_id>c403b9e67b155ba14bbf2f824d003e35</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Emgrand, II</folder_id>
-			<modification_id>1.5 AT (122 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Седан</body_type>
-			<wheel>левый</wheel>
-			<color>БЕЛЫЙ</color>
-			<metallic>нет</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>10</run>
-			<year>2023</year>
-			<price>2539990</price>
-			<credit_discount>200000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>350000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3F31034PG098421</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-белый-2023/</url></car>
-		<car>
-			<unique_id>bc9a94595a4f4c38dfc8ad27987eb690</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Emgrand, II</folder_id>
-			<modification_id>1.5 AT (122 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Седан</body_type>
-			<wheel>левый</wheel>
-			<color>Оранжевый</color>
-			<metallic>нет</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>37</run>
-			<year>2023</year>
-			<price>2539990</price>
-			<credit_discount>200000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>350000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3F31031PG090010</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ff6d7bf921108379389f8acc9ced16b5.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/15f7164d87831a8b29838132ba9b5a87.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/14efb389722d324c413428bc7a466668.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/86cfc2d97ad84757e31e6e5e2cd341f8.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/71f23a4b8befedc73c365c41b3e3b9e0.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/84de38cd295a04912c528e87e3550bda.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/088eb8b42991b8f6d1c509f330bdf38c.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ecda475b9683a58625fc2dc9adf8ec62.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/1b31ab9565112dc1fc839e0189862c99.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-оранжевый-2023/</url></car>
-		<car>
-			<unique_id>bc9a94595a4f4c38dfc8ad27987eb690</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Emgrand, II</folder_id>
-			<modification_id>1.5 AT (122 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Седан</body_type>
-			<wheel>левый</wheel>
-			<color>Оранжевый</color>
-			<metallic>нет</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>37</run>
-			<year>2023</year>
-			<price>2539990</price>
-			<credit_discount>200000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>350000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3F31031PG090009</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ff6d7bf921108379389f8acc9ced16b5.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/15f7164d87831a8b29838132ba9b5a87.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/14efb389722d324c413428bc7a466668.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/86cfc2d97ad84757e31e6e5e2cd341f8.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/71f23a4b8befedc73c365c41b3e3b9e0.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/84de38cd295a04912c528e87e3550bda.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/088eb8b42991b8f6d1c509f330bdf38c.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ecda475b9683a58625fc2dc9adf8ec62.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/1b31ab9565112dc1fc839e0189862c99.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-оранжевый-2023/</url></car>
-		<car>
-			<unique_id>bc9a94595a4f4c38dfc8ad27987eb690</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Emgrand, II</folder_id>
-			<modification_id>1.5 AT (122 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Седан</body_type>
-			<wheel>левый</wheel>
-			<color>Оранжевый</color>
-			<metallic>нет</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>37</run>
-			<year>2023</year>
-			<price>2539990</price>
-			<credit_discount>200000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>350000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3F31031PG090008</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ff6d7bf921108379389f8acc9ced16b5.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/15f7164d87831a8b29838132ba9b5a87.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/14efb389722d324c413428bc7a466668.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/86cfc2d97ad84757e31e6e5e2cd341f8.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/71f23a4b8befedc73c365c41b3e3b9e0.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/84de38cd295a04912c528e87e3550bda.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/088eb8b42991b8f6d1c509f330bdf38c.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ecda475b9683a58625fc2dc9adf8ec62.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/1b31ab9565112dc1fc839e0189862c99.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-оранжевый-2023/</url></car>
-		<car>
-			<unique_id>bc9a94595a4f4c38dfc8ad27987eb690</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Emgrand, II</folder_id>
-			<modification_id>1.5 AT (122 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Седан</body_type>
-			<wheel>левый</wheel>
-			<color>Оранжевый</color>
-			<metallic>нет</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>37</run>
-			<year>2023</year>
-			<price>2539990</price>
-			<credit_discount>200000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>350000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3F31031PG090007</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ff6d7bf921108379389f8acc9ced16b5.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/15f7164d87831a8b29838132ba9b5a87.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/14efb389722d324c413428bc7a466668.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/86cfc2d97ad84757e31e6e5e2cd341f8.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/71f23a4b8befedc73c365c41b3e3b9e0.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/84de38cd295a04912c528e87e3550bda.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/088eb8b42991b8f6d1c509f330bdf38c.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ecda475b9683a58625fc2dc9adf8ec62.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/1b31ab9565112dc1fc839e0189862c99.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-оранжевый-2023/</url></car>
-		<car>
-			<unique_id>bc9a94595a4f4c38dfc8ad27987eb690</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Emgrand, II</folder_id>
-			<modification_id>1.5 AT (122 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Седан</body_type>
-			<wheel>левый</wheel>
-			<color>Оранжевый</color>
-			<metallic>нет</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>37</run>
-			<year>2023</year>
-			<price>2539990</price>
-			<credit_discount>200000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>350000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3F31031PG090006</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ff6d7bf921108379389f8acc9ced16b5.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/15f7164d87831a8b29838132ba9b5a87.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/14efb389722d324c413428bc7a466668.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/86cfc2d97ad84757e31e6e5e2cd341f8.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/71f23a4b8befedc73c365c41b3e3b9e0.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/84de38cd295a04912c528e87e3550bda.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/088eb8b42991b8f6d1c509f330bdf38c.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/ecda475b9683a58625fc2dc9adf8ec62.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31031PG020010/1b31ab9565112dc1fc839e0189862c99.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-оранжевый-2023/</url></car>
 		<car>
 			<unique_id>fea0c71cd38f9a1f1b23ce60fa7795c7</unique_id>
 			<mark_id>Geely</mark_id>
