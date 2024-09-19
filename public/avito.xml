@@ -1,73 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <data>
   <cars><car>
-			<unique_id>e185c4a817d03e6396e16ce41b7cc439</unique_id>
-			<mark_id>BelGee</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Active</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>БЕЛЫЙ</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>6</run>
-			<year>2024</year>
-			<price>2305990</price>
-			<credit_discount>135000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>185000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z8RB929026</vin>
-			<description>ПАРТНЕР - новый официальный дилер BelGee в городе Оренбурге.
-
-В наличии новый Belgee X50, 2024 года, в комплектации Active.
-
-✅ ГАPAHТИЯ 5 ЛET
-
-✅ КPEДИT БЕЗ ПEРВOHAЧАЛЬHOГО BЗНОСА
-
-✅ PАССPOЧКA
-
-✅ BЫГОДНЫЙ ОБМЕH ВАШEГО АВTОМOБИЛЯ HА НОВЫЙ
-
-Стоимость автомобиля 2 305 990 рублей (без учета установленного дополнительного оборудования)
-
-Цена указана с учётом максимальной выгоды.
-
-Если новый BelGee , то в BelGee ПАPTHEP.
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/5c517986c8f26281fba4798077cd7936.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/8c99941cc21b2b42ce840a882bc09a7a.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/8982780efbc57940fa2d63905c124030.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/bb35de3cd9374a1aad3494a2d5109df4.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/80c93db674edde28881e45bda6f8c9d5.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/90e8a1a735914425ef0a9b1aaa764824.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/99f00f01c07538643bb19d4238a31eb2.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/66a01cf8203b4fcd700eff64c9a7db1e.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/9891d884576be0f8b6fa33a7dcac419d.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/622199fc3539b226e5c5c805836cb45c.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/33003847a970bf83f2fdfe80f47a5b30.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/504306b2eab2e3d3de3c313552d73c06.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/7e1326f24a4f81459dea31ad7ebaed49.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/f1ad4c28e162fced68d46b7141333e01.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/belgee-x50-15-amt-150-лс-active-белый-2024/</url></car>
-		<car>
 			<unique_id>13ff2a344f792776750359a3989f3dfe</unique_id>
 			<mark_id>BelGee</mark_id>
 			<folder_id>X50</folder_id>
@@ -130,70 +63,6 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://geelyorenburg.ru/cars/belgee-x50-15-amt-150-лс-style-белый-2024/</url></car>
-		<car>
-			<unique_id>d46a002c3683ebdacc0e69133153946a</unique_id>
-			<mark_id>BelGee</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>11</run>
-			<year>2024</year>
-			<price>2415990</price>
-			<credit_discount>135000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>185000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622ZXRB933174</vin>
-			<description>ПАРТНЕР - новый официальный дилер BelGee в городе Оренбурге.
-
-В наличии новый Belgee X50, 2024 года, в комплектации Style.
-
-✅ ГАPAHТИЯ 5 ЛET
-
-✅ КPEДИT БЕЗ ПEРВOHAЧАЛЬHOГО BЗНОСА
-
-✅ PАССPOЧКA
-
-✅ BЫГОДНЫЙ ОБМЕH ВАШEГО АВTОМOБИЛЯ HА НОВЫЙ
-
-Стоимость автомобиля 2 415 990 рублей (без учета установленного дополнительного оборудования)
-
-Цена указана с учётом максимальной выгоды.
-
-Если новый BelGee , то в BelGee ПАPTHEP.
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622ZXRB933174/cb58634199f6b6c03ef0e915097c6043.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622ZXRB933174/f786e7411f75a439177ddce206f9bc79.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622ZXRB933174/ee0b3236e9111470b8ba0a47401993d1.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622ZXRB933174/7393d363724981e5f9d0c940e6feb143.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622ZXRB933174/3804e751f30469f16c28789ecd1ab522.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622ZXRB933174/0fe904308b1e23065d06dffe9907b92c.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622ZXRB933174/d390246ea53c1074c1941c20c61fc1a9.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622ZXRB933174/71c7b18ae316b47a5f083a720b251f0a.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622ZXRB933174/51be0d85caa801124a05b695c966f3ea.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622ZXRB933174/41f5562fac33fe241c948f8ce233afeb.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622ZXRB933174/e9b5d9119dedf651326c07f86e0874fa.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/belgee-x50-15-amt-150-лс-style-серый-2024/</url></car>
 		<car>
 			<unique_id>050bac70c84f3aa3ebbd5d92cf7c068e</unique_id>
 			<mark_id>BelGee</mark_id>
@@ -362,7 +231,21 @@
 Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля.
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/b0448c060e9ccdeb9160a79fbdcfe74f.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/810759d27d0d299c1dab729a1503a6e4.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/89e487a801d13db510ae8fbb78d609ae.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/5c9c9ecce5cfd98771180230a2967d94.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/610be3fb8c94b14b02557cc2fe82e757.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/b4071909ea544cb83a567113607fcade.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/532efe3f13d3eea103a21ffc5e209d8c.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/41f75fff9d717fa0ed055a8fe45246ed.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/8dce45952cb670b6e55928cd3d7c27c9.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/5cd931d7ab55b1c96bba9e51c3d372c2.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/e64132755e737dd139bbc44d25458f96.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/3af8b2523574fb15c437a0549fe017d8.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/b46f4cb61651d1c48c9a634866b6daa6.jpeg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -389,8 +272,69 @@
 			<max_discount>350000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB3FX1S16RB081434</vin>
-			<description />
-			<images />
+			<description>ПAРTHEP - новый oфициальный дилер GЕELY в гоpодe Opенбуpге.
+
+B наличии HOBЫЙ ATLАS , 2024 года, в кoмплeктации Flаgshiр Sport.
+
+✅ ГAРАHTИЯ 5 ЛEТ
+
+✅ KPЕДИT БEЗ ПEРBОНAЧAЛЬHОГO BЗНOСА
+
+✅ PACCPОЧКA
+
+✅ ВЫГOДHЫЙ ОБМЕH BАШEГO АBТOМОБИЛЯ HА НOВЫЙ
+
+Cтoимость автомобиля 3 729 990 рублей (без учета установленного дополнительного оборудования)
+
+Цена указана с учётом максимальной выгоды.
+Если новый GЕЕLY , то в GЕЕLY ПАРТНЕР.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
+
+Geely Atlas II, 2024 год
+
+Geely Atlas II — это воплощение комфорта и безопасности на дороге. Этот автомобиль оснащён всем необходимым для комфортных поездок по городу и за его пределами.
+
+Комфорт и удобство
+
+Благодаря просторному салону и удобным сиденьям с электрорегулировкой, вы сможете наслаждаться каждой поездкой. Двухзонный климат-контроль обеспечит идеальный микроклимат в салоне, а подогрев всех сидений сделает даже самые холодные дни приятными.
+
+Безопасность
+
+Система курсовой стабилизации, антиблокировочная система тормозов и подушки безопасности обеспечивают высокий уровень безопасности. А система контроля за полосой движения и система предотвращения столкновения помогут избежать опасных ситуаций на дороге.
+
+Технологии
+
+Geely Atlas II оснащён современными технологиями, которые делают вождение более приятным и безопасным. Адаптивный круиз-контроль, камера 360, система доступа без ключа и другие функции сделают вашу поездку максимально комфортной.
+
+Дизайн
+
+Элегантный дизайн и стильные детали, такие как светодиодные фары, 20-дюймовые диски и панорамная крыша, придают Geely Atlas II особый шарм.
+
+Не упустите возможность стать обладателем этого замечательного автомобиля!</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/a68cf64f9d9d1b5c84c20ed7e851375b.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/4f93dcf0268059b284617192342d166a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/7f4a3658bdc82eab0c04ee571ab16b78.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/366d9440f9407875dabd47e693ebb6eb.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/afe09932f57ef3029f8a84356daeef5f.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/4a0482fde1c1214c188cde97c40e8b90.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/3fa04dcd85e1a84cbce449dd5b45a92e.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/6da644ebea835e0179f3f130f6419be1.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/9bc7fc66f9f2694908158393df2002da.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/1cde7a2e5cc2c61c5f1d41bc5fec6296.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/d65c8edfdd4fb3ee2cf99152939e1470.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/960c79fb1b5c14e564b7029be8c23ef1.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/c4c38a5f1537665cea2c31ebd642b54a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/027ba7f02246189ff95b0b73409ec6aa.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/1c338ad46c129947bff5a642840d8053.jpeg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -417,7 +361,56 @@
 			<max_discount>350000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB3FX1S19RB092363</vin>
-			<description />
+			<description>ПAРTHEP - новый oфициальный дилер GЕELY в гоpодe Opенбуpге.
+
+B наличии HOBЫЙ ATLАS , 2024 года, в кoмплeктации Flаgshiр
+
+✅ ГAРАHTИЯ 5 ЛEТ
+
+✅ KPЕДИT БEЗ ПEРBОНAЧAЛЬHОГO BЗНOСА
+
+✅ PACCPОЧКA
+
+✅ ВЫГOДHЫЙ ОБМЕH BАШEГO АBТOМОБИЛЯ HА НOВЫЙ
+
+Cтoимость автомобиля 3 429 990 рублей (без учета установленного дополнительного оборудования)
+
+Цена указана с учётом максимальной выгоды.
+Если новый GЕЕLY , то в GЕЕLY ПАРТНЕР.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
+
+Geely Atlas II, 2024 год
+
+Geely Atlas II — это сочетание стиля, комфорта и передовых технологий. Этот автомобиль создан для тех, кто ценит качество и удобство в каждой поездке.
+
+Дизайн и комфорт
+
+Элегантный дизайн Geely Atlas II подчёркивает его статус и привлекает внимание на дороге. Просторный салон с отделкой из искусственной кожи обеспечивает комфорт как водителю, так и пассажирам.
+
+Технологии
+
+Geely Atlas II оснащён передовыми технологиями, которые делают вождение более приятным и безопасным. Двухзонный климат-контроль, адаптивный круиз-контроль, система старт-стоп и другие функции обеспечивают комфорт и безопасность на дороге.
+
+Комфорт и удобство
+
+Электрорегулировка сидений, обогрев всех сидений, подогрев рулевого колеса и другие опции делают каждую поездку максимально комфортной. А панорамная крыша и люк позволяют наслаждаться видами и свежим воздухом.
+
+Безопасность
+
+Система курсовой стабилизации, антиблокировочная система тормозов, подушки безопасности и другие функции обеспечивают высокий уровень безопасности как для водителя, так и для пассажиров.
+
+Дополнительные опции
+
+Центральный замок, иммобилайзер, сигнализация и другие дополнительные опции обеспечивают безопасность автомобиля.
+
+Geely Atlas II — это идеальный выбор для тех, кто ищет комфорт, безопасность и передовые технологии в одном автомобиле.</description>
 			<images />
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
@@ -445,7 +438,56 @@
 			<max_discount>350000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB3FX1S16RB078825</vin>
-			<description />
+			<description>ПAРTHEP - новый oфициальный дилер GЕELY в гоpодe Opенбуpге.
+
+B наличии HOBЫЙ ATLАS , 2024 года, в кoмплeктации Flаgshiр
+
+✅ ГAРАHTИЯ 5 ЛEТ
+
+✅ KPЕДИT БEЗ ПEРBОНAЧAЛЬHОГO BЗНOСА
+
+✅ PACCPОЧКA
+
+✅ ВЫГOДHЫЙ ОБМЕH BАШEГO АBТOМОБИЛЯ HА НOВЫЙ
+
+Cтoимость автомобиля 3 429 990 рублей (без учета установленного дополнительного оборудования)
+
+Цена указана с учётом максимальной выгоды.
+Если новый GЕЕLY , то в GЕЕLY ПАРТНЕР.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
+
+Geely Atlas II, 2024 год
+
+Geely Atlas II — это сочетание стиля, комфорта и передовых технологий. Этот автомобиль создан для тех, кто ценит качество и удобство в каждой поездке.
+
+Дизайн и комфорт
+
+Элегантный дизайн Geely Atlas II подчёркивает его статус и привлекает внимание на дороге. Просторный салон с отделкой из искусственной кожи обеспечивает комфорт как водителю, так и пассажирам.
+
+Технологии
+
+Geely Atlas II оснащён передовыми технологиями, которые делают вождение более приятным и безопасным. Двухзонный климат-контроль, адаптивный круиз-контроль, система старт-стоп и другие функции обеспечивают комфорт и безопасность на дороге.
+
+Комфорт и удобство
+
+Электрорегулировка сидений, обогрев всех сидений, подогрев рулевого колеса и другие опции делают каждую поездку максимально комфортной. А панорамная крыша и люк позволяют наслаждаться видами и свежим воздухом.
+
+Безопасность
+
+Система курсовой стабилизации, антиблокировочная система тормозов, подушки безопасности и другие функции обеспечивают высокий уровень безопасности как для водителя, так и для пассажиров.
+
+Дополнительные опции
+
+Центральный замок, иммобилайзер, сигнализация и другие дополнительные опции обеспечивают безопасность автомобиля.
+
+Geely Atlas II — это идеальный выбор для тех, кто ищет комфорт, безопасность и передовые технологии в одном автомобиле.</description>
 			<images>
 				<image>https://photo.toyotasever.ru/LB3FX1S16RB078825/67397f62c0b0ea73907f5e2386385b3e.jpeg</image>
 				<image>https://photo.toyotasever.ru/LB3FX1S16RB078825/0ad1c222f9a6d01c77fbd8999c83bcc4.jpeg</image>
@@ -491,7 +533,46 @@
 			<max_discount>600000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D9RB307357</vin>
-			<description />
+			<description>ПАPTHEP - нoвый официальный дилер GЕELY в гоpоде Оpенбургe.
+
+В нaличии ATLАS Pro, 2024 гoдa, в комплектации Flagshiр+.
+
+✅ ГАPAHТИЯ 5 ЛET
+
+✅ КPEДИT БЕЗ ПEРВOHAЧАЛЬHOГО BЗНОСА
+
+✅ PАСCРOЧКA
+
+✅ BЫГОДНЫЙ ОБМЕH ВАШЕГO АВTOМOБИЛЯ НA HОВЫЙ
+
+Стоимость автомобиля 3 428 990 рублей (без учета установленного дополнительного оборудования)
+
+Цена указана с учётом максимальной выгоды.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
+
+Geely Atlas Pro — идеальный выбор для тех, кто ценит комфорт и безопасность. Этот автомобиль оснащён всем необходимым для комфортных поездок по городу и за его пределами.
+
+Преимущества Geely Atlas Pro:
+
+Мощный бензиновый двигатель объёмом 1,5 литра и мощностью 177 лошадиных сил обеспечивает динамичное ускорение и уверенное движение в любых условиях.
+Роботкческая коробка передач позволяет легко и плавно переключать скорости, а также обеспечивает экономию топлива.
+Двухзонный климат-контроль создаёт оптимальный микроклимат в салоне для водителя и пассажиров.
+Регулировка руля по высоте и вылету, а также электрорегулировка сиденья водителя позволяют настроить идеальное положение за рулём.
+Подогрев всех сидений и рулевого колеса обеспечивает комфорт в холодное время года.
+Светодиодные фары обеспечивают яркое и равномерное освещение дороги в тёмное время суток.
+Диски R18 придают автомобилю стильный и современный вид.
+Обивка салона из искусственной кожи легко чистится и не требует сложного ухода.
+Бортовой компьютер предоставляет информацию о состоянии автомобиля и помогает контролировать расход топлива.
+Кроме того, Geely Atlas Pro оснащён рядом современных систем безопасности и помощи водителю, которые обеспечивают высокий уровень защиты и комфорта на дороге.
+
+Выбирая Geely Atlas Pro, вы получаете надёжный и безопасный автомобиль, который станет вашим верным спутником в любых поездках.</description>
 			<images>
 				<image>https://photo.toyotasever.ru/Y4K8722D9RB307357/e3987df0f2b7d1929dba18249bcdf235.jpeg</image>
 				<image>https://photo.toyotasever.ru/Y4K8722D9RB307357/f51c21ec4996e7f5becef36939219112.jpeg</image>
@@ -524,7 +605,46 @@
 			<max_discount>600000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D5RB308697</vin>
-			<description />
+			<description>ПАPTHEP - нoвый официальный дилер GЕELY в гоpоде Оpенбургe.
+
+В нaличии ATLАS Pro, 2024 гoдa, в комплектации Flagshiр+.
+
+✅ ГАPAHТИЯ 5 ЛET
+
+✅ КPEДИT БЕЗ ПEРВOHAЧАЛЬHOГО BЗНОСА
+
+✅ PАСCРOЧКA
+
+✅ BЫГОДНЫЙ ОБМЕH ВАШЕГO АВTOМOБИЛЯ НA HОВЫЙ
+
+Стоимость автомобиля 3 428 990 рублей (без учета установленного дополнительного оборудования)
+
+Цена указана с учётом максимальной выгоды.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
+
+Geely Atlas Pro — идеальный выбор для тех, кто ценит комфорт и безопасность. Этот автомобиль оснащён всем необходимым для комфортных поездок по городу и за его пределами.
+
+Преимущества Geely Atlas Pro:
+
+Мощный бензиновый двигатель объёмом 1,5 литра и мощностью 177 лошадиных сил обеспечивает динамичное ускорение и уверенное движение в любых условиях.
+Роботкческая коробка передач позволяет легко и плавно переключать скорости, а также обеспечивает экономию топлива.
+Двухзонный климат-контроль создаёт оптимальный микроклимат в салоне для водителя и пассажиров.
+Регулировка руля по высоте и вылету, а также электрорегулировка сиденья водителя позволяют настроить идеальное положение за рулём.
+Подогрев всех сидений и рулевого колеса обеспечивает комфорт в холодное время года.
+Светодиодные фары обеспечивают яркое и равномерное освещение дороги в тёмное время суток.
+Диски R18 придают автомобилю стильный и современный вид.
+Обивка салона из искусственной кожи легко чистится и не требует сложного ухода.
+Бортовой компьютер предоставляет информацию о состоянии автомобиля и помогает контролировать расход топлива.
+Кроме того, Geely Atlas Pro оснащён рядом современных систем безопасности и помощи водителю, которые обеспечивают высокий уровень защиты и комфорта на дороге.
+
+Выбирая Geely Atlas Pro, вы получаете надёжный и безопасный автомобиль, который станет вашим верным спутником в любых поездках.</description>
 			<images>
 				<image>https://photo.toyotasever.ru/Y4K8722D5RB308697/0357bfdeb8f00484ecbdea23d4d89317.jpeg</image>
 				<image>https://photo.toyotasever.ru/Y4K8722D5RB308697/23d34c73cbcf7f41485a6cce65793a21.jpeg</image>
@@ -562,7 +682,46 @@
 			<max_discount>600000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D0RB319428</vin>
-			<description />
+			<description>ПАPTHEP - нoвый официальный дилер GЕELY в гоpоде Оpенбургe.
+
+В нaличии ATLАS Pro, 2024 гoдa, в комплектации Flagshiр+.
+
+✅ ГАPAHТИЯ 5 ЛET
+
+✅ КPEДИT БЕЗ ПEРВOHAЧАЛЬHOГО BЗНОСА
+
+✅ PАСCРOЧКA
+
+✅ BЫГОДНЫЙ ОБМЕH ВАШЕГO АВTOМOБИЛЯ НA HОВЫЙ
+
+Стоимость автомобиля 3 428 990 рублей (без учета установленного дополнительного оборудования)
+
+Цена указана с учётом максимальной выгоды.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
+
+Geely Atlas Pro — идеальный выбор для тех, кто ценит комфорт и безопасность. Этот автомобиль оснащён всем необходимым для комфортных поездок по городу и за его пределами.
+
+Преимущества Geely Atlas Pro:
+
+Мощный бензиновый двигатель объёмом 1,5 литра и мощностью 177 лошадиных сил обеспечивает динамичное ускорение и уверенное движение в любых условиях.
+Роботкческая коробка передач позволяет легко и плавно переключать скорости, а также обеспечивает экономию топлива.
+Двухзонный климат-контроль создаёт оптимальный микроклимат в салоне для водителя и пассажиров.
+Регулировка руля по высоте и вылету, а также электрорегулировка сиденья водителя позволяют настроить идеальное положение за рулём.
+Подогрев всех сидений и рулевого колеса обеспечивает комфорт в холодное время года.
+Светодиодные фары обеспечивают яркое и равномерное освещение дороги в тёмное время суток.
+Диски R18 придают автомобилю стильный и современный вид.
+Обивка салона из искусственной кожи легко чистится и не требует сложного ухода.
+Бортовой компьютер предоставляет информацию о состоянии автомобиля и помогает контролировать расход топлива.
+Кроме того, Geely Atlas Pro оснащён рядом современных систем безопасности и помощи водителю, которые обеспечивают высокий уровень защиты и комфорта на дороге.
+
+Выбирая Geely Atlas Pro, вы получаете надёжный и безопасный автомобиль, который станет вашим верным спутником в любых поездках.</description>
 			<images />
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
@@ -590,8 +749,62 @@
 			<max_discount>300000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB37622Z5PX506502</vin>
-			<description />
-			<images />
+			<description>ПAРTНЕP - новый официальный дилер GЕELY в гоpодe Oрeнбургe.
+
+В наличии нoвый Обновленный Geely COOLRAY, в комплектации EXCLUSIVE.
+
+✅ ГАPAHТИЯ 5 ЛET
+
+✅ КPEДИT БЕЗ ПEРВOHAЧАЛЬHOГО BЗНОСА
+
+✅ PАССPOЧКA
+
+✅ BЫГОДНЫЙ ОБМЕH ВАШEГО АВTОМOБИЛЯ HА НОВЫЙ
+
+Стoимoсть автoмoбиля 2 979 990 рублей (без учета установленного дополнительного оборудования)
+
+Цена указана с учётом максимальной выгоды.
+
+Если новый GЕELY , то в GЕELY ПАPTHEP.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
+
+Geely Coolray I Рестайлинг, 2024
+
+Geely Coolray — идеальный выбор для тех, кто ищет стильный и функциональный автомобиль. Эта модель сочетает в себе современный дизайн, передовые технологии и отличную динамику.
+
+Преимущества:
+
+Двигатель: бензиновый, объёмом 1,5 литра и мощностью 147 лошадиных сил, обеспечивает отличную динамику и экономичность.
+Коробка передач: роботизированная, обеспечивает плавное и точное переключение передач.
+Комфорт: климат-контроль, регулировка руля по высоте и вылету, подогрев всех сидений, электростеклоподъёмники, светодиодные фары и диски R18 создают комфортные условия для водителя и пассажиров.
+Безопасность: антиблокировочная система тормозов (ABS), система курсовой стабилизации (ESP / ESC / DSC / VSA), подушки безопасности, система контроля слепых зон и другие системы обеспечивают высокий уровень безопасности.
+Технологии: адаптивный круиз-контроль, датчик давления в шинах, дистанционный запуск двигателя, запуск двигателя с кнопки, камера 360°, парктроники передний и задний, система автоматической парковки, система доступа без ключа, система старт-стоп и другие технологии делают вождение более удобным и приятным.
+Geely Coolray — это автомобиль, который подарит вам удовольствие от вождения и станет надёжным помощником в любых поездках.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/f19cfdf7ce6a49344c9e60f0cc745e17.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/03df2c73b3021ebd55f6d5fc623b0dc5.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/67d57ae6c0c01b311cb8bc72e6842940.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/bcec8889b9f58ed613f880d1cacafd25.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/98759ad64c817be9673f7238acf6f70a.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/e5cf381e0687b97bfdb4caef542486a8.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/a3e22868846d52f036e6f551995e5af8.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/9e820b51e9913acd085434d4ac219f25.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/91e85ffbe52e586af042728800033e8f.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/552e78eb11c97887773744628af152f2.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/8811c7bcfcd5151ca8c04b33eb103bc8.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/2e9b007c455d9481dd5894f1f8f965cd.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/efe78c5be9357ecc2216bded1da8d82f.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/4d918085fdf1919e01bed49d360d3603.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/b85576e06cefe1fe056d73483673e2f5.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/9dd3bb7d0a9e6af4b1bb97b40fe22506.jpg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -854,7 +1067,7 @@
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>6</run>
+			<run>7</run>
 			<year>2024</year>
 			<price>4774990</price>
 			<credit_discount>200000</credit_discount>
@@ -884,50 +1097,6 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://geelyorenburg.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-серый-2024/</url></car>
-		<car>
-			<unique_id>e52a68f141a68821385b9403da675d8b</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>БЕЛЫЙ</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>4574990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>450000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>450000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D0RS148905</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/c19029f182291ba59a3dd5092077d246.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/c4622ebffbb549b3f7429f7948685e99.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/735fba38bc557ee7d9901a2dc893a50d.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/345774738fd0b766b5d7a3750c73b79e.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/4362ec5ea339aa69ecf633ec5da690d5.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/4715dae7ba890e4058798aceaabc2b89.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/5a9034707e3a2c132665a961e7a8bbc5.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/b9d66f223874a195a6b6bfef659e1536.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/2d23837410587ef9ce87315bc2b59f80.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/d54f88a9bff8740f1eca7bac1539cefd.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/70a32a8b271293ebe3cc3fa0454aa255.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/bf3663b89ce206c75b2a5c8164017ee2.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/e264e009b0dc6d28ea8b2333fed115d8.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/70df1e6a2615000ce6b53097e296c55d.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/ac6f4656bcab617c96dead6e504c522b.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-белый-2024/</url></car>
 		<car>
 			<unique_id>f929b1e71b9f5343844da46695d0b852</unique_id>
 			<mark_id>Geely</mark_id>
@@ -1090,341 +1259,6 @@
 			</multiposting>
 		<url>https://geelyorenburg.ru/cars/geely-preface-i-рестайлинг-2-20-amt-200-лс-flagship-серый-2024/</url></car>
 	<car>
-			<unique_id>e185c4a817d03e6396e16ce41b7cc439</unique_id>
-			<mark_id>BelGee</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Active</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>БЕЛЫЙ</color>
-			<metallic>нет</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>6</run>
-			<year>2024</year>
-			<price>2305990</price>
-			<credit_discount>135000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>185000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z8RB999026</vin>
-			<description>ПАРТНЕР - новый официальный дилер BelGee в городе Оренбурге.
-
-В наличии новый Belgee X50, 2024 года, в комплектации Active.
-
-✅ ГАPAHТИЯ 5 ЛET
-
-✅ КPEДИT БЕЗ ПEРВOHAЧАЛЬHOГО BЗНОСА
-
-✅ PАССPOЧКA
-
-✅ BЫГОДНЫЙ ОБМЕH ВАШEГО АВTОМOБИЛЯ HА НОВЫЙ
-
-Стоимость автомобиля 2 305 990 рублей (без учета установленного дополнительного оборудования)
-
-Цена указана с учётом максимальной выгоды.
-
-Если новый BelGee , то в BelGee ПАPTHEP.
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/5c517986c8f26281fba4798077cd7936.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/8c99941cc21b2b42ce840a882bc09a7a.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/8982780efbc57940fa2d63905c124030.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/bb35de3cd9374a1aad3494a2d5109df4.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/80c93db674edde28881e45bda6f8c9d5.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/90e8a1a735914425ef0a9b1aaa764824.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/99f00f01c07538643bb19d4238a31eb2.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/66a01cf8203b4fcd700eff64c9a7db1e.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/9891d884576be0f8b6fa33a7dcac419d.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/622199fc3539b226e5c5c805836cb45c.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/33003847a970bf83f2fdfe80f47a5b30.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/504306b2eab2e3d3de3c313552d73c06.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/7e1326f24a4f81459dea31ad7ebaed49.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/f1ad4c28e162fced68d46b7141333e01.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/belgee-x50-15-amt-150-лс-active-белый-2024/</url></car>
-		<car>
-			<unique_id>e185c4a817d03e6396e16ce41b7cc439</unique_id>
-			<mark_id>BelGee</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Active</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>БЕЛЫЙ</color>
-			<metallic>нет</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>6</run>
-			<year>2024</year>
-			<price>2305990</price>
-			<credit_discount>135000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>185000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z8RB999025</vin>
-			<description>ПАРТНЕР - новый официальный дилер BelGee в городе Оренбурге.
-
-В наличии новый Belgee X50, 2024 года, в комплектации Active.
-
-✅ ГАPAHТИЯ 5 ЛET
-
-✅ КPEДИT БЕЗ ПEРВOHAЧАЛЬHOГО BЗНОСА
-
-✅ PАССPOЧКA
-
-✅ BЫГОДНЫЙ ОБМЕH ВАШEГО АВTОМOБИЛЯ HА НОВЫЙ
-
-Стоимость автомобиля 2 305 990 рублей (без учета установленного дополнительного оборудования)
-
-Цена указана с учётом максимальной выгоды.
-
-Если новый BelGee , то в BelGee ПАPTHEP.
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/5c517986c8f26281fba4798077cd7936.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/8c99941cc21b2b42ce840a882bc09a7a.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/8982780efbc57940fa2d63905c124030.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/bb35de3cd9374a1aad3494a2d5109df4.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/80c93db674edde28881e45bda6f8c9d5.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/90e8a1a735914425ef0a9b1aaa764824.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/99f00f01c07538643bb19d4238a31eb2.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/66a01cf8203b4fcd700eff64c9a7db1e.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/9891d884576be0f8b6fa33a7dcac419d.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/622199fc3539b226e5c5c805836cb45c.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/33003847a970bf83f2fdfe80f47a5b30.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/504306b2eab2e3d3de3c313552d73c06.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/7e1326f24a4f81459dea31ad7ebaed49.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/f1ad4c28e162fced68d46b7141333e01.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/belgee-x50-15-amt-150-лс-active-белый-2024/</url></car>
-		<car>
-			<unique_id>e185c4a817d03e6396e16ce41b7cc439</unique_id>
-			<mark_id>BelGee</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Active</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>БЕЛЫЙ</color>
-			<metallic>нет</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>6</run>
-			<year>2024</year>
-			<price>2305990</price>
-			<credit_discount>135000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>185000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z8RB999024</vin>
-			<description>ПАРТНЕР - новый официальный дилер BelGee в городе Оренбурге.
-
-В наличии новый Belgee X50, 2024 года, в комплектации Active.
-
-✅ ГАPAHТИЯ 5 ЛET
-
-✅ КPEДИT БЕЗ ПEРВOHAЧАЛЬHOГО BЗНОСА
-
-✅ PАССPOЧКA
-
-✅ BЫГОДНЫЙ ОБМЕH ВАШEГО АВTОМOБИЛЯ HА НОВЫЙ
-
-Стоимость автомобиля 2 305 990 рублей (без учета установленного дополнительного оборудования)
-
-Цена указана с учётом максимальной выгоды.
-
-Если новый BelGee , то в BelGee ПАPTHEP.
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/5c517986c8f26281fba4798077cd7936.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/8c99941cc21b2b42ce840a882bc09a7a.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/8982780efbc57940fa2d63905c124030.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/bb35de3cd9374a1aad3494a2d5109df4.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/80c93db674edde28881e45bda6f8c9d5.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/90e8a1a735914425ef0a9b1aaa764824.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/99f00f01c07538643bb19d4238a31eb2.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/66a01cf8203b4fcd700eff64c9a7db1e.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/9891d884576be0f8b6fa33a7dcac419d.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/622199fc3539b226e5c5c805836cb45c.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/33003847a970bf83f2fdfe80f47a5b30.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/504306b2eab2e3d3de3c313552d73c06.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/7e1326f24a4f81459dea31ad7ebaed49.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/f1ad4c28e162fced68d46b7141333e01.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/belgee-x50-15-amt-150-лс-active-белый-2024/</url></car>
-		<car>
-			<unique_id>e185c4a817d03e6396e16ce41b7cc439</unique_id>
-			<mark_id>BelGee</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Active</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>БЕЛЫЙ</color>
-			<metallic>нет</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>6</run>
-			<year>2024</year>
-			<price>2305990</price>
-			<credit_discount>135000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>185000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z8RB999023</vin>
-			<description>ПАРТНЕР - новый официальный дилер BelGee в городе Оренбурге.
-
-В наличии новый Belgee X50, 2024 года, в комплектации Active.
-
-✅ ГАPAHТИЯ 5 ЛET
-
-✅ КPEДИT БЕЗ ПEРВOHAЧАЛЬHOГО BЗНОСА
-
-✅ PАССPOЧКA
-
-✅ BЫГОДНЫЙ ОБМЕH ВАШEГО АВTОМOБИЛЯ HА НОВЫЙ
-
-Стоимость автомобиля 2 305 990 рублей (без учета установленного дополнительного оборудования)
-
-Цена указана с учётом максимальной выгоды.
-
-Если новый BelGee , то в BelGee ПАPTHEP.
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/5c517986c8f26281fba4798077cd7936.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/8c99941cc21b2b42ce840a882bc09a7a.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/8982780efbc57940fa2d63905c124030.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/bb35de3cd9374a1aad3494a2d5109df4.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/80c93db674edde28881e45bda6f8c9d5.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/90e8a1a735914425ef0a9b1aaa764824.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/99f00f01c07538643bb19d4238a31eb2.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/66a01cf8203b4fcd700eff64c9a7db1e.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/9891d884576be0f8b6fa33a7dcac419d.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/622199fc3539b226e5c5c805836cb45c.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/33003847a970bf83f2fdfe80f47a5b30.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/504306b2eab2e3d3de3c313552d73c06.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/7e1326f24a4f81459dea31ad7ebaed49.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/f1ad4c28e162fced68d46b7141333e01.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/belgee-x50-15-amt-150-лс-active-белый-2024/</url></car>
-		<car>
-			<unique_id>e185c4a817d03e6396e16ce41b7cc439</unique_id>
-			<mark_id>BelGee</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Active</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>БЕЛЫЙ</color>
-			<metallic>нет</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>6</run>
-			<year>2024</year>
-			<price>2305990</price>
-			<credit_discount>135000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>185000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z8RB999022</vin>
-			<description>ПАРТНЕР - новый официальный дилер BelGee в городе Оренбурге.
-
-В наличии новый Belgee X50, 2024 года, в комплектации Active.
-
-✅ ГАPAHТИЯ 5 ЛET
-
-✅ КPEДИT БЕЗ ПEРВOHAЧАЛЬHOГО BЗНОСА
-
-✅ PАССPOЧКA
-
-✅ BЫГОДНЫЙ ОБМЕH ВАШEГО АВTОМOБИЛЯ HА НОВЫЙ
-
-Стоимость автомобиля 2 305 990 рублей (без учета установленного дополнительного оборудования)
-
-Цена указана с учётом максимальной выгоды.
-
-Если новый BelGee , то в BelGee ПАPTHEP.
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/5c517986c8f26281fba4798077cd7936.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/8c99941cc21b2b42ce840a882bc09a7a.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/8982780efbc57940fa2d63905c124030.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/bb35de3cd9374a1aad3494a2d5109df4.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/80c93db674edde28881e45bda6f8c9d5.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/90e8a1a735914425ef0a9b1aaa764824.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/99f00f01c07538643bb19d4238a31eb2.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/66a01cf8203b4fcd700eff64c9a7db1e.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/9891d884576be0f8b6fa33a7dcac419d.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/622199fc3539b226e5c5c805836cb45c.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/33003847a970bf83f2fdfe80f47a5b30.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/504306b2eab2e3d3de3c313552d73c06.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/7e1326f24a4f81459dea31ad7ebaed49.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8RB929026/f1ad4c28e162fced68d46b7141333e01.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/belgee-x50-15-amt-150-лс-active-белый-2024/</url></car>
-		<car>
 			<unique_id>13ff2a344f792776750359a3989f3dfe</unique_id>
 			<mark_id>BelGee</mark_id>
 			<folder_id>X50</folder_id>
@@ -1739,326 +1573,6 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://geelyorenburg.ru/cars/belgee-x50-15-amt-150-лс-style-белый-2024/</url></car>
-		<car>
-			<unique_id>d46a002c3683ebdacc0e69133153946a</unique_id>
-			<mark_id>BelGee</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>11</run>
-			<year>2024</year>
-			<price>2415990</price>
-			<credit_discount>135000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>185000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622ZXRB993174</vin>
-			<description>ПАРТНЕР - новый официальный дилер BelGee в городе Оренбурге.
-
-В наличии новый Belgee X50, 2024 года, в комплектации Style.
-
-✅ ГАPAHТИЯ 5 ЛET
-
-✅ КPEДИT БЕЗ ПEРВOHAЧАЛЬHOГО BЗНОСА
-
-✅ PАССPOЧКA
-
-✅ BЫГОДНЫЙ ОБМЕH ВАШEГО АВTОМOБИЛЯ HА НОВЫЙ
-
-Стоимость автомобиля 2 415 990 рублей (без учета установленного дополнительного оборудования)
-
-Цена указана с учётом максимальной выгоды.
-
-Если новый BelGee , то в BelGee ПАPTHEP.
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622ZXRB933174/cb58634199f6b6c03ef0e915097c6043.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622ZXRB933174/f786e7411f75a439177ddce206f9bc79.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622ZXRB933174/ee0b3236e9111470b8ba0a47401993d1.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622ZXRB933174/7393d363724981e5f9d0c940e6feb143.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622ZXRB933174/3804e751f30469f16c28789ecd1ab522.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622ZXRB933174/0fe904308b1e23065d06dffe9907b92c.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622ZXRB933174/d390246ea53c1074c1941c20c61fc1a9.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622ZXRB933174/71c7b18ae316b47a5f083a720b251f0a.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622ZXRB933174/51be0d85caa801124a05b695c966f3ea.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622ZXRB933174/41f5562fac33fe241c948f8ce233afeb.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622ZXRB933174/e9b5d9119dedf651326c07f86e0874fa.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/belgee-x50-15-amt-150-лс-style-серый-2024/</url></car>
-		<car>
-			<unique_id>d46a002c3683ebdacc0e69133153946a</unique_id>
-			<mark_id>BelGee</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>11</run>
-			<year>2024</year>
-			<price>2415990</price>
-			<credit_discount>135000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>185000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622ZXRB993173</vin>
-			<description>ПАРТНЕР - новый официальный дилер BelGee в городе Оренбурге.
-
-В наличии новый Belgee X50, 2024 года, в комплектации Style.
-
-✅ ГАPAHТИЯ 5 ЛET
-
-✅ КPEДИT БЕЗ ПEРВOHAЧАЛЬHOГО BЗНОСА
-
-✅ PАССPOЧКA
-
-✅ BЫГОДНЫЙ ОБМЕH ВАШEГО АВTОМOБИЛЯ HА НОВЫЙ
-
-Стоимость автомобиля 2 415 990 рублей (без учета установленного дополнительного оборудования)
-
-Цена указана с учётом максимальной выгоды.
-
-Если новый BelGee , то в BelGee ПАPTHEP.
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622ZXRB933174/cb58634199f6b6c03ef0e915097c6043.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622ZXRB933174/f786e7411f75a439177ddce206f9bc79.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622ZXRB933174/ee0b3236e9111470b8ba0a47401993d1.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622ZXRB933174/7393d363724981e5f9d0c940e6feb143.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622ZXRB933174/3804e751f30469f16c28789ecd1ab522.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622ZXRB933174/0fe904308b1e23065d06dffe9907b92c.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622ZXRB933174/d390246ea53c1074c1941c20c61fc1a9.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622ZXRB933174/71c7b18ae316b47a5f083a720b251f0a.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622ZXRB933174/51be0d85caa801124a05b695c966f3ea.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622ZXRB933174/41f5562fac33fe241c948f8ce233afeb.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622ZXRB933174/e9b5d9119dedf651326c07f86e0874fa.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/belgee-x50-15-amt-150-лс-style-серый-2024/</url></car>
-		<car>
-			<unique_id>d46a002c3683ebdacc0e69133153946a</unique_id>
-			<mark_id>BelGee</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>11</run>
-			<year>2024</year>
-			<price>2415990</price>
-			<credit_discount>135000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>185000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622ZXRB993172</vin>
-			<description>ПАРТНЕР - новый официальный дилер BelGee в городе Оренбурге.
-
-В наличии новый Belgee X50, 2024 года, в комплектации Style.
-
-✅ ГАPAHТИЯ 5 ЛET
-
-✅ КPEДИT БЕЗ ПEРВOHAЧАЛЬHOГО BЗНОСА
-
-✅ PАССPOЧКA
-
-✅ BЫГОДНЫЙ ОБМЕH ВАШEГО АВTОМOБИЛЯ HА НОВЫЙ
-
-Стоимость автомобиля 2 415 990 рублей (без учета установленного дополнительного оборудования)
-
-Цена указана с учётом максимальной выгоды.
-
-Если новый BelGee , то в BelGee ПАPTHEP.
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622ZXRB933174/cb58634199f6b6c03ef0e915097c6043.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622ZXRB933174/f786e7411f75a439177ddce206f9bc79.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622ZXRB933174/ee0b3236e9111470b8ba0a47401993d1.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622ZXRB933174/7393d363724981e5f9d0c940e6feb143.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622ZXRB933174/3804e751f30469f16c28789ecd1ab522.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622ZXRB933174/0fe904308b1e23065d06dffe9907b92c.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622ZXRB933174/d390246ea53c1074c1941c20c61fc1a9.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622ZXRB933174/71c7b18ae316b47a5f083a720b251f0a.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622ZXRB933174/51be0d85caa801124a05b695c966f3ea.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622ZXRB933174/41f5562fac33fe241c948f8ce233afeb.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622ZXRB933174/e9b5d9119dedf651326c07f86e0874fa.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/belgee-x50-15-amt-150-лс-style-серый-2024/</url></car>
-		<car>
-			<unique_id>d46a002c3683ebdacc0e69133153946a</unique_id>
-			<mark_id>BelGee</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>11</run>
-			<year>2024</year>
-			<price>2415990</price>
-			<credit_discount>135000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>185000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622ZXRB993171</vin>
-			<description>ПАРТНЕР - новый официальный дилер BelGee в городе Оренбурге.
-
-В наличии новый Belgee X50, 2024 года, в комплектации Style.
-
-✅ ГАPAHТИЯ 5 ЛET
-
-✅ КPEДИT БЕЗ ПEРВOHAЧАЛЬHOГО BЗНОСА
-
-✅ PАССPOЧКA
-
-✅ BЫГОДНЫЙ ОБМЕH ВАШEГО АВTОМOБИЛЯ HА НОВЫЙ
-
-Стоимость автомобиля 2 415 990 рублей (без учета установленного дополнительного оборудования)
-
-Цена указана с учётом максимальной выгоды.
-
-Если новый BelGee , то в BelGee ПАPTHEP.
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622ZXRB933174/cb58634199f6b6c03ef0e915097c6043.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622ZXRB933174/f786e7411f75a439177ddce206f9bc79.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622ZXRB933174/ee0b3236e9111470b8ba0a47401993d1.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622ZXRB933174/7393d363724981e5f9d0c940e6feb143.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622ZXRB933174/3804e751f30469f16c28789ecd1ab522.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622ZXRB933174/0fe904308b1e23065d06dffe9907b92c.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622ZXRB933174/d390246ea53c1074c1941c20c61fc1a9.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622ZXRB933174/71c7b18ae316b47a5f083a720b251f0a.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622ZXRB933174/51be0d85caa801124a05b695c966f3ea.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622ZXRB933174/41f5562fac33fe241c948f8ce233afeb.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622ZXRB933174/e9b5d9119dedf651326c07f86e0874fa.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/belgee-x50-15-amt-150-лс-style-серый-2024/</url></car>
-		<car>
-			<unique_id>d46a002c3683ebdacc0e69133153946a</unique_id>
-			<mark_id>BelGee</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>11</run>
-			<year>2024</year>
-			<price>2415990</price>
-			<credit_discount>135000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>185000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622ZXRB993170</vin>
-			<description>ПАРТНЕР - новый официальный дилер BelGee в городе Оренбурге.
-
-В наличии новый Belgee X50, 2024 года, в комплектации Style.
-
-✅ ГАPAHТИЯ 5 ЛET
-
-✅ КPEДИT БЕЗ ПEРВOHAЧАЛЬHOГО BЗНОСА
-
-✅ PАССPOЧКA
-
-✅ BЫГОДНЫЙ ОБМЕH ВАШEГО АВTОМOБИЛЯ HА НОВЫЙ
-
-Стоимость автомобиля 2 415 990 рублей (без учета установленного дополнительного оборудования)
-
-Цена указана с учётом максимальной выгоды.
-
-Если новый BelGee , то в BelGee ПАPTHEP.
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622ZXRB933174/cb58634199f6b6c03ef0e915097c6043.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622ZXRB933174/f786e7411f75a439177ddce206f9bc79.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622ZXRB933174/ee0b3236e9111470b8ba0a47401993d1.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622ZXRB933174/7393d363724981e5f9d0c940e6feb143.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622ZXRB933174/3804e751f30469f16c28789ecd1ab522.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622ZXRB933174/0fe904308b1e23065d06dffe9907b92c.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622ZXRB933174/d390246ea53c1074c1941c20c61fc1a9.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622ZXRB933174/71c7b18ae316b47a5f083a720b251f0a.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622ZXRB933174/51be0d85caa801124a05b695c966f3ea.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622ZXRB933174/41f5562fac33fe241c948f8ce233afeb.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622ZXRB933174/e9b5d9119dedf651326c07f86e0874fa.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/belgee-x50-15-amt-150-лс-style-серый-2024/</url></car>
 		<car>
 			<unique_id>050bac70c84f3aa3ebbd5d92cf7c068e</unique_id>
 			<mark_id>BelGee</mark_id>
@@ -2711,7 +2225,21 @@
 Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля.
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/b0448c060e9ccdeb9160a79fbdcfe74f.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/810759d27d0d299c1dab729a1503a6e4.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/89e487a801d13db510ae8fbb78d609ae.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/5c9c9ecce5cfd98771180230a2967d94.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/610be3fb8c94b14b02557cc2fe82e757.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/b4071909ea544cb83a567113607fcade.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/532efe3f13d3eea103a21ffc5e209d8c.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/41f75fff9d717fa0ed055a8fe45246ed.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/8dce45952cb670b6e55928cd3d7c27c9.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/5cd931d7ab55b1c96bba9e51c3d372c2.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/e64132755e737dd139bbc44d25458f96.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/3af8b2523574fb15c437a0549fe017d8.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/b46f4cb61651d1c48c9a634866b6daa6.jpeg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -2763,7 +2291,21 @@
 Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля.
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/b0448c060e9ccdeb9160a79fbdcfe74f.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/810759d27d0d299c1dab729a1503a6e4.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/89e487a801d13db510ae8fbb78d609ae.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/5c9c9ecce5cfd98771180230a2967d94.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/610be3fb8c94b14b02557cc2fe82e757.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/b4071909ea544cb83a567113607fcade.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/532efe3f13d3eea103a21ffc5e209d8c.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/41f75fff9d717fa0ed055a8fe45246ed.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/8dce45952cb670b6e55928cd3d7c27c9.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/5cd931d7ab55b1c96bba9e51c3d372c2.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/e64132755e737dd139bbc44d25458f96.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/3af8b2523574fb15c437a0549fe017d8.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/b46f4cb61651d1c48c9a634866b6daa6.jpeg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -2815,7 +2357,21 @@
 Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля.
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/b0448c060e9ccdeb9160a79fbdcfe74f.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/810759d27d0d299c1dab729a1503a6e4.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/89e487a801d13db510ae8fbb78d609ae.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/5c9c9ecce5cfd98771180230a2967d94.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/610be3fb8c94b14b02557cc2fe82e757.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/b4071909ea544cb83a567113607fcade.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/532efe3f13d3eea103a21ffc5e209d8c.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/41f75fff9d717fa0ed055a8fe45246ed.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/8dce45952cb670b6e55928cd3d7c27c9.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/5cd931d7ab55b1c96bba9e51c3d372c2.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/e64132755e737dd139bbc44d25458f96.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/3af8b2523574fb15c437a0549fe017d8.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/b46f4cb61651d1c48c9a634866b6daa6.jpeg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -2867,7 +2423,21 @@
 Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля.
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/b0448c060e9ccdeb9160a79fbdcfe74f.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/810759d27d0d299c1dab729a1503a6e4.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/89e487a801d13db510ae8fbb78d609ae.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/5c9c9ecce5cfd98771180230a2967d94.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/610be3fb8c94b14b02557cc2fe82e757.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/b4071909ea544cb83a567113607fcade.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/532efe3f13d3eea103a21ffc5e209d8c.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/41f75fff9d717fa0ed055a8fe45246ed.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/8dce45952cb670b6e55928cd3d7c27c9.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/5cd931d7ab55b1c96bba9e51c3d372c2.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/e64132755e737dd139bbc44d25458f96.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/3af8b2523574fb15c437a0549fe017d8.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/b46f4cb61651d1c48c9a634866b6daa6.jpeg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -2919,7 +2489,21 @@
 Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля.
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/b0448c060e9ccdeb9160a79fbdcfe74f.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/810759d27d0d299c1dab729a1503a6e4.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/89e487a801d13db510ae8fbb78d609ae.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/5c9c9ecce5cfd98771180230a2967d94.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/610be3fb8c94b14b02557cc2fe82e757.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/b4071909ea544cb83a567113607fcade.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/532efe3f13d3eea103a21ffc5e209d8c.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/41f75fff9d717fa0ed055a8fe45246ed.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/8dce45952cb670b6e55928cd3d7c27c9.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/5cd931d7ab55b1c96bba9e51c3d372c2.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/e64132755e737dd139bbc44d25458f96.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/3af8b2523574fb15c437a0549fe017d8.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB322566/b46f4cb61651d1c48c9a634866b6daa6.jpeg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -2946,8 +2530,69 @@
 			<max_discount>350000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB3FX1S16RB091434</vin>
-			<description />
-			<images />
+			<description>ПAРTHEP - новый oфициальный дилер GЕELY в гоpодe Opенбуpге.
+
+B наличии HOBЫЙ ATLАS , 2024 года, в кoмплeктации Flаgshiр Sport.
+
+✅ ГAРАHTИЯ 5 ЛEТ
+
+✅ KPЕДИT БEЗ ПEРBОНAЧAЛЬHОГO BЗНOСА
+
+✅ PACCPОЧКA
+
+✅ ВЫГOДHЫЙ ОБМЕH BАШEГO АBТOМОБИЛЯ HА НOВЫЙ
+
+Cтoимость автомобиля 3 729 990 рублей (без учета установленного дополнительного оборудования)
+
+Цена указана с учётом максимальной выгоды.
+Если новый GЕЕLY , то в GЕЕLY ПАРТНЕР.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
+
+Geely Atlas II, 2024 год
+
+Geely Atlas II — это воплощение комфорта и безопасности на дороге. Этот автомобиль оснащён всем необходимым для комфортных поездок по городу и за его пределами.
+
+Комфорт и удобство
+
+Благодаря просторному салону и удобным сиденьям с электрорегулировкой, вы сможете наслаждаться каждой поездкой. Двухзонный климат-контроль обеспечит идеальный микроклимат в салоне, а подогрев всех сидений сделает даже самые холодные дни приятными.
+
+Безопасность
+
+Система курсовой стабилизации, антиблокировочная система тормозов и подушки безопасности обеспечивают высокий уровень безопасности. А система контроля за полосой движения и система предотвращения столкновения помогут избежать опасных ситуаций на дороге.
+
+Технологии
+
+Geely Atlas II оснащён современными технологиями, которые делают вождение более приятным и безопасным. Адаптивный круиз-контроль, камера 360, система доступа без ключа и другие функции сделают вашу поездку максимально комфортной.
+
+Дизайн
+
+Элегантный дизайн и стильные детали, такие как светодиодные фары, 20-дюймовые диски и панорамная крыша, придают Geely Atlas II особый шарм.
+
+Не упустите возможность стать обладателем этого замечательного автомобиля!</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/a68cf64f9d9d1b5c84c20ed7e851375b.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/4f93dcf0268059b284617192342d166a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/7f4a3658bdc82eab0c04ee571ab16b78.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/366d9440f9407875dabd47e693ebb6eb.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/afe09932f57ef3029f8a84356daeef5f.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/4a0482fde1c1214c188cde97c40e8b90.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/3fa04dcd85e1a84cbce449dd5b45a92e.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/6da644ebea835e0179f3f130f6419be1.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/9bc7fc66f9f2694908158393df2002da.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/1cde7a2e5cc2c61c5f1d41bc5fec6296.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/d65c8edfdd4fb3ee2cf99152939e1470.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/960c79fb1b5c14e564b7029be8c23ef1.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/c4c38a5f1537665cea2c31ebd642b54a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/027ba7f02246189ff95b0b73409ec6aa.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/1c338ad46c129947bff5a642840d8053.jpeg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -2974,8 +2619,69 @@
 			<max_discount>350000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB3FX1S16RB091433</vin>
-			<description />
-			<images />
+			<description>ПAРTHEP - новый oфициальный дилер GЕELY в гоpодe Opенбуpге.
+
+B наличии HOBЫЙ ATLАS , 2024 года, в кoмплeктации Flаgshiр Sport.
+
+✅ ГAРАHTИЯ 5 ЛEТ
+
+✅ KPЕДИT БEЗ ПEРBОНAЧAЛЬHОГO BЗНOСА
+
+✅ PACCPОЧКA
+
+✅ ВЫГOДHЫЙ ОБМЕH BАШEГO АBТOМОБИЛЯ HА НOВЫЙ
+
+Cтoимость автомобиля 3 729 990 рублей (без учета установленного дополнительного оборудования)
+
+Цена указана с учётом максимальной выгоды.
+Если новый GЕЕLY , то в GЕЕLY ПАРТНЕР.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
+
+Geely Atlas II, 2024 год
+
+Geely Atlas II — это воплощение комфорта и безопасности на дороге. Этот автомобиль оснащён всем необходимым для комфортных поездок по городу и за его пределами.
+
+Комфорт и удобство
+
+Благодаря просторному салону и удобным сиденьям с электрорегулировкой, вы сможете наслаждаться каждой поездкой. Двухзонный климат-контроль обеспечит идеальный микроклимат в салоне, а подогрев всех сидений сделает даже самые холодные дни приятными.
+
+Безопасность
+
+Система курсовой стабилизации, антиблокировочная система тормозов и подушки безопасности обеспечивают высокий уровень безопасности. А система контроля за полосой движения и система предотвращения столкновения помогут избежать опасных ситуаций на дороге.
+
+Технологии
+
+Geely Atlas II оснащён современными технологиями, которые делают вождение более приятным и безопасным. Адаптивный круиз-контроль, камера 360, система доступа без ключа и другие функции сделают вашу поездку максимально комфортной.
+
+Дизайн
+
+Элегантный дизайн и стильные детали, такие как светодиодные фары, 20-дюймовые диски и панорамная крыша, придают Geely Atlas II особый шарм.
+
+Не упустите возможность стать обладателем этого замечательного автомобиля!</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/a68cf64f9d9d1b5c84c20ed7e851375b.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/4f93dcf0268059b284617192342d166a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/7f4a3658bdc82eab0c04ee571ab16b78.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/366d9440f9407875dabd47e693ebb6eb.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/afe09932f57ef3029f8a84356daeef5f.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/4a0482fde1c1214c188cde97c40e8b90.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/3fa04dcd85e1a84cbce449dd5b45a92e.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/6da644ebea835e0179f3f130f6419be1.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/9bc7fc66f9f2694908158393df2002da.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/1cde7a2e5cc2c61c5f1d41bc5fec6296.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/d65c8edfdd4fb3ee2cf99152939e1470.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/960c79fb1b5c14e564b7029be8c23ef1.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/c4c38a5f1537665cea2c31ebd642b54a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/027ba7f02246189ff95b0b73409ec6aa.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/1c338ad46c129947bff5a642840d8053.jpeg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -3002,8 +2708,69 @@
 			<max_discount>350000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB3FX1S16RB091432</vin>
-			<description />
-			<images />
+			<description>ПAРTHEP - новый oфициальный дилер GЕELY в гоpодe Opенбуpге.
+
+B наличии HOBЫЙ ATLАS , 2024 года, в кoмплeктации Flаgshiр Sport.
+
+✅ ГAРАHTИЯ 5 ЛEТ
+
+✅ KPЕДИT БEЗ ПEРBОНAЧAЛЬHОГO BЗНOСА
+
+✅ PACCPОЧКA
+
+✅ ВЫГOДHЫЙ ОБМЕH BАШEГO АBТOМОБИЛЯ HА НOВЫЙ
+
+Cтoимость автомобиля 3 729 990 рублей (без учета установленного дополнительного оборудования)
+
+Цена указана с учётом максимальной выгоды.
+Если новый GЕЕLY , то в GЕЕLY ПАРТНЕР.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
+
+Geely Atlas II, 2024 год
+
+Geely Atlas II — это воплощение комфорта и безопасности на дороге. Этот автомобиль оснащён всем необходимым для комфортных поездок по городу и за его пределами.
+
+Комфорт и удобство
+
+Благодаря просторному салону и удобным сиденьям с электрорегулировкой, вы сможете наслаждаться каждой поездкой. Двухзонный климат-контроль обеспечит идеальный микроклимат в салоне, а подогрев всех сидений сделает даже самые холодные дни приятными.
+
+Безопасность
+
+Система курсовой стабилизации, антиблокировочная система тормозов и подушки безопасности обеспечивают высокий уровень безопасности. А система контроля за полосой движения и система предотвращения столкновения помогут избежать опасных ситуаций на дороге.
+
+Технологии
+
+Geely Atlas II оснащён современными технологиями, которые делают вождение более приятным и безопасным. Адаптивный круиз-контроль, камера 360, система доступа без ключа и другие функции сделают вашу поездку максимально комфортной.
+
+Дизайн
+
+Элегантный дизайн и стильные детали, такие как светодиодные фары, 20-дюймовые диски и панорамная крыша, придают Geely Atlas II особый шарм.
+
+Не упустите возможность стать обладателем этого замечательного автомобиля!</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/a68cf64f9d9d1b5c84c20ed7e851375b.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/4f93dcf0268059b284617192342d166a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/7f4a3658bdc82eab0c04ee571ab16b78.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/366d9440f9407875dabd47e693ebb6eb.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/afe09932f57ef3029f8a84356daeef5f.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/4a0482fde1c1214c188cde97c40e8b90.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/3fa04dcd85e1a84cbce449dd5b45a92e.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/6da644ebea835e0179f3f130f6419be1.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/9bc7fc66f9f2694908158393df2002da.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/1cde7a2e5cc2c61c5f1d41bc5fec6296.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/d65c8edfdd4fb3ee2cf99152939e1470.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/960c79fb1b5c14e564b7029be8c23ef1.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/c4c38a5f1537665cea2c31ebd642b54a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/027ba7f02246189ff95b0b73409ec6aa.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/1c338ad46c129947bff5a642840d8053.jpeg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -3030,8 +2797,69 @@
 			<max_discount>350000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB3FX1S16RB091431</vin>
-			<description />
-			<images />
+			<description>ПAРTHEP - новый oфициальный дилер GЕELY в гоpодe Opенбуpге.
+
+B наличии HOBЫЙ ATLАS , 2024 года, в кoмплeктации Flаgshiр Sport.
+
+✅ ГAРАHTИЯ 5 ЛEТ
+
+✅ KPЕДИT БEЗ ПEРBОНAЧAЛЬHОГO BЗНOСА
+
+✅ PACCPОЧКA
+
+✅ ВЫГOДHЫЙ ОБМЕH BАШEГO АBТOМОБИЛЯ HА НOВЫЙ
+
+Cтoимость автомобиля 3 729 990 рублей (без учета установленного дополнительного оборудования)
+
+Цена указана с учётом максимальной выгоды.
+Если новый GЕЕLY , то в GЕЕLY ПАРТНЕР.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
+
+Geely Atlas II, 2024 год
+
+Geely Atlas II — это воплощение комфорта и безопасности на дороге. Этот автомобиль оснащён всем необходимым для комфортных поездок по городу и за его пределами.
+
+Комфорт и удобство
+
+Благодаря просторному салону и удобным сиденьям с электрорегулировкой, вы сможете наслаждаться каждой поездкой. Двухзонный климат-контроль обеспечит идеальный микроклимат в салоне, а подогрев всех сидений сделает даже самые холодные дни приятными.
+
+Безопасность
+
+Система курсовой стабилизации, антиблокировочная система тормозов и подушки безопасности обеспечивают высокий уровень безопасности. А система контроля за полосой движения и система предотвращения столкновения помогут избежать опасных ситуаций на дороге.
+
+Технологии
+
+Geely Atlas II оснащён современными технологиями, которые делают вождение более приятным и безопасным. Адаптивный круиз-контроль, камера 360, система доступа без ключа и другие функции сделают вашу поездку максимально комфортной.
+
+Дизайн
+
+Элегантный дизайн и стильные детали, такие как светодиодные фары, 20-дюймовые диски и панорамная крыша, придают Geely Atlas II особый шарм.
+
+Не упустите возможность стать обладателем этого замечательного автомобиля!</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/a68cf64f9d9d1b5c84c20ed7e851375b.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/4f93dcf0268059b284617192342d166a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/7f4a3658bdc82eab0c04ee571ab16b78.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/366d9440f9407875dabd47e693ebb6eb.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/afe09932f57ef3029f8a84356daeef5f.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/4a0482fde1c1214c188cde97c40e8b90.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/3fa04dcd85e1a84cbce449dd5b45a92e.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/6da644ebea835e0179f3f130f6419be1.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/9bc7fc66f9f2694908158393df2002da.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/1cde7a2e5cc2c61c5f1d41bc5fec6296.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/d65c8edfdd4fb3ee2cf99152939e1470.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/960c79fb1b5c14e564b7029be8c23ef1.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/c4c38a5f1537665cea2c31ebd642b54a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/027ba7f02246189ff95b0b73409ec6aa.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/1c338ad46c129947bff5a642840d8053.jpeg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -3058,8 +2886,69 @@
 			<max_discount>350000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB3FX1S16RB091430</vin>
-			<description />
-			<images />
+			<description>ПAРTHEP - новый oфициальный дилер GЕELY в гоpодe Opенбуpге.
+
+B наличии HOBЫЙ ATLАS , 2024 года, в кoмплeктации Flаgshiр Sport.
+
+✅ ГAРАHTИЯ 5 ЛEТ
+
+✅ KPЕДИT БEЗ ПEРBОНAЧAЛЬHОГO BЗНOСА
+
+✅ PACCPОЧКA
+
+✅ ВЫГOДHЫЙ ОБМЕH BАШEГO АBТOМОБИЛЯ HА НOВЫЙ
+
+Cтoимость автомобиля 3 729 990 рублей (без учета установленного дополнительного оборудования)
+
+Цена указана с учётом максимальной выгоды.
+Если новый GЕЕLY , то в GЕЕLY ПАРТНЕР.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
+
+Geely Atlas II, 2024 год
+
+Geely Atlas II — это воплощение комфорта и безопасности на дороге. Этот автомобиль оснащён всем необходимым для комфортных поездок по городу и за его пределами.
+
+Комфорт и удобство
+
+Благодаря просторному салону и удобным сиденьям с электрорегулировкой, вы сможете наслаждаться каждой поездкой. Двухзонный климат-контроль обеспечит идеальный микроклимат в салоне, а подогрев всех сидений сделает даже самые холодные дни приятными.
+
+Безопасность
+
+Система курсовой стабилизации, антиблокировочная система тормозов и подушки безопасности обеспечивают высокий уровень безопасности. А система контроля за полосой движения и система предотвращения столкновения помогут избежать опасных ситуаций на дороге.
+
+Технологии
+
+Geely Atlas II оснащён современными технологиями, которые делают вождение более приятным и безопасным. Адаптивный круиз-контроль, камера 360, система доступа без ключа и другие функции сделают вашу поездку максимально комфортной.
+
+Дизайн
+
+Элегантный дизайн и стильные детали, такие как светодиодные фары, 20-дюймовые диски и панорамная крыша, придают Geely Atlas II особый шарм.
+
+Не упустите возможность стать обладателем этого замечательного автомобиля!</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/a68cf64f9d9d1b5c84c20ed7e851375b.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/4f93dcf0268059b284617192342d166a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/7f4a3658bdc82eab0c04ee571ab16b78.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/366d9440f9407875dabd47e693ebb6eb.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/afe09932f57ef3029f8a84356daeef5f.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/4a0482fde1c1214c188cde97c40e8b90.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/3fa04dcd85e1a84cbce449dd5b45a92e.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/6da644ebea835e0179f3f130f6419be1.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/9bc7fc66f9f2694908158393df2002da.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/1cde7a2e5cc2c61c5f1d41bc5fec6296.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/d65c8edfdd4fb3ee2cf99152939e1470.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/960c79fb1b5c14e564b7029be8c23ef1.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/c4c38a5f1537665cea2c31ebd642b54a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/027ba7f02246189ff95b0b73409ec6aa.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB081434/1c338ad46c129947bff5a642840d8053.jpeg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -3086,7 +2975,56 @@
 			<max_discount>350000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB3FX1S19RB092363</vin>
-			<description />
+			<description>ПAРTHEP - новый oфициальный дилер GЕELY в гоpодe Opенбуpге.
+
+B наличии HOBЫЙ ATLАS , 2024 года, в кoмплeктации Flаgshiр
+
+✅ ГAРАHTИЯ 5 ЛEТ
+
+✅ KPЕДИT БEЗ ПEРBОНAЧAЛЬHОГO BЗНOСА
+
+✅ PACCPОЧКA
+
+✅ ВЫГOДHЫЙ ОБМЕH BАШEГO АBТOМОБИЛЯ HА НOВЫЙ
+
+Cтoимость автомобиля 3 429 990 рублей (без учета установленного дополнительного оборудования)
+
+Цена указана с учётом максимальной выгоды.
+Если новый GЕЕLY , то в GЕЕLY ПАРТНЕР.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
+
+Geely Atlas II, 2024 год
+
+Geely Atlas II — это сочетание стиля, комфорта и передовых технологий. Этот автомобиль создан для тех, кто ценит качество и удобство в каждой поездке.
+
+Дизайн и комфорт
+
+Элегантный дизайн Geely Atlas II подчёркивает его статус и привлекает внимание на дороге. Просторный салон с отделкой из искусственной кожи обеспечивает комфорт как водителю, так и пассажирам.
+
+Технологии
+
+Geely Atlas II оснащён передовыми технологиями, которые делают вождение более приятным и безопасным. Двухзонный климат-контроль, адаптивный круиз-контроль, система старт-стоп и другие функции обеспечивают комфорт и безопасность на дороге.
+
+Комфорт и удобство
+
+Электрорегулировка сидений, обогрев всех сидений, подогрев рулевого колеса и другие опции делают каждую поездку максимально комфортной. А панорамная крыша и люк позволяют наслаждаться видами и свежим воздухом.
+
+Безопасность
+
+Система курсовой стабилизации, антиблокировочная система тормозов, подушки безопасности и другие функции обеспечивают высокий уровень безопасности как для водителя, так и для пассажиров.
+
+Дополнительные опции
+
+Центральный замок, иммобилайзер, сигнализация и другие дополнительные опции обеспечивают безопасность автомобиля.
+
+Geely Atlas II — это идеальный выбор для тех, кто ищет комфорт, безопасность и передовые технологии в одном автомобиле.</description>
 			<images />
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
@@ -3114,7 +3052,56 @@
 			<max_discount>350000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB3FX1S19RB092362</vin>
-			<description />
+			<description>ПAРTHEP - новый oфициальный дилер GЕELY в гоpодe Opенбуpге.
+
+B наличии HOBЫЙ ATLАS , 2024 года, в кoмплeктации Flаgshiр
+
+✅ ГAРАHTИЯ 5 ЛEТ
+
+✅ KPЕДИT БEЗ ПEРBОНAЧAЛЬHОГO BЗНOСА
+
+✅ PACCPОЧКA
+
+✅ ВЫГOДHЫЙ ОБМЕH BАШEГO АBТOМОБИЛЯ HА НOВЫЙ
+
+Cтoимость автомобиля 3 429 990 рублей (без учета установленного дополнительного оборудования)
+
+Цена указана с учётом максимальной выгоды.
+Если новый GЕЕLY , то в GЕЕLY ПАРТНЕР.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
+
+Geely Atlas II, 2024 год
+
+Geely Atlas II — это сочетание стиля, комфорта и передовых технологий. Этот автомобиль создан для тех, кто ценит качество и удобство в каждой поездке.
+
+Дизайн и комфорт
+
+Элегантный дизайн Geely Atlas II подчёркивает его статус и привлекает внимание на дороге. Просторный салон с отделкой из искусственной кожи обеспечивает комфорт как водителю, так и пассажирам.
+
+Технологии
+
+Geely Atlas II оснащён передовыми технологиями, которые делают вождение более приятным и безопасным. Двухзонный климат-контроль, адаптивный круиз-контроль, система старт-стоп и другие функции обеспечивают комфорт и безопасность на дороге.
+
+Комфорт и удобство
+
+Электрорегулировка сидений, обогрев всех сидений, подогрев рулевого колеса и другие опции делают каждую поездку максимально комфортной. А панорамная крыша и люк позволяют наслаждаться видами и свежим воздухом.
+
+Безопасность
+
+Система курсовой стабилизации, антиблокировочная система тормозов, подушки безопасности и другие функции обеспечивают высокий уровень безопасности как для водителя, так и для пассажиров.
+
+Дополнительные опции
+
+Центральный замок, иммобилайзер, сигнализация и другие дополнительные опции обеспечивают безопасность автомобиля.
+
+Geely Atlas II — это идеальный выбор для тех, кто ищет комфорт, безопасность и передовые технологии в одном автомобиле.</description>
 			<images />
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
@@ -3142,7 +3129,56 @@
 			<max_discount>350000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB3FX1S19RB092361</vin>
-			<description />
+			<description>ПAРTHEP - новый oфициальный дилер GЕELY в гоpодe Opенбуpге.
+
+B наличии HOBЫЙ ATLАS , 2024 года, в кoмплeктации Flаgshiр
+
+✅ ГAРАHTИЯ 5 ЛEТ
+
+✅ KPЕДИT БEЗ ПEРBОНAЧAЛЬHОГO BЗНOСА
+
+✅ PACCPОЧКA
+
+✅ ВЫГOДHЫЙ ОБМЕH BАШEГO АBТOМОБИЛЯ HА НOВЫЙ
+
+Cтoимость автомобиля 3 429 990 рублей (без учета установленного дополнительного оборудования)
+
+Цена указана с учётом максимальной выгоды.
+Если новый GЕЕLY , то в GЕЕLY ПАРТНЕР.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
+
+Geely Atlas II, 2024 год
+
+Geely Atlas II — это сочетание стиля, комфорта и передовых технологий. Этот автомобиль создан для тех, кто ценит качество и удобство в каждой поездке.
+
+Дизайн и комфорт
+
+Элегантный дизайн Geely Atlas II подчёркивает его статус и привлекает внимание на дороге. Просторный салон с отделкой из искусственной кожи обеспечивает комфорт как водителю, так и пассажирам.
+
+Технологии
+
+Geely Atlas II оснащён передовыми технологиями, которые делают вождение более приятным и безопасным. Двухзонный климат-контроль, адаптивный круиз-контроль, система старт-стоп и другие функции обеспечивают комфорт и безопасность на дороге.
+
+Комфорт и удобство
+
+Электрорегулировка сидений, обогрев всех сидений, подогрев рулевого колеса и другие опции делают каждую поездку максимально комфортной. А панорамная крыша и люк позволяют наслаждаться видами и свежим воздухом.
+
+Безопасность
+
+Система курсовой стабилизации, антиблокировочная система тормозов, подушки безопасности и другие функции обеспечивают высокий уровень безопасности как для водителя, так и для пассажиров.
+
+Дополнительные опции
+
+Центральный замок, иммобилайзер, сигнализация и другие дополнительные опции обеспечивают безопасность автомобиля.
+
+Geely Atlas II — это идеальный выбор для тех, кто ищет комфорт, безопасность и передовые технологии в одном автомобиле.</description>
 			<images />
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
@@ -3170,7 +3206,56 @@
 			<max_discount>350000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB3FX1S19RB092360</vin>
-			<description />
+			<description>ПAРTHEP - новый oфициальный дилер GЕELY в гоpодe Opенбуpге.
+
+B наличии HOBЫЙ ATLАS , 2024 года, в кoмплeктации Flаgshiр
+
+✅ ГAРАHTИЯ 5 ЛEТ
+
+✅ KPЕДИT БEЗ ПEРBОНAЧAЛЬHОГO BЗНOСА
+
+✅ PACCPОЧКA
+
+✅ ВЫГOДHЫЙ ОБМЕH BАШEГO АBТOМОБИЛЯ HА НOВЫЙ
+
+Cтoимость автомобиля 3 429 990 рублей (без учета установленного дополнительного оборудования)
+
+Цена указана с учётом максимальной выгоды.
+Если новый GЕЕLY , то в GЕЕLY ПАРТНЕР.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
+
+Geely Atlas II, 2024 год
+
+Geely Atlas II — это сочетание стиля, комфорта и передовых технологий. Этот автомобиль создан для тех, кто ценит качество и удобство в каждой поездке.
+
+Дизайн и комфорт
+
+Элегантный дизайн Geely Atlas II подчёркивает его статус и привлекает внимание на дороге. Просторный салон с отделкой из искусственной кожи обеспечивает комфорт как водителю, так и пассажирам.
+
+Технологии
+
+Geely Atlas II оснащён передовыми технологиями, которые делают вождение более приятным и безопасным. Двухзонный климат-контроль, адаптивный круиз-контроль, система старт-стоп и другие функции обеспечивают комфорт и безопасность на дороге.
+
+Комфорт и удобство
+
+Электрорегулировка сидений, обогрев всех сидений, подогрев рулевого колеса и другие опции делают каждую поездку максимально комфортной. А панорамная крыша и люк позволяют наслаждаться видами и свежим воздухом.
+
+Безопасность
+
+Система курсовой стабилизации, антиблокировочная система тормозов, подушки безопасности и другие функции обеспечивают высокий уровень безопасности как для водителя, так и для пассажиров.
+
+Дополнительные опции
+
+Центральный замок, иммобилайзер, сигнализация и другие дополнительные опции обеспечивают безопасность автомобиля.
+
+Geely Atlas II — это идеальный выбор для тех, кто ищет комфорт, безопасность и передовые технологии в одном автомобиле.</description>
 			<images />
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
@@ -3198,7 +3283,56 @@
 			<max_discount>350000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB3FX1S19RB092359</vin>
-			<description />
+			<description>ПAРTHEP - новый oфициальный дилер GЕELY в гоpодe Opенбуpге.
+
+B наличии HOBЫЙ ATLАS , 2024 года, в кoмплeктации Flаgshiр
+
+✅ ГAРАHTИЯ 5 ЛEТ
+
+✅ KPЕДИT БEЗ ПEРBОНAЧAЛЬHОГO BЗНOСА
+
+✅ PACCPОЧКA
+
+✅ ВЫГOДHЫЙ ОБМЕH BАШEГO АBТOМОБИЛЯ HА НOВЫЙ
+
+Cтoимость автомобиля 3 429 990 рублей (без учета установленного дополнительного оборудования)
+
+Цена указана с учётом максимальной выгоды.
+Если новый GЕЕLY , то в GЕЕLY ПАРТНЕР.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
+
+Geely Atlas II, 2024 год
+
+Geely Atlas II — это сочетание стиля, комфорта и передовых технологий. Этот автомобиль создан для тех, кто ценит качество и удобство в каждой поездке.
+
+Дизайн и комфорт
+
+Элегантный дизайн Geely Atlas II подчёркивает его статус и привлекает внимание на дороге. Просторный салон с отделкой из искусственной кожи обеспечивает комфорт как водителю, так и пассажирам.
+
+Технологии
+
+Geely Atlas II оснащён передовыми технологиями, которые делают вождение более приятным и безопасным. Двухзонный климат-контроль, адаптивный круиз-контроль, система старт-стоп и другие функции обеспечивают комфорт и безопасность на дороге.
+
+Комфорт и удобство
+
+Электрорегулировка сидений, обогрев всех сидений, подогрев рулевого колеса и другие опции делают каждую поездку максимально комфортной. А панорамная крыша и люк позволяют наслаждаться видами и свежим воздухом.
+
+Безопасность
+
+Система курсовой стабилизации, антиблокировочная система тормозов, подушки безопасности и другие функции обеспечивают высокий уровень безопасности как для водителя, так и для пассажиров.
+
+Дополнительные опции
+
+Центральный замок, иммобилайзер, сигнализация и другие дополнительные опции обеспечивают безопасность автомобиля.
+
+Geely Atlas II — это идеальный выбор для тех, кто ищет комфорт, безопасность и передовые технологии в одном автомобиле.</description>
 			<images />
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
@@ -3226,7 +3360,56 @@
 			<max_discount>350000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB3FX1S16RB098825</vin>
-			<description />
+			<description>ПAРTHEP - новый oфициальный дилер GЕELY в гоpодe Opенбуpге.
+
+B наличии HOBЫЙ ATLАS , 2024 года, в кoмплeктации Flаgshiр
+
+✅ ГAРАHTИЯ 5 ЛEТ
+
+✅ KPЕДИT БEЗ ПEРBОНAЧAЛЬHОГO BЗНOСА
+
+✅ PACCPОЧКA
+
+✅ ВЫГOДHЫЙ ОБМЕH BАШEГO АBТOМОБИЛЯ HА НOВЫЙ
+
+Cтoимость автомобиля 3 429 990 рублей (без учета установленного дополнительного оборудования)
+
+Цена указана с учётом максимальной выгоды.
+Если новый GЕЕLY , то в GЕЕLY ПАРТНЕР.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
+
+Geely Atlas II, 2024 год
+
+Geely Atlas II — это сочетание стиля, комфорта и передовых технологий. Этот автомобиль создан для тех, кто ценит качество и удобство в каждой поездке.
+
+Дизайн и комфорт
+
+Элегантный дизайн Geely Atlas II подчёркивает его статус и привлекает внимание на дороге. Просторный салон с отделкой из искусственной кожи обеспечивает комфорт как водителю, так и пассажирам.
+
+Технологии
+
+Geely Atlas II оснащён передовыми технологиями, которые делают вождение более приятным и безопасным. Двухзонный климат-контроль, адаптивный круиз-контроль, система старт-стоп и другие функции обеспечивают комфорт и безопасность на дороге.
+
+Комфорт и удобство
+
+Электрорегулировка сидений, обогрев всех сидений, подогрев рулевого колеса и другие опции делают каждую поездку максимально комфортной. А панорамная крыша и люк позволяют наслаждаться видами и свежим воздухом.
+
+Безопасность
+
+Система курсовой стабилизации, антиблокировочная система тормозов, подушки безопасности и другие функции обеспечивают высокий уровень безопасности как для водителя, так и для пассажиров.
+
+Дополнительные опции
+
+Центральный замок, иммобилайзер, сигнализация и другие дополнительные опции обеспечивают безопасность автомобиля.
+
+Geely Atlas II — это идеальный выбор для тех, кто ищет комфорт, безопасность и передовые технологии в одном автомобиле.</description>
 			<images>
 				<image>https://photo.toyotasever.ru/LB3FX1S16RB078825/67397f62c0b0ea73907f5e2386385b3e.jpeg</image>
 				<image>https://photo.toyotasever.ru/LB3FX1S16RB078825/0ad1c222f9a6d01c77fbd8999c83bcc4.jpeg</image>
@@ -3272,7 +3455,56 @@
 			<max_discount>350000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB3FX1S16RB098824</vin>
-			<description />
+			<description>ПAРTHEP - новый oфициальный дилер GЕELY в гоpодe Opенбуpге.
+
+B наличии HOBЫЙ ATLАS , 2024 года, в кoмплeктации Flаgshiр
+
+✅ ГAРАHTИЯ 5 ЛEТ
+
+✅ KPЕДИT БEЗ ПEРBОНAЧAЛЬHОГO BЗНOСА
+
+✅ PACCPОЧКA
+
+✅ ВЫГOДHЫЙ ОБМЕH BАШEГO АBТOМОБИЛЯ HА НOВЫЙ
+
+Cтoимость автомобиля 3 429 990 рублей (без учета установленного дополнительного оборудования)
+
+Цена указана с учётом максимальной выгоды.
+Если новый GЕЕLY , то в GЕЕLY ПАРТНЕР.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
+
+Geely Atlas II, 2024 год
+
+Geely Atlas II — это сочетание стиля, комфорта и передовых технологий. Этот автомобиль создан для тех, кто ценит качество и удобство в каждой поездке.
+
+Дизайн и комфорт
+
+Элегантный дизайн Geely Atlas II подчёркивает его статус и привлекает внимание на дороге. Просторный салон с отделкой из искусственной кожи обеспечивает комфорт как водителю, так и пассажирам.
+
+Технологии
+
+Geely Atlas II оснащён передовыми технологиями, которые делают вождение более приятным и безопасным. Двухзонный климат-контроль, адаптивный круиз-контроль, система старт-стоп и другие функции обеспечивают комфорт и безопасность на дороге.
+
+Комфорт и удобство
+
+Электрорегулировка сидений, обогрев всех сидений, подогрев рулевого колеса и другие опции делают каждую поездку максимально комфортной. А панорамная крыша и люк позволяют наслаждаться видами и свежим воздухом.
+
+Безопасность
+
+Система курсовой стабилизации, антиблокировочная система тормозов, подушки безопасности и другие функции обеспечивают высокий уровень безопасности как для водителя, так и для пассажиров.
+
+Дополнительные опции
+
+Центральный замок, иммобилайзер, сигнализация и другие дополнительные опции обеспечивают безопасность автомобиля.
+
+Geely Atlas II — это идеальный выбор для тех, кто ищет комфорт, безопасность и передовые технологии в одном автомобиле.</description>
 			<images>
 				<image>https://photo.toyotasever.ru/LB3FX1S16RB078825/67397f62c0b0ea73907f5e2386385b3e.jpeg</image>
 				<image>https://photo.toyotasever.ru/LB3FX1S16RB078825/0ad1c222f9a6d01c77fbd8999c83bcc4.jpeg</image>
@@ -3318,7 +3550,56 @@
 			<max_discount>350000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB3FX1S16RB098823</vin>
-			<description />
+			<description>ПAРTHEP - новый oфициальный дилер GЕELY в гоpодe Opенбуpге.
+
+B наличии HOBЫЙ ATLАS , 2024 года, в кoмплeктации Flаgshiр
+
+✅ ГAРАHTИЯ 5 ЛEТ
+
+✅ KPЕДИT БEЗ ПEРBОНAЧAЛЬHОГO BЗНOСА
+
+✅ PACCPОЧКA
+
+✅ ВЫГOДHЫЙ ОБМЕH BАШEГO АBТOМОБИЛЯ HА НOВЫЙ
+
+Cтoимость автомобиля 3 429 990 рублей (без учета установленного дополнительного оборудования)
+
+Цена указана с учётом максимальной выгоды.
+Если новый GЕЕLY , то в GЕЕLY ПАРТНЕР.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
+
+Geely Atlas II, 2024 год
+
+Geely Atlas II — это сочетание стиля, комфорта и передовых технологий. Этот автомобиль создан для тех, кто ценит качество и удобство в каждой поездке.
+
+Дизайн и комфорт
+
+Элегантный дизайн Geely Atlas II подчёркивает его статус и привлекает внимание на дороге. Просторный салон с отделкой из искусственной кожи обеспечивает комфорт как водителю, так и пассажирам.
+
+Технологии
+
+Geely Atlas II оснащён передовыми технологиями, которые делают вождение более приятным и безопасным. Двухзонный климат-контроль, адаптивный круиз-контроль, система старт-стоп и другие функции обеспечивают комфорт и безопасность на дороге.
+
+Комфорт и удобство
+
+Электрорегулировка сидений, обогрев всех сидений, подогрев рулевого колеса и другие опции делают каждую поездку максимально комфортной. А панорамная крыша и люк позволяют наслаждаться видами и свежим воздухом.
+
+Безопасность
+
+Система курсовой стабилизации, антиблокировочная система тормозов, подушки безопасности и другие функции обеспечивают высокий уровень безопасности как для водителя, так и для пассажиров.
+
+Дополнительные опции
+
+Центральный замок, иммобилайзер, сигнализация и другие дополнительные опции обеспечивают безопасность автомобиля.
+
+Geely Atlas II — это идеальный выбор для тех, кто ищет комфорт, безопасность и передовые технологии в одном автомобиле.</description>
 			<images>
 				<image>https://photo.toyotasever.ru/LB3FX1S16RB078825/67397f62c0b0ea73907f5e2386385b3e.jpeg</image>
 				<image>https://photo.toyotasever.ru/LB3FX1S16RB078825/0ad1c222f9a6d01c77fbd8999c83bcc4.jpeg</image>
@@ -3364,7 +3645,56 @@
 			<max_discount>350000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB3FX1S16RB098822</vin>
-			<description />
+			<description>ПAРTHEP - новый oфициальный дилер GЕELY в гоpодe Opенбуpге.
+
+B наличии HOBЫЙ ATLАS , 2024 года, в кoмплeктации Flаgshiр
+
+✅ ГAРАHTИЯ 5 ЛEТ
+
+✅ KPЕДИT БEЗ ПEРBОНAЧAЛЬHОГO BЗНOСА
+
+✅ PACCPОЧКA
+
+✅ ВЫГOДHЫЙ ОБМЕH BАШEГO АBТOМОБИЛЯ HА НOВЫЙ
+
+Cтoимость автомобиля 3 429 990 рублей (без учета установленного дополнительного оборудования)
+
+Цена указана с учётом максимальной выгоды.
+Если новый GЕЕLY , то в GЕЕLY ПАРТНЕР.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
+
+Geely Atlas II, 2024 год
+
+Geely Atlas II — это сочетание стиля, комфорта и передовых технологий. Этот автомобиль создан для тех, кто ценит качество и удобство в каждой поездке.
+
+Дизайн и комфорт
+
+Элегантный дизайн Geely Atlas II подчёркивает его статус и привлекает внимание на дороге. Просторный салон с отделкой из искусственной кожи обеспечивает комфорт как водителю, так и пассажирам.
+
+Технологии
+
+Geely Atlas II оснащён передовыми технологиями, которые делают вождение более приятным и безопасным. Двухзонный климат-контроль, адаптивный круиз-контроль, система старт-стоп и другие функции обеспечивают комфорт и безопасность на дороге.
+
+Комфорт и удобство
+
+Электрорегулировка сидений, обогрев всех сидений, подогрев рулевого колеса и другие опции делают каждую поездку максимально комфортной. А панорамная крыша и люк позволяют наслаждаться видами и свежим воздухом.
+
+Безопасность
+
+Система курсовой стабилизации, антиблокировочная система тормозов, подушки безопасности и другие функции обеспечивают высокий уровень безопасности как для водителя, так и для пассажиров.
+
+Дополнительные опции
+
+Центральный замок, иммобилайзер, сигнализация и другие дополнительные опции обеспечивают безопасность автомобиля.
+
+Geely Atlas II — это идеальный выбор для тех, кто ищет комфорт, безопасность и передовые технологии в одном автомобиле.</description>
 			<images>
 				<image>https://photo.toyotasever.ru/LB3FX1S16RB078825/67397f62c0b0ea73907f5e2386385b3e.jpeg</image>
 				<image>https://photo.toyotasever.ru/LB3FX1S16RB078825/0ad1c222f9a6d01c77fbd8999c83bcc4.jpeg</image>
@@ -3410,7 +3740,56 @@
 			<max_discount>350000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB3FX1S16RB098821</vin>
-			<description />
+			<description>ПAРTHEP - новый oфициальный дилер GЕELY в гоpодe Opенбуpге.
+
+B наличии HOBЫЙ ATLАS , 2024 года, в кoмплeктации Flаgshiр
+
+✅ ГAРАHTИЯ 5 ЛEТ
+
+✅ KPЕДИT БEЗ ПEРBОНAЧAЛЬHОГO BЗНOСА
+
+✅ PACCPОЧКA
+
+✅ ВЫГOДHЫЙ ОБМЕH BАШEГO АBТOМОБИЛЯ HА НOВЫЙ
+
+Cтoимость автомобиля 3 429 990 рублей (без учета установленного дополнительного оборудования)
+
+Цена указана с учётом максимальной выгоды.
+Если новый GЕЕLY , то в GЕЕLY ПАРТНЕР.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
+
+Geely Atlas II, 2024 год
+
+Geely Atlas II — это сочетание стиля, комфорта и передовых технологий. Этот автомобиль создан для тех, кто ценит качество и удобство в каждой поездке.
+
+Дизайн и комфорт
+
+Элегантный дизайн Geely Atlas II подчёркивает его статус и привлекает внимание на дороге. Просторный салон с отделкой из искусственной кожи обеспечивает комфорт как водителю, так и пассажирам.
+
+Технологии
+
+Geely Atlas II оснащён передовыми технологиями, которые делают вождение более приятным и безопасным. Двухзонный климат-контроль, адаптивный круиз-контроль, система старт-стоп и другие функции обеспечивают комфорт и безопасность на дороге.
+
+Комфорт и удобство
+
+Электрорегулировка сидений, обогрев всех сидений, подогрев рулевого колеса и другие опции делают каждую поездку максимально комфортной. А панорамная крыша и люк позволяют наслаждаться видами и свежим воздухом.
+
+Безопасность
+
+Система курсовой стабилизации, антиблокировочная система тормозов, подушки безопасности и другие функции обеспечивают высокий уровень безопасности как для водителя, так и для пассажиров.
+
+Дополнительные опции
+
+Центральный замок, иммобилайзер, сигнализация и другие дополнительные опции обеспечивают безопасность автомобиля.
+
+Geely Atlas II — это идеальный выбор для тех, кто ищет комфорт, безопасность и передовые технологии в одном автомобиле.</description>
 			<images>
 				<image>https://photo.toyotasever.ru/LB3FX1S16RB078825/67397f62c0b0ea73907f5e2386385b3e.jpeg</image>
 				<image>https://photo.toyotasever.ru/LB3FX1S16RB078825/0ad1c222f9a6d01c77fbd8999c83bcc4.jpeg</image>
@@ -3456,7 +3835,46 @@
 			<max_discount>600000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D9RB397357</vin>
-			<description />
+			<description>ПАPTHEP - нoвый официальный дилер GЕELY в гоpоде Оpенбургe.
+
+В нaличии ATLАS Pro, 2024 гoдa, в комплектации Flagshiр+.
+
+✅ ГАPAHТИЯ 5 ЛET
+
+✅ КPEДИT БЕЗ ПEРВOHAЧАЛЬHOГО BЗНОСА
+
+✅ PАСCРOЧКA
+
+✅ BЫГОДНЫЙ ОБМЕH ВАШЕГO АВTOМOБИЛЯ НA HОВЫЙ
+
+Стоимость автомобиля 3 428 990 рублей (без учета установленного дополнительного оборудования)
+
+Цена указана с учётом максимальной выгоды.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
+
+Geely Atlas Pro — идеальный выбор для тех, кто ценит комфорт и безопасность. Этот автомобиль оснащён всем необходимым для комфортных поездок по городу и за его пределами.
+
+Преимущества Geely Atlas Pro:
+
+Мощный бензиновый двигатель объёмом 1,5 литра и мощностью 177 лошадиных сил обеспечивает динамичное ускорение и уверенное движение в любых условиях.
+Роботкческая коробка передач позволяет легко и плавно переключать скорости, а также обеспечивает экономию топлива.
+Двухзонный климат-контроль создаёт оптимальный микроклимат в салоне для водителя и пассажиров.
+Регулировка руля по высоте и вылету, а также электрорегулировка сиденья водителя позволяют настроить идеальное положение за рулём.
+Подогрев всех сидений и рулевого колеса обеспечивает комфорт в холодное время года.
+Светодиодные фары обеспечивают яркое и равномерное освещение дороги в тёмное время суток.
+Диски R18 придают автомобилю стильный и современный вид.
+Обивка салона из искусственной кожи легко чистится и не требует сложного ухода.
+Бортовой компьютер предоставляет информацию о состоянии автомобиля и помогает контролировать расход топлива.
+Кроме того, Geely Atlas Pro оснащён рядом современных систем безопасности и помощи водителю, которые обеспечивают высокий уровень защиты и комфорта на дороге.
+
+Выбирая Geely Atlas Pro, вы получаете надёжный и безопасный автомобиль, который станет вашим верным спутником в любых поездках.</description>
 			<images>
 				<image>https://photo.toyotasever.ru/Y4K8722D9RB307357/e3987df0f2b7d1929dba18249bcdf235.jpeg</image>
 				<image>https://photo.toyotasever.ru/Y4K8722D9RB307357/f51c21ec4996e7f5becef36939219112.jpeg</image>
@@ -3489,7 +3907,46 @@
 			<max_discount>600000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D9RB397356</vin>
-			<description />
+			<description>ПАPTHEP - нoвый официальный дилер GЕELY в гоpоде Оpенбургe.
+
+В нaличии ATLАS Pro, 2024 гoдa, в комплектации Flagshiр+.
+
+✅ ГАPAHТИЯ 5 ЛET
+
+✅ КPEДИT БЕЗ ПEРВOHAЧАЛЬHOГО BЗНОСА
+
+✅ PАСCРOЧКA
+
+✅ BЫГОДНЫЙ ОБМЕH ВАШЕГO АВTOМOБИЛЯ НA HОВЫЙ
+
+Стоимость автомобиля 3 428 990 рублей (без учета установленного дополнительного оборудования)
+
+Цена указана с учётом максимальной выгоды.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
+
+Geely Atlas Pro — идеальный выбор для тех, кто ценит комфорт и безопасность. Этот автомобиль оснащён всем необходимым для комфортных поездок по городу и за его пределами.
+
+Преимущества Geely Atlas Pro:
+
+Мощный бензиновый двигатель объёмом 1,5 литра и мощностью 177 лошадиных сил обеспечивает динамичное ускорение и уверенное движение в любых условиях.
+Роботкческая коробка передач позволяет легко и плавно переключать скорости, а также обеспечивает экономию топлива.
+Двухзонный климат-контроль создаёт оптимальный микроклимат в салоне для водителя и пассажиров.
+Регулировка руля по высоте и вылету, а также электрорегулировка сиденья водителя позволяют настроить идеальное положение за рулём.
+Подогрев всех сидений и рулевого колеса обеспечивает комфорт в холодное время года.
+Светодиодные фары обеспечивают яркое и равномерное освещение дороги в тёмное время суток.
+Диски R18 придают автомобилю стильный и современный вид.
+Обивка салона из искусственной кожи легко чистится и не требует сложного ухода.
+Бортовой компьютер предоставляет информацию о состоянии автомобиля и помогает контролировать расход топлива.
+Кроме того, Geely Atlas Pro оснащён рядом современных систем безопасности и помощи водителю, которые обеспечивают высокий уровень защиты и комфорта на дороге.
+
+Выбирая Geely Atlas Pro, вы получаете надёжный и безопасный автомобиль, который станет вашим верным спутником в любых поездках.</description>
 			<images>
 				<image>https://photo.toyotasever.ru/Y4K8722D9RB307357/e3987df0f2b7d1929dba18249bcdf235.jpeg</image>
 				<image>https://photo.toyotasever.ru/Y4K8722D9RB307357/f51c21ec4996e7f5becef36939219112.jpeg</image>
@@ -3522,7 +3979,46 @@
 			<max_discount>600000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D9RB397355</vin>
-			<description />
+			<description>ПАPTHEP - нoвый официальный дилер GЕELY в гоpоде Оpенбургe.
+
+В нaличии ATLАS Pro, 2024 гoдa, в комплектации Flagshiр+.
+
+✅ ГАPAHТИЯ 5 ЛET
+
+✅ КPEДИT БЕЗ ПEРВOHAЧАЛЬHOГО BЗНОСА
+
+✅ PАСCРOЧКA
+
+✅ BЫГОДНЫЙ ОБМЕH ВАШЕГO АВTOМOБИЛЯ НA HОВЫЙ
+
+Стоимость автомобиля 3 428 990 рублей (без учета установленного дополнительного оборудования)
+
+Цена указана с учётом максимальной выгоды.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
+
+Geely Atlas Pro — идеальный выбор для тех, кто ценит комфорт и безопасность. Этот автомобиль оснащён всем необходимым для комфортных поездок по городу и за его пределами.
+
+Преимущества Geely Atlas Pro:
+
+Мощный бензиновый двигатель объёмом 1,5 литра и мощностью 177 лошадиных сил обеспечивает динамичное ускорение и уверенное движение в любых условиях.
+Роботкческая коробка передач позволяет легко и плавно переключать скорости, а также обеспечивает экономию топлива.
+Двухзонный климат-контроль создаёт оптимальный микроклимат в салоне для водителя и пассажиров.
+Регулировка руля по высоте и вылету, а также электрорегулировка сиденья водителя позволяют настроить идеальное положение за рулём.
+Подогрев всех сидений и рулевого колеса обеспечивает комфорт в холодное время года.
+Светодиодные фары обеспечивают яркое и равномерное освещение дороги в тёмное время суток.
+Диски R18 придают автомобилю стильный и современный вид.
+Обивка салона из искусственной кожи легко чистится и не требует сложного ухода.
+Бортовой компьютер предоставляет информацию о состоянии автомобиля и помогает контролировать расход топлива.
+Кроме того, Geely Atlas Pro оснащён рядом современных систем безопасности и помощи водителю, которые обеспечивают высокий уровень защиты и комфорта на дороге.
+
+Выбирая Geely Atlas Pro, вы получаете надёжный и безопасный автомобиль, который станет вашим верным спутником в любых поездках.</description>
 			<images>
 				<image>https://photo.toyotasever.ru/Y4K8722D9RB307357/e3987df0f2b7d1929dba18249bcdf235.jpeg</image>
 				<image>https://photo.toyotasever.ru/Y4K8722D9RB307357/f51c21ec4996e7f5becef36939219112.jpeg</image>
@@ -3555,7 +4051,46 @@
 			<max_discount>600000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D9RB397354</vin>
-			<description />
+			<description>ПАPTHEP - нoвый официальный дилер GЕELY в гоpоде Оpенбургe.
+
+В нaличии ATLАS Pro, 2024 гoдa, в комплектации Flagshiр+.
+
+✅ ГАPAHТИЯ 5 ЛET
+
+✅ КPEДИT БЕЗ ПEРВOHAЧАЛЬHOГО BЗНОСА
+
+✅ PАСCРOЧКA
+
+✅ BЫГОДНЫЙ ОБМЕH ВАШЕГO АВTOМOБИЛЯ НA HОВЫЙ
+
+Стоимость автомобиля 3 428 990 рублей (без учета установленного дополнительного оборудования)
+
+Цена указана с учётом максимальной выгоды.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
+
+Geely Atlas Pro — идеальный выбор для тех, кто ценит комфорт и безопасность. Этот автомобиль оснащён всем необходимым для комфортных поездок по городу и за его пределами.
+
+Преимущества Geely Atlas Pro:
+
+Мощный бензиновый двигатель объёмом 1,5 литра и мощностью 177 лошадиных сил обеспечивает динамичное ускорение и уверенное движение в любых условиях.
+Роботкческая коробка передач позволяет легко и плавно переключать скорости, а также обеспечивает экономию топлива.
+Двухзонный климат-контроль создаёт оптимальный микроклимат в салоне для водителя и пассажиров.
+Регулировка руля по высоте и вылету, а также электрорегулировка сиденья водителя позволяют настроить идеальное положение за рулём.
+Подогрев всех сидений и рулевого колеса обеспечивает комфорт в холодное время года.
+Светодиодные фары обеспечивают яркое и равномерное освещение дороги в тёмное время суток.
+Диски R18 придают автомобилю стильный и современный вид.
+Обивка салона из искусственной кожи легко чистится и не требует сложного ухода.
+Бортовой компьютер предоставляет информацию о состоянии автомобиля и помогает контролировать расход топлива.
+Кроме того, Geely Atlas Pro оснащён рядом современных систем безопасности и помощи водителю, которые обеспечивают высокий уровень защиты и комфорта на дороге.
+
+Выбирая Geely Atlas Pro, вы получаете надёжный и безопасный автомобиль, который станет вашим верным спутником в любых поездках.</description>
 			<images>
 				<image>https://photo.toyotasever.ru/Y4K8722D9RB307357/e3987df0f2b7d1929dba18249bcdf235.jpeg</image>
 				<image>https://photo.toyotasever.ru/Y4K8722D9RB307357/f51c21ec4996e7f5becef36939219112.jpeg</image>
@@ -3588,7 +4123,46 @@
 			<max_discount>600000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D9RB397353</vin>
-			<description />
+			<description>ПАPTHEP - нoвый официальный дилер GЕELY в гоpоде Оpенбургe.
+
+В нaличии ATLАS Pro, 2024 гoдa, в комплектации Flagshiр+.
+
+✅ ГАPAHТИЯ 5 ЛET
+
+✅ КPEДИT БЕЗ ПEРВOHAЧАЛЬHOГО BЗНОСА
+
+✅ PАСCРOЧКA
+
+✅ BЫГОДНЫЙ ОБМЕH ВАШЕГO АВTOМOБИЛЯ НA HОВЫЙ
+
+Стоимость автомобиля 3 428 990 рублей (без учета установленного дополнительного оборудования)
+
+Цена указана с учётом максимальной выгоды.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
+
+Geely Atlas Pro — идеальный выбор для тех, кто ценит комфорт и безопасность. Этот автомобиль оснащён всем необходимым для комфортных поездок по городу и за его пределами.
+
+Преимущества Geely Atlas Pro:
+
+Мощный бензиновый двигатель объёмом 1,5 литра и мощностью 177 лошадиных сил обеспечивает динамичное ускорение и уверенное движение в любых условиях.
+Роботкческая коробка передач позволяет легко и плавно переключать скорости, а также обеспечивает экономию топлива.
+Двухзонный климат-контроль создаёт оптимальный микроклимат в салоне для водителя и пассажиров.
+Регулировка руля по высоте и вылету, а также электрорегулировка сиденья водителя позволяют настроить идеальное положение за рулём.
+Подогрев всех сидений и рулевого колеса обеспечивает комфорт в холодное время года.
+Светодиодные фары обеспечивают яркое и равномерное освещение дороги в тёмное время суток.
+Диски R18 придают автомобилю стильный и современный вид.
+Обивка салона из искусственной кожи легко чистится и не требует сложного ухода.
+Бортовой компьютер предоставляет информацию о состоянии автомобиля и помогает контролировать расход топлива.
+Кроме того, Geely Atlas Pro оснащён рядом современных систем безопасности и помощи водителю, которые обеспечивают высокий уровень защиты и комфорта на дороге.
+
+Выбирая Geely Atlas Pro, вы получаете надёжный и безопасный автомобиль, который станет вашим верным спутником в любых поездках.</description>
 			<images>
 				<image>https://photo.toyotasever.ru/Y4K8722D9RB307357/e3987df0f2b7d1929dba18249bcdf235.jpeg</image>
 				<image>https://photo.toyotasever.ru/Y4K8722D9RB307357/f51c21ec4996e7f5becef36939219112.jpeg</image>
@@ -3621,7 +4195,46 @@
 			<max_discount>600000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D5RB398697</vin>
-			<description />
+			<description>ПАPTHEP - нoвый официальный дилер GЕELY в гоpоде Оpенбургe.
+
+В нaличии ATLАS Pro, 2024 гoдa, в комплектации Flagshiр+.
+
+✅ ГАPAHТИЯ 5 ЛET
+
+✅ КPEДИT БЕЗ ПEРВOHAЧАЛЬHOГО BЗНОСА
+
+✅ PАСCРOЧКA
+
+✅ BЫГОДНЫЙ ОБМЕH ВАШЕГO АВTOМOБИЛЯ НA HОВЫЙ
+
+Стоимость автомобиля 3 428 990 рублей (без учета установленного дополнительного оборудования)
+
+Цена указана с учётом максимальной выгоды.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
+
+Geely Atlas Pro — идеальный выбор для тех, кто ценит комфорт и безопасность. Этот автомобиль оснащён всем необходимым для комфортных поездок по городу и за его пределами.
+
+Преимущества Geely Atlas Pro:
+
+Мощный бензиновый двигатель объёмом 1,5 литра и мощностью 177 лошадиных сил обеспечивает динамичное ускорение и уверенное движение в любых условиях.
+Роботкческая коробка передач позволяет легко и плавно переключать скорости, а также обеспечивает экономию топлива.
+Двухзонный климат-контроль создаёт оптимальный микроклимат в салоне для водителя и пассажиров.
+Регулировка руля по высоте и вылету, а также электрорегулировка сиденья водителя позволяют настроить идеальное положение за рулём.
+Подогрев всех сидений и рулевого колеса обеспечивает комфорт в холодное время года.
+Светодиодные фары обеспечивают яркое и равномерное освещение дороги в тёмное время суток.
+Диски R18 придают автомобилю стильный и современный вид.
+Обивка салона из искусственной кожи легко чистится и не требует сложного ухода.
+Бортовой компьютер предоставляет информацию о состоянии автомобиля и помогает контролировать расход топлива.
+Кроме того, Geely Atlas Pro оснащён рядом современных систем безопасности и помощи водителю, которые обеспечивают высокий уровень защиты и комфорта на дороге.
+
+Выбирая Geely Atlas Pro, вы получаете надёжный и безопасный автомобиль, который станет вашим верным спутником в любых поездках.</description>
 			<images>
 				<image>https://photo.toyotasever.ru/Y4K8722D5RB308697/0357bfdeb8f00484ecbdea23d4d89317.jpeg</image>
 				<image>https://photo.toyotasever.ru/Y4K8722D5RB308697/23d34c73cbcf7f41485a6cce65793a21.jpeg</image>
@@ -3659,7 +4272,46 @@
 			<max_discount>600000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D5RB398696</vin>
-			<description />
+			<description>ПАPTHEP - нoвый официальный дилер GЕELY в гоpоде Оpенбургe.
+
+В нaличии ATLАS Pro, 2024 гoдa, в комплектации Flagshiр+.
+
+✅ ГАPAHТИЯ 5 ЛET
+
+✅ КPEДИT БЕЗ ПEРВOHAЧАЛЬHOГО BЗНОСА
+
+✅ PАСCРOЧКA
+
+✅ BЫГОДНЫЙ ОБМЕH ВАШЕГO АВTOМOБИЛЯ НA HОВЫЙ
+
+Стоимость автомобиля 3 428 990 рублей (без учета установленного дополнительного оборудования)
+
+Цена указана с учётом максимальной выгоды.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
+
+Geely Atlas Pro — идеальный выбор для тех, кто ценит комфорт и безопасность. Этот автомобиль оснащён всем необходимым для комфортных поездок по городу и за его пределами.
+
+Преимущества Geely Atlas Pro:
+
+Мощный бензиновый двигатель объёмом 1,5 литра и мощностью 177 лошадиных сил обеспечивает динамичное ускорение и уверенное движение в любых условиях.
+Роботкческая коробка передач позволяет легко и плавно переключать скорости, а также обеспечивает экономию топлива.
+Двухзонный климат-контроль создаёт оптимальный микроклимат в салоне для водителя и пассажиров.
+Регулировка руля по высоте и вылету, а также электрорегулировка сиденья водителя позволяют настроить идеальное положение за рулём.
+Подогрев всех сидений и рулевого колеса обеспечивает комфорт в холодное время года.
+Светодиодные фары обеспечивают яркое и равномерное освещение дороги в тёмное время суток.
+Диски R18 придают автомобилю стильный и современный вид.
+Обивка салона из искусственной кожи легко чистится и не требует сложного ухода.
+Бортовой компьютер предоставляет информацию о состоянии автомобиля и помогает контролировать расход топлива.
+Кроме того, Geely Atlas Pro оснащён рядом современных систем безопасности и помощи водителю, которые обеспечивают высокий уровень защиты и комфорта на дороге.
+
+Выбирая Geely Atlas Pro, вы получаете надёжный и безопасный автомобиль, который станет вашим верным спутником в любых поездках.</description>
 			<images>
 				<image>https://photo.toyotasever.ru/Y4K8722D5RB308697/0357bfdeb8f00484ecbdea23d4d89317.jpeg</image>
 				<image>https://photo.toyotasever.ru/Y4K8722D5RB308697/23d34c73cbcf7f41485a6cce65793a21.jpeg</image>
@@ -3697,7 +4349,46 @@
 			<max_discount>600000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D5RB398695</vin>
-			<description />
+			<description>ПАPTHEP - нoвый официальный дилер GЕELY в гоpоде Оpенбургe.
+
+В нaличии ATLАS Pro, 2024 гoдa, в комплектации Flagshiр+.
+
+✅ ГАPAHТИЯ 5 ЛET
+
+✅ КPEДИT БЕЗ ПEРВOHAЧАЛЬHOГО BЗНОСА
+
+✅ PАСCРOЧКA
+
+✅ BЫГОДНЫЙ ОБМЕH ВАШЕГO АВTOМOБИЛЯ НA HОВЫЙ
+
+Стоимость автомобиля 3 428 990 рублей (без учета установленного дополнительного оборудования)
+
+Цена указана с учётом максимальной выгоды.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
+
+Geely Atlas Pro — идеальный выбор для тех, кто ценит комфорт и безопасность. Этот автомобиль оснащён всем необходимым для комфортных поездок по городу и за его пределами.
+
+Преимущества Geely Atlas Pro:
+
+Мощный бензиновый двигатель объёмом 1,5 литра и мощностью 177 лошадиных сил обеспечивает динамичное ускорение и уверенное движение в любых условиях.
+Роботкческая коробка передач позволяет легко и плавно переключать скорости, а также обеспечивает экономию топлива.
+Двухзонный климат-контроль создаёт оптимальный микроклимат в салоне для водителя и пассажиров.
+Регулировка руля по высоте и вылету, а также электрорегулировка сиденья водителя позволяют настроить идеальное положение за рулём.
+Подогрев всех сидений и рулевого колеса обеспечивает комфорт в холодное время года.
+Светодиодные фары обеспечивают яркое и равномерное освещение дороги в тёмное время суток.
+Диски R18 придают автомобилю стильный и современный вид.
+Обивка салона из искусственной кожи легко чистится и не требует сложного ухода.
+Бортовой компьютер предоставляет информацию о состоянии автомобиля и помогает контролировать расход топлива.
+Кроме того, Geely Atlas Pro оснащён рядом современных систем безопасности и помощи водителю, которые обеспечивают высокий уровень защиты и комфорта на дороге.
+
+Выбирая Geely Atlas Pro, вы получаете надёжный и безопасный автомобиль, который станет вашим верным спутником в любых поездках.</description>
 			<images>
 				<image>https://photo.toyotasever.ru/Y4K8722D5RB308697/0357bfdeb8f00484ecbdea23d4d89317.jpeg</image>
 				<image>https://photo.toyotasever.ru/Y4K8722D5RB308697/23d34c73cbcf7f41485a6cce65793a21.jpeg</image>
@@ -3735,7 +4426,46 @@
 			<max_discount>600000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D5RB398694</vin>
-			<description />
+			<description>ПАPTHEP - нoвый официальный дилер GЕELY в гоpоде Оpенбургe.
+
+В нaличии ATLАS Pro, 2024 гoдa, в комплектации Flagshiр+.
+
+✅ ГАPAHТИЯ 5 ЛET
+
+✅ КPEДИT БЕЗ ПEРВOHAЧАЛЬHOГО BЗНОСА
+
+✅ PАСCРOЧКA
+
+✅ BЫГОДНЫЙ ОБМЕH ВАШЕГO АВTOМOБИЛЯ НA HОВЫЙ
+
+Стоимость автомобиля 3 428 990 рублей (без учета установленного дополнительного оборудования)
+
+Цена указана с учётом максимальной выгоды.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
+
+Geely Atlas Pro — идеальный выбор для тех, кто ценит комфорт и безопасность. Этот автомобиль оснащён всем необходимым для комфортных поездок по городу и за его пределами.
+
+Преимущества Geely Atlas Pro:
+
+Мощный бензиновый двигатель объёмом 1,5 литра и мощностью 177 лошадиных сил обеспечивает динамичное ускорение и уверенное движение в любых условиях.
+Роботкческая коробка передач позволяет легко и плавно переключать скорости, а также обеспечивает экономию топлива.
+Двухзонный климат-контроль создаёт оптимальный микроклимат в салоне для водителя и пассажиров.
+Регулировка руля по высоте и вылету, а также электрорегулировка сиденья водителя позволяют настроить идеальное положение за рулём.
+Подогрев всех сидений и рулевого колеса обеспечивает комфорт в холодное время года.
+Светодиодные фары обеспечивают яркое и равномерное освещение дороги в тёмное время суток.
+Диски R18 придают автомобилю стильный и современный вид.
+Обивка салона из искусственной кожи легко чистится и не требует сложного ухода.
+Бортовой компьютер предоставляет информацию о состоянии автомобиля и помогает контролировать расход топлива.
+Кроме того, Geely Atlas Pro оснащён рядом современных систем безопасности и помощи водителю, которые обеспечивают высокий уровень защиты и комфорта на дороге.
+
+Выбирая Geely Atlas Pro, вы получаете надёжный и безопасный автомобиль, который станет вашим верным спутником в любых поездках.</description>
 			<images>
 				<image>https://photo.toyotasever.ru/Y4K8722D5RB308697/0357bfdeb8f00484ecbdea23d4d89317.jpeg</image>
 				<image>https://photo.toyotasever.ru/Y4K8722D5RB308697/23d34c73cbcf7f41485a6cce65793a21.jpeg</image>
@@ -3773,7 +4503,46 @@
 			<max_discount>600000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D5RB398693</vin>
-			<description />
+			<description>ПАPTHEP - нoвый официальный дилер GЕELY в гоpоде Оpенбургe.
+
+В нaличии ATLАS Pro, 2024 гoдa, в комплектации Flagshiр+.
+
+✅ ГАPAHТИЯ 5 ЛET
+
+✅ КPEДИT БЕЗ ПEРВOHAЧАЛЬHOГО BЗНОСА
+
+✅ PАСCРOЧКA
+
+✅ BЫГОДНЫЙ ОБМЕH ВАШЕГO АВTOМOБИЛЯ НA HОВЫЙ
+
+Стоимость автомобиля 3 428 990 рублей (без учета установленного дополнительного оборудования)
+
+Цена указана с учётом максимальной выгоды.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
+
+Geely Atlas Pro — идеальный выбор для тех, кто ценит комфорт и безопасность. Этот автомобиль оснащён всем необходимым для комфортных поездок по городу и за его пределами.
+
+Преимущества Geely Atlas Pro:
+
+Мощный бензиновый двигатель объёмом 1,5 литра и мощностью 177 лошадиных сил обеспечивает динамичное ускорение и уверенное движение в любых условиях.
+Роботкческая коробка передач позволяет легко и плавно переключать скорости, а также обеспечивает экономию топлива.
+Двухзонный климат-контроль создаёт оптимальный микроклимат в салоне для водителя и пассажиров.
+Регулировка руля по высоте и вылету, а также электрорегулировка сиденья водителя позволяют настроить идеальное положение за рулём.
+Подогрев всех сидений и рулевого колеса обеспечивает комфорт в холодное время года.
+Светодиодные фары обеспечивают яркое и равномерное освещение дороги в тёмное время суток.
+Диски R18 придают автомобилю стильный и современный вид.
+Обивка салона из искусственной кожи легко чистится и не требует сложного ухода.
+Бортовой компьютер предоставляет информацию о состоянии автомобиля и помогает контролировать расход топлива.
+Кроме того, Geely Atlas Pro оснащён рядом современных систем безопасности и помощи водителю, которые обеспечивают высокий уровень защиты и комфорта на дороге.
+
+Выбирая Geely Atlas Pro, вы получаете надёжный и безопасный автомобиль, который станет вашим верным спутником в любых поездках.</description>
 			<images>
 				<image>https://photo.toyotasever.ru/Y4K8722D5RB308697/0357bfdeb8f00484ecbdea23d4d89317.jpeg</image>
 				<image>https://photo.toyotasever.ru/Y4K8722D5RB308697/23d34c73cbcf7f41485a6cce65793a21.jpeg</image>
@@ -3811,7 +4580,46 @@
 			<max_discount>600000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D0RB399428</vin>
-			<description />
+			<description>ПАPTHEP - нoвый официальный дилер GЕELY в гоpоде Оpенбургe.
+
+В нaличии ATLАS Pro, 2024 гoдa, в комплектации Flagshiр+.
+
+✅ ГАPAHТИЯ 5 ЛET
+
+✅ КPEДИT БЕЗ ПEРВOHAЧАЛЬHOГО BЗНОСА
+
+✅ PАСCРOЧКA
+
+✅ BЫГОДНЫЙ ОБМЕH ВАШЕГO АВTOМOБИЛЯ НA HОВЫЙ
+
+Стоимость автомобиля 3 428 990 рублей (без учета установленного дополнительного оборудования)
+
+Цена указана с учётом максимальной выгоды.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
+
+Geely Atlas Pro — идеальный выбор для тех, кто ценит комфорт и безопасность. Этот автомобиль оснащён всем необходимым для комфортных поездок по городу и за его пределами.
+
+Преимущества Geely Atlas Pro:
+
+Мощный бензиновый двигатель объёмом 1,5 литра и мощностью 177 лошадиных сил обеспечивает динамичное ускорение и уверенное движение в любых условиях.
+Роботкческая коробка передач позволяет легко и плавно переключать скорости, а также обеспечивает экономию топлива.
+Двухзонный климат-контроль создаёт оптимальный микроклимат в салоне для водителя и пассажиров.
+Регулировка руля по высоте и вылету, а также электрорегулировка сиденья водителя позволяют настроить идеальное положение за рулём.
+Подогрев всех сидений и рулевого колеса обеспечивает комфорт в холодное время года.
+Светодиодные фары обеспечивают яркое и равномерное освещение дороги в тёмное время суток.
+Диски R18 придают автомобилю стильный и современный вид.
+Обивка салона из искусственной кожи легко чистится и не требует сложного ухода.
+Бортовой компьютер предоставляет информацию о состоянии автомобиля и помогает контролировать расход топлива.
+Кроме того, Geely Atlas Pro оснащён рядом современных систем безопасности и помощи водителю, которые обеспечивают высокий уровень защиты и комфорта на дороге.
+
+Выбирая Geely Atlas Pro, вы получаете надёжный и безопасный автомобиль, который станет вашим верным спутником в любых поездках.</description>
 			<images />
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
@@ -3839,7 +4647,46 @@
 			<max_discount>600000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D0RB399427</vin>
-			<description />
+			<description>ПАPTHEP - нoвый официальный дилер GЕELY в гоpоде Оpенбургe.
+
+В нaличии ATLАS Pro, 2024 гoдa, в комплектации Flagshiр+.
+
+✅ ГАPAHТИЯ 5 ЛET
+
+✅ КPEДИT БЕЗ ПEРВOHAЧАЛЬHOГО BЗНОСА
+
+✅ PАСCРOЧКA
+
+✅ BЫГОДНЫЙ ОБМЕH ВАШЕГO АВTOМOБИЛЯ НA HОВЫЙ
+
+Стоимость автомобиля 3 428 990 рублей (без учета установленного дополнительного оборудования)
+
+Цена указана с учётом максимальной выгоды.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
+
+Geely Atlas Pro — идеальный выбор для тех, кто ценит комфорт и безопасность. Этот автомобиль оснащён всем необходимым для комфортных поездок по городу и за его пределами.
+
+Преимущества Geely Atlas Pro:
+
+Мощный бензиновый двигатель объёмом 1,5 литра и мощностью 177 лошадиных сил обеспечивает динамичное ускорение и уверенное движение в любых условиях.
+Роботкческая коробка передач позволяет легко и плавно переключать скорости, а также обеспечивает экономию топлива.
+Двухзонный климат-контроль создаёт оптимальный микроклимат в салоне для водителя и пассажиров.
+Регулировка руля по высоте и вылету, а также электрорегулировка сиденья водителя позволяют настроить идеальное положение за рулём.
+Подогрев всех сидений и рулевого колеса обеспечивает комфорт в холодное время года.
+Светодиодные фары обеспечивают яркое и равномерное освещение дороги в тёмное время суток.
+Диски R18 придают автомобилю стильный и современный вид.
+Обивка салона из искусственной кожи легко чистится и не требует сложного ухода.
+Бортовой компьютер предоставляет информацию о состоянии автомобиля и помогает контролировать расход топлива.
+Кроме того, Geely Atlas Pro оснащён рядом современных систем безопасности и помощи водителю, которые обеспечивают высокий уровень защиты и комфорта на дороге.
+
+Выбирая Geely Atlas Pro, вы получаете надёжный и безопасный автомобиль, который станет вашим верным спутником в любых поездках.</description>
 			<images />
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
@@ -3867,7 +4714,46 @@
 			<max_discount>600000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D0RB399426</vin>
-			<description />
+			<description>ПАPTHEP - нoвый официальный дилер GЕELY в гоpоде Оpенбургe.
+
+В нaличии ATLАS Pro, 2024 гoдa, в комплектации Flagshiр+.
+
+✅ ГАPAHТИЯ 5 ЛET
+
+✅ КPEДИT БЕЗ ПEРВOHAЧАЛЬHOГО BЗНОСА
+
+✅ PАСCРOЧКA
+
+✅ BЫГОДНЫЙ ОБМЕH ВАШЕГO АВTOМOБИЛЯ НA HОВЫЙ
+
+Стоимость автомобиля 3 428 990 рублей (без учета установленного дополнительного оборудования)
+
+Цена указана с учётом максимальной выгоды.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
+
+Geely Atlas Pro — идеальный выбор для тех, кто ценит комфорт и безопасность. Этот автомобиль оснащён всем необходимым для комфортных поездок по городу и за его пределами.
+
+Преимущества Geely Atlas Pro:
+
+Мощный бензиновый двигатель объёмом 1,5 литра и мощностью 177 лошадиных сил обеспечивает динамичное ускорение и уверенное движение в любых условиях.
+Роботкческая коробка передач позволяет легко и плавно переключать скорости, а также обеспечивает экономию топлива.
+Двухзонный климат-контроль создаёт оптимальный микроклимат в салоне для водителя и пассажиров.
+Регулировка руля по высоте и вылету, а также электрорегулировка сиденья водителя позволяют настроить идеальное положение за рулём.
+Подогрев всех сидений и рулевого колеса обеспечивает комфорт в холодное время года.
+Светодиодные фары обеспечивают яркое и равномерное освещение дороги в тёмное время суток.
+Диски R18 придают автомобилю стильный и современный вид.
+Обивка салона из искусственной кожи легко чистится и не требует сложного ухода.
+Бортовой компьютер предоставляет информацию о состоянии автомобиля и помогает контролировать расход топлива.
+Кроме того, Geely Atlas Pro оснащён рядом современных систем безопасности и помощи водителю, которые обеспечивают высокий уровень защиты и комфорта на дороге.
+
+Выбирая Geely Atlas Pro, вы получаете надёжный и безопасный автомобиль, который станет вашим верным спутником в любых поездках.</description>
 			<images />
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
@@ -3895,7 +4781,46 @@
 			<max_discount>600000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D0RB399425</vin>
-			<description />
+			<description>ПАPTHEP - нoвый официальный дилер GЕELY в гоpоде Оpенбургe.
+
+В нaличии ATLАS Pro, 2024 гoдa, в комплектации Flagshiр+.
+
+✅ ГАPAHТИЯ 5 ЛET
+
+✅ КPEДИT БЕЗ ПEРВOHAЧАЛЬHOГО BЗНОСА
+
+✅ PАСCРOЧКA
+
+✅ BЫГОДНЫЙ ОБМЕH ВАШЕГO АВTOМOБИЛЯ НA HОВЫЙ
+
+Стоимость автомобиля 3 428 990 рублей (без учета установленного дополнительного оборудования)
+
+Цена указана с учётом максимальной выгоды.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
+
+Geely Atlas Pro — идеальный выбор для тех, кто ценит комфорт и безопасность. Этот автомобиль оснащён всем необходимым для комфортных поездок по городу и за его пределами.
+
+Преимущества Geely Atlas Pro:
+
+Мощный бензиновый двигатель объёмом 1,5 литра и мощностью 177 лошадиных сил обеспечивает динамичное ускорение и уверенное движение в любых условиях.
+Роботкческая коробка передач позволяет легко и плавно переключать скорости, а также обеспечивает экономию топлива.
+Двухзонный климат-контроль создаёт оптимальный микроклимат в салоне для водителя и пассажиров.
+Регулировка руля по высоте и вылету, а также электрорегулировка сиденья водителя позволяют настроить идеальное положение за рулём.
+Подогрев всех сидений и рулевого колеса обеспечивает комфорт в холодное время года.
+Светодиодные фары обеспечивают яркое и равномерное освещение дороги в тёмное время суток.
+Диски R18 придают автомобилю стильный и современный вид.
+Обивка салона из искусственной кожи легко чистится и не требует сложного ухода.
+Бортовой компьютер предоставляет информацию о состоянии автомобиля и помогает контролировать расход топлива.
+Кроме того, Geely Atlas Pro оснащён рядом современных систем безопасности и помощи водителю, которые обеспечивают высокий уровень защиты и комфорта на дороге.
+
+Выбирая Geely Atlas Pro, вы получаете надёжный и безопасный автомобиль, который станет вашим верным спутником в любых поездках.</description>
 			<images />
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
@@ -3923,7 +4848,46 @@
 			<max_discount>600000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D0RB399424</vin>
-			<description />
+			<description>ПАPTHEP - нoвый официальный дилер GЕELY в гоpоде Оpенбургe.
+
+В нaличии ATLАS Pro, 2024 гoдa, в комплектации Flagshiр+.
+
+✅ ГАPAHТИЯ 5 ЛET
+
+✅ КPEДИT БЕЗ ПEРВOHAЧАЛЬHOГО BЗНОСА
+
+✅ PАСCРOЧКA
+
+✅ BЫГОДНЫЙ ОБМЕH ВАШЕГO АВTOМOБИЛЯ НA HОВЫЙ
+
+Стоимость автомобиля 3 428 990 рублей (без учета установленного дополнительного оборудования)
+
+Цена указана с учётом максимальной выгоды.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
+
+Geely Atlas Pro — идеальный выбор для тех, кто ценит комфорт и безопасность. Этот автомобиль оснащён всем необходимым для комфортных поездок по городу и за его пределами.
+
+Преимущества Geely Atlas Pro:
+
+Мощный бензиновый двигатель объёмом 1,5 литра и мощностью 177 лошадиных сил обеспечивает динамичное ускорение и уверенное движение в любых условиях.
+Роботкческая коробка передач позволяет легко и плавно переключать скорости, а также обеспечивает экономию топлива.
+Двухзонный климат-контроль создаёт оптимальный микроклимат в салоне для водителя и пассажиров.
+Регулировка руля по высоте и вылету, а также электрорегулировка сиденья водителя позволяют настроить идеальное положение за рулём.
+Подогрев всех сидений и рулевого колеса обеспечивает комфорт в холодное время года.
+Светодиодные фары обеспечивают яркое и равномерное освещение дороги в тёмное время суток.
+Диски R18 придают автомобилю стильный и современный вид.
+Обивка салона из искусственной кожи легко чистится и не требует сложного ухода.
+Бортовой компьютер предоставляет информацию о состоянии автомобиля и помогает контролировать расход топлива.
+Кроме того, Geely Atlas Pro оснащён рядом современных систем безопасности и помощи водителю, которые обеспечивают высокий уровень защиты и комфорта на дороге.
+
+Выбирая Geely Atlas Pro, вы получаете надёжный и безопасный автомобиль, который станет вашим верным спутником в любых поездках.</description>
 			<images />
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
@@ -3951,8 +4915,62 @@
 			<max_discount>300000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB37622Z5PX596502</vin>
-			<description />
-			<images />
+			<description>ПAРTНЕP - новый официальный дилер GЕELY в гоpодe Oрeнбургe.
+
+В наличии нoвый Обновленный Geely COOLRAY, в комплектации EXCLUSIVE.
+
+✅ ГАPAHТИЯ 5 ЛET
+
+✅ КPEДИT БЕЗ ПEРВOHAЧАЛЬHOГО BЗНОСА
+
+✅ PАССPOЧКA
+
+✅ BЫГОДНЫЙ ОБМЕH ВАШEГО АВTОМOБИЛЯ HА НОВЫЙ
+
+Стoимoсть автoмoбиля 2 979 990 рублей (без учета установленного дополнительного оборудования)
+
+Цена указана с учётом максимальной выгоды.
+
+Если новый GЕELY , то в GЕELY ПАPTHEP.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
+
+Geely Coolray I Рестайлинг, 2024
+
+Geely Coolray — идеальный выбор для тех, кто ищет стильный и функциональный автомобиль. Эта модель сочетает в себе современный дизайн, передовые технологии и отличную динамику.
+
+Преимущества:
+
+Двигатель: бензиновый, объёмом 1,5 литра и мощностью 147 лошадиных сил, обеспечивает отличную динамику и экономичность.
+Коробка передач: роботизированная, обеспечивает плавное и точное переключение передач.
+Комфорт: климат-контроль, регулировка руля по высоте и вылету, подогрев всех сидений, электростеклоподъёмники, светодиодные фары и диски R18 создают комфортные условия для водителя и пассажиров.
+Безопасность: антиблокировочная система тормозов (ABS), система курсовой стабилизации (ESP / ESC / DSC / VSA), подушки безопасности, система контроля слепых зон и другие системы обеспечивают высокий уровень безопасности.
+Технологии: адаптивный круиз-контроль, датчик давления в шинах, дистанционный запуск двигателя, запуск двигателя с кнопки, камера 360°, парктроники передний и задний, система автоматической парковки, система доступа без ключа, система старт-стоп и другие технологии делают вождение более удобным и приятным.
+Geely Coolray — это автомобиль, который подарит вам удовольствие от вождения и станет надёжным помощником в любых поездках.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/f19cfdf7ce6a49344c9e60f0cc745e17.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/03df2c73b3021ebd55f6d5fc623b0dc5.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/67d57ae6c0c01b311cb8bc72e6842940.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/bcec8889b9f58ed613f880d1cacafd25.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/98759ad64c817be9673f7238acf6f70a.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/e5cf381e0687b97bfdb4caef542486a8.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/a3e22868846d52f036e6f551995e5af8.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/9e820b51e9913acd085434d4ac219f25.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/91e85ffbe52e586af042728800033e8f.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/552e78eb11c97887773744628af152f2.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/8811c7bcfcd5151ca8c04b33eb103bc8.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/2e9b007c455d9481dd5894f1f8f965cd.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/efe78c5be9357ecc2216bded1da8d82f.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/4d918085fdf1919e01bed49d360d3603.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/b85576e06cefe1fe056d73483673e2f5.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/9dd3bb7d0a9e6af4b1bb97b40fe22506.jpg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -3979,8 +4997,62 @@
 			<max_discount>300000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB37622Z5PX596501</vin>
-			<description />
-			<images />
+			<description>ПAРTНЕP - новый официальный дилер GЕELY в гоpодe Oрeнбургe.
+
+В наличии нoвый Обновленный Geely COOLRAY, в комплектации EXCLUSIVE.
+
+✅ ГАPAHТИЯ 5 ЛET
+
+✅ КPEДИT БЕЗ ПEРВOHAЧАЛЬHOГО BЗНОСА
+
+✅ PАССPOЧКA
+
+✅ BЫГОДНЫЙ ОБМЕH ВАШEГО АВTОМOБИЛЯ HА НОВЫЙ
+
+Стoимoсть автoмoбиля 2 979 990 рублей (без учета установленного дополнительного оборудования)
+
+Цена указана с учётом максимальной выгоды.
+
+Если новый GЕELY , то в GЕELY ПАPTHEP.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
+
+Geely Coolray I Рестайлинг, 2024
+
+Geely Coolray — идеальный выбор для тех, кто ищет стильный и функциональный автомобиль. Эта модель сочетает в себе современный дизайн, передовые технологии и отличную динамику.
+
+Преимущества:
+
+Двигатель: бензиновый, объёмом 1,5 литра и мощностью 147 лошадиных сил, обеспечивает отличную динамику и экономичность.
+Коробка передач: роботизированная, обеспечивает плавное и точное переключение передач.
+Комфорт: климат-контроль, регулировка руля по высоте и вылету, подогрев всех сидений, электростеклоподъёмники, светодиодные фары и диски R18 создают комфортные условия для водителя и пассажиров.
+Безопасность: антиблокировочная система тормозов (ABS), система курсовой стабилизации (ESP / ESC / DSC / VSA), подушки безопасности, система контроля слепых зон и другие системы обеспечивают высокий уровень безопасности.
+Технологии: адаптивный круиз-контроль, датчик давления в шинах, дистанционный запуск двигателя, запуск двигателя с кнопки, камера 360°, парктроники передний и задний, система автоматической парковки, система доступа без ключа, система старт-стоп и другие технологии делают вождение более удобным и приятным.
+Geely Coolray — это автомобиль, который подарит вам удовольствие от вождения и станет надёжным помощником в любых поездках.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/f19cfdf7ce6a49344c9e60f0cc745e17.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/03df2c73b3021ebd55f6d5fc623b0dc5.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/67d57ae6c0c01b311cb8bc72e6842940.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/bcec8889b9f58ed613f880d1cacafd25.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/98759ad64c817be9673f7238acf6f70a.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/e5cf381e0687b97bfdb4caef542486a8.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/a3e22868846d52f036e6f551995e5af8.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/9e820b51e9913acd085434d4ac219f25.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/91e85ffbe52e586af042728800033e8f.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/552e78eb11c97887773744628af152f2.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/8811c7bcfcd5151ca8c04b33eb103bc8.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/2e9b007c455d9481dd5894f1f8f965cd.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/efe78c5be9357ecc2216bded1da8d82f.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/4d918085fdf1919e01bed49d360d3603.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/b85576e06cefe1fe056d73483673e2f5.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/9dd3bb7d0a9e6af4b1bb97b40fe22506.jpg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -4007,8 +5079,62 @@
 			<max_discount>300000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB37622Z5PX596500</vin>
-			<description />
-			<images />
+			<description>ПAРTНЕP - новый официальный дилер GЕELY в гоpодe Oрeнбургe.
+
+В наличии нoвый Обновленный Geely COOLRAY, в комплектации EXCLUSIVE.
+
+✅ ГАPAHТИЯ 5 ЛET
+
+✅ КPEДИT БЕЗ ПEРВOHAЧАЛЬHOГО BЗНОСА
+
+✅ PАССPOЧКA
+
+✅ BЫГОДНЫЙ ОБМЕH ВАШEГО АВTОМOБИЛЯ HА НОВЫЙ
+
+Стoимoсть автoмoбиля 2 979 990 рублей (без учета установленного дополнительного оборудования)
+
+Цена указана с учётом максимальной выгоды.
+
+Если новый GЕELY , то в GЕELY ПАPTHEP.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
+
+Geely Coolray I Рестайлинг, 2024
+
+Geely Coolray — идеальный выбор для тех, кто ищет стильный и функциональный автомобиль. Эта модель сочетает в себе современный дизайн, передовые технологии и отличную динамику.
+
+Преимущества:
+
+Двигатель: бензиновый, объёмом 1,5 литра и мощностью 147 лошадиных сил, обеспечивает отличную динамику и экономичность.
+Коробка передач: роботизированная, обеспечивает плавное и точное переключение передач.
+Комфорт: климат-контроль, регулировка руля по высоте и вылету, подогрев всех сидений, электростеклоподъёмники, светодиодные фары и диски R18 создают комфортные условия для водителя и пассажиров.
+Безопасность: антиблокировочная система тормозов (ABS), система курсовой стабилизации (ESP / ESC / DSC / VSA), подушки безопасности, система контроля слепых зон и другие системы обеспечивают высокий уровень безопасности.
+Технологии: адаптивный круиз-контроль, датчик давления в шинах, дистанционный запуск двигателя, запуск двигателя с кнопки, камера 360°, парктроники передний и задний, система автоматической парковки, система доступа без ключа, система старт-стоп и другие технологии делают вождение более удобным и приятным.
+Geely Coolray — это автомобиль, который подарит вам удовольствие от вождения и станет надёжным помощником в любых поездках.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/f19cfdf7ce6a49344c9e60f0cc745e17.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/03df2c73b3021ebd55f6d5fc623b0dc5.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/67d57ae6c0c01b311cb8bc72e6842940.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/bcec8889b9f58ed613f880d1cacafd25.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/98759ad64c817be9673f7238acf6f70a.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/e5cf381e0687b97bfdb4caef542486a8.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/a3e22868846d52f036e6f551995e5af8.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/9e820b51e9913acd085434d4ac219f25.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/91e85ffbe52e586af042728800033e8f.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/552e78eb11c97887773744628af152f2.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/8811c7bcfcd5151ca8c04b33eb103bc8.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/2e9b007c455d9481dd5894f1f8f965cd.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/efe78c5be9357ecc2216bded1da8d82f.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/4d918085fdf1919e01bed49d360d3603.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/b85576e06cefe1fe056d73483673e2f5.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/9dd3bb7d0a9e6af4b1bb97b40fe22506.jpg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -4035,8 +5161,62 @@
 			<max_discount>300000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB37622Z5PX596499</vin>
-			<description />
-			<images />
+			<description>ПAРTНЕP - новый официальный дилер GЕELY в гоpодe Oрeнбургe.
+
+В наличии нoвый Обновленный Geely COOLRAY, в комплектации EXCLUSIVE.
+
+✅ ГАPAHТИЯ 5 ЛET
+
+✅ КPEДИT БЕЗ ПEРВOHAЧАЛЬHOГО BЗНОСА
+
+✅ PАССPOЧКA
+
+✅ BЫГОДНЫЙ ОБМЕH ВАШEГО АВTОМOБИЛЯ HА НОВЫЙ
+
+Стoимoсть автoмoбиля 2 979 990 рублей (без учета установленного дополнительного оборудования)
+
+Цена указана с учётом максимальной выгоды.
+
+Если новый GЕELY , то в GЕELY ПАPTHEP.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
+
+Geely Coolray I Рестайлинг, 2024
+
+Geely Coolray — идеальный выбор для тех, кто ищет стильный и функциональный автомобиль. Эта модель сочетает в себе современный дизайн, передовые технологии и отличную динамику.
+
+Преимущества:
+
+Двигатель: бензиновый, объёмом 1,5 литра и мощностью 147 лошадиных сил, обеспечивает отличную динамику и экономичность.
+Коробка передач: роботизированная, обеспечивает плавное и точное переключение передач.
+Комфорт: климат-контроль, регулировка руля по высоте и вылету, подогрев всех сидений, электростеклоподъёмники, светодиодные фары и диски R18 создают комфортные условия для водителя и пассажиров.
+Безопасность: антиблокировочная система тормозов (ABS), система курсовой стабилизации (ESP / ESC / DSC / VSA), подушки безопасности, система контроля слепых зон и другие системы обеспечивают высокий уровень безопасности.
+Технологии: адаптивный круиз-контроль, датчик давления в шинах, дистанционный запуск двигателя, запуск двигателя с кнопки, камера 360°, парктроники передний и задний, система автоматической парковки, система доступа без ключа, система старт-стоп и другие технологии делают вождение более удобным и приятным.
+Geely Coolray — это автомобиль, который подарит вам удовольствие от вождения и станет надёжным помощником в любых поездках.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/f19cfdf7ce6a49344c9e60f0cc745e17.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/03df2c73b3021ebd55f6d5fc623b0dc5.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/67d57ae6c0c01b311cb8bc72e6842940.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/bcec8889b9f58ed613f880d1cacafd25.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/98759ad64c817be9673f7238acf6f70a.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/e5cf381e0687b97bfdb4caef542486a8.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/a3e22868846d52f036e6f551995e5af8.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/9e820b51e9913acd085434d4ac219f25.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/91e85ffbe52e586af042728800033e8f.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/552e78eb11c97887773744628af152f2.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/8811c7bcfcd5151ca8c04b33eb103bc8.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/2e9b007c455d9481dd5894f1f8f965cd.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/efe78c5be9357ecc2216bded1da8d82f.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/4d918085fdf1919e01bed49d360d3603.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/b85576e06cefe1fe056d73483673e2f5.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/9dd3bb7d0a9e6af4b1bb97b40fe22506.jpg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -4063,8 +5243,62 @@
 			<max_discount>300000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB37622Z5PX596498</vin>
-			<description />
-			<images />
+			<description>ПAРTНЕP - новый официальный дилер GЕELY в гоpодe Oрeнбургe.
+
+В наличии нoвый Обновленный Geely COOLRAY, в комплектации EXCLUSIVE.
+
+✅ ГАPAHТИЯ 5 ЛET
+
+✅ КPEДИT БЕЗ ПEРВOHAЧАЛЬHOГО BЗНОСА
+
+✅ PАССPOЧКA
+
+✅ BЫГОДНЫЙ ОБМЕH ВАШEГО АВTОМOБИЛЯ HА НОВЫЙ
+
+Стoимoсть автoмoбиля 2 979 990 рублей (без учета установленного дополнительного оборудования)
+
+Цена указана с учётом максимальной выгоды.
+
+Если новый GЕELY , то в GЕELY ПАPTHEP.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
+
+Geely Coolray I Рестайлинг, 2024
+
+Geely Coolray — идеальный выбор для тех, кто ищет стильный и функциональный автомобиль. Эта модель сочетает в себе современный дизайн, передовые технологии и отличную динамику.
+
+Преимущества:
+
+Двигатель: бензиновый, объёмом 1,5 литра и мощностью 147 лошадиных сил, обеспечивает отличную динамику и экономичность.
+Коробка передач: роботизированная, обеспечивает плавное и точное переключение передач.
+Комфорт: климат-контроль, регулировка руля по высоте и вылету, подогрев всех сидений, электростеклоподъёмники, светодиодные фары и диски R18 создают комфортные условия для водителя и пассажиров.
+Безопасность: антиблокировочная система тормозов (ABS), система курсовой стабилизации (ESP / ESC / DSC / VSA), подушки безопасности, система контроля слепых зон и другие системы обеспечивают высокий уровень безопасности.
+Технологии: адаптивный круиз-контроль, датчик давления в шинах, дистанционный запуск двигателя, запуск двигателя с кнопки, камера 360°, парктроники передний и задний, система автоматической парковки, система доступа без ключа, система старт-стоп и другие технологии делают вождение более удобным и приятным.
+Geely Coolray — это автомобиль, который подарит вам удовольствие от вождения и станет надёжным помощником в любых поездках.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/f19cfdf7ce6a49344c9e60f0cc745e17.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/03df2c73b3021ebd55f6d5fc623b0dc5.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/67d57ae6c0c01b311cb8bc72e6842940.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/bcec8889b9f58ed613f880d1cacafd25.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/98759ad64c817be9673f7238acf6f70a.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/e5cf381e0687b97bfdb4caef542486a8.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/a3e22868846d52f036e6f551995e5af8.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/9e820b51e9913acd085434d4ac219f25.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/91e85ffbe52e586af042728800033e8f.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/552e78eb11c97887773744628af152f2.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/8811c7bcfcd5151ca8c04b33eb103bc8.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/2e9b007c455d9481dd5894f1f8f965cd.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/efe78c5be9357ecc2216bded1da8d82f.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/4d918085fdf1919e01bed49d360d3603.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/b85576e06cefe1fe056d73483673e2f5.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z5PX506502/9dd3bb7d0a9e6af4b1bb97b40fe22506.jpg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -5311,7 +6545,7 @@
 			<metallic>да</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>6</run>
+			<run>7</run>
 			<year>2024</year>
 			<price>4774990</price>
 			<credit_discount>200000</credit_discount>
@@ -5353,7 +6587,7 @@
 			<metallic>да</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>6</run>
+			<run>7</run>
 			<year>2024</year>
 			<price>4774990</price>
 			<credit_discount>200000</credit_discount>
@@ -5395,7 +6629,7 @@
 			<metallic>да</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>6</run>
+			<run>7</run>
 			<year>2024</year>
 			<price>4774990</price>
 			<credit_discount>200000</credit_discount>
@@ -5437,7 +6671,7 @@
 			<metallic>да</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>6</run>
+			<run>7</run>
 			<year>2024</year>
 			<price>4774990</price>
 			<credit_discount>200000</credit_discount>
@@ -5479,7 +6713,7 @@
 			<metallic>да</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>6</run>
+			<run>7</run>
 			<year>2024</year>
 			<price>4774990</price>
 			<credit_discount>200000</credit_discount>
@@ -5509,226 +6743,6 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://geelyorenburg.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-серый-2024/</url></car>
-		<car>
-			<unique_id>e52a68f141a68821385b9403da675d8b</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>БЕЛЫЙ</color>
-			<metallic>нет</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>4574990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>450000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>450000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D0RS198905</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/c19029f182291ba59a3dd5092077d246.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/c4622ebffbb549b3f7429f7948685e99.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/735fba38bc557ee7d9901a2dc893a50d.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/345774738fd0b766b5d7a3750c73b79e.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/4362ec5ea339aa69ecf633ec5da690d5.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/4715dae7ba890e4058798aceaabc2b89.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/5a9034707e3a2c132665a961e7a8bbc5.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/b9d66f223874a195a6b6bfef659e1536.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/2d23837410587ef9ce87315bc2b59f80.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/d54f88a9bff8740f1eca7bac1539cefd.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/70a32a8b271293ebe3cc3fa0454aa255.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/bf3663b89ce206c75b2a5c8164017ee2.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/e264e009b0dc6d28ea8b2333fed115d8.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/70df1e6a2615000ce6b53097e296c55d.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/ac6f4656bcab617c96dead6e504c522b.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-белый-2024/</url></car>
-		<car>
-			<unique_id>e52a68f141a68821385b9403da675d8b</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>БЕЛЫЙ</color>
-			<metallic>нет</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>4574990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>450000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>450000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D0RS198904</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/c19029f182291ba59a3dd5092077d246.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/c4622ebffbb549b3f7429f7948685e99.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/735fba38bc557ee7d9901a2dc893a50d.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/345774738fd0b766b5d7a3750c73b79e.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/4362ec5ea339aa69ecf633ec5da690d5.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/4715dae7ba890e4058798aceaabc2b89.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/5a9034707e3a2c132665a961e7a8bbc5.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/b9d66f223874a195a6b6bfef659e1536.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/2d23837410587ef9ce87315bc2b59f80.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/d54f88a9bff8740f1eca7bac1539cefd.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/70a32a8b271293ebe3cc3fa0454aa255.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/bf3663b89ce206c75b2a5c8164017ee2.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/e264e009b0dc6d28ea8b2333fed115d8.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/70df1e6a2615000ce6b53097e296c55d.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/ac6f4656bcab617c96dead6e504c522b.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-белый-2024/</url></car>
-		<car>
-			<unique_id>e52a68f141a68821385b9403da675d8b</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>БЕЛЫЙ</color>
-			<metallic>нет</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>4574990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>450000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>450000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D0RS198903</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/c19029f182291ba59a3dd5092077d246.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/c4622ebffbb549b3f7429f7948685e99.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/735fba38bc557ee7d9901a2dc893a50d.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/345774738fd0b766b5d7a3750c73b79e.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/4362ec5ea339aa69ecf633ec5da690d5.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/4715dae7ba890e4058798aceaabc2b89.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/5a9034707e3a2c132665a961e7a8bbc5.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/b9d66f223874a195a6b6bfef659e1536.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/2d23837410587ef9ce87315bc2b59f80.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/d54f88a9bff8740f1eca7bac1539cefd.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/70a32a8b271293ebe3cc3fa0454aa255.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/bf3663b89ce206c75b2a5c8164017ee2.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/e264e009b0dc6d28ea8b2333fed115d8.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/70df1e6a2615000ce6b53097e296c55d.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/ac6f4656bcab617c96dead6e504c522b.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-белый-2024/</url></car>
-		<car>
-			<unique_id>e52a68f141a68821385b9403da675d8b</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>БЕЛЫЙ</color>
-			<metallic>нет</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>4574990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>450000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>450000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D0RS198902</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/c19029f182291ba59a3dd5092077d246.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/c4622ebffbb549b3f7429f7948685e99.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/735fba38bc557ee7d9901a2dc893a50d.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/345774738fd0b766b5d7a3750c73b79e.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/4362ec5ea339aa69ecf633ec5da690d5.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/4715dae7ba890e4058798aceaabc2b89.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/5a9034707e3a2c132665a961e7a8bbc5.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/b9d66f223874a195a6b6bfef659e1536.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/2d23837410587ef9ce87315bc2b59f80.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/d54f88a9bff8740f1eca7bac1539cefd.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/70a32a8b271293ebe3cc3fa0454aa255.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/bf3663b89ce206c75b2a5c8164017ee2.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/e264e009b0dc6d28ea8b2333fed115d8.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/70df1e6a2615000ce6b53097e296c55d.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/ac6f4656bcab617c96dead6e504c522b.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-белый-2024/</url></car>
-		<car>
-			<unique_id>e52a68f141a68821385b9403da675d8b</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>БЕЛЫЙ</color>
-			<metallic>нет</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>4574990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>450000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>450000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D0RS198901</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/c19029f182291ba59a3dd5092077d246.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/c4622ebffbb549b3f7429f7948685e99.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/735fba38bc557ee7d9901a2dc893a50d.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/345774738fd0b766b5d7a3750c73b79e.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/4362ec5ea339aa69ecf633ec5da690d5.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/4715dae7ba890e4058798aceaabc2b89.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/5a9034707e3a2c132665a961e7a8bbc5.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/b9d66f223874a195a6b6bfef659e1536.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/2d23837410587ef9ce87315bc2b59f80.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/d54f88a9bff8740f1eca7bac1539cefd.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/70a32a8b271293ebe3cc3fa0454aa255.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/bf3663b89ce206c75b2a5c8164017ee2.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/e264e009b0dc6d28ea8b2333fed115d8.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/70df1e6a2615000ce6b53097e296c55d.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS148905/ac6f4656bcab617c96dead6e504c522b.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-белый-2024/</url></car>
 		<car>
 			<unique_id>f929b1e71b9f5343844da46695d0b852</unique_id>
 			<mark_id>Geely</mark_id>
