@@ -68,7 +68,7 @@
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>5</run>
+			<run>6</run>
 			<year>2024</year>
 			<price>2415990</price>
 			<credit_discount>135000</credit_discount>
@@ -1117,6 +1117,37 @@ Geely Atlas Pro — идеальный выбор для тех, кто цени
 			</multiposting>
 		<url>https://geelyorenburg.ru/cars/geely-coolray-i-рестайлинг-15-amt-147-лс-exclusive-серый-2024/</url></car>
 		<car>
+			<unique_id>7da5ff662a143c85c4a5aa4d8cdb7f44</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Coolray, I</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Красный</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>10</run>
+			<year>2024</year>
+			<price>2949990</price>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>300000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37622ZXRX522696</vin>
+			<description />
+			<images>
+				<image>https://photo.toyotasever.ru/LB37622ZXRX522696/1a49e49e33c71d21bd2f5cd883aead20.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622ZXRX522696/d69eb73b54591e86fb7adf9d2b1e0058.jpeg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geelyorenburg.ru/cars/geely-coolray-i-15-amt-150-лс-flagship-красный-2024/</url></car>
+		<car>
 			<unique_id>74e6f02837e7810ef720f6c979271001</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Emgrand, II</folder_id>
@@ -1486,55 +1517,6 @@ Geely Atlas Pro — идеальный выбор для тех, кто цени
 			</multiposting>
 		<url>https://geelyorenburg.ru/cars/geely-preface-i-рестайлинг-2-20-amt-200-лс-flagship-белый-2024/</url></car>
 		<car>
-			<unique_id>07d07de0157a8ef0b6331de5a08b6fd9</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Preface, I Рестайлинг 2</folder_id>
-			<modification_id>2.0 AMT (200 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Седан</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>9</run>
-			<year>2024</year>
-			<price>3217990</price>
-			<credit_discount>200000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>350000</max_discount>
-			<currency>RUR</currency>
-			<vin>L6TFS1S80RD079674</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/dde1d16401e835f34dc5ba74f3d7cd51.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/8581de01d54ac2b6f5f8bd15deed2735.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/fd955471ac0a7b306d644d44813fc57e.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/51638e2b02b43ef41f4b8a9934b2e307.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/f20b1220ffc44d87bba03f00d53ad1a4.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/d0fd2924fb0cebd9c23671ba3de58fff.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/aa55b23953852a9b1b1ce1c2198cfe7d.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/066dda400ca0bf6e508618a526335158.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/3216f1902dfb67ba133fe73f7748f209.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/dc2d5f20d1fb38d0645f5ce835c4f026.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/35c37163e7fab0e367014737e6df812b.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/c48e16d0a833c4035cbc8f4187a4b5af.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/69a58d5e779ddcbc99616a7f680c1c97.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/b969b3c3368fd9ab5c8de7815d769d21.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/4f55dec929e03a6f80e06172adf67145.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/b7f56ae3936f67084fcdfb6c8ff647dc.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/9f11b17322149e40f98ce538d10b1acd.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/50f564b3b99bbe0872b3a2882084af0f.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/9762042b144482e0d132f078239269da.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/abf22e9d8a27e5e1bc58db6cef184a39.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-preface-i-рестайлинг-2-20-amt-200-лс-flagship-серый-2024/</url></car>
-		<car>
 			<unique_id>ea0b776455de5d2a4d320bcc2fcea75e</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Preface, I Рестайлинг 2</folder_id>
@@ -1854,7 +1836,7 @@ Geely Atlas Pro — идеальный выбор для тех, кто цени
 			<metallic>да</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>5</run>
+			<run>6</run>
 			<year>2024</year>
 			<price>2415990</price>
 			<credit_discount>135000</credit_discount>
@@ -1906,7 +1888,7 @@ Geely Atlas Pro — идеальный выбор для тех, кто цени
 			<metallic>да</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>5</run>
+			<run>6</run>
 			<year>2024</year>
 			<price>2415990</price>
 			<credit_discount>135000</credit_discount>
@@ -1958,7 +1940,7 @@ Geely Atlas Pro — идеальный выбор для тех, кто цени
 			<metallic>да</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>5</run>
+			<run>6</run>
 			<year>2024</year>
 			<price>2415990</price>
 			<credit_discount>135000</credit_discount>
@@ -2010,7 +1992,7 @@ Geely Atlas Pro — идеальный выбор для тех, кто цени
 			<metallic>да</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>5</run>
+			<run>6</run>
 			<year>2024</year>
 			<price>2415990</price>
 			<credit_discount>135000</credit_discount>
@@ -2062,7 +2044,7 @@ Geely Atlas Pro — идеальный выбор для тех, кто цени
 			<metallic>да</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>5</run>
+			<run>6</run>
 			<year>2024</year>
 			<price>2415990</price>
 			<credit_discount>135000</credit_discount>
@@ -7143,6 +7125,161 @@ Geely Atlas Pro — идеальный выбор для тех, кто цени
 			</multiposting>
 		<url>https://geelyorenburg.ru/cars/geely-coolray-i-рестайлинг-15-amt-147-лс-exclusive-серый-2024/</url></car>
 		<car>
+			<unique_id>7da5ff662a143c85c4a5aa4d8cdb7f44</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Coolray, I</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Красный</color>
+			<metallic>да</metallic>
+			<availability>в пути</availability>
+			<custom>растаможен</custom>
+			<run>10</run>
+			<year>2024</year>
+			<price>2949990</price>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>300000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37622ZXRX592696</vin>
+			<description />
+			<images>
+				<image>https://photo.toyotasever.ru/LB37622ZXRX522696/1a49e49e33c71d21bd2f5cd883aead20.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622ZXRX522696/d69eb73b54591e86fb7adf9d2b1e0058.jpeg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geelyorenburg.ru/cars/geely-coolray-i-15-amt-150-лс-flagship-красный-2024/</url></car>
+		<car>
+			<unique_id>7da5ff662a143c85c4a5aa4d8cdb7f44</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Coolray, I</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Красный</color>
+			<metallic>да</metallic>
+			<availability>в пути</availability>
+			<custom>растаможен</custom>
+			<run>10</run>
+			<year>2024</year>
+			<price>2949990</price>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>300000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37622ZXRX592695</vin>
+			<description />
+			<images>
+				<image>https://photo.toyotasever.ru/LB37622ZXRX522696/1a49e49e33c71d21bd2f5cd883aead20.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622ZXRX522696/d69eb73b54591e86fb7adf9d2b1e0058.jpeg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geelyorenburg.ru/cars/geely-coolray-i-15-amt-150-лс-flagship-красный-2024/</url></car>
+		<car>
+			<unique_id>7da5ff662a143c85c4a5aa4d8cdb7f44</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Coolray, I</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Красный</color>
+			<metallic>да</metallic>
+			<availability>в пути</availability>
+			<custom>растаможен</custom>
+			<run>10</run>
+			<year>2024</year>
+			<price>2949990</price>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>300000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37622ZXRX592694</vin>
+			<description />
+			<images>
+				<image>https://photo.toyotasever.ru/LB37622ZXRX522696/1a49e49e33c71d21bd2f5cd883aead20.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622ZXRX522696/d69eb73b54591e86fb7adf9d2b1e0058.jpeg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geelyorenburg.ru/cars/geely-coolray-i-15-amt-150-лс-flagship-красный-2024/</url></car>
+		<car>
+			<unique_id>7da5ff662a143c85c4a5aa4d8cdb7f44</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Coolray, I</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Красный</color>
+			<metallic>да</metallic>
+			<availability>в пути</availability>
+			<custom>растаможен</custom>
+			<run>10</run>
+			<year>2024</year>
+			<price>2949990</price>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>300000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37622ZXRX592693</vin>
+			<description />
+			<images>
+				<image>https://photo.toyotasever.ru/LB37622ZXRX522696/1a49e49e33c71d21bd2f5cd883aead20.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622ZXRX522696/d69eb73b54591e86fb7adf9d2b1e0058.jpeg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geelyorenburg.ru/cars/geely-coolray-i-15-amt-150-лс-flagship-красный-2024/</url></car>
+		<car>
+			<unique_id>7da5ff662a143c85c4a5aa4d8cdb7f44</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Coolray, I</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Красный</color>
+			<metallic>да</metallic>
+			<availability>в пути</availability>
+			<custom>растаможен</custom>
+			<run>10</run>
+			<year>2024</year>
+			<price>2949990</price>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>300000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37622ZXRX592692</vin>
+			<description />
+			<images>
+				<image>https://photo.toyotasever.ru/LB37622ZXRX522696/1a49e49e33c71d21bd2f5cd883aead20.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622ZXRX522696/d69eb73b54591e86fb7adf9d2b1e0058.jpeg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geelyorenburg.ru/cars/geely-coolray-i-15-amt-150-лс-flagship-красный-2024/</url></car>
+		<car>
 			<unique_id>74e6f02837e7810ef720f6c979271001</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Emgrand, II</folder_id>
@@ -8987,251 +9124,6 @@ Geely Atlas Pro — идеальный выбор для тех, кто цени
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://geelyorenburg.ru/cars/geely-preface-i-рестайлинг-2-20-amt-200-лс-flagship-белый-2024/</url></car>
-		<car>
-			<unique_id>07d07de0157a8ef0b6331de5a08b6fd9</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Preface, I Рестайлинг 2</folder_id>
-			<modification_id>2.0 AMT (200 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Седан</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>9</run>
-			<year>2024</year>
-			<price>3217990</price>
-			<credit_discount>200000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>350000</max_discount>
-			<currency>RUR</currency>
-			<vin>L6TFS1S80RD099674</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/dde1d16401e835f34dc5ba74f3d7cd51.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/8581de01d54ac2b6f5f8bd15deed2735.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/fd955471ac0a7b306d644d44813fc57e.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/51638e2b02b43ef41f4b8a9934b2e307.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/f20b1220ffc44d87bba03f00d53ad1a4.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/d0fd2924fb0cebd9c23671ba3de58fff.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/aa55b23953852a9b1b1ce1c2198cfe7d.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/066dda400ca0bf6e508618a526335158.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/3216f1902dfb67ba133fe73f7748f209.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/dc2d5f20d1fb38d0645f5ce835c4f026.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/35c37163e7fab0e367014737e6df812b.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/c48e16d0a833c4035cbc8f4187a4b5af.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/69a58d5e779ddcbc99616a7f680c1c97.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/b969b3c3368fd9ab5c8de7815d769d21.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/4f55dec929e03a6f80e06172adf67145.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/b7f56ae3936f67084fcdfb6c8ff647dc.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/9f11b17322149e40f98ce538d10b1acd.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/50f564b3b99bbe0872b3a2882084af0f.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/9762042b144482e0d132f078239269da.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/abf22e9d8a27e5e1bc58db6cef184a39.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-preface-i-рестайлинг-2-20-amt-200-лс-flagship-серый-2024/</url></car>
-		<car>
-			<unique_id>07d07de0157a8ef0b6331de5a08b6fd9</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Preface, I Рестайлинг 2</folder_id>
-			<modification_id>2.0 AMT (200 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Седан</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>9</run>
-			<year>2024</year>
-			<price>3217990</price>
-			<credit_discount>200000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>350000</max_discount>
-			<currency>RUR</currency>
-			<vin>L6TFS1S80RD099673</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/dde1d16401e835f34dc5ba74f3d7cd51.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/8581de01d54ac2b6f5f8bd15deed2735.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/fd955471ac0a7b306d644d44813fc57e.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/51638e2b02b43ef41f4b8a9934b2e307.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/f20b1220ffc44d87bba03f00d53ad1a4.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/d0fd2924fb0cebd9c23671ba3de58fff.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/aa55b23953852a9b1b1ce1c2198cfe7d.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/066dda400ca0bf6e508618a526335158.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/3216f1902dfb67ba133fe73f7748f209.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/dc2d5f20d1fb38d0645f5ce835c4f026.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/35c37163e7fab0e367014737e6df812b.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/c48e16d0a833c4035cbc8f4187a4b5af.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/69a58d5e779ddcbc99616a7f680c1c97.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/b969b3c3368fd9ab5c8de7815d769d21.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/4f55dec929e03a6f80e06172adf67145.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/b7f56ae3936f67084fcdfb6c8ff647dc.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/9f11b17322149e40f98ce538d10b1acd.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/50f564b3b99bbe0872b3a2882084af0f.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/9762042b144482e0d132f078239269da.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/abf22e9d8a27e5e1bc58db6cef184a39.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-preface-i-рестайлинг-2-20-amt-200-лс-flagship-серый-2024/</url></car>
-		<car>
-			<unique_id>07d07de0157a8ef0b6331de5a08b6fd9</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Preface, I Рестайлинг 2</folder_id>
-			<modification_id>2.0 AMT (200 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Седан</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>9</run>
-			<year>2024</year>
-			<price>3217990</price>
-			<credit_discount>200000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>350000</max_discount>
-			<currency>RUR</currency>
-			<vin>L6TFS1S80RD099672</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/dde1d16401e835f34dc5ba74f3d7cd51.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/8581de01d54ac2b6f5f8bd15deed2735.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/fd955471ac0a7b306d644d44813fc57e.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/51638e2b02b43ef41f4b8a9934b2e307.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/f20b1220ffc44d87bba03f00d53ad1a4.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/d0fd2924fb0cebd9c23671ba3de58fff.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/aa55b23953852a9b1b1ce1c2198cfe7d.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/066dda400ca0bf6e508618a526335158.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/3216f1902dfb67ba133fe73f7748f209.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/dc2d5f20d1fb38d0645f5ce835c4f026.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/35c37163e7fab0e367014737e6df812b.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/c48e16d0a833c4035cbc8f4187a4b5af.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/69a58d5e779ddcbc99616a7f680c1c97.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/b969b3c3368fd9ab5c8de7815d769d21.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/4f55dec929e03a6f80e06172adf67145.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/b7f56ae3936f67084fcdfb6c8ff647dc.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/9f11b17322149e40f98ce538d10b1acd.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/50f564b3b99bbe0872b3a2882084af0f.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/9762042b144482e0d132f078239269da.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/abf22e9d8a27e5e1bc58db6cef184a39.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-preface-i-рестайлинг-2-20-amt-200-лс-flagship-серый-2024/</url></car>
-		<car>
-			<unique_id>07d07de0157a8ef0b6331de5a08b6fd9</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Preface, I Рестайлинг 2</folder_id>
-			<modification_id>2.0 AMT (200 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Седан</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>9</run>
-			<year>2024</year>
-			<price>3217990</price>
-			<credit_discount>200000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>350000</max_discount>
-			<currency>RUR</currency>
-			<vin>L6TFS1S80RD099671</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/dde1d16401e835f34dc5ba74f3d7cd51.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/8581de01d54ac2b6f5f8bd15deed2735.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/fd955471ac0a7b306d644d44813fc57e.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/51638e2b02b43ef41f4b8a9934b2e307.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/f20b1220ffc44d87bba03f00d53ad1a4.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/d0fd2924fb0cebd9c23671ba3de58fff.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/aa55b23953852a9b1b1ce1c2198cfe7d.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/066dda400ca0bf6e508618a526335158.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/3216f1902dfb67ba133fe73f7748f209.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/dc2d5f20d1fb38d0645f5ce835c4f026.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/35c37163e7fab0e367014737e6df812b.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/c48e16d0a833c4035cbc8f4187a4b5af.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/69a58d5e779ddcbc99616a7f680c1c97.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/b969b3c3368fd9ab5c8de7815d769d21.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/4f55dec929e03a6f80e06172adf67145.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/b7f56ae3936f67084fcdfb6c8ff647dc.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/9f11b17322149e40f98ce538d10b1acd.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/50f564b3b99bbe0872b3a2882084af0f.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/9762042b144482e0d132f078239269da.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/abf22e9d8a27e5e1bc58db6cef184a39.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-preface-i-рестайлинг-2-20-amt-200-лс-flagship-серый-2024/</url></car>
-		<car>
-			<unique_id>07d07de0157a8ef0b6331de5a08b6fd9</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Preface, I Рестайлинг 2</folder_id>
-			<modification_id>2.0 AMT (200 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Седан</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>9</run>
-			<year>2024</year>
-			<price>3217990</price>
-			<credit_discount>200000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>350000</max_discount>
-			<currency>RUR</currency>
-			<vin>L6TFS1S80RD099670</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/dde1d16401e835f34dc5ba74f3d7cd51.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/8581de01d54ac2b6f5f8bd15deed2735.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/fd955471ac0a7b306d644d44813fc57e.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/51638e2b02b43ef41f4b8a9934b2e307.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/f20b1220ffc44d87bba03f00d53ad1a4.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/d0fd2924fb0cebd9c23671ba3de58fff.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/aa55b23953852a9b1b1ce1c2198cfe7d.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/066dda400ca0bf6e508618a526335158.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/3216f1902dfb67ba133fe73f7748f209.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/dc2d5f20d1fb38d0645f5ce835c4f026.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/35c37163e7fab0e367014737e6df812b.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/c48e16d0a833c4035cbc8f4187a4b5af.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/69a58d5e779ddcbc99616a7f680c1c97.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/b969b3c3368fd9ab5c8de7815d769d21.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/4f55dec929e03a6f80e06172adf67145.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/b7f56ae3936f67084fcdfb6c8ff647dc.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/9f11b17322149e40f98ce538d10b1acd.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/50f564b3b99bbe0872b3a2882084af0f.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/9762042b144482e0d132f078239269da.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD079674/abf22e9d8a27e5e1bc58db6cef184a39.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geelyorenburg.ru/cars/geely-preface-i-рестайлинг-2-20-amt-200-лс-flagship-серый-2024/</url></car>
 		<car>
 			<unique_id>ea0b776455de5d2a4d320bcc2fcea75e</unique_id>
 			<mark_id>Geely</mark_id>
