@@ -38,6 +38,6 @@ export default defineConfig({
 	vite: {
 		plugins: [yaml()]
 	},
-	site: 'https://geelyorenburg.ru',
+	site: 'https://geely-partner-orenburg.ru',
 	base: "/"
 });
