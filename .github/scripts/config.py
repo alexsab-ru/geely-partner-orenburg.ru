@@ -33,6 +33,14 @@ model_mapping = {
             "Зелёный": "racing-green.webp",
             "Зеленый": "racing-green.webp",
         }},
+    "Cityray": {
+        "folder": "New Coolray",
+        "color": {
+            "Голубой": "light-blue.webp",
+            "Серый": "gray.webp",
+            "Белый": "white.webp",
+        }
+    },
     "Coolray, I Рестайлинг": {
         "folder": "New Coolray",
         "color": {
@@ -42,6 +50,7 @@ model_mapping = {
             "Серый": "magnetic-grey.webp",
             "Серый металлик": "magnetic-grey.webp",
             "Серебристый": "unicorn-grey.webp",
+            "Голубой": "blue-metallic.webp",
         }},
     "Coolray, I": {
         "folder": "Coolray",
