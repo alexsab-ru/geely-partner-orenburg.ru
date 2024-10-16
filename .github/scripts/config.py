@@ -33,24 +33,16 @@ model_mapping = {
             "Зелёный": "racing-green.webp",
             "Зеленый": "racing-green.webp",
         }},
-    "Cityray": {
-        "folder": "New Coolray",
-        "color": {
-            "Голубой": "light-blue.webp",
-            "Серый": "gray.webp",
-            "Белый": "white.webp",
-        }
-    },
     "Coolray, I Рестайлинг": {
         "folder": "New Coolray",
         "color": {
             "Красный": "bright-vermilion.webp",
             "Белый": "crystal-white.webp",
             "Синий": "cyber-blue.webp",
+            "Голубой": "cyber-blue.webp",
             "Серый": "magnetic-grey.webp",
             "Серый металлик": "magnetic-grey.webp",
             "Серебристый": "unicorn-grey.webp",
-            "Голубой": "blue-metallic.webp",
         }},
     "Coolray, I": {
         "folder": "Coolray",
@@ -177,6 +169,16 @@ model_mapping = {
             "Красный": "red.webp",
             "Silver": "silver.webp",
             "Серебристый": "silver.webp",
+            "White": "white.webp",
+            "Белый": "white.webp",
+        }},
+    "Cityray": {
+        "folder": "Cityray",
+        "color": {
+            "Gray": "gray.webp",
+            "Серый": "gray.webp",
+            "Blue": "light-blue.webp",
+            "Синий": "light-blue.webp",
             "White": "white.webp",
             "Белый": "white.webp",
         }},
