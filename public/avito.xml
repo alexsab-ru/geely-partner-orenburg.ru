@@ -470,27 +470,27 @@
 			</multiposting>
 		<url>https://geely-partner-orenburg.ru/cars/belgee-x70-15-amt-177-лс-4wd-prestige-plus-черный-2024/</url></car>
 		<car>
-			<unique_id>050bac70c84f3aa3ebbd5d92cf7c068e</unique_id>
+			<unique_id>9bc7cbd87dc91ee8988d296a7a795750</unique_id>
 			<mark_id>BelGee</mark_id>
 			<folder_id>X70</folder_id>
 			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
 			<complectation_name>Prestige+</complectation_name>
 			<body_type>Внедорожник 5 дв.</body_type>
 			<wheel>левый</wheel>
-			<color>Серый</color>
+			<color>Белый</color>
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>10</run>
+			<run>7</run>
 			<year>2024</year>
-			<price>3342990</price>
+			<price>3037990</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<max_discount>450000</max_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8722D5RB318954</vin>
+			<vin>Y4K8722D6RB326061</vin>
 			<description>ПАРТНЕР АВТО - новый официальный дилер BelGee в городе Оренбурге.
 
 В наличии новый Belgee X70, 2024 года, в комплектации Prestige+.
@@ -517,26 +517,24 @@
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
 			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/b3880fbfaaa91f66895f9139a527655a.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/10fd9aa3b2e0887c812fd16af3ab137f.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/c89463dcd0c9d680729003524bae8b05.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/2f6571d0717bcfdfd92bfb102a445a17.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/032287007f29a9c04692fa7f7303e54d.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/bee7941af4b54e0a3e24ce20ca170cb1.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/826ab064aec565556ef16264e17a95a7.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/46e4d7eee95f7257f73fe7ca5aecae47.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/d902ace07a5a0021ea9ba7553c58a3bf.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/2a102447a0d192bf53aa8b232085606f.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/c248b8d4c110a6d91dd93e893c3466da.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/98fd17220f3e57b7759fc87b48851ee7.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/dad8cdb10fdc1ae2872084b4460e0d6a.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/f7002971c24724e11f055e135151dcf0.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/47ee03fc8e712521ae5be1747a385206.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/05bb9533988a8f94392b49ae94ccefe2.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/b29416a630667082270d963c4b88b673.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/bcc76d4ac8d14c49af96d1b389b978b3.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/2f4e95a52e19758c915c4e787ec1a538.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/3f01a83f95445a2e641c0a423bdea256.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/bcfa1b60899bd3734c60ff7e9eebf3f2.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/10b5b5c51443a360609106ad14dd85ec.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/11ea4b558847979449e353c6fb6a2eec.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/efc3f57ba7bb28026ab9026bacdb6b73.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/a77216408f534c15f813b47fcc6da7bd.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/b730eabcd36a6b70200c61f210885473.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/92597ca1d989a560ed48234ec2f4e983.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/3e42bde2943a8795e219ca118a364b77.jpeg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/belgee-x70-15-amt-177-лс-4wd-prestige-plus-серый-2024/</url></car>
+		<url>https://geely-partner-orenburg.ru/cars/belgee-x70-15-amt-177-лс-4wd-prestige-plus-белый-2024/</url></car>
 		<car>
 			<unique_id>ee3ad8645a992c132e702e2b029a8caa</unique_id>
 			<mark_id>BelGee</mark_id>
@@ -708,27 +706,27 @@
 			</multiposting>
 		<url>https://geely-partner-orenburg.ru/cars/belgee-x70-15-amt-177-лс-4wd-style-черный-2024/</url></car>
 		<car>
-			<unique_id>9bc7cbd87dc91ee8988d296a7a795750</unique_id>
+			<unique_id>050bac70c84f3aa3ebbd5d92cf7c068e</unique_id>
 			<mark_id>BelGee</mark_id>
 			<folder_id>X70</folder_id>
 			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
 			<complectation_name>Style</complectation_name>
 			<body_type>Внедорожник 5 дв.</body_type>
 			<wheel>левый</wheel>
-			<color>Белый</color>
+			<color>Серый</color>
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>7</run>
+			<run>11</run>
 			<year>2024</year>
-			<price>3037990</price>
+			<price>3342990</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<max_discount>450000</max_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8722D6RB326061</vin>
+			<vin>Y4K8722D5RB318954</vin>
 			<description>ПАРТНЕР - новый официальный дилер BelGee в городе Оренбурге.
 
 В наличии новый Belgee X70, 2024 года, в комплектации Style.
@@ -755,24 +753,26 @@
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
 			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/05bb9533988a8f94392b49ae94ccefe2.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/b29416a630667082270d963c4b88b673.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/bcc76d4ac8d14c49af96d1b389b978b3.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/2f4e95a52e19758c915c4e787ec1a538.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/3f01a83f95445a2e641c0a423bdea256.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/bcfa1b60899bd3734c60ff7e9eebf3f2.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/10b5b5c51443a360609106ad14dd85ec.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/11ea4b558847979449e353c6fb6a2eec.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/efc3f57ba7bb28026ab9026bacdb6b73.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/a77216408f534c15f813b47fcc6da7bd.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/b730eabcd36a6b70200c61f210885473.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/92597ca1d989a560ed48234ec2f4e983.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/3e42bde2943a8795e219ca118a364b77.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/b3880fbfaaa91f66895f9139a527655a.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/10fd9aa3b2e0887c812fd16af3ab137f.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/c89463dcd0c9d680729003524bae8b05.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/2f6571d0717bcfdfd92bfb102a445a17.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/032287007f29a9c04692fa7f7303e54d.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/bee7941af4b54e0a3e24ce20ca170cb1.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/826ab064aec565556ef16264e17a95a7.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/46e4d7eee95f7257f73fe7ca5aecae47.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/d902ace07a5a0021ea9ba7553c58a3bf.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/2a102447a0d192bf53aa8b232085606f.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/c248b8d4c110a6d91dd93e893c3466da.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/98fd17220f3e57b7759fc87b48851ee7.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/dad8cdb10fdc1ae2872084b4460e0d6a.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/f7002971c24724e11f055e135151dcf0.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/47ee03fc8e712521ae5be1747a385206.jpeg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/belgee-x70-15-amt-177-лс-4wd-style-белый-2024/</url></car>
+		<url>https://geely-partner-orenburg.ru/cars/belgee-x70-15-amt-177-лс-4wd-style-серый-2024/</url></car>
 		<car>
 			<unique_id>c17c9c05bcd4131d8f970c0b72f731cd</unique_id>
 			<mark_id>Geely</mark_id>
@@ -2360,70 +2360,6 @@ Geely Coolray — это автомобиль, который подарит в�
 			</multiposting>
 		<url>https://geely-partner-orenburg.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-синий-2024/</url></car>
 		<car>
-			<unique_id>26984ad032e82f8e4a3ef9774fd10b7f</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>97</run>
-			<year>2024</year>
-			<price>4732990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>450000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>450000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D6RS164722</vin>
-			<description>ПАРТНЕР - новый официальный дилер GEELY в городе Оренбурге.
-
-В наличии новый Geely MONJARO, 2024 года, в комплектации Flaghip.
-
-✅ ГАPAHТИЯ 5 ЛET
-
-✅ КPEДИT БЕЗ ПEРВOHAЧАЛЬHOГО BЗНОСА
-
-✅ PАССPOЧКA
-
-✅ BЫГОДНЫЙ ОБМЕH ВАШEГО АВTОМOБИЛЯ HА НОВЫЙ
-
-Стоимость автомобиля 4 732 990 рублей (без учета установленного дополнительного оборудования)
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/8088fe123b8e14aa46bbc25c4ed6373b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/28f72860f3d27579f519832815365644.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/c1fc9b41a18070449379ca939692b573.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/5af8305e8cb4e139b8ce02d9d14b8921.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/fac73daee6d681bbe6a65e0759390902.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/3aa7150d630e5854bf95ce6a3ebc8b31.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/d20ffb8327b3a8e0a12ea2cfb6e917c8.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/a6ac37cb200ea0502a0cc04f75628e30.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/3c8013e9a90304802f4ff1f2c94b3faf.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/1af75387525167cfa1b0cd4c255768a9.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/e6233474b6874eef2c733470adb47575.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/c3104dd0c8721afd886aa031009c52d2.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/7265030081971948432f86ce4632735e.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/a9897232c7f00b009fe28efdcba5da6f.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/b292d49ee7b7fe61135cc8c20e7151da.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-белый-2024/</url></car>
-		<car>
 			<unique_id>1c4c87aa736b1565c701b137b75526eb</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Monjaro</folder_id>
@@ -2900,7 +2836,7 @@ Geely Preface I Рестайлинг 2 — выбор тех, кто ищет с
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>5</run>
+			<run>7</run>
 			<year>2024</year>
 			<price>3338990</price>
 			<credit_discount>200000</credit_discount>
@@ -7171,27 +7107,27 @@ Geely Preface I Рестайлинг 2 — выбор тех, кто ищет с
 			</multiposting>
 		<url>https://geely-partner-orenburg.ru/cars/belgee-x70-15-amt-177-лс-4wd-prestige-plus-черный-2024/</url></car>
 		<car>
-			<unique_id>050bac70c84f3aa3ebbd5d92cf7c068f</unique_id>
+			<unique_id>9bc7cbd87dc91ee8988d296a7a795751</unique_id>
 			<mark_id>BelGee</mark_id>
 			<folder_id>X70</folder_id>
 			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
 			<complectation_name>Prestige+</complectation_name>
 			<body_type>Внедорожник 5 дв.</body_type>
 			<wheel>левый</wheel>
-			<color>Серый</color>
+			<color>Белый</color>
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>10</run>
+			<run>7</run>
 			<year>2024</year>
-			<price>3342990</price>
+			<price>3037990</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<max_discount>450000</max_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8722D5RB318955</vin>
+			<vin>Y4K8722D6RB326062</vin>
 			<description>ПАРТНЕР АВТО - новый официальный дилер BelGee в городе Оренбурге.
 
 В наличии новый Belgee X70, 2024 года, в комплектации Prestige+.
@@ -7218,48 +7154,46 @@ Geely Preface I Рестайлинг 2 — выбор тех, кто ищет с
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
 			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/b3880fbfaaa91f66895f9139a527655a.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/10fd9aa3b2e0887c812fd16af3ab137f.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/c89463dcd0c9d680729003524bae8b05.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/2f6571d0717bcfdfd92bfb102a445a17.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/032287007f29a9c04692fa7f7303e54d.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/bee7941af4b54e0a3e24ce20ca170cb1.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/826ab064aec565556ef16264e17a95a7.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/46e4d7eee95f7257f73fe7ca5aecae47.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/d902ace07a5a0021ea9ba7553c58a3bf.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/2a102447a0d192bf53aa8b232085606f.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/c248b8d4c110a6d91dd93e893c3466da.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/98fd17220f3e57b7759fc87b48851ee7.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/dad8cdb10fdc1ae2872084b4460e0d6a.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/f7002971c24724e11f055e135151dcf0.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/47ee03fc8e712521ae5be1747a385206.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/05bb9533988a8f94392b49ae94ccefe2.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/b29416a630667082270d963c4b88b673.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/bcc76d4ac8d14c49af96d1b389b978b3.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/2f4e95a52e19758c915c4e787ec1a538.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/3f01a83f95445a2e641c0a423bdea256.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/bcfa1b60899bd3734c60ff7e9eebf3f2.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/10b5b5c51443a360609106ad14dd85ec.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/11ea4b558847979449e353c6fb6a2eec.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/efc3f57ba7bb28026ab9026bacdb6b73.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/a77216408f534c15f813b47fcc6da7bd.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/b730eabcd36a6b70200c61f210885473.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/92597ca1d989a560ed48234ec2f4e983.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/3e42bde2943a8795e219ca118a364b77.jpeg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/belgee-x70-15-amt-177-лс-4wd-prestige-plus-серый-2024/</url></car>
+		<url>https://geely-partner-orenburg.ru/cars/belgee-x70-15-amt-177-лс-4wd-prestige-plus-белый-2024/</url></car>
 		<car>
-			<unique_id>050bac70c84f3aa3ebbd5d92cf7c068g</unique_id>
+			<unique_id>9bc7cbd87dc91ee8988d296a7a795752</unique_id>
 			<mark_id>BelGee</mark_id>
 			<folder_id>X70</folder_id>
 			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
 			<complectation_name>Prestige+</complectation_name>
 			<body_type>Внедорожник 5 дв.</body_type>
 			<wheel>левый</wheel>
-			<color>Серый</color>
+			<color>Белый</color>
 			<metallic>да</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>10</run>
+			<run>7</run>
 			<year>2024</year>
-			<price>3342990</price>
+			<price>3037990</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<max_discount>450000</max_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8722D5RB318956</vin>
+			<vin>Y4K8722D6RB326063</vin>
 			<description>ПАРТНЕР АВТО - новый официальный дилер BelGee в городе Оренбурге.
 
 В наличии новый Belgee X70, 2024 года, в комплектации Prestige+.
@@ -7286,48 +7220,46 @@ Geely Preface I Рестайлинг 2 — выбор тех, кто ищет с
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
 			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/b3880fbfaaa91f66895f9139a527655a.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/10fd9aa3b2e0887c812fd16af3ab137f.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/c89463dcd0c9d680729003524bae8b05.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/2f6571d0717bcfdfd92bfb102a445a17.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/032287007f29a9c04692fa7f7303e54d.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/bee7941af4b54e0a3e24ce20ca170cb1.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/826ab064aec565556ef16264e17a95a7.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/46e4d7eee95f7257f73fe7ca5aecae47.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/d902ace07a5a0021ea9ba7553c58a3bf.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/2a102447a0d192bf53aa8b232085606f.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/c248b8d4c110a6d91dd93e893c3466da.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/98fd17220f3e57b7759fc87b48851ee7.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/dad8cdb10fdc1ae2872084b4460e0d6a.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/f7002971c24724e11f055e135151dcf0.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/47ee03fc8e712521ae5be1747a385206.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/05bb9533988a8f94392b49ae94ccefe2.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/b29416a630667082270d963c4b88b673.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/bcc76d4ac8d14c49af96d1b389b978b3.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/2f4e95a52e19758c915c4e787ec1a538.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/3f01a83f95445a2e641c0a423bdea256.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/bcfa1b60899bd3734c60ff7e9eebf3f2.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/10b5b5c51443a360609106ad14dd85ec.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/11ea4b558847979449e353c6fb6a2eec.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/efc3f57ba7bb28026ab9026bacdb6b73.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/a77216408f534c15f813b47fcc6da7bd.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/b730eabcd36a6b70200c61f210885473.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/92597ca1d989a560ed48234ec2f4e983.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/3e42bde2943a8795e219ca118a364b77.jpeg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/belgee-x70-15-amt-177-лс-4wd-prestige-plus-серый-2024/</url></car>
+		<url>https://geely-partner-orenburg.ru/cars/belgee-x70-15-amt-177-лс-4wd-prestige-plus-белый-2024/</url></car>
 		<car>
-			<unique_id>050bac70c84f3aa3ebbd5d92cf7c068h</unique_id>
+			<unique_id>9bc7cbd87dc91ee8988d296a7a795753</unique_id>
 			<mark_id>BelGee</mark_id>
 			<folder_id>X70</folder_id>
 			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
 			<complectation_name>Prestige+</complectation_name>
 			<body_type>Внедорожник 5 дв.</body_type>
 			<wheel>левый</wheel>
-			<color>Серый</color>
+			<color>Белый</color>
 			<metallic>да</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>10</run>
+			<run>7</run>
 			<year>2024</year>
-			<price>3342990</price>
+			<price>3037990</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<max_discount>450000</max_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8722D5RB318957</vin>
+			<vin>Y4K8722D6RB326064</vin>
 			<description>ПАРТНЕР АВТО - новый официальный дилер BelGee в городе Оренбурге.
 
 В наличии новый Belgee X70, 2024 года, в комплектации Prestige+.
@@ -7354,48 +7286,46 @@ Geely Preface I Рестайлинг 2 — выбор тех, кто ищет с
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
 			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/b3880fbfaaa91f66895f9139a527655a.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/10fd9aa3b2e0887c812fd16af3ab137f.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/c89463dcd0c9d680729003524bae8b05.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/2f6571d0717bcfdfd92bfb102a445a17.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/032287007f29a9c04692fa7f7303e54d.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/bee7941af4b54e0a3e24ce20ca170cb1.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/826ab064aec565556ef16264e17a95a7.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/46e4d7eee95f7257f73fe7ca5aecae47.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/d902ace07a5a0021ea9ba7553c58a3bf.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/2a102447a0d192bf53aa8b232085606f.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/c248b8d4c110a6d91dd93e893c3466da.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/98fd17220f3e57b7759fc87b48851ee7.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/dad8cdb10fdc1ae2872084b4460e0d6a.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/f7002971c24724e11f055e135151dcf0.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/47ee03fc8e712521ae5be1747a385206.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/05bb9533988a8f94392b49ae94ccefe2.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/b29416a630667082270d963c4b88b673.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/bcc76d4ac8d14c49af96d1b389b978b3.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/2f4e95a52e19758c915c4e787ec1a538.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/3f01a83f95445a2e641c0a423bdea256.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/bcfa1b60899bd3734c60ff7e9eebf3f2.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/10b5b5c51443a360609106ad14dd85ec.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/11ea4b558847979449e353c6fb6a2eec.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/efc3f57ba7bb28026ab9026bacdb6b73.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/a77216408f534c15f813b47fcc6da7bd.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/b730eabcd36a6b70200c61f210885473.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/92597ca1d989a560ed48234ec2f4e983.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/3e42bde2943a8795e219ca118a364b77.jpeg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/belgee-x70-15-amt-177-лс-4wd-prestige-plus-серый-2024/</url></car>
+		<url>https://geely-partner-orenburg.ru/cars/belgee-x70-15-amt-177-лс-4wd-prestige-plus-белый-2024/</url></car>
 		<car>
-			<unique_id>050bac70c84f3aa3ebbd5d92cf7c068i</unique_id>
+			<unique_id>9bc7cbd87dc91ee8988d296a7a795754</unique_id>
 			<mark_id>BelGee</mark_id>
 			<folder_id>X70</folder_id>
 			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
 			<complectation_name>Prestige+</complectation_name>
 			<body_type>Внедорожник 5 дв.</body_type>
 			<wheel>левый</wheel>
-			<color>Серый</color>
+			<color>Белый</color>
 			<metallic>да</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>10</run>
+			<run>7</run>
 			<year>2024</year>
-			<price>3342990</price>
+			<price>3037990</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<max_discount>450000</max_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8722D5RB318958</vin>
+			<vin>Y4K8722D6RB326065</vin>
 			<description>ПАРТНЕР АВТО - новый официальный дилер BelGee в городе Оренбурге.
 
 В наличии новый Belgee X70, 2024 года, в комплектации Prestige+.
@@ -7422,48 +7352,46 @@ Geely Preface I Рестайлинг 2 — выбор тех, кто ищет с
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
 			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/b3880fbfaaa91f66895f9139a527655a.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/10fd9aa3b2e0887c812fd16af3ab137f.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/c89463dcd0c9d680729003524bae8b05.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/2f6571d0717bcfdfd92bfb102a445a17.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/032287007f29a9c04692fa7f7303e54d.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/bee7941af4b54e0a3e24ce20ca170cb1.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/826ab064aec565556ef16264e17a95a7.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/46e4d7eee95f7257f73fe7ca5aecae47.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/d902ace07a5a0021ea9ba7553c58a3bf.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/2a102447a0d192bf53aa8b232085606f.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/c248b8d4c110a6d91dd93e893c3466da.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/98fd17220f3e57b7759fc87b48851ee7.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/dad8cdb10fdc1ae2872084b4460e0d6a.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/f7002971c24724e11f055e135151dcf0.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/47ee03fc8e712521ae5be1747a385206.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/05bb9533988a8f94392b49ae94ccefe2.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/b29416a630667082270d963c4b88b673.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/bcc76d4ac8d14c49af96d1b389b978b3.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/2f4e95a52e19758c915c4e787ec1a538.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/3f01a83f95445a2e641c0a423bdea256.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/bcfa1b60899bd3734c60ff7e9eebf3f2.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/10b5b5c51443a360609106ad14dd85ec.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/11ea4b558847979449e353c6fb6a2eec.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/efc3f57ba7bb28026ab9026bacdb6b73.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/a77216408f534c15f813b47fcc6da7bd.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/b730eabcd36a6b70200c61f210885473.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/92597ca1d989a560ed48234ec2f4e983.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/3e42bde2943a8795e219ca118a364b77.jpeg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/belgee-x70-15-amt-177-лс-4wd-prestige-plus-серый-2024/</url></car>
+		<url>https://geely-partner-orenburg.ru/cars/belgee-x70-15-amt-177-лс-4wd-prestige-plus-белый-2024/</url></car>
 		<car>
-			<unique_id>050bac70c84f3aa3ebbd5d92cf7c068j</unique_id>
+			<unique_id>9bc7cbd87dc91ee8988d296a7a795755</unique_id>
 			<mark_id>BelGee</mark_id>
 			<folder_id>X70</folder_id>
 			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
 			<complectation_name>Prestige+</complectation_name>
 			<body_type>Внедорожник 5 дв.</body_type>
 			<wheel>левый</wheel>
-			<color>Серый</color>
+			<color>Белый</color>
 			<metallic>да</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>10</run>
+			<run>7</run>
 			<year>2024</year>
-			<price>3342990</price>
+			<price>3037990</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<max_discount>450000</max_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8722D5RB318959</vin>
+			<vin>Y4K8722D6RB326066</vin>
 			<description>ПАРТНЕР АВТО - новый официальный дилер BelGee в городе Оренбурге.
 
 В наличии новый Belgee X70, 2024 года, в комплектации Prestige+.
@@ -7490,48 +7418,46 @@ Geely Preface I Рестайлинг 2 — выбор тех, кто ищет с
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
 			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/b3880fbfaaa91f66895f9139a527655a.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/10fd9aa3b2e0887c812fd16af3ab137f.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/c89463dcd0c9d680729003524bae8b05.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/2f6571d0717bcfdfd92bfb102a445a17.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/032287007f29a9c04692fa7f7303e54d.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/bee7941af4b54e0a3e24ce20ca170cb1.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/826ab064aec565556ef16264e17a95a7.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/46e4d7eee95f7257f73fe7ca5aecae47.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/d902ace07a5a0021ea9ba7553c58a3bf.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/2a102447a0d192bf53aa8b232085606f.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/c248b8d4c110a6d91dd93e893c3466da.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/98fd17220f3e57b7759fc87b48851ee7.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/dad8cdb10fdc1ae2872084b4460e0d6a.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/f7002971c24724e11f055e135151dcf0.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/47ee03fc8e712521ae5be1747a385206.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/05bb9533988a8f94392b49ae94ccefe2.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/b29416a630667082270d963c4b88b673.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/bcc76d4ac8d14c49af96d1b389b978b3.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/2f4e95a52e19758c915c4e787ec1a538.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/3f01a83f95445a2e641c0a423bdea256.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/bcfa1b60899bd3734c60ff7e9eebf3f2.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/10b5b5c51443a360609106ad14dd85ec.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/11ea4b558847979449e353c6fb6a2eec.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/efc3f57ba7bb28026ab9026bacdb6b73.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/a77216408f534c15f813b47fcc6da7bd.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/b730eabcd36a6b70200c61f210885473.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/92597ca1d989a560ed48234ec2f4e983.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/3e42bde2943a8795e219ca118a364b77.jpeg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/belgee-x70-15-amt-177-лс-4wd-prestige-plus-серый-2024/</url></car>
+		<url>https://geely-partner-orenburg.ru/cars/belgee-x70-15-amt-177-лс-4wd-prestige-plus-белый-2024/</url></car>
 		<car>
-			<unique_id>050bac70c84f3aa3ebbd5d92cf7c068k</unique_id>
+			<unique_id>9bc7cbd87dc91ee8988d296a7a795756</unique_id>
 			<mark_id>BelGee</mark_id>
 			<folder_id>X70</folder_id>
 			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
 			<complectation_name>Prestige+</complectation_name>
 			<body_type>Внедорожник 5 дв.</body_type>
 			<wheel>левый</wheel>
-			<color>Серый</color>
+			<color>Белый</color>
 			<metallic>да</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>10</run>
+			<run>7</run>
 			<year>2024</year>
-			<price>3342990</price>
+			<price>3037990</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<max_discount>450000</max_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8722D5RB318960</vin>
+			<vin>Y4K8722D6RB326067</vin>
 			<description>ПАРТНЕР АВТО - новый официальный дилер BelGee в городе Оренбурге.
 
 В наличии новый Belgee X70, 2024 года, в комплектации Prestige+.
@@ -7558,48 +7484,46 @@ Geely Preface I Рестайлинг 2 — выбор тех, кто ищет с
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
 			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/b3880fbfaaa91f66895f9139a527655a.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/10fd9aa3b2e0887c812fd16af3ab137f.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/c89463dcd0c9d680729003524bae8b05.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/2f6571d0717bcfdfd92bfb102a445a17.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/032287007f29a9c04692fa7f7303e54d.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/bee7941af4b54e0a3e24ce20ca170cb1.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/826ab064aec565556ef16264e17a95a7.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/46e4d7eee95f7257f73fe7ca5aecae47.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/d902ace07a5a0021ea9ba7553c58a3bf.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/2a102447a0d192bf53aa8b232085606f.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/c248b8d4c110a6d91dd93e893c3466da.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/98fd17220f3e57b7759fc87b48851ee7.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/dad8cdb10fdc1ae2872084b4460e0d6a.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/f7002971c24724e11f055e135151dcf0.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/47ee03fc8e712521ae5be1747a385206.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/05bb9533988a8f94392b49ae94ccefe2.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/b29416a630667082270d963c4b88b673.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/bcc76d4ac8d14c49af96d1b389b978b3.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/2f4e95a52e19758c915c4e787ec1a538.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/3f01a83f95445a2e641c0a423bdea256.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/bcfa1b60899bd3734c60ff7e9eebf3f2.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/10b5b5c51443a360609106ad14dd85ec.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/11ea4b558847979449e353c6fb6a2eec.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/efc3f57ba7bb28026ab9026bacdb6b73.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/a77216408f534c15f813b47fcc6da7bd.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/b730eabcd36a6b70200c61f210885473.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/92597ca1d989a560ed48234ec2f4e983.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/3e42bde2943a8795e219ca118a364b77.jpeg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/belgee-x70-15-amt-177-лс-4wd-prestige-plus-серый-2024/</url></car>
+		<url>https://geely-partner-orenburg.ru/cars/belgee-x70-15-amt-177-лс-4wd-prestige-plus-белый-2024/</url></car>
 		<car>
-			<unique_id>050bac70c84f3aa3ebbd5d92cf7c068l</unique_id>
+			<unique_id>9bc7cbd87dc91ee8988d296a7a795757</unique_id>
 			<mark_id>BelGee</mark_id>
 			<folder_id>X70</folder_id>
 			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
 			<complectation_name>Prestige+</complectation_name>
 			<body_type>Внедорожник 5 дв.</body_type>
 			<wheel>левый</wheel>
-			<color>Серый</color>
+			<color>Белый</color>
 			<metallic>да</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>10</run>
+			<run>7</run>
 			<year>2024</year>
-			<price>3342990</price>
+			<price>3037990</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<max_discount>450000</max_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8722D5RB318961</vin>
+			<vin>Y4K8722D6RB326068</vin>
 			<description>ПАРТНЕР АВТО - новый официальный дилер BelGee в городе Оренбурге.
 
 В наличии новый Belgee X70, 2024 года, в комплектации Prestige+.
@@ -7626,48 +7550,46 @@ Geely Preface I Рестайлинг 2 — выбор тех, кто ищет с
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
 			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/b3880fbfaaa91f66895f9139a527655a.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/10fd9aa3b2e0887c812fd16af3ab137f.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/c89463dcd0c9d680729003524bae8b05.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/2f6571d0717bcfdfd92bfb102a445a17.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/032287007f29a9c04692fa7f7303e54d.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/bee7941af4b54e0a3e24ce20ca170cb1.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/826ab064aec565556ef16264e17a95a7.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/46e4d7eee95f7257f73fe7ca5aecae47.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/d902ace07a5a0021ea9ba7553c58a3bf.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/2a102447a0d192bf53aa8b232085606f.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/c248b8d4c110a6d91dd93e893c3466da.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/98fd17220f3e57b7759fc87b48851ee7.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/dad8cdb10fdc1ae2872084b4460e0d6a.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/f7002971c24724e11f055e135151dcf0.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/47ee03fc8e712521ae5be1747a385206.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/05bb9533988a8f94392b49ae94ccefe2.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/b29416a630667082270d963c4b88b673.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/bcc76d4ac8d14c49af96d1b389b978b3.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/2f4e95a52e19758c915c4e787ec1a538.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/3f01a83f95445a2e641c0a423bdea256.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/bcfa1b60899bd3734c60ff7e9eebf3f2.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/10b5b5c51443a360609106ad14dd85ec.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/11ea4b558847979449e353c6fb6a2eec.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/efc3f57ba7bb28026ab9026bacdb6b73.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/a77216408f534c15f813b47fcc6da7bd.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/b730eabcd36a6b70200c61f210885473.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/92597ca1d989a560ed48234ec2f4e983.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/3e42bde2943a8795e219ca118a364b77.jpeg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/belgee-x70-15-amt-177-лс-4wd-prestige-plus-серый-2024/</url></car>
+		<url>https://geely-partner-orenburg.ru/cars/belgee-x70-15-amt-177-лс-4wd-prestige-plus-белый-2024/</url></car>
 		<car>
-			<unique_id>050bac70c84f3aa3ebbd5d92cf7c068m</unique_id>
+			<unique_id>9bc7cbd87dc91ee8988d296a7a795758</unique_id>
 			<mark_id>BelGee</mark_id>
 			<folder_id>X70</folder_id>
 			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
 			<complectation_name>Prestige+</complectation_name>
 			<body_type>Внедорожник 5 дв.</body_type>
 			<wheel>левый</wheel>
-			<color>Серый</color>
+			<color>Белый</color>
 			<metallic>да</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>10</run>
+			<run>7</run>
 			<year>2024</year>
-			<price>3342990</price>
+			<price>3037990</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<max_discount>450000</max_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8722D5RB318962</vin>
+			<vin>Y4K8722D6RB326069</vin>
 			<description>ПАРТНЕР АВТО - новый официальный дилер BelGee в городе Оренбурге.
 
 В наличии новый Belgee X70, 2024 года, в комплектации Prestige+.
@@ -7694,48 +7616,46 @@ Geely Preface I Рестайлинг 2 — выбор тех, кто ищет с
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
 			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/b3880fbfaaa91f66895f9139a527655a.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/10fd9aa3b2e0887c812fd16af3ab137f.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/c89463dcd0c9d680729003524bae8b05.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/2f6571d0717bcfdfd92bfb102a445a17.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/032287007f29a9c04692fa7f7303e54d.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/bee7941af4b54e0a3e24ce20ca170cb1.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/826ab064aec565556ef16264e17a95a7.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/46e4d7eee95f7257f73fe7ca5aecae47.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/d902ace07a5a0021ea9ba7553c58a3bf.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/2a102447a0d192bf53aa8b232085606f.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/c248b8d4c110a6d91dd93e893c3466da.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/98fd17220f3e57b7759fc87b48851ee7.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/dad8cdb10fdc1ae2872084b4460e0d6a.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/f7002971c24724e11f055e135151dcf0.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/47ee03fc8e712521ae5be1747a385206.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/05bb9533988a8f94392b49ae94ccefe2.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/b29416a630667082270d963c4b88b673.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/bcc76d4ac8d14c49af96d1b389b978b3.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/2f4e95a52e19758c915c4e787ec1a538.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/3f01a83f95445a2e641c0a423bdea256.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/bcfa1b60899bd3734c60ff7e9eebf3f2.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/10b5b5c51443a360609106ad14dd85ec.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/11ea4b558847979449e353c6fb6a2eec.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/efc3f57ba7bb28026ab9026bacdb6b73.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/a77216408f534c15f813b47fcc6da7bd.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/b730eabcd36a6b70200c61f210885473.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/92597ca1d989a560ed48234ec2f4e983.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/3e42bde2943a8795e219ca118a364b77.jpeg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/belgee-x70-15-amt-177-лс-4wd-prestige-plus-серый-2024/</url></car>
+		<url>https://geely-partner-orenburg.ru/cars/belgee-x70-15-amt-177-лс-4wd-prestige-plus-белый-2024/</url></car>
 		<car>
-			<unique_id>050bac70c84f3aa3ebbd5d92cf7c068n</unique_id>
+			<unique_id>9bc7cbd87dc91ee8988d296a7a795759</unique_id>
 			<mark_id>BelGee</mark_id>
 			<folder_id>X70</folder_id>
 			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
 			<complectation_name>Prestige+</complectation_name>
 			<body_type>Внедорожник 5 дв.</body_type>
 			<wheel>левый</wheel>
-			<color>Серый</color>
+			<color>Белый</color>
 			<metallic>да</metallic>
 			<availability>на заказ</availability>
 			<custom>растаможен</custom>
-			<run>10</run>
+			<run>7</run>
 			<year>2024</year>
-			<price>3342990</price>
+			<price>3037990</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<max_discount>450000</max_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8722D5RB318963</vin>
+			<vin>Y4K8722D6RB326070</vin>
 			<description>ПАРТНЕР АВТО - новый официальный дилер BelGee в городе Оренбурге.
 
 В наличии новый Belgee X70, 2024 года, в комплектации Prestige+.
@@ -7762,26 +7682,24 @@ Geely Preface I Рестайлинг 2 — выбор тех, кто ищет с
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
 			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/b3880fbfaaa91f66895f9139a527655a.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/10fd9aa3b2e0887c812fd16af3ab137f.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/c89463dcd0c9d680729003524bae8b05.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/2f6571d0717bcfdfd92bfb102a445a17.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/032287007f29a9c04692fa7f7303e54d.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/bee7941af4b54e0a3e24ce20ca170cb1.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/826ab064aec565556ef16264e17a95a7.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/46e4d7eee95f7257f73fe7ca5aecae47.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/d902ace07a5a0021ea9ba7553c58a3bf.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/2a102447a0d192bf53aa8b232085606f.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/c248b8d4c110a6d91dd93e893c3466da.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/98fd17220f3e57b7759fc87b48851ee7.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/dad8cdb10fdc1ae2872084b4460e0d6a.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/f7002971c24724e11f055e135151dcf0.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/47ee03fc8e712521ae5be1747a385206.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/05bb9533988a8f94392b49ae94ccefe2.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/b29416a630667082270d963c4b88b673.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/bcc76d4ac8d14c49af96d1b389b978b3.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/2f4e95a52e19758c915c4e787ec1a538.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/3f01a83f95445a2e641c0a423bdea256.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/bcfa1b60899bd3734c60ff7e9eebf3f2.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/10b5b5c51443a360609106ad14dd85ec.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/11ea4b558847979449e353c6fb6a2eec.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/efc3f57ba7bb28026ab9026bacdb6b73.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/a77216408f534c15f813b47fcc6da7bd.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/b730eabcd36a6b70200c61f210885473.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/92597ca1d989a560ed48234ec2f4e983.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/3e42bde2943a8795e219ca118a364b77.jpeg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/belgee-x70-15-amt-177-лс-4wd-prestige-plus-серый-2024/</url></car>
+		<url>https://geely-partner-orenburg.ru/cars/belgee-x70-15-amt-177-лс-4wd-prestige-plus-белый-2024/</url></car>
 		<car>
 			<unique_id>ee3ad8645a992c132e702e2b029a8cab</unique_id>
 			<mark_id>BelGee</mark_id>
@@ -9313,27 +9231,27 @@ Geely Preface I Рестайлинг 2 — выбор тех, кто ищет с
 			</multiposting>
 		<url>https://geely-partner-orenburg.ru/cars/belgee-x70-15-amt-177-лс-4wd-style-черный-2024/</url></car>
 		<car>
-			<unique_id>9bc7cbd87dc91ee8988d296a7a795751</unique_id>
+			<unique_id>050bac70c84f3aa3ebbd5d92cf7c068f</unique_id>
 			<mark_id>BelGee</mark_id>
 			<folder_id>X70</folder_id>
 			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
 			<complectation_name>Style</complectation_name>
 			<body_type>Внедорожник 5 дв.</body_type>
 			<wheel>левый</wheel>
-			<color>Белый</color>
+			<color>Серый</color>
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>7</run>
+			<run>11</run>
 			<year>2024</year>
-			<price>3037990</price>
+			<price>3342990</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<max_discount>450000</max_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8722D6RB326062</vin>
+			<vin>Y4K8722D5RB318955</vin>
 			<description>ПАРТНЕР - новый официальный дилер BelGee в городе Оренбурге.
 
 В наличии новый Belgee X70, 2024 года, в комплектации Style.
@@ -9360,46 +9278,48 @@ Geely Preface I Рестайлинг 2 — выбор тех, кто ищет с
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
 			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/05bb9533988a8f94392b49ae94ccefe2.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/b29416a630667082270d963c4b88b673.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/bcc76d4ac8d14c49af96d1b389b978b3.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/2f4e95a52e19758c915c4e787ec1a538.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/3f01a83f95445a2e641c0a423bdea256.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/bcfa1b60899bd3734c60ff7e9eebf3f2.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/10b5b5c51443a360609106ad14dd85ec.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/11ea4b558847979449e353c6fb6a2eec.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/efc3f57ba7bb28026ab9026bacdb6b73.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/a77216408f534c15f813b47fcc6da7bd.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/b730eabcd36a6b70200c61f210885473.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/92597ca1d989a560ed48234ec2f4e983.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/3e42bde2943a8795e219ca118a364b77.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/b3880fbfaaa91f66895f9139a527655a.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/10fd9aa3b2e0887c812fd16af3ab137f.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/c89463dcd0c9d680729003524bae8b05.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/2f6571d0717bcfdfd92bfb102a445a17.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/032287007f29a9c04692fa7f7303e54d.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/bee7941af4b54e0a3e24ce20ca170cb1.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/826ab064aec565556ef16264e17a95a7.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/46e4d7eee95f7257f73fe7ca5aecae47.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/d902ace07a5a0021ea9ba7553c58a3bf.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/2a102447a0d192bf53aa8b232085606f.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/c248b8d4c110a6d91dd93e893c3466da.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/98fd17220f3e57b7759fc87b48851ee7.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/dad8cdb10fdc1ae2872084b4460e0d6a.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/f7002971c24724e11f055e135151dcf0.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/47ee03fc8e712521ae5be1747a385206.jpeg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/belgee-x70-15-amt-177-лс-4wd-style-белый-2024/</url></car>
+		<url>https://geely-partner-orenburg.ru/cars/belgee-x70-15-amt-177-лс-4wd-style-серый-2024/</url></car>
 		<car>
-			<unique_id>9bc7cbd87dc91ee8988d296a7a795752</unique_id>
+			<unique_id>050bac70c84f3aa3ebbd5d92cf7c068g</unique_id>
 			<mark_id>BelGee</mark_id>
 			<folder_id>X70</folder_id>
 			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
 			<complectation_name>Style</complectation_name>
 			<body_type>Внедорожник 5 дв.</body_type>
 			<wheel>левый</wheel>
-			<color>Белый</color>
+			<color>Серый</color>
 			<metallic>да</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>7</run>
+			<run>11</run>
 			<year>2024</year>
-			<price>3037990</price>
+			<price>3342990</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<max_discount>450000</max_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8722D6RB326063</vin>
+			<vin>Y4K8722D5RB318956</vin>
 			<description>ПАРТНЕР - новый официальный дилер BelGee в городе Оренбурге.
 
 В наличии новый Belgee X70, 2024 года, в комплектации Style.
@@ -9426,46 +9346,48 @@ Geely Preface I Рестайлинг 2 — выбор тех, кто ищет с
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
 			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/05bb9533988a8f94392b49ae94ccefe2.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/b29416a630667082270d963c4b88b673.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/bcc76d4ac8d14c49af96d1b389b978b3.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/2f4e95a52e19758c915c4e787ec1a538.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/3f01a83f95445a2e641c0a423bdea256.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/bcfa1b60899bd3734c60ff7e9eebf3f2.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/10b5b5c51443a360609106ad14dd85ec.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/11ea4b558847979449e353c6fb6a2eec.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/efc3f57ba7bb28026ab9026bacdb6b73.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/a77216408f534c15f813b47fcc6da7bd.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/b730eabcd36a6b70200c61f210885473.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/92597ca1d989a560ed48234ec2f4e983.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/3e42bde2943a8795e219ca118a364b77.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/b3880fbfaaa91f66895f9139a527655a.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/10fd9aa3b2e0887c812fd16af3ab137f.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/c89463dcd0c9d680729003524bae8b05.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/2f6571d0717bcfdfd92bfb102a445a17.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/032287007f29a9c04692fa7f7303e54d.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/bee7941af4b54e0a3e24ce20ca170cb1.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/826ab064aec565556ef16264e17a95a7.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/46e4d7eee95f7257f73fe7ca5aecae47.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/d902ace07a5a0021ea9ba7553c58a3bf.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/2a102447a0d192bf53aa8b232085606f.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/c248b8d4c110a6d91dd93e893c3466da.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/98fd17220f3e57b7759fc87b48851ee7.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/dad8cdb10fdc1ae2872084b4460e0d6a.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/f7002971c24724e11f055e135151dcf0.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/47ee03fc8e712521ae5be1747a385206.jpeg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/belgee-x70-15-amt-177-лс-4wd-style-белый-2024/</url></car>
+		<url>https://geely-partner-orenburg.ru/cars/belgee-x70-15-amt-177-лс-4wd-style-серый-2024/</url></car>
 		<car>
-			<unique_id>9bc7cbd87dc91ee8988d296a7a795753</unique_id>
+			<unique_id>050bac70c84f3aa3ebbd5d92cf7c068h</unique_id>
 			<mark_id>BelGee</mark_id>
 			<folder_id>X70</folder_id>
 			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
 			<complectation_name>Style</complectation_name>
 			<body_type>Внедорожник 5 дв.</body_type>
 			<wheel>левый</wheel>
-			<color>Белый</color>
+			<color>Серый</color>
 			<metallic>да</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>7</run>
+			<run>11</run>
 			<year>2024</year>
-			<price>3037990</price>
+			<price>3342990</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<max_discount>450000</max_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8722D6RB326064</vin>
+			<vin>Y4K8722D5RB318957</vin>
 			<description>ПАРТНЕР - новый официальный дилер BelGee в городе Оренбурге.
 
 В наличии новый Belgee X70, 2024 года, в комплектации Style.
@@ -9492,46 +9414,48 @@ Geely Preface I Рестайлинг 2 — выбор тех, кто ищет с
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
 			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/05bb9533988a8f94392b49ae94ccefe2.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/b29416a630667082270d963c4b88b673.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/bcc76d4ac8d14c49af96d1b389b978b3.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/2f4e95a52e19758c915c4e787ec1a538.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/3f01a83f95445a2e641c0a423bdea256.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/bcfa1b60899bd3734c60ff7e9eebf3f2.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/10b5b5c51443a360609106ad14dd85ec.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/11ea4b558847979449e353c6fb6a2eec.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/efc3f57ba7bb28026ab9026bacdb6b73.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/a77216408f534c15f813b47fcc6da7bd.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/b730eabcd36a6b70200c61f210885473.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/92597ca1d989a560ed48234ec2f4e983.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/3e42bde2943a8795e219ca118a364b77.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/b3880fbfaaa91f66895f9139a527655a.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/10fd9aa3b2e0887c812fd16af3ab137f.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/c89463dcd0c9d680729003524bae8b05.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/2f6571d0717bcfdfd92bfb102a445a17.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/032287007f29a9c04692fa7f7303e54d.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/bee7941af4b54e0a3e24ce20ca170cb1.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/826ab064aec565556ef16264e17a95a7.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/46e4d7eee95f7257f73fe7ca5aecae47.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/d902ace07a5a0021ea9ba7553c58a3bf.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/2a102447a0d192bf53aa8b232085606f.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/c248b8d4c110a6d91dd93e893c3466da.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/98fd17220f3e57b7759fc87b48851ee7.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/dad8cdb10fdc1ae2872084b4460e0d6a.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/f7002971c24724e11f055e135151dcf0.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/47ee03fc8e712521ae5be1747a385206.jpeg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/belgee-x70-15-amt-177-лс-4wd-style-белый-2024/</url></car>
+		<url>https://geely-partner-orenburg.ru/cars/belgee-x70-15-amt-177-лс-4wd-style-серый-2024/</url></car>
 		<car>
-			<unique_id>9bc7cbd87dc91ee8988d296a7a795754</unique_id>
+			<unique_id>050bac70c84f3aa3ebbd5d92cf7c068i</unique_id>
 			<mark_id>BelGee</mark_id>
 			<folder_id>X70</folder_id>
 			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
 			<complectation_name>Style</complectation_name>
 			<body_type>Внедорожник 5 дв.</body_type>
 			<wheel>левый</wheel>
-			<color>Белый</color>
+			<color>Серый</color>
 			<metallic>да</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>7</run>
+			<run>11</run>
 			<year>2024</year>
-			<price>3037990</price>
+			<price>3342990</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<max_discount>450000</max_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8722D6RB326065</vin>
+			<vin>Y4K8722D5RB318958</vin>
 			<description>ПАРТНЕР - новый официальный дилер BelGee в городе Оренбурге.
 
 В наличии новый Belgee X70, 2024 года, в комплектации Style.
@@ -9558,46 +9482,48 @@ Geely Preface I Рестайлинг 2 — выбор тех, кто ищет с
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
 			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/05bb9533988a8f94392b49ae94ccefe2.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/b29416a630667082270d963c4b88b673.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/bcc76d4ac8d14c49af96d1b389b978b3.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/2f4e95a52e19758c915c4e787ec1a538.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/3f01a83f95445a2e641c0a423bdea256.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/bcfa1b60899bd3734c60ff7e9eebf3f2.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/10b5b5c51443a360609106ad14dd85ec.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/11ea4b558847979449e353c6fb6a2eec.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/efc3f57ba7bb28026ab9026bacdb6b73.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/a77216408f534c15f813b47fcc6da7bd.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/b730eabcd36a6b70200c61f210885473.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/92597ca1d989a560ed48234ec2f4e983.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/3e42bde2943a8795e219ca118a364b77.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/b3880fbfaaa91f66895f9139a527655a.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/10fd9aa3b2e0887c812fd16af3ab137f.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/c89463dcd0c9d680729003524bae8b05.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/2f6571d0717bcfdfd92bfb102a445a17.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/032287007f29a9c04692fa7f7303e54d.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/bee7941af4b54e0a3e24ce20ca170cb1.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/826ab064aec565556ef16264e17a95a7.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/46e4d7eee95f7257f73fe7ca5aecae47.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/d902ace07a5a0021ea9ba7553c58a3bf.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/2a102447a0d192bf53aa8b232085606f.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/c248b8d4c110a6d91dd93e893c3466da.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/98fd17220f3e57b7759fc87b48851ee7.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/dad8cdb10fdc1ae2872084b4460e0d6a.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/f7002971c24724e11f055e135151dcf0.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/47ee03fc8e712521ae5be1747a385206.jpeg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/belgee-x70-15-amt-177-лс-4wd-style-белый-2024/</url></car>
+		<url>https://geely-partner-orenburg.ru/cars/belgee-x70-15-amt-177-лс-4wd-style-серый-2024/</url></car>
 		<car>
-			<unique_id>9bc7cbd87dc91ee8988d296a7a795755</unique_id>
+			<unique_id>050bac70c84f3aa3ebbd5d92cf7c068j</unique_id>
 			<mark_id>BelGee</mark_id>
 			<folder_id>X70</folder_id>
 			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
 			<complectation_name>Style</complectation_name>
 			<body_type>Внедорожник 5 дв.</body_type>
 			<wheel>левый</wheel>
-			<color>Белый</color>
+			<color>Серый</color>
 			<metallic>да</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>7</run>
+			<run>11</run>
 			<year>2024</year>
-			<price>3037990</price>
+			<price>3342990</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<max_discount>450000</max_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8722D6RB326066</vin>
+			<vin>Y4K8722D5RB318959</vin>
 			<description>ПАРТНЕР - новый официальный дилер BelGee в городе Оренбурге.
 
 В наличии новый Belgee X70, 2024 года, в комплектации Style.
@@ -9624,46 +9550,48 @@ Geely Preface I Рестайлинг 2 — выбор тех, кто ищет с
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
 			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/05bb9533988a8f94392b49ae94ccefe2.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/b29416a630667082270d963c4b88b673.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/bcc76d4ac8d14c49af96d1b389b978b3.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/2f4e95a52e19758c915c4e787ec1a538.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/3f01a83f95445a2e641c0a423bdea256.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/bcfa1b60899bd3734c60ff7e9eebf3f2.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/10b5b5c51443a360609106ad14dd85ec.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/11ea4b558847979449e353c6fb6a2eec.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/efc3f57ba7bb28026ab9026bacdb6b73.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/a77216408f534c15f813b47fcc6da7bd.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/b730eabcd36a6b70200c61f210885473.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/92597ca1d989a560ed48234ec2f4e983.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/3e42bde2943a8795e219ca118a364b77.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/b3880fbfaaa91f66895f9139a527655a.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/10fd9aa3b2e0887c812fd16af3ab137f.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/c89463dcd0c9d680729003524bae8b05.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/2f6571d0717bcfdfd92bfb102a445a17.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/032287007f29a9c04692fa7f7303e54d.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/bee7941af4b54e0a3e24ce20ca170cb1.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/826ab064aec565556ef16264e17a95a7.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/46e4d7eee95f7257f73fe7ca5aecae47.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/d902ace07a5a0021ea9ba7553c58a3bf.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/2a102447a0d192bf53aa8b232085606f.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/c248b8d4c110a6d91dd93e893c3466da.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/98fd17220f3e57b7759fc87b48851ee7.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/dad8cdb10fdc1ae2872084b4460e0d6a.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/f7002971c24724e11f055e135151dcf0.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/47ee03fc8e712521ae5be1747a385206.jpeg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/belgee-x70-15-amt-177-лс-4wd-style-белый-2024/</url></car>
+		<url>https://geely-partner-orenburg.ru/cars/belgee-x70-15-amt-177-лс-4wd-style-серый-2024/</url></car>
 		<car>
-			<unique_id>9bc7cbd87dc91ee8988d296a7a795756</unique_id>
+			<unique_id>050bac70c84f3aa3ebbd5d92cf7c068k</unique_id>
 			<mark_id>BelGee</mark_id>
 			<folder_id>X70</folder_id>
 			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
 			<complectation_name>Style</complectation_name>
 			<body_type>Внедорожник 5 дв.</body_type>
 			<wheel>левый</wheel>
-			<color>Белый</color>
+			<color>Серый</color>
 			<metallic>да</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>7</run>
+			<run>11</run>
 			<year>2024</year>
-			<price>3037990</price>
+			<price>3342990</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<max_discount>450000</max_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8722D6RB326067</vin>
+			<vin>Y4K8722D5RB318960</vin>
 			<description>ПАРТНЕР - новый официальный дилер BelGee в городе Оренбурге.
 
 В наличии новый Belgee X70, 2024 года, в комплектации Style.
@@ -9690,46 +9618,48 @@ Geely Preface I Рестайлинг 2 — выбор тех, кто ищет с
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
 			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/05bb9533988a8f94392b49ae94ccefe2.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/b29416a630667082270d963c4b88b673.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/bcc76d4ac8d14c49af96d1b389b978b3.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/2f4e95a52e19758c915c4e787ec1a538.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/3f01a83f95445a2e641c0a423bdea256.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/bcfa1b60899bd3734c60ff7e9eebf3f2.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/10b5b5c51443a360609106ad14dd85ec.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/11ea4b558847979449e353c6fb6a2eec.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/efc3f57ba7bb28026ab9026bacdb6b73.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/a77216408f534c15f813b47fcc6da7bd.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/b730eabcd36a6b70200c61f210885473.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/92597ca1d989a560ed48234ec2f4e983.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/3e42bde2943a8795e219ca118a364b77.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/b3880fbfaaa91f66895f9139a527655a.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/10fd9aa3b2e0887c812fd16af3ab137f.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/c89463dcd0c9d680729003524bae8b05.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/2f6571d0717bcfdfd92bfb102a445a17.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/032287007f29a9c04692fa7f7303e54d.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/bee7941af4b54e0a3e24ce20ca170cb1.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/826ab064aec565556ef16264e17a95a7.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/46e4d7eee95f7257f73fe7ca5aecae47.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/d902ace07a5a0021ea9ba7553c58a3bf.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/2a102447a0d192bf53aa8b232085606f.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/c248b8d4c110a6d91dd93e893c3466da.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/98fd17220f3e57b7759fc87b48851ee7.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/dad8cdb10fdc1ae2872084b4460e0d6a.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/f7002971c24724e11f055e135151dcf0.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/47ee03fc8e712521ae5be1747a385206.jpeg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/belgee-x70-15-amt-177-лс-4wd-style-белый-2024/</url></car>
+		<url>https://geely-partner-orenburg.ru/cars/belgee-x70-15-amt-177-лс-4wd-style-серый-2024/</url></car>
 		<car>
-			<unique_id>9bc7cbd87dc91ee8988d296a7a795757</unique_id>
+			<unique_id>050bac70c84f3aa3ebbd5d92cf7c068l</unique_id>
 			<mark_id>BelGee</mark_id>
 			<folder_id>X70</folder_id>
 			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
 			<complectation_name>Style</complectation_name>
 			<body_type>Внедорожник 5 дв.</body_type>
 			<wheel>левый</wheel>
-			<color>Белый</color>
+			<color>Серый</color>
 			<metallic>да</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>7</run>
+			<run>11</run>
 			<year>2024</year>
-			<price>3037990</price>
+			<price>3342990</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<max_discount>450000</max_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8722D6RB326068</vin>
+			<vin>Y4K8722D5RB318961</vin>
 			<description>ПАРТНЕР - новый официальный дилер BelGee в городе Оренбурге.
 
 В наличии новый Belgee X70, 2024 года, в комплектации Style.
@@ -9756,46 +9686,48 @@ Geely Preface I Рестайлинг 2 — выбор тех, кто ищет с
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
 			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/05bb9533988a8f94392b49ae94ccefe2.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/b29416a630667082270d963c4b88b673.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/bcc76d4ac8d14c49af96d1b389b978b3.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/2f4e95a52e19758c915c4e787ec1a538.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/3f01a83f95445a2e641c0a423bdea256.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/bcfa1b60899bd3734c60ff7e9eebf3f2.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/10b5b5c51443a360609106ad14dd85ec.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/11ea4b558847979449e353c6fb6a2eec.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/efc3f57ba7bb28026ab9026bacdb6b73.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/a77216408f534c15f813b47fcc6da7bd.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/b730eabcd36a6b70200c61f210885473.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/92597ca1d989a560ed48234ec2f4e983.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/3e42bde2943a8795e219ca118a364b77.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/b3880fbfaaa91f66895f9139a527655a.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/10fd9aa3b2e0887c812fd16af3ab137f.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/c89463dcd0c9d680729003524bae8b05.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/2f6571d0717bcfdfd92bfb102a445a17.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/032287007f29a9c04692fa7f7303e54d.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/bee7941af4b54e0a3e24ce20ca170cb1.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/826ab064aec565556ef16264e17a95a7.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/46e4d7eee95f7257f73fe7ca5aecae47.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/d902ace07a5a0021ea9ba7553c58a3bf.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/2a102447a0d192bf53aa8b232085606f.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/c248b8d4c110a6d91dd93e893c3466da.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/98fd17220f3e57b7759fc87b48851ee7.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/dad8cdb10fdc1ae2872084b4460e0d6a.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/f7002971c24724e11f055e135151dcf0.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/47ee03fc8e712521ae5be1747a385206.jpeg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/belgee-x70-15-amt-177-лс-4wd-style-белый-2024/</url></car>
+		<url>https://geely-partner-orenburg.ru/cars/belgee-x70-15-amt-177-лс-4wd-style-серый-2024/</url></car>
 		<car>
-			<unique_id>9bc7cbd87dc91ee8988d296a7a795758</unique_id>
+			<unique_id>050bac70c84f3aa3ebbd5d92cf7c068m</unique_id>
 			<mark_id>BelGee</mark_id>
 			<folder_id>X70</folder_id>
 			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
 			<complectation_name>Style</complectation_name>
 			<body_type>Внедорожник 5 дв.</body_type>
 			<wheel>левый</wheel>
-			<color>Белый</color>
+			<color>Серый</color>
 			<metallic>да</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>7</run>
+			<run>11</run>
 			<year>2024</year>
-			<price>3037990</price>
+			<price>3342990</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<max_discount>450000</max_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8722D6RB326069</vin>
+			<vin>Y4K8722D5RB318962</vin>
 			<description>ПАРТНЕР - новый официальный дилер BelGee в городе Оренбурге.
 
 В наличии новый Belgee X70, 2024 года, в комплектации Style.
@@ -9822,46 +9754,48 @@ Geely Preface I Рестайлинг 2 — выбор тех, кто ищет с
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
 			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/05bb9533988a8f94392b49ae94ccefe2.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/b29416a630667082270d963c4b88b673.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/bcc76d4ac8d14c49af96d1b389b978b3.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/2f4e95a52e19758c915c4e787ec1a538.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/3f01a83f95445a2e641c0a423bdea256.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/bcfa1b60899bd3734c60ff7e9eebf3f2.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/10b5b5c51443a360609106ad14dd85ec.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/11ea4b558847979449e353c6fb6a2eec.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/efc3f57ba7bb28026ab9026bacdb6b73.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/a77216408f534c15f813b47fcc6da7bd.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/b730eabcd36a6b70200c61f210885473.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/92597ca1d989a560ed48234ec2f4e983.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/3e42bde2943a8795e219ca118a364b77.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/b3880fbfaaa91f66895f9139a527655a.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/10fd9aa3b2e0887c812fd16af3ab137f.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/c89463dcd0c9d680729003524bae8b05.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/2f6571d0717bcfdfd92bfb102a445a17.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/032287007f29a9c04692fa7f7303e54d.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/bee7941af4b54e0a3e24ce20ca170cb1.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/826ab064aec565556ef16264e17a95a7.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/46e4d7eee95f7257f73fe7ca5aecae47.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/d902ace07a5a0021ea9ba7553c58a3bf.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/2a102447a0d192bf53aa8b232085606f.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/c248b8d4c110a6d91dd93e893c3466da.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/98fd17220f3e57b7759fc87b48851ee7.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/dad8cdb10fdc1ae2872084b4460e0d6a.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/f7002971c24724e11f055e135151dcf0.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/47ee03fc8e712521ae5be1747a385206.jpeg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/belgee-x70-15-amt-177-лс-4wd-style-белый-2024/</url></car>
+		<url>https://geely-partner-orenburg.ru/cars/belgee-x70-15-amt-177-лс-4wd-style-серый-2024/</url></car>
 		<car>
-			<unique_id>9bc7cbd87dc91ee8988d296a7a795759</unique_id>
+			<unique_id>050bac70c84f3aa3ebbd5d92cf7c068n</unique_id>
 			<mark_id>BelGee</mark_id>
 			<folder_id>X70</folder_id>
 			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
 			<complectation_name>Style</complectation_name>
 			<body_type>Внедорожник 5 дв.</body_type>
 			<wheel>левый</wheel>
-			<color>Белый</color>
+			<color>Серый</color>
 			<metallic>да</metallic>
 			<availability>на заказ</availability>
 			<custom>растаможен</custom>
-			<run>7</run>
+			<run>11</run>
 			<year>2024</year>
-			<price>3037990</price>
+			<price>3342990</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<max_discount>450000</max_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8722D6RB326070</vin>
+			<vin>Y4K8722D5RB318963</vin>
 			<description>ПАРТНЕР - новый официальный дилер BelGee в городе Оренбурге.
 
 В наличии новый Belgee X70, 2024 года, в комплектации Style.
@@ -9888,24 +9822,26 @@ Geely Preface I Рестайлинг 2 — выбор тех, кто ищет с
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
 			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/05bb9533988a8f94392b49ae94ccefe2.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/b29416a630667082270d963c4b88b673.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/bcc76d4ac8d14c49af96d1b389b978b3.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/2f4e95a52e19758c915c4e787ec1a538.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/3f01a83f95445a2e641c0a423bdea256.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/bcfa1b60899bd3734c60ff7e9eebf3f2.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/10b5b5c51443a360609106ad14dd85ec.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/11ea4b558847979449e353c6fb6a2eec.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/efc3f57ba7bb28026ab9026bacdb6b73.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/a77216408f534c15f813b47fcc6da7bd.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/b730eabcd36a6b70200c61f210885473.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/92597ca1d989a560ed48234ec2f4e983.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB326061/3e42bde2943a8795e219ca118a364b77.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/b3880fbfaaa91f66895f9139a527655a.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/10fd9aa3b2e0887c812fd16af3ab137f.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/c89463dcd0c9d680729003524bae8b05.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/2f6571d0717bcfdfd92bfb102a445a17.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/032287007f29a9c04692fa7f7303e54d.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/bee7941af4b54e0a3e24ce20ca170cb1.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/826ab064aec565556ef16264e17a95a7.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/46e4d7eee95f7257f73fe7ca5aecae47.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/d902ace07a5a0021ea9ba7553c58a3bf.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/2a102447a0d192bf53aa8b232085606f.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/c248b8d4c110a6d91dd93e893c3466da.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/98fd17220f3e57b7759fc87b48851ee7.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/dad8cdb10fdc1ae2872084b4460e0d6a.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/f7002971c24724e11f055e135151dcf0.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5RB318954/47ee03fc8e712521ae5be1747a385206.jpeg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/belgee-x70-15-amt-177-лс-4wd-style-белый-2024/</url></car>
+		<url>https://geely-partner-orenburg.ru/cars/belgee-x70-15-amt-177-лс-4wd-style-серый-2024/</url></car>
 		<car>
 			<unique_id>c17c9c05bcd4131d8f970c0b72f731ce</unique_id>
 			<mark_id>Geely</mark_id>
@@ -24181,582 +24117,6 @@ Geely Coolray — это автомобиль, который подарит в�
 			</multiposting>
 		<url>https://geely-partner-orenburg.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-синий-2024/</url></car>
 		<car>
-			<unique_id>26984ad032e82f8e4a3ef9774fd10b7g</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>97</run>
-			<year>2024</year>
-			<price>4732990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>450000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>450000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D6RS164723</vin>
-			<description>ПАРТНЕР - новый официальный дилер GEELY в городе Оренбурге.
-
-В наличии новый Geely MONJARO, 2024 года, в комплектации Flaghip.
-
-✅ ГАPAHТИЯ 5 ЛET
-
-✅ КPEДИT БЕЗ ПEРВOHAЧАЛЬHOГО BЗНОСА
-
-✅ PАССPOЧКA
-
-✅ BЫГОДНЫЙ ОБМЕH ВАШEГО АВTОМOБИЛЯ HА НОВЫЙ
-
-Стоимость автомобиля 4 732 990 рублей (без учета установленного дополнительного оборудования)
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/8088fe123b8e14aa46bbc25c4ed6373b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/28f72860f3d27579f519832815365644.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/c1fc9b41a18070449379ca939692b573.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/5af8305e8cb4e139b8ce02d9d14b8921.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/fac73daee6d681bbe6a65e0759390902.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/3aa7150d630e5854bf95ce6a3ebc8b31.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/d20ffb8327b3a8e0a12ea2cfb6e917c8.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/a6ac37cb200ea0502a0cc04f75628e30.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/3c8013e9a90304802f4ff1f2c94b3faf.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/1af75387525167cfa1b0cd4c255768a9.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/e6233474b6874eef2c733470adb47575.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/c3104dd0c8721afd886aa031009c52d2.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/7265030081971948432f86ce4632735e.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/a9897232c7f00b009fe28efdcba5da6f.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/b292d49ee7b7fe61135cc8c20e7151da.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-белый-2024/</url></car>
-		<car>
-			<unique_id>26984ad032e82f8e4a3ef9774fd10b7h</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>97</run>
-			<year>2024</year>
-			<price>4732990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>450000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>450000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D6RS164724</vin>
-			<description>ПАРТНЕР - новый официальный дилер GEELY в городе Оренбурге.
-
-В наличии новый Geely MONJARO, 2024 года, в комплектации Flaghip.
-
-✅ ГАPAHТИЯ 5 ЛET
-
-✅ КPEДИT БЕЗ ПEРВOHAЧАЛЬHOГО BЗНОСА
-
-✅ PАССPOЧКA
-
-✅ BЫГОДНЫЙ ОБМЕH ВАШEГО АВTОМOБИЛЯ HА НОВЫЙ
-
-Стоимость автомобиля 4 732 990 рублей (без учета установленного дополнительного оборудования)
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/8088fe123b8e14aa46bbc25c4ed6373b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/28f72860f3d27579f519832815365644.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/c1fc9b41a18070449379ca939692b573.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/5af8305e8cb4e139b8ce02d9d14b8921.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/fac73daee6d681bbe6a65e0759390902.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/3aa7150d630e5854bf95ce6a3ebc8b31.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/d20ffb8327b3a8e0a12ea2cfb6e917c8.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/a6ac37cb200ea0502a0cc04f75628e30.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/3c8013e9a90304802f4ff1f2c94b3faf.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/1af75387525167cfa1b0cd4c255768a9.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/e6233474b6874eef2c733470adb47575.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/c3104dd0c8721afd886aa031009c52d2.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/7265030081971948432f86ce4632735e.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/a9897232c7f00b009fe28efdcba5da6f.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/b292d49ee7b7fe61135cc8c20e7151da.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-белый-2024/</url></car>
-		<car>
-			<unique_id>26984ad032e82f8e4a3ef9774fd10b7i</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>97</run>
-			<year>2024</year>
-			<price>4732990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>450000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>450000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D6RS164725</vin>
-			<description>ПАРТНЕР - новый официальный дилер GEELY в городе Оренбурге.
-
-В наличии новый Geely MONJARO, 2024 года, в комплектации Flaghip.
-
-✅ ГАPAHТИЯ 5 ЛET
-
-✅ КPEДИT БЕЗ ПEРВOHAЧАЛЬHOГО BЗНОСА
-
-✅ PАССPOЧКA
-
-✅ BЫГОДНЫЙ ОБМЕH ВАШEГО АВTОМOБИЛЯ HА НОВЫЙ
-
-Стоимость автомобиля 4 732 990 рублей (без учета установленного дополнительного оборудования)
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/8088fe123b8e14aa46bbc25c4ed6373b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/28f72860f3d27579f519832815365644.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/c1fc9b41a18070449379ca939692b573.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/5af8305e8cb4e139b8ce02d9d14b8921.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/fac73daee6d681bbe6a65e0759390902.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/3aa7150d630e5854bf95ce6a3ebc8b31.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/d20ffb8327b3a8e0a12ea2cfb6e917c8.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/a6ac37cb200ea0502a0cc04f75628e30.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/3c8013e9a90304802f4ff1f2c94b3faf.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/1af75387525167cfa1b0cd4c255768a9.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/e6233474b6874eef2c733470adb47575.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/c3104dd0c8721afd886aa031009c52d2.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/7265030081971948432f86ce4632735e.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/a9897232c7f00b009fe28efdcba5da6f.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/b292d49ee7b7fe61135cc8c20e7151da.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-белый-2024/</url></car>
-		<car>
-			<unique_id>26984ad032e82f8e4a3ef9774fd10b7j</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>97</run>
-			<year>2024</year>
-			<price>4732990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>450000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>450000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D6RS164726</vin>
-			<description>ПАРТНЕР - новый официальный дилер GEELY в городе Оренбурге.
-
-В наличии новый Geely MONJARO, 2024 года, в комплектации Flaghip.
-
-✅ ГАPAHТИЯ 5 ЛET
-
-✅ КPEДИT БЕЗ ПEРВOHAЧАЛЬHOГО BЗНОСА
-
-✅ PАССPOЧКA
-
-✅ BЫГОДНЫЙ ОБМЕH ВАШEГО АВTОМOБИЛЯ HА НОВЫЙ
-
-Стоимость автомобиля 4 732 990 рублей (без учета установленного дополнительного оборудования)
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/8088fe123b8e14aa46bbc25c4ed6373b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/28f72860f3d27579f519832815365644.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/c1fc9b41a18070449379ca939692b573.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/5af8305e8cb4e139b8ce02d9d14b8921.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/fac73daee6d681bbe6a65e0759390902.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/3aa7150d630e5854bf95ce6a3ebc8b31.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/d20ffb8327b3a8e0a12ea2cfb6e917c8.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/a6ac37cb200ea0502a0cc04f75628e30.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/3c8013e9a90304802f4ff1f2c94b3faf.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/1af75387525167cfa1b0cd4c255768a9.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/e6233474b6874eef2c733470adb47575.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/c3104dd0c8721afd886aa031009c52d2.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/7265030081971948432f86ce4632735e.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/a9897232c7f00b009fe28efdcba5da6f.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/b292d49ee7b7fe61135cc8c20e7151da.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-белый-2024/</url></car>
-		<car>
-			<unique_id>26984ad032e82f8e4a3ef9774fd10b7k</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>97</run>
-			<year>2024</year>
-			<price>4732990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>450000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>450000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D6RS164727</vin>
-			<description>ПАРТНЕР - новый официальный дилер GEELY в городе Оренбурге.
-
-В наличии новый Geely MONJARO, 2024 года, в комплектации Flaghip.
-
-✅ ГАPAHТИЯ 5 ЛET
-
-✅ КPEДИT БЕЗ ПEРВOHAЧАЛЬHOГО BЗНОСА
-
-✅ PАССPOЧКA
-
-✅ BЫГОДНЫЙ ОБМЕH ВАШEГО АВTОМOБИЛЯ HА НОВЫЙ
-
-Стоимость автомобиля 4 732 990 рублей (без учета установленного дополнительного оборудования)
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/8088fe123b8e14aa46bbc25c4ed6373b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/28f72860f3d27579f519832815365644.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/c1fc9b41a18070449379ca939692b573.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/5af8305e8cb4e139b8ce02d9d14b8921.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/fac73daee6d681bbe6a65e0759390902.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/3aa7150d630e5854bf95ce6a3ebc8b31.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/d20ffb8327b3a8e0a12ea2cfb6e917c8.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/a6ac37cb200ea0502a0cc04f75628e30.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/3c8013e9a90304802f4ff1f2c94b3faf.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/1af75387525167cfa1b0cd4c255768a9.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/e6233474b6874eef2c733470adb47575.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/c3104dd0c8721afd886aa031009c52d2.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/7265030081971948432f86ce4632735e.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/a9897232c7f00b009fe28efdcba5da6f.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/b292d49ee7b7fe61135cc8c20e7151da.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-белый-2024/</url></car>
-		<car>
-			<unique_id>26984ad032e82f8e4a3ef9774fd10b7l</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>97</run>
-			<year>2024</year>
-			<price>4732990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>450000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>450000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D6RS164728</vin>
-			<description>ПАРТНЕР - новый официальный дилер GEELY в городе Оренбурге.
-
-В наличии новый Geely MONJARO, 2024 года, в комплектации Flaghip.
-
-✅ ГАPAHТИЯ 5 ЛET
-
-✅ КPEДИT БЕЗ ПEРВOHAЧАЛЬHOГО BЗНОСА
-
-✅ PАССPOЧКA
-
-✅ BЫГОДНЫЙ ОБМЕH ВАШEГО АВTОМOБИЛЯ HА НОВЫЙ
-
-Стоимость автомобиля 4 732 990 рублей (без учета установленного дополнительного оборудования)
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/8088fe123b8e14aa46bbc25c4ed6373b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/28f72860f3d27579f519832815365644.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/c1fc9b41a18070449379ca939692b573.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/5af8305e8cb4e139b8ce02d9d14b8921.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/fac73daee6d681bbe6a65e0759390902.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/3aa7150d630e5854bf95ce6a3ebc8b31.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/d20ffb8327b3a8e0a12ea2cfb6e917c8.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/a6ac37cb200ea0502a0cc04f75628e30.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/3c8013e9a90304802f4ff1f2c94b3faf.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/1af75387525167cfa1b0cd4c255768a9.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/e6233474b6874eef2c733470adb47575.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/c3104dd0c8721afd886aa031009c52d2.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/7265030081971948432f86ce4632735e.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/a9897232c7f00b009fe28efdcba5da6f.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/b292d49ee7b7fe61135cc8c20e7151da.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-белый-2024/</url></car>
-		<car>
-			<unique_id>26984ad032e82f8e4a3ef9774fd10b7m</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>97</run>
-			<year>2024</year>
-			<price>4732990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>450000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>450000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D6RS164729</vin>
-			<description>ПАРТНЕР - новый официальный дилер GEELY в городе Оренбурге.
-
-В наличии новый Geely MONJARO, 2024 года, в комплектации Flaghip.
-
-✅ ГАPAHТИЯ 5 ЛET
-
-✅ КPEДИT БЕЗ ПEРВOHAЧАЛЬHOГО BЗНОСА
-
-✅ PАССPOЧКA
-
-✅ BЫГОДНЫЙ ОБМЕH ВАШEГО АВTОМOБИЛЯ HА НОВЫЙ
-
-Стоимость автомобиля 4 732 990 рублей (без учета установленного дополнительного оборудования)
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/8088fe123b8e14aa46bbc25c4ed6373b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/28f72860f3d27579f519832815365644.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/c1fc9b41a18070449379ca939692b573.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/5af8305e8cb4e139b8ce02d9d14b8921.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/fac73daee6d681bbe6a65e0759390902.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/3aa7150d630e5854bf95ce6a3ebc8b31.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/d20ffb8327b3a8e0a12ea2cfb6e917c8.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/a6ac37cb200ea0502a0cc04f75628e30.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/3c8013e9a90304802f4ff1f2c94b3faf.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/1af75387525167cfa1b0cd4c255768a9.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/e6233474b6874eef2c733470adb47575.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/c3104dd0c8721afd886aa031009c52d2.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/7265030081971948432f86ce4632735e.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/a9897232c7f00b009fe28efdcba5da6f.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/b292d49ee7b7fe61135cc8c20e7151da.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-белый-2024/</url></car>
-		<car>
-			<unique_id>26984ad032e82f8e4a3ef9774fd10b7n</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>97</run>
-			<year>2024</year>
-			<price>4732990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>450000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>450000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D6RS164730</vin>
-			<description>ПАРТНЕР - новый официальный дилер GEELY в городе Оренбурге.
-
-В наличии новый Geely MONJARO, 2024 года, в комплектации Flaghip.
-
-✅ ГАPAHТИЯ 5 ЛET
-
-✅ КPEДИT БЕЗ ПEРВOHAЧАЛЬHOГО BЗНОСА
-
-✅ PАССPOЧКA
-
-✅ BЫГОДНЫЙ ОБМЕH ВАШEГО АВTОМOБИЛЯ HА НОВЫЙ
-
-Стоимость автомобиля 4 732 990 рублей (без учета установленного дополнительного оборудования)
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/8088fe123b8e14aa46bbc25c4ed6373b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/28f72860f3d27579f519832815365644.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/c1fc9b41a18070449379ca939692b573.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/5af8305e8cb4e139b8ce02d9d14b8921.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/fac73daee6d681bbe6a65e0759390902.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/3aa7150d630e5854bf95ce6a3ebc8b31.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/d20ffb8327b3a8e0a12ea2cfb6e917c8.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/a6ac37cb200ea0502a0cc04f75628e30.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/3c8013e9a90304802f4ff1f2c94b3faf.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/1af75387525167cfa1b0cd4c255768a9.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/e6233474b6874eef2c733470adb47575.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/c3104dd0c8721afd886aa031009c52d2.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/7265030081971948432f86ce4632735e.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/a9897232c7f00b009fe28efdcba5da6f.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/b292d49ee7b7fe61135cc8c20e7151da.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-белый-2024/</url></car>
-		<car>
-			<unique_id>26984ad032e82f8e4a3ef9774fd10b7o</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>на заказ</availability>
-			<custom>растаможен</custom>
-			<run>97</run>
-			<year>2024</year>
-			<price>4732990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>450000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>450000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D6RS164731</vin>
-			<description>ПАРТНЕР - новый официальный дилер GEELY в городе Оренбурге.
-
-В наличии новый Geely MONJARO, 2024 года, в комплектации Flaghip.
-
-✅ ГАPAHТИЯ 5 ЛET
-
-✅ КPEДИT БЕЗ ПEРВOHAЧАЛЬHOГО BЗНОСА
-
-✅ PАССPOЧКA
-
-✅ BЫГОДНЫЙ ОБМЕH ВАШEГО АВTОМOБИЛЯ HА НОВЫЙ
-
-Стоимость автомобиля 4 732 990 рублей (без учета установленного дополнительного оборудования)
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/8088fe123b8e14aa46bbc25c4ed6373b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/28f72860f3d27579f519832815365644.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/c1fc9b41a18070449379ca939692b573.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/5af8305e8cb4e139b8ce02d9d14b8921.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/fac73daee6d681bbe6a65e0759390902.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/3aa7150d630e5854bf95ce6a3ebc8b31.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/d20ffb8327b3a8e0a12ea2cfb6e917c8.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/a6ac37cb200ea0502a0cc04f75628e30.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/3c8013e9a90304802f4ff1f2c94b3faf.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/1af75387525167cfa1b0cd4c255768a9.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/e6233474b6874eef2c733470adb47575.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/c3104dd0c8721afd886aa031009c52d2.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/7265030081971948432f86ce4632735e.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/a9897232c7f00b009fe28efdcba5da6f.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS164722/b292d49ee7b7fe61135cc8c20e7151da.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-белый-2024/</url></car>
-		<car>
 			<unique_id>1c4c87aa736b1565c701b137b75526ec</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Monjaro</folder_id>
@@ -28953,7 +28313,7 @@ Geely Preface I Рестайлинг 2 — выбор тех, кто ищет с
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>5</run>
+			<run>7</run>
 			<year>2024</year>
 			<price>3338990</price>
 			<credit_discount>200000</credit_discount>
@@ -29014,7 +28374,7 @@ Geely Preface I Рестайлинг 2 — выбор тех, кто ищет с
 			<metallic>нет</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>5</run>
+			<run>7</run>
 			<year>2024</year>
 			<price>3338990</price>
 			<credit_discount>200000</credit_discount>
@@ -29075,7 +28435,7 @@ Geely Preface I Рестайлинг 2 — выбор тех, кто ищет с
 			<metallic>нет</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>5</run>
+			<run>7</run>
 			<year>2024</year>
 			<price>3338990</price>
 			<credit_discount>200000</credit_discount>
@@ -29136,7 +28496,7 @@ Geely Preface I Рестайлинг 2 — выбор тех, кто ищет с
 			<metallic>нет</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>5</run>
+			<run>7</run>
 			<year>2024</year>
 			<price>3338990</price>
 			<credit_discount>200000</credit_discount>
@@ -29197,7 +28557,7 @@ Geely Preface I Рестайлинг 2 — выбор тех, кто ищет с
 			<metallic>нет</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>5</run>
+			<run>7</run>
 			<year>2024</year>
 			<price>3338990</price>
 			<credit_discount>200000</credit_discount>
@@ -29258,7 +28618,7 @@ Geely Preface I Рестайлинг 2 — выбор тех, кто ищет с
 			<metallic>нет</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>5</run>
+			<run>7</run>
 			<year>2024</year>
 			<price>3338990</price>
 			<credit_discount>200000</credit_discount>
@@ -29319,7 +28679,7 @@ Geely Preface I Рестайлинг 2 — выбор тех, кто ищет с
 			<metallic>нет</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>5</run>
+			<run>7</run>
 			<year>2024</year>
 			<price>3338990</price>
 			<credit_discount>200000</credit_discount>
@@ -29380,7 +28740,7 @@ Geely Preface I Рестайлинг 2 — выбор тех, кто ищет с
 			<metallic>нет</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>5</run>
+			<run>7</run>
 			<year>2024</year>
 			<price>3338990</price>
 			<credit_discount>200000</credit_discount>
@@ -29441,7 +28801,7 @@ Geely Preface I Рестайлинг 2 — выбор тех, кто ищет с
 			<metallic>нет</metallic>
 			<availability>на заказ</availability>
 			<custom>растаможен</custom>
-			<run>5</run>
+			<run>7</run>
 			<year>2024</year>
 			<price>3338990</price>
 			<credit_discount>200000</credit_discount>
