@@ -2022,6 +2022,54 @@ Geely Preface I Рестайлинг 2 — выбор тех, кто ищет с
 			</multiposting>
 		<url>https://geely-partner-orenburg.ru/cars/knewstar-001-20-at-200-лс-4wd-flagship-белый-2024/</url></car>
 		<car>
+			<unique_id>e5af170dd18b76af2f63c8719bf92a49</unique_id>
+			<mark_id>KNEWSTAR</mark_id>
+			<folder_id>001</folder_id>
+			<modification_id>2.0 AT (200 л.с.) 4WD</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Красный</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>6</run>
+			<year>2024</year>
+			<price>3561990</price>
+			<credit_discount>150000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>250000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>400000</max_discount>
+			<currency>RUR</currency>
+			<vin>LHA022GD6RB001427</vin>
+			<description>ПАРТНЕР АВТО- официальный дилер бренда KNEWSTAR в городе Оренбурге.
+
+В наличии новый KNEWSTAR 001, 2024 года, в комплектации Flagsip Sport.
+
+✅ ГАPAHТИЯ 5 ЛET
+
+✅ КPEДИT БЕЗ ПEРВOHAЧАЛЬHOГО BЗНОСА
+
+✅ PАССPOЧКA
+
+✅ BЫГОДНЫЙ ОБМЕH ВАШEГО АВTОМOБИЛЯ HА НОВЫЙ
+
+Стоимость автомобиля 4 215 990 рублей (без учета установленного дополнительного оборудования)
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geely-partner-orenburg.ru/cars/knewstar-001-20-at-200-лс-4wd-flagship-красный-2024/</url></car>
+		<car>
 			<unique_id>2bb0342738c30533b1c35e975909a937</unique_id>
 			<mark_id>KNEWSTAR</mark_id>
 			<folder_id>001</folder_id>
@@ -2179,54 +2227,6 @@ Geely Preface I Рестайлинг 2 — выбор тех, кто ищет с
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://geely-partner-orenburg.ru/cars/knewstar-001-20-at-200-лс-4wd-flagship-черный-2024/</url></car>
-		<car>
-			<unique_id>e5af170dd18b76af2f63c8719bf92a49</unique_id>
-			<mark_id>KNEWSTAR</mark_id>
-			<folder_id>001</folder_id>
-			<modification_id>2.0 AT (200 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>6</run>
-			<year>2024</year>
-			<price>3561990</price>
-			<credit_discount>150000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>400000</max_discount>
-			<currency>RUR</currency>
-			<vin>LHA022GD6RB001427</vin>
-			<description>ПАРТНЕР АВТО- официальный дилер бренда KNEWSTAR в городе Оренбурге.
-
-В наличии новый KNEWSTAR 001, 2024 года, в комплектации Flagsip Sport.
-
-✅ ГАPAHТИЯ 5 ЛET
-
-✅ КPEДИT БЕЗ ПEРВOHAЧАЛЬHOГО BЗНОСА
-
-✅ PАССPOЧКA
-
-✅ BЫГОДНЫЙ ОБМЕH ВАШEГО АВTОМOБИЛЯ HА НОВЫЙ
-
-Стоимость автомобиля 4 215 990 рублей (без учета установленного дополнительного оборудования)
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/knewstar-001-20-at-200-лс-4wd-flagship-красный-2024/</url></car>
 	<car>
 			<unique_id>7a8bc3ef05b9df68d43192713c4416f4</unique_id>
 			<mark_id>Geely</mark_id>
@@ -12823,7 +12823,7 @@ Geely Preface I Рестайлинг 2 — выбор тех, кто ищет с
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://geely-partner-orenburg.ru/cars/knewstar-001-20-at-200-лс-4wd-flagship-черный-2024/</url></car>
-		<car>
+	<car>
 			<unique_id>783543414bb327068902ed80f7b9f979</unique_id>
 			<mark_id>KNEWSTAR</mark_id>
 			<folder_id>001</folder_id>
@@ -12871,7 +12871,7 @@ Geely Preface I Рестайлинг 2 — выбор тех, кто ищет с
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://geely-partner-orenburg.ru/cars/knewstar-001-20-at-200-лс-4wd-flagship-черный-2024/</url></car>
-		<car>
+	<car>
 			<unique_id>783543414bb327068902ed80f7b9f98a</unique_id>
 			<mark_id>KNEWSTAR</mark_id>
 			<folder_id>001</folder_id>
@@ -12919,7 +12919,7 @@ Geely Preface I Рестайлинг 2 — выбор тех, кто ищет с
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://geely-partner-orenburg.ru/cars/knewstar-001-20-at-200-лс-4wd-flagship-черный-2024/</url></car>
-		<car>
+	<car>
 			<unique_id>783543414bb327068902ed80f7b9f98b</unique_id>
 			<mark_id>KNEWSTAR</mark_id>
 			<folder_id>001</folder_id>
@@ -12967,7 +12967,7 @@ Geely Preface I Рестайлинг 2 — выбор тех, кто ищет с
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://geely-partner-orenburg.ru/cars/knewstar-001-20-at-200-лс-4wd-flagship-черный-2024/</url></car>
-		<car>
+	<car>
 			<unique_id>783543414bb327068902ed80f7b9f98c</unique_id>
 			<mark_id>KNEWSTAR</mark_id>
 			<folder_id>001</folder_id>
@@ -13015,7 +13015,7 @@ Geely Preface I Рестайлинг 2 — выбор тех, кто ищет с
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://geely-partner-orenburg.ru/cars/knewstar-001-20-at-200-лс-4wd-flagship-черный-2024/</url></car>
-		<car>
+	<car>
 			<unique_id>783543414bb327068902ed80f7b9f98d</unique_id>
 			<mark_id>KNEWSTAR</mark_id>
 			<folder_id>001</folder_id>
@@ -13063,7 +13063,7 @@ Geely Preface I Рестайлинг 2 — выбор тех, кто ищет с
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://geely-partner-orenburg.ru/cars/knewstar-001-20-at-200-лс-4wd-flagship-черный-2024/</url></car>
-		<car>
+	<car>
 			<unique_id>783543414bb327068902ed80f7b9f98e</unique_id>
 			<mark_id>KNEWSTAR</mark_id>
 			<folder_id>001</folder_id>
@@ -13111,7 +13111,7 @@ Geely Preface I Рестайлинг 2 — выбор тех, кто ищет с
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://geely-partner-orenburg.ru/cars/knewstar-001-20-at-200-лс-4wd-flagship-черный-2024/</url></car>
-		<car>
+	<car>
 			<unique_id>783543414bb327068902ed80f7b9f98f</unique_id>
 			<mark_id>KNEWSTAR</mark_id>
 			<folder_id>001</folder_id>
@@ -13159,7 +13159,7 @@ Geely Preface I Рестайлинг 2 — выбор тех, кто ищет с
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://geely-partner-orenburg.ru/cars/knewstar-001-20-at-200-лс-4wd-flagship-черный-2024/</url></car>
-		<car>
+	<car>
 			<unique_id>783543414bb327068902ed80f7b9f98g</unique_id>
 			<mark_id>KNEWSTAR</mark_id>
 			<folder_id>001</folder_id>
@@ -13207,5 +13207,5 @@ Geely Preface I Рестайлинг 2 — выбор тех, кто ищет с
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://geely-partner-orenburg.ru/cars/knewstar-001-20-at-200-лс-4wd-flagship-черный-2024/</url></car>
-		</cars>
+	</cars>
 </data>
