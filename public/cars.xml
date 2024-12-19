@@ -531,30 +531,20 @@ Geely Atlas II оснащён современными технологиями,
 
 Не упустите возможность стать обладателем этого замечательного автомобиля!</description>
 			<images>
-				<image>https://photo.toyotasever.ru/LB3FX1S60RB130820/294afcc1f01d75fc1d9fedbef936d4fa.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S60RB130820/6db10cb3542077c232f7ff63c163a825.jpg</image>
 				<image>https://photo.toyotasever.ru/LB3FX1S60RB130820/35a1737be35bc414059089218b20834c.jpeg</image>
 				<image>https://photo.toyotasever.ru/LB3FX1S60RB130820/e97be86d07a72a9c11dc13368e689433.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S60RB130820/9a2ec7688d781d9ed07f4c74cd4c0b41.jpeg</image>
 				<image>https://photo.toyotasever.ru/LB3FX1S60RB130820/8a971f425cc27ee90c3b1bb2ad770b94.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S60RB130820/0b3d847efb4b13171589f80b8973c9ce.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S60RB130820/b53c85b3e3e24ee4005616eef06813cd.jpeg</image>
 				<image>https://photo.toyotasever.ru/LB3FX1S60RB130820/15861ee3a72ab6882126b36be7762b07.jpeg</image>
 				<image>https://photo.toyotasever.ru/LB3FX1S60RB130820/f0ebbe1d3c50c09bacbf3eae88fe0c90.jpeg</image>
 				<image>https://photo.toyotasever.ru/LB3FX1S60RB130820/c3a1d0230be7c1840ca3cc25950ef4fe.jpeg</image>
 				<image>https://photo.toyotasever.ru/LB3FX1S60RB130820/eecc7b60944d4b703e53d84332408376.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S60RB130820/64e8fa063765fb858f82489e5a0e4587.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S60RB130820/c46302d0885bebb868014fe01b471b84.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S60RB130820/c649bf029a1fbad1864404c2f009bf54.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S60RB130820/71073564b376892f6bc07ca1e2781158.jpeg</image>
 				<image>https://photo.toyotasever.ru/LB3FX1S60RB130820/7d9ca5227fc17ca0d2500b34b6bc3820.jpeg</image>
 				<image>https://photo.toyotasever.ru/LB3FX1S60RB130820/b09c4e6da2d7cdc957a158e46c0f5671.jpeg</image>
 				<image>https://photo.toyotasever.ru/LB3FX1S60RB130820/9621b4a37c0ee019d8c89f881b531136.jpeg</image>
 				<image>https://photo.toyotasever.ru/LB3FX1S60RB130820/ec8647a3fc0891da6192e4a0d34ecde0.jpeg</image>
 				<image>https://photo.toyotasever.ru/LB3FX1S60RB130820/b632072459814de7d8e57d6906e03bdb.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S60RB130820/9c0a61bc444ae647393bc9467fb72f1f.jpeg</image>
 				<image>https://photo.toyotasever.ru/LB3FX1S60RB130820/125a89b7f49b67d7091c3a420c67063d.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S60RB130820/461fd4401725e5aa83f7bb77c08fa358.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S60RB130820/211d166383ab7ca66cfc7e6409cfe7f3.jpeg</image>
 				<image>https://photo.toyotasever.ru/LB3FX1S60RB130820/894dee77e5b4d5896f195db058a6c9ae.jpeg</image>
 			</images>
 			<multiposting>
@@ -804,7 +794,9 @@ Cтoимость автомобиля 3 254 190 рублей (без учета 
 Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/LB3G43S97RX302931/95332c90ecfa781638800b2031117362.jpg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -1138,7 +1130,18 @@ Geely Coolray — идеальный выбор для тех, кто ищет �
 Безопасность: антиблокировочная система тормозов (ABS), система курсовой стабилизации (ESP / ESC / DSC / VSA), подушки безопасности, система контроля слепых зон и другие системы обеспечивают высокий уровень безопасности.
 Технологии: адаптивный круиз-контроль, датчик давления в шинах, дистанционный запуск двигателя, запуск двигателя с кнопки, камера 360°, парктроники передний и задний, система автоматической парковки, система доступа без ключа, система старт-стоп и другие технологии делают вождение более удобным и приятным.
 Geely Coolray — это автомобиль, который подарит вам удовольствие от вождения и станет надёжным помощником в любых поездках.</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/LB37622Z9RX538176/fcfb5e207e343ffa94b91ca4b7c42d83.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z9RX538176/433f6daa8b0be8a4bf39108a21ff2058.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z9RX538176/0457f47becaa06b1992b7e81c47c73eb.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z9RX538176/3ba0897bbfb8b653648f0f70221ee5ef.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z9RX538176/51c4bb05d3ff33dc3e2ed3bc17b3bc3a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z9RX538176/ce4430030d761a874dde12761bfa76dd.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z9RX538176/39e190c960d241cb6ac8a798cbea2024.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z9RX538176/58462366172dcc04447c54b7e3c826ee.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z9RX538176/4471c530a4b31398599c026c38af33c3.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z9RX538176/3120686d519ff24970fd823143e084d0.jpeg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
