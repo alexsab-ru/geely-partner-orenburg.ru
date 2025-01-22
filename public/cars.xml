@@ -625,16 +625,19 @@ Geely Coolray — идеальный выбор для тех, кто ищет �
 Технологии: адаптивный круиз-контроль, датчик давления в шинах, дистанционный запуск двигателя, запуск двигателя с кнопки, камера 360°, парктроники передний и задний, система автоматической парковки, система доступа без ключа, система старт-стоп и другие технологии делают вождение более удобным и приятным.
 Geely Coolray — это автомобиль, который подарит вам удовольствие от вождения и станет надёжным помощником в любых поездках.</description>
 			<images>
-				<image>https://photo.toyotasever.ru/LB37622Z9RX538176/4dbb7d131547363e545283c70080bf0b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z9RX538176/433f6daa8b0be8a4bf39108a21ff2058.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z9RX538176/0457f47becaa06b1992b7e81c47c73eb.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z9RX538176/3ba0897bbfb8b653648f0f70221ee5ef.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z9RX538176/51c4bb05d3ff33dc3e2ed3bc17b3bc3a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z9RX538176/bb96c9cf7dfed5ee5e07c141f1c1086b.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z9RX538176/17a4455ef71385b6f9f1e36fd596745d.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z9RX538176/8061dc87590da1d368f8630f158d05e1.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z9RX538176/5a1c47696f85e8adbde5a13c7f787ff8.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z9RX538176/cbdc25b04d16eef1cde5ffffba4a97bd.jpeg</image>
 				<image>https://photo.toyotasever.ru/LB37622Z9RX538176/ce4430030d761a874dde12761bfa76dd.jpeg</image>
 				<image>https://photo.toyotasever.ru/LB37622Z9RX538176/39e190c960d241cb6ac8a798cbea2024.jpeg</image>
 				<image>https://photo.toyotasever.ru/LB37622Z9RX538176/58462366172dcc04447c54b7e3c826ee.jpeg</image>
 				<image>https://photo.toyotasever.ru/LB37622Z9RX538176/4471c530a4b31398599c026c38af33c3.jpeg</image>
 				<image>https://photo.toyotasever.ru/LB37622Z9RX538176/3120686d519ff24970fd823143e084d0.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z9RX538176/a61912668ff01f7fc0fc3b3b3fa17b7e.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z9RX538176/4a94aee7bb824c0518e5d724b2781132.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z9RX538176/dec88fea53463ba9c8ffc9ef51911ae7.jpeg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
@@ -1256,20 +1259,16 @@ Geely Coolray — это автомобиль, который подарит в�
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
 			<images>
-				<image>https://photo.toyotasever.ru/LB37852D1RS193349/f541afd20344d198d1bba02d8bcd7941.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS193349/29ba44ff399a95a64611891e5c473c2a.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS193349/dd8ee0b827f1ae59eeb5a6c9e9ee0581.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS193349/0f6c323d6e2000b01b21132227d42c54.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS193349/e4387ac85e5c2f7b9c6aa4e6908ae409.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS193349/220ac5c0ca98e9d828e40c8f935ed541.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS193349/6e49068a01bc85cdaa9b28aed8acbe4d.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS193349/1548dd0b485ff441c2716a27043b7e69.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS193349/06325aedeb5a7d26a7aac4248ea38835.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS193349/8c9150ec0cddfb752ae2c1c527c573b8.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS193349/773e8efa3afcf4924939d913e3c98b87.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS193349/5b78e7886110c94299caff7f274eb295.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS193349/fc817edbdb597e6020c4744138a88eab.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS193349/1cb32bd27f68ab841222a2d90093122d.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS193349/dcdb63d5c41744cf8c34e173abeab329.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS193349/4f8bc5fe0f1b388ba69ff34309bfc04c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS193349/8e5b8efc39f464e919749c7c22da1927.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS193349/d37afa35ac2579508243652690aba125.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS193349/b0098084da0e34cf6c8baa594c4e67c0.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS193349/b4d7c9f180b91eb87fe74000eef8ea93.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS193349/5705c1cc167bd2c244a1cb93f211b756.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS193349/3066fb2bf3b2dfbc4f978741f71012f4.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS193349/866b5de4530c0e46c868060bc4b975bf.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS193349/a6c178f39d8f94224f29ca8e1451cf67.jpeg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
@@ -1290,10 +1289,10 @@ Geely Coolray — это автомобиль, который подарит в�
 			<run>3862</run>
 			<year>2024</year>
 			<price>4852190</price>
-			<credit_discount>250000</credit_discount>
+			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>30000</optional_discount>
+			<tradein_discount>0</tradein_discount>
+			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
 			<vin>LB37852D9RS111206</vin>
 			<description>ПАРТНЕР АВТО - новый официальный дилер GEELY в городе Оренбурге.
@@ -1337,7 +1336,71 @@ Geely Coolray — это автомобиль, который подарит в�
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<max_discount>590000</max_discount><priceWithDiscount>4262190</priceWithDiscount><sale_price>4262190</sale_price><url>https://geely-partner-orenburg.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-белый-2024/</url></car>
+		<max_discount>610000</max_discount><priceWithDiscount>4242190</priceWithDiscount><sale_price>4242190</sale_price><url>https://geely-partner-orenburg.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-белый-2024/</url></car>
+		<car>
+			<unique_id>faf9f80b595124bf85cbcd2615c2f144</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Monjaro</folder_id>
+			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>6</run>
+			<year>2024</year>
+			<price>4852190</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<currency>RUR</currency>
+			<vin>LB37852D5RS117858</vin>
+			<description>ПАРТНЕР АВТО - новый официальный дилер GEELY в городе Оренбурге.
+
+В наличии новый Geely MONJARO, 2024 года, в комплектации Flaghip.
+
+✅ ГАPAHТИЯ 5 ЛET
+
+✅ КPEДИT БЕЗ ПEРВOHAЧАЛЬHOГО BЗНОСА
+
+✅ PАССPOЧКA
+
+✅ BЫГОДНЫЙ ОБМЕH ВАШEГО АВTОМOБИЛЯ HА НОВЫЙ
+
+Стоимость автомобиля 4 852 190 рублей (без учета установленного дополнительного оборудования)
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB37852D5RS117858/f8235f82b0342d348185fab3b3486ac2.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D5RS117858/f913e6ea0416dc7aea89f2fa9e7301b0.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D5RS117858/c4196e219f0221da9e5b70260359bda6.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D5RS117858/834e4066bf5b6f7d0f1368c03148e82e.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D5RS117858/941d21d874568e94f64c8128eb5e1339.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D5RS117858/c2b86a3d49e5a2c9c13ffa1a0d23b22b.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D5RS117858/0f802d71d7f75823263efd2802a42bf3.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D5RS117858/8feb94b7657bc2fccadd5e87281da0ed.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D5RS117858/4085b31fc97ac3efded2a6c2f4757b0c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D5RS117858/763048b80e0138543245a3b0226b7c79.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D5RS117858/90fc25917012ef49c727eafdb15e10e7.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D5RS117858/ee69e4bb697317467e3fc16f220e0c7c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D5RS117858/fc1c1a4a9952a69556dbabdef1924d93.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D5RS117858/5a6f65a4385ba89956db73e9266382fd.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D5RS117858/7253a36e6407d522233c95bf970727ec.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D5RS117858/949439e282d1cad8673c426c1b29d6cc.jpeg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<max_discount>610000</max_discount><priceWithDiscount>4242190</priceWithDiscount><sale_price>4242190</sale_price><url>https://geely-partner-orenburg.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-серый-2024/</url></car>
 		<car>
 			<unique_id>b2597abe4243a651cec8d001811894a1</unique_id>
 			<mark_id>Geely</mark_id>
