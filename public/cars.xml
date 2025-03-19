@@ -184,7 +184,7 @@ Geely Atlas II — это идеальный выбор для тех, кто и
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>10</run>
+			<run>11</run>
 			<year>2024</year>
 			<price>3917190</price>
 			<credit_discount>0</credit_discount>
@@ -534,9 +534,9 @@ Geely Atlas II оснащён современными технологиями,
 			<run>7</run>
 			<year>2024</year>
 			<price>3254190</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>190000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
 			<vin>LB3G43S92RX300259</vin>
@@ -563,7 +563,7 @@ B наличии HOBЫЙ Cityray , 2024 года, в кoмплeктации Flа
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
 			<images>
-				<image>https://photo.toyotasever.ru/LB3G43S92RX300259/71bff4188a91aa1cc68c4ecc7fdcc4c0.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S92RX300259/9786322ae019f275f27fd6d3baf0bd42.jpg</image>
 				<image>https://photo.toyotasever.ru/LB3G43S92RX300259/5102bf874d85db65df63d9f0cead164c.jpeg</image>
 				<image>https://photo.toyotasever.ru/LB3G43S92RX300259/bd4f939b1cb9da9d4c00d67b662ef11c.jpeg</image>
 				<image>https://photo.toyotasever.ru/LB3G43S92RX300259/1732d38135051c45eecafe0b781c6b40.jpeg</image>
@@ -823,10 +823,10 @@ Geely Coolray — это автомобиль, который подарит в�
 			<run>10</run>
 			<year>2024</year>
 			<price>2483990</price>
-			<credit_discount>150000</credit_discount>
+			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>30000</optional_discount>
+			<tradein_discount>250000</tradein_discount>
+			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
 			<vin>LB3F31032RG041760</vin>
 			<description>ПАРТНЕР АВТО - новый официальный дилер GEELY в городе Оренбурге.
@@ -870,12 +870,12 @@ Geely Coolray — это автомобиль, который подарит в�
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>7</run>
+			<run>8</run>
 			<year>2024</year>
 			<price>2393990</price>
-			<credit_discount>150000</credit_discount>
+			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
 			<vin>LB3F31035RG041185</vin>
@@ -920,13 +920,13 @@ Geely Coolray — это автомобиль, который подарит в�
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>9</run>
+			<run>10</run>
 			<year>2024</year>
 			<price>2663990</price>
-			<credit_discount>200000</credit_discount>
+			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
-			<optional_discount>30000</optional_discount>
+			<tradein_discount>250000</tradein_discount>
+			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
 			<vin>LB3F31037RG040734</vin>
 			<description>ПАРТНЕР АВТО - новый официальный дилер GEELY в городе Оренбурге.
@@ -1449,10 +1449,10 @@ Geely Coolray — это автомобиль, который подарит в�
 			<run>8</run>
 			<year>2024</year>
 			<price>3847190</price>
-			<credit_discount>250000</credit_discount>
+			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>30000</optional_discount>
+			<tradein_discount>373000</tradein_discount>
+			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
 			<vin>L6TVX1S66RY050202</vin>
 			<description>ПAPTHEP АВТО - новый официальный дилер GЕELY в гоpодe Opeнбурге.
@@ -1583,10 +1583,10 @@ Geely Preface I Рестайлинг 2 — выбор тех, кто ищет с
 			<run>7</run>
 			<year>2024</year>
 			<price>4393190</price>
-			<credit_discount>150000</credit_discount>
+			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>60000</optional_discount>
+			<tradein_discount>363000</tradein_discount>
+			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
 			<vin>LHA022GD2RB003112</vin>
 			<description>ПАРТНЕР АВТО- официальный дилер бренда KNEWSTAR в городе Оренбурге.
@@ -1646,7 +1646,7 @@ Geely Preface I Рестайлинг 2 — выбор тех, кто ищет с
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>363000</tradein_discount>
-			<optional_discount>60000</optional_discount>
+			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
 			<vin>LHA022GD9RB006024</vin>
 			<description>ПАРТНЕР АВТО- официальный дилер бренда KNEWSTAR в городе Оренбурге.
@@ -1700,13 +1700,13 @@ Geely Preface I Рестайлинг 2 — выбор тех, кто ищет с
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>11</run>
+			<run>12</run>
 			<year>2024</year>
 			<price>4493190</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>363000</tradein_discount>
-			<optional_discount>60000</optional_discount>
+			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
 			<vin>LHA022GDXRB004105</vin>
 			<description>ПАРТНЕР АВТО- официальный дилер бренда KNEWSTAR в городе Оренбурге.
