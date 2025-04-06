@@ -1,6 +1,103 @@
 <?xml version='1.0' encoding='utf-8'?>
 <data>
   <cars><car>
+			<unique_id>2f72d8563d6f48d8eead1c0704520b3b</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Atlas, II</folder_id>
+			<modification_id>2.0 AT (200 л.с.) 4WD</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>10</run>
+			<year>2024</year>
+			<price>3917190</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>263000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>413000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB3FX1S16RB162210</vin>
+			<description>ПAРTHEP АВТО - новый oфициальный дилер GЕELY в гоpодe Opенбуpге.
+
+B наличии HOBЫЙ ATLАS , 2024 года, в кoмплeктации Flаgshiр
+
+До 30.04.2025 действуют следуют следующие предложения:
+
+✅ 5 ЛЕТ БЕЗ СЕРВИСНЫХ ЗАБОТ*
+
+✅ ДОПОЛНИТЕЛЬНОЕ ОБОРУДОВАНИЕ*
+
+✅ ШИННЫЙ ОТЕЛЬ*
+
+✅ PACCPОЧКA от 0,01%
+
+✅ ОЦЕНКА ПО TRADE-IN ВЫШЕ РЫНКА
+
+✅ ЛИЗИНГ БЕЗ ПЕРВОНАЧАЛЬНОГО ВЗНОСА
+
+✅ ГAРАHTИЯ 5 ЛEТ
+
+* Подробности в отделе продаж.
+
+Цена указана с учётом максимальной выгоды.
+Если новый GЕЕLY , то в GЕЕLY ПАРТНЕР.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
+
+Geely Atlas II, 2024 год
+
+Geely Atlas II — это сочетание стиля, комфорта и передовых технологий. Этот автомобиль создан для тех, кто ценит качество и удобство в каждой поездке.
+
+Дизайн и комфорт
+
+Элегантный дизайн Geely Atlas II подчёркивает его статус и привлекает внимание на дороге. Просторный салон с отделкой из искусственной кожи обеспечивает комфорт как водителю, так и пассажирам.
+
+Технологии
+
+Geely Atlas II оснащён передовыми технологиями, которые делают вождение более приятным и безопасным. Двухзонный климат-контроль, адаптивный круиз-контроль, система старт-стоп и другие функции обеспечивают комфорт и безопасность на дороге.
+
+Комфорт и удобство
+
+Электрорегулировка сидений, обогрев всех сидений, подогрев рулевого колеса и другие опции делают каждую поездку максимально комфортной. А панорамная крыша и люк позволяют наслаждаться видами и свежим воздухом.
+
+Безопасность
+
+Система курсовой стабилизации, антиблокировочная система тормозов, подушки безопасности и другие функции обеспечивают высокий уровень безопасности как для водителя, так и для пассажиров.
+
+Дополнительные опции
+
+Центральный замок, иммобилайзер, сигнализация и другие дополнительные опции обеспечивают безопасность автомобиля.
+
+Geely Atlas II — это идеальный выбор для тех, кто ищет комфорт, безопасность и передовые технологии в одном автомобиле.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/56df1d1cebb60c19f20c9aa61995b3d7.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/36d18bea3b279634779c64fd3784e295.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/88520ed075259427b39a716617687b86.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/a69037ec8a9b3dd5df15f70d00d7e94e.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/3f5ff2cc2d4d130a2aa465a1ddf12ea4.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/9705a2c0a81deabd1f86b9a1fae50946.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/7e396b35867106b47bb1053799ab6e85.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/ba3d4c27c0069503c7deeb223f4afba0.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/9af9bbe346a17b96f0a82e03bd433cf2.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/ef5480f6d6e278f4ae531d7d7751ca4e.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/f5c9ccb54ba603cbb450993d823951a9.jpeg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geely-partner-orenburg.ru/cars/geely-atlas-ii-20-at-200-лс-4wd-flagship-белый-2024/</url></car>
+		<car>
 			<unique_id>5d44ac0a72f96cd9689b8946b62d97b6</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Atlas, II</folder_id>
@@ -197,103 +294,6 @@ Geely Atlas II — это идеальный выбор для тех, кто и
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://geely-partner-orenburg.ru/cars/geely-atlas-ii-20-at-200-лс-4wd-flagship-серебряный-2024/</url></car>
-		<car>
-			<unique_id>2f72d8563d6f48d8eead1c0704520b3b</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Atlas, II</folder_id>
-			<modification_id>2.0 AT (200 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>10</run>
-			<year>2024</year>
-			<price>3917190</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>263000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>413000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3FX1S16RB162210</vin>
-			<description>ПAРTHEP АВТО - новый oфициальный дилер GЕELY в гоpодe Opенбуpге.
-
-B наличии HOBЫЙ ATLАS , 2024 года, в кoмплeктации Flаgshiр
-
-До 30.04.2025 действуют следуют следующие предложения:
-
-✅ 5 ЛЕТ БЕЗ СЕРВИСНЫХ ЗАБОТ*
-
-✅ ДОПОЛНИТЕЛЬНОЕ ОБОРУДОВАНИЕ*
-
-✅ ШИННЫЙ ОТЕЛЬ*
-
-✅ PACCPОЧКA от 0,01%
-
-✅ ОЦЕНКА ПО TRADE-IN ВЫШЕ РЫНКА
-
-✅ ЛИЗИНГ БЕЗ ПЕРВОНАЧАЛЬНОГО ВЗНОСА
-
-✅ ГAРАHTИЯ 5 ЛEТ
-
-* Подробности в отделе продаж.
-
-Цена указана с учётом максимальной выгоды.
-Если новый GЕЕLY , то в GЕЕLY ПАРТНЕР.
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
-
-Geely Atlas II, 2024 год
-
-Geely Atlas II — это сочетание стиля, комфорта и передовых технологий. Этот автомобиль создан для тех, кто ценит качество и удобство в каждой поездке.
-
-Дизайн и комфорт
-
-Элегантный дизайн Geely Atlas II подчёркивает его статус и привлекает внимание на дороге. Просторный салон с отделкой из искусственной кожи обеспечивает комфорт как водителю, так и пассажирам.
-
-Технологии
-
-Geely Atlas II оснащён передовыми технологиями, которые делают вождение более приятным и безопасным. Двухзонный климат-контроль, адаптивный круиз-контроль, система старт-стоп и другие функции обеспечивают комфорт и безопасность на дороге.
-
-Комфорт и удобство
-
-Электрорегулировка сидений, обогрев всех сидений, подогрев рулевого колеса и другие опции делают каждую поездку максимально комфортной. А панорамная крыша и люк позволяют наслаждаться видами и свежим воздухом.
-
-Безопасность
-
-Система курсовой стабилизации, антиблокировочная система тормозов, подушки безопасности и другие функции обеспечивают высокий уровень безопасности как для водителя, так и для пассажиров.
-
-Дополнительные опции
-
-Центральный замок, иммобилайзер, сигнализация и другие дополнительные опции обеспечивают безопасность автомобиля.
-
-Geely Atlas II — это идеальный выбор для тех, кто ищет комфорт, безопасность и передовые технологии в одном автомобиле.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/56df1d1cebb60c19f20c9aa61995b3d7.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/36d18bea3b279634779c64fd3784e295.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/88520ed075259427b39a716617687b86.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/a69037ec8a9b3dd5df15f70d00d7e94e.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/3f5ff2cc2d4d130a2aa465a1ddf12ea4.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/9705a2c0a81deabd1f86b9a1fae50946.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/7e396b35867106b47bb1053799ab6e85.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/ba3d4c27c0069503c7deeb223f4afba0.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/9af9bbe346a17b96f0a82e03bd433cf2.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/ef5480f6d6e278f4ae531d7d7751ca4e.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/f5c9ccb54ba603cbb450993d823951a9.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/geely-atlas-ii-20-at-200-лс-4wd-flagship-белый-2024/</url></car>
 		<car>
 			<unique_id>443299c24f36c06a1152e9640be1de42</unique_id>
 			<mark_id>Geely</mark_id>
@@ -920,67 +920,6 @@ Geely Coolray — это автомобиль, который подарит в�
 			</multiposting>
 		<url>https://geely-partner-orenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-comfort-синий-2024/</url></car>
 		<car>
-			<unique_id>804d43edb62ede8e2153765ce092e073</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Emgrand, II</folder_id>
-			<modification_id>1.5 AT (122 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Седан</body_type>
-			<wheel>левый</wheel>
-			<color>Бежевый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>10</run>
-			<year>2024</year>
-			<price>2663990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>290000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3F31037RG040734</vin>
-			<description>ПАРТНЕР АВТО - новый официальный дилер GEELY в городе Оренбурге.
-
-В наличии новый Geely Emgrand, 2024 года, в комплектации Flagship.
-
-До 30.04.2025 действуют следуют следующие предложения:
-
-✅ 5 ЛЕТ БЕЗ СЕРВИСНЫХ ЗАБОТ*
-
-✅ ДОПОЛНИТЕЛЬНОЕ ОБОРУДОВАНИЕ*
-
-✅ ШИННЫЙ ОТЕЛЬ*
-
-✅ PACCPОЧКA от 0,01%
-
-✅ ОЦЕНКА ПО TRADE-IN ВЫШЕ РЫНКА
-
-✅ ЛИЗИНГ БЕЗ ПЕРВОНАЧАЛЬНОГО ВЗНОСА
-
-✅ ГAРАHTИЯ 5 ЛEТ
-
-* Подробности в отделе продаж.
-Цена указана с учётом максимальной выгоды.
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB3F31037RG040734/ff943844f3e09f1db58507f89496ebc8.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31037RG040734/c7f9ca2bb2fa223f363ba794ccb04e48.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31037RG040734/8e618272545c7a0c3acfa64c8f255b5d.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-бежевый-2024/</url></car>
-		<car>
 			<unique_id>bc9a94595a4f4c38dfc8ad27987eb690</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Emgrand, II</folder_id>
@@ -1115,6 +1054,67 @@ Geely Coolray — это автомобиль, который подарит в�
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://geely-partner-orenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-белый-2023/</url></car>
+		<car>
+			<unique_id>804d43edb62ede8e2153765ce092e073</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Emgrand, II</folder_id>
+			<modification_id>1.5 AT (122 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Седан</body_type>
+			<wheel>левый</wheel>
+			<color>Бежевый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>10</run>
+			<year>2024</year>
+			<price>2663990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>250000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>290000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB3F31037RG040734</vin>
+			<description>ПАРТНЕР АВТО - новый официальный дилер GEELY в городе Оренбурге.
+
+В наличии новый Geely Emgrand, 2024 года, в комплектации Flagship.
+
+До 30.04.2025 действуют следуют следующие предложения:
+
+✅ 5 ЛЕТ БЕЗ СЕРВИСНЫХ ЗАБОТ*
+
+✅ ДОПОЛНИТЕЛЬНОЕ ОБОРУДОВАНИЕ*
+
+✅ ШИННЫЙ ОТЕЛЬ*
+
+✅ PACCPОЧКA от 0,01%
+
+✅ ОЦЕНКА ПО TRADE-IN ВЫШЕ РЫНКА
+
+✅ ЛИЗИНГ БЕЗ ПЕРВОНАЧАЛЬНОГО ВЗНОСА
+
+✅ ГAРАHTИЯ 5 ЛEТ
+
+* Подробности в отделе продаж.
+Цена указана с учётом максимальной выгоды.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB3F31037RG040734/ff943844f3e09f1db58507f89496ebc8.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31037RG040734/c7f9ca2bb2fa223f363ba794ccb04e48.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31037RG040734/8e618272545c7a0c3acfa64c8f255b5d.jpeg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geely-partner-orenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-бежевый-2024/</url></car>
 		<car>
 			<unique_id>9566133ed90e81ae2768bcbe20c9b6be</unique_id>
 			<mark_id>Geely</mark_id>
@@ -1316,87 +1316,14 @@ Geely Coolray — это автомобиль, который подарит в�
 			</multiposting>
 		<url>https://geely-partner-orenburg.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-серый-2024/</url></car>
 		<car>
-			<unique_id>6936a33c6f9685e4c5255c25af901288</unique_id>
+			<unique_id>192b91b62aefa7c80d5e0d8cac0e98ad</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Monjaro</folder_id>
 			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
 			<complectation_name>Flagship</complectation_name>
 			<body_type>Внедорожник 5 дв.</body_type>
 			<wheel>левый</wheel>
-			<color>Серебряный</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>6</run>
-			<year>2024</year>
-			<price>4852190</price>
-			<credit_discount>200000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>710000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D3RS194261</vin>
-			<description>ПАРТНЕР АВТО - новый официальный дилер GEELY в городе Оренбурге.
-
-В наличии новый Geely MONJARO, 2024 года, в комплектации Flaghip.
-
-До 30.04.2025 действуют следуют следующие предложения:
-
-✅ 5 ЛЕТ БЕЗ СЕРВИСНЫХ ЗАБОТ*
-
-✅ ДОПОЛНИТЕЛЬНОЕ ОБОРУДОВАНИЕ*
-
-✅ ШИННЫЙ ОТЕЛЬ*
-
-✅ PACCPОЧКA от 0,01%
-
-✅ ОЦЕНКА ПО TRADE-IN ВЫШЕ РЫНКА
-
-✅ ЛИЗИНГ БЕЗ ПЕРВОНАЧАЛЬНОГО ВЗНОСА
-
-✅ ГAРАHTИЯ 5 ЛEТ
-
-* Подробности в отделе продаж.
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB37852D3RS194261/975365cf3192ab6423ff744315a06ed6.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS194261/e8d1f66e73be010f7bb29210f87fbd32.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS194261/7e9922fa32f562ebf0915e74080a2fff.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS194261/86c10182b299cbb0fbe7a80de7645624.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS194261/551f0545d3b808efcd0f4fe6606dac33.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS194261/3574998fe0b2df9ba3bef81c0d983bec.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS194261/91ec979e46cd521f5caa397a7d3d4c96.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS194261/37a0a17d80aed4cc0680117226159b26.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS194261/7c73eea14b9e857e1caa95784f32ce7c.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS194261/bb0cf20282dc150d6fc65cc2791201e3.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS194261/c2f031be909ddb9580de71ed33f6af8b.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS194261/d7c5ba3f410d2ff326b4d09d5e9a8394.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS194261/fd0a67d02e61a61dd691a41617b791bb.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS194261/246d5a3e26769f2ecd86e46b4d4c6452.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS194261/abb5426d570b01d6b540812e8fbe854e.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS194261/8b4f136476d96c57ba180e72eabbe366.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-серебряный-2024/</url></car>
-		<car>
-			<unique_id>a73d1f00e04c347b8a24bf53756bf485</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
+			<color>Черный</color>
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
@@ -1409,7 +1336,7 @@ Geely Coolray — это автомобиль, который подарит в�
 			<optional_discount>0</optional_discount>
 			<max_discount>710000</max_discount>
 			<currency>RUR</currency>
-			<vin>LB37852D1RS208092</vin>
+			<vin>LB37852D6RS200103</vin>
 			<description>ПАРТНЕР АВТО - новый официальный дилер GEELY в городе Оренбурге.
 
 В наличии новый Geely MONJARO, 2024 года, в комплектации Flaghip.
@@ -1440,27 +1367,17 @@ Geely Coolray — это автомобиль, который подарит в�
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
 			<images>
-				<image>https://photo.toyotasever.ru/LB37852D1RS208092/d5221661263a90418620d59e5f6a2920.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS208092/92fa3e730788bc76dc735b3a26f430ea.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS208092/5fadd881a3a0ecc45ee025e9db5cf9d0.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS208092/5b45f852d4ce8842429e002cba93c76a.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS208092/24c11af79f5b48bf7b3f207e937a29e4.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS208092/9cfd7a82a8b9ad7fcfee9750d0bcd26a.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS208092/4ddb0511171dad07baa50c3d690c165e.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS208092/5cd29939547ce84ac6ed680cd2d463c0.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS208092/94644ebdc86115c0e1a19d833e7974a1.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS208092/9c9063c3c0c5b2a214a73be9b9290d1e.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS208092/49ba26d57199166c28e09a3fddd16b91.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS208092/634ca7e8e8c7edec9ebb7fc12fbc406e.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS208092/6cb949a00e70585ef2f6e7ed0995f986.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS208092/1d9bd278ef3c91aae622a69b39f67a26.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS208092/7d0a38bd8d24b3ce7d83241f3b8c31b8.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS208092/9b8f7dab2f60a9bc5c60b447ed5fdf85.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS200103/2763483c9b8c00cec90cc6db8b751fb1.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS200103/d592bd9f531dd7a02707179ba646ae62.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS200103/479abbd79c46342d20d4cba5ba1aeb6b.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS200103/efd6ffa78d0d7d0ae4c076819babc644.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS200103/cde374c61f5aedf4ccb663f14f0fcfc9.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS200103/d1878f779094b2ab78cd8e5c68d85c7a.jpeg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-белый-2024/</url></car>
+		<url>https://geely-partner-orenburg.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-черный-2024/</url></car>
 		<car>
 			<unique_id>30da3244629563223eaad6755b7a4258</unique_id>
 			<mark_id>Geely</mark_id>
@@ -1535,14 +1452,14 @@ Geely Coolray — это автомобиль, который подарит в�
 			</multiposting>
 		<url>https://geely-partner-orenburg.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-белый-2024/</url></car>
 		<car>
-			<unique_id>192b91b62aefa7c80d5e0d8cac0e98ad</unique_id>
+			<unique_id>a73d1f00e04c347b8a24bf53756bf485</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Monjaro</folder_id>
 			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
 			<complectation_name>Flagship</complectation_name>
 			<body_type>Внедорожник 5 дв.</body_type>
 			<wheel>левый</wheel>
-			<color>Черный</color>
+			<color>Белый</color>
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
@@ -1555,7 +1472,7 @@ Geely Coolray — это автомобиль, который подарит в�
 			<optional_discount>0</optional_discount>
 			<max_discount>710000</max_discount>
 			<currency>RUR</currency>
-			<vin>LB37852D6RS200103</vin>
+			<vin>LB37852D1RS208092</vin>
 			<description>ПАРТНЕР АВТО - новый официальный дилер GEELY в городе Оренбурге.
 
 В наличии новый Geely MONJARO, 2024 года, в комплектации Flaghip.
@@ -1586,17 +1503,100 @@ Geely Coolray — это автомобиль, который подарит в�
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
 			<images>
-				<image>https://photo.toyotasever.ru/LB37852D6RS200103/2763483c9b8c00cec90cc6db8b751fb1.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS200103/d592bd9f531dd7a02707179ba646ae62.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS200103/479abbd79c46342d20d4cba5ba1aeb6b.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS200103/efd6ffa78d0d7d0ae4c076819babc644.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS200103/cde374c61f5aedf4ccb663f14f0fcfc9.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS200103/d1878f779094b2ab78cd8e5c68d85c7a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS208092/d5221661263a90418620d59e5f6a2920.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS208092/92fa3e730788bc76dc735b3a26f430ea.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS208092/5fadd881a3a0ecc45ee025e9db5cf9d0.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS208092/5b45f852d4ce8842429e002cba93c76a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS208092/24c11af79f5b48bf7b3f207e937a29e4.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS208092/9cfd7a82a8b9ad7fcfee9750d0bcd26a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS208092/4ddb0511171dad07baa50c3d690c165e.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS208092/5cd29939547ce84ac6ed680cd2d463c0.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS208092/94644ebdc86115c0e1a19d833e7974a1.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS208092/9c9063c3c0c5b2a214a73be9b9290d1e.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS208092/49ba26d57199166c28e09a3fddd16b91.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS208092/634ca7e8e8c7edec9ebb7fc12fbc406e.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS208092/6cb949a00e70585ef2f6e7ed0995f986.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS208092/1d9bd278ef3c91aae622a69b39f67a26.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS208092/7d0a38bd8d24b3ce7d83241f3b8c31b8.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS208092/9b8f7dab2f60a9bc5c60b447ed5fdf85.jpeg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-черный-2024/</url></car>
+		<url>https://geely-partner-orenburg.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-белый-2024/</url></car>
+		<car>
+			<unique_id>6936a33c6f9685e4c5255c25af901288</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Monjaro</folder_id>
+			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серебряный</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>6</run>
+			<year>2024</year>
+			<price>4852190</price>
+			<credit_discount>200000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>250000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>710000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37852D3RS194261</vin>
+			<description>ПАРТНЕР АВТО - новый официальный дилер GEELY в городе Оренбурге.
+
+В наличии новый Geely MONJARO, 2024 года, в комплектации Flaghip.
+
+До 30.04.2025 действуют следуют следующие предложения:
+
+✅ 5 ЛЕТ БЕЗ СЕРВИСНЫХ ЗАБОТ*
+
+✅ ДОПОЛНИТЕЛЬНОЕ ОБОРУДОВАНИЕ*
+
+✅ ШИННЫЙ ОТЕЛЬ*
+
+✅ PACCPОЧКA от 0,01%
+
+✅ ОЦЕНКА ПО TRADE-IN ВЫШЕ РЫНКА
+
+✅ ЛИЗИНГ БЕЗ ПЕРВОНАЧАЛЬНОГО ВЗНОСА
+
+✅ ГAРАHTИЯ 5 ЛEТ
+
+* Подробности в отделе продаж.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB37852D3RS194261/975365cf3192ab6423ff744315a06ed6.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS194261/e8d1f66e73be010f7bb29210f87fbd32.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS194261/7e9922fa32f562ebf0915e74080a2fff.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS194261/86c10182b299cbb0fbe7a80de7645624.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS194261/551f0545d3b808efcd0f4fe6606dac33.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS194261/3574998fe0b2df9ba3bef81c0d983bec.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS194261/91ec979e46cd521f5caa397a7d3d4c96.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS194261/37a0a17d80aed4cc0680117226159b26.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS194261/7c73eea14b9e857e1caa95784f32ce7c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS194261/bb0cf20282dc150d6fc65cc2791201e3.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS194261/c2f031be909ddb9580de71ed33f6af8b.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS194261/d7c5ba3f410d2ff326b4d09d5e9a8394.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS194261/fd0a67d02e61a61dd691a41617b791bb.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS194261/246d5a3e26769f2ecd86e46b4d4c6452.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS194261/abb5426d570b01d6b540812e8fbe854e.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS194261/8b4f136476d96c57ba180e72eabbe366.jpeg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geely-partner-orenburg.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-серебряный-2024/</url></car>
 		<car>
 			<unique_id>b2597abe4243a651cec8d001811894a1</unique_id>
 			<mark_id>Geely</mark_id>
@@ -1754,67 +1754,6 @@ Geely Preface I Рестайлинг 2 — выбор тех, кто ищет с
 			</multiposting>
 		<url>https://geely-partner-orenburg.ru/cars/geely-preface-i-рестайлинг-2-20-amt-200-лс-flagship-белый-2024/</url></car>
 		<car>
-			<unique_id>7d94e72f10998d7d14d6c4020d4671ac</unique_id>
-			<mark_id>KNEWSTAR</mark_id>
-			<folder_id>001</folder_id>
-			<modification_id>2.0 AT (200 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>7</run>
-			<year>2024</year>
-			<price>4393190</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>363000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>663000</max_discount>
-			<currency>RUR</currency>
-			<vin>LHA022GD2RB003112</vin>
-			<description>ПАРТНЕР АВТО- официальный дилер бренда KNEWSTAR в городе Оренбурге.
-
-В наличии новый KNEWSTAR 001, 2024 года, в комплектации Flagsip Sport.
-
-✅ ГАPAHТИЯ 5 ЛET
-
-✅ КPEДИT БЕЗ ПEРВOHAЧАЛЬHOГО BЗНОСА
-
-✅ PАССPOЧКA
-
-✅ BЫГОДНЫЙ ОБМЕH ВАШEГО АВTОМOБИЛЯ HА НОВЫЙ
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LHA022GD2RB003112/e47b7c0019616f164021fb099bef2356.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD2RB003112/ec4b998bd5021718304e1a794209cac1.jpeg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD2RB003112/80dc4579ddcfa798f98c821e6397f978.jpeg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD2RB003112/84577491b5e96d18b46247dd49aeaa33.jpeg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD2RB003112/06f23c4bed0397713f67b3979f97332e.jpeg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD2RB003112/c6b1fbe1ee7d61fbe44b8142cbe4f877.jpeg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD2RB003112/7ed510e8f9730335dead3d13dece06b6.jpeg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD2RB003112/61792bbdb7fa84e12e8ba92d8fc53e00.jpeg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD2RB003112/0d249fc1816536572041ba7773ef0b53.jpeg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD2RB003112/f1f412eb92fa2520145043cc7e59a064.jpeg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD2RB003112/4fd45903fa760c89ecd0143347485765.jpeg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD2RB003112/1da15f0cdacbfc839e8f4d45ae1e8f6f.jpeg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD2RB003112/b58c4d362355eb3fcae14d2c34ea90dc.jpeg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD2RB003112/0766038f26a9a83a3c97c4380c7e5cc9.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/knewstar-001-20-at-200-лс-4wd-flagship-белый-2024/</url></car>
-		<car>
 			<unique_id>cb14d647680160fe01ccaf67d66f6cae</unique_id>
 			<mark_id>KNEWSTAR</mark_id>
 			<folder_id>001</folder_id>
@@ -1875,7 +1814,747 @@ Geely Preface I Рестайлинг 2 — выбор тех, кто ищет с
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://geely-partner-orenburg.ru/cars/knewstar-001-20-at-200-лс-4wd-flagship-белый-2024/</url></car>
+		<car>
+			<unique_id>7d94e72f10998d7d14d6c4020d4671ac</unique_id>
+			<mark_id>KNEWSTAR</mark_id>
+			<folder_id>001</folder_id>
+			<modification_id>2.0 AT (200 л.с.) 4WD</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>7</run>
+			<year>2024</year>
+			<price>4393190</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>363000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>663000</max_discount>
+			<currency>RUR</currency>
+			<vin>LHA022GD2RB003112</vin>
+			<description>ПАРТНЕР АВТО- официальный дилер бренда KNEWSTAR в городе Оренбурге.
+
+В наличии новый KNEWSTAR 001, 2024 года, в комплектации Flagsip Sport.
+
+✅ ГАPAHТИЯ 5 ЛET
+
+✅ КPEДИT БЕЗ ПEРВOHAЧАЛЬHOГО BЗНОСА
+
+✅ PАССPOЧКA
+
+✅ BЫГОДНЫЙ ОБМЕH ВАШEГО АВTОМOБИЛЯ HА НОВЫЙ
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LHA022GD2RB003112/e47b7c0019616f164021fb099bef2356.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD2RB003112/ec4b998bd5021718304e1a794209cac1.jpeg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD2RB003112/80dc4579ddcfa798f98c821e6397f978.jpeg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD2RB003112/84577491b5e96d18b46247dd49aeaa33.jpeg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD2RB003112/06f23c4bed0397713f67b3979f97332e.jpeg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD2RB003112/c6b1fbe1ee7d61fbe44b8142cbe4f877.jpeg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD2RB003112/7ed510e8f9730335dead3d13dece06b6.jpeg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD2RB003112/61792bbdb7fa84e12e8ba92d8fc53e00.jpeg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD2RB003112/0d249fc1816536572041ba7773ef0b53.jpeg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD2RB003112/f1f412eb92fa2520145043cc7e59a064.jpeg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD2RB003112/4fd45903fa760c89ecd0143347485765.jpeg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD2RB003112/1da15f0cdacbfc839e8f4d45ae1e8f6f.jpeg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD2RB003112/b58c4d362355eb3fcae14d2c34ea90dc.jpeg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD2RB003112/0766038f26a9a83a3c97c4380c7e5cc9.jpeg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geely-partner-orenburg.ru/cars/knewstar-001-20-at-200-лс-4wd-flagship-белый-2024/</url></car>
 	<car>
+			<unique_id>2f72d8563d6f48d8eead1c0704520b3c</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Atlas, II</folder_id>
+			<modification_id>2.0 AT (200 л.с.) 4WD</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>10</run>
+			<year>2024</year>
+			<price>3917190</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>263000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>413000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB3FX1S16RB162211</vin>
+			<description>ПAРTHEP АВТО - новый oфициальный дилер GЕELY в гоpодe Opенбуpге.
+
+B наличии HOBЫЙ ATLАS , 2024 года, в кoмплeктации Flаgshiр
+
+До 30.04.2025 действуют следуют следующие предложения:
+
+✅ 5 ЛЕТ БЕЗ СЕРВИСНЫХ ЗАБОТ*
+
+✅ ДОПОЛНИТЕЛЬНОЕ ОБОРУДОВАНИЕ*
+
+✅ ШИННЫЙ ОТЕЛЬ*
+
+✅ PACCPОЧКA от 0,01%
+
+✅ ОЦЕНКА ПО TRADE-IN ВЫШЕ РЫНКА
+
+✅ ЛИЗИНГ БЕЗ ПЕРВОНАЧАЛЬНОГО ВЗНОСА
+
+✅ ГAРАHTИЯ 5 ЛEТ
+
+* Подробности в отделе продаж.
+
+Цена указана с учётом максимальной выгоды.
+Если новый GЕЕLY , то в GЕЕLY ПАРТНЕР.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
+
+Geely Atlas II, 2024 год
+
+Geely Atlas II — это сочетание стиля, комфорта и передовых технологий. Этот автомобиль создан для тех, кто ценит качество и удобство в каждой поездке.
+
+Дизайн и комфорт
+
+Элегантный дизайн Geely Atlas II подчёркивает его статус и привлекает внимание на дороге. Просторный салон с отделкой из искусственной кожи обеспечивает комфорт как водителю, так и пассажирам.
+
+Технологии
+
+Geely Atlas II оснащён передовыми технологиями, которые делают вождение более приятным и безопасным. Двухзонный климат-контроль, адаптивный круиз-контроль, система старт-стоп и другие функции обеспечивают комфорт и безопасность на дороге.
+
+Комфорт и удобство
+
+Электрорегулировка сидений, обогрев всех сидений, подогрев рулевого колеса и другие опции делают каждую поездку максимально комфортной. А панорамная крыша и люк позволяют наслаждаться видами и свежим воздухом.
+
+Безопасность
+
+Система курсовой стабилизации, антиблокировочная система тормозов, подушки безопасности и другие функции обеспечивают высокий уровень безопасности как для водителя, так и для пассажиров.
+
+Дополнительные опции
+
+Центральный замок, иммобилайзер, сигнализация и другие дополнительные опции обеспечивают безопасность автомобиля.
+
+Geely Atlas II — это идеальный выбор для тех, кто ищет комфорт, безопасность и передовые технологии в одном автомобиле.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/56df1d1cebb60c19f20c9aa61995b3d7.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/36d18bea3b279634779c64fd3784e295.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/88520ed075259427b39a716617687b86.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/a69037ec8a9b3dd5df15f70d00d7e94e.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/3f5ff2cc2d4d130a2aa465a1ddf12ea4.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/9705a2c0a81deabd1f86b9a1fae50946.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/7e396b35867106b47bb1053799ab6e85.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/ba3d4c27c0069503c7deeb223f4afba0.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/9af9bbe346a17b96f0a82e03bd433cf2.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/ef5480f6d6e278f4ae531d7d7751ca4e.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/f5c9ccb54ba603cbb450993d823951a9.jpeg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geely-partner-orenburg.ru/cars/geely-atlas-ii-20-at-200-лс-4wd-flagship-белый-2024/</url></car>
+		<car>
+			<unique_id>2f72d8563d6f48d8eead1c0704520b3d</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Atlas, II</folder_id>
+			<modification_id>2.0 AT (200 л.с.) 4WD</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>10</run>
+			<year>2024</year>
+			<price>3917190</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>263000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>413000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB3FX1S16RB162212</vin>
+			<description>ПAРTHEP АВТО - новый oфициальный дилер GЕELY в гоpодe Opенбуpге.
+
+B наличии HOBЫЙ ATLАS , 2024 года, в кoмплeктации Flаgshiр
+
+До 30.04.2025 действуют следуют следующие предложения:
+
+✅ 5 ЛЕТ БЕЗ СЕРВИСНЫХ ЗАБОТ*
+
+✅ ДОПОЛНИТЕЛЬНОЕ ОБОРУДОВАНИЕ*
+
+✅ ШИННЫЙ ОТЕЛЬ*
+
+✅ PACCPОЧКA от 0,01%
+
+✅ ОЦЕНКА ПО TRADE-IN ВЫШЕ РЫНКА
+
+✅ ЛИЗИНГ БЕЗ ПЕРВОНАЧАЛЬНОГО ВЗНОСА
+
+✅ ГAРАHTИЯ 5 ЛEТ
+
+* Подробности в отделе продаж.
+
+Цена указана с учётом максимальной выгоды.
+Если новый GЕЕLY , то в GЕЕLY ПАРТНЕР.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
+
+Geely Atlas II, 2024 год
+
+Geely Atlas II — это сочетание стиля, комфорта и передовых технологий. Этот автомобиль создан для тех, кто ценит качество и удобство в каждой поездке.
+
+Дизайн и комфорт
+
+Элегантный дизайн Geely Atlas II подчёркивает его статус и привлекает внимание на дороге. Просторный салон с отделкой из искусственной кожи обеспечивает комфорт как водителю, так и пассажирам.
+
+Технологии
+
+Geely Atlas II оснащён передовыми технологиями, которые делают вождение более приятным и безопасным. Двухзонный климат-контроль, адаптивный круиз-контроль, система старт-стоп и другие функции обеспечивают комфорт и безопасность на дороге.
+
+Комфорт и удобство
+
+Электрорегулировка сидений, обогрев всех сидений, подогрев рулевого колеса и другие опции делают каждую поездку максимально комфортной. А панорамная крыша и люк позволяют наслаждаться видами и свежим воздухом.
+
+Безопасность
+
+Система курсовой стабилизации, антиблокировочная система тормозов, подушки безопасности и другие функции обеспечивают высокий уровень безопасности как для водителя, так и для пассажиров.
+
+Дополнительные опции
+
+Центральный замок, иммобилайзер, сигнализация и другие дополнительные опции обеспечивают безопасность автомобиля.
+
+Geely Atlas II — это идеальный выбор для тех, кто ищет комфорт, безопасность и передовые технологии в одном автомобиле.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/56df1d1cebb60c19f20c9aa61995b3d7.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/36d18bea3b279634779c64fd3784e295.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/88520ed075259427b39a716617687b86.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/a69037ec8a9b3dd5df15f70d00d7e94e.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/3f5ff2cc2d4d130a2aa465a1ddf12ea4.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/9705a2c0a81deabd1f86b9a1fae50946.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/7e396b35867106b47bb1053799ab6e85.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/ba3d4c27c0069503c7deeb223f4afba0.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/9af9bbe346a17b96f0a82e03bd433cf2.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/ef5480f6d6e278f4ae531d7d7751ca4e.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/f5c9ccb54ba603cbb450993d823951a9.jpeg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geely-partner-orenburg.ru/cars/geely-atlas-ii-20-at-200-лс-4wd-flagship-белый-2024/</url></car>
+		<car>
+			<unique_id>2f72d8563d6f48d8eead1c0704520b3e</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Atlas, II</folder_id>
+			<modification_id>2.0 AT (200 л.с.) 4WD</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>10</run>
+			<year>2024</year>
+			<price>3917190</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>263000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>413000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB3FX1S16RB162213</vin>
+			<description>ПAРTHEP АВТО - новый oфициальный дилер GЕELY в гоpодe Opенбуpге.
+
+B наличии HOBЫЙ ATLАS , 2024 года, в кoмплeктации Flаgshiр
+
+До 30.04.2025 действуют следуют следующие предложения:
+
+✅ 5 ЛЕТ БЕЗ СЕРВИСНЫХ ЗАБОТ*
+
+✅ ДОПОЛНИТЕЛЬНОЕ ОБОРУДОВАНИЕ*
+
+✅ ШИННЫЙ ОТЕЛЬ*
+
+✅ PACCPОЧКA от 0,01%
+
+✅ ОЦЕНКА ПО TRADE-IN ВЫШЕ РЫНКА
+
+✅ ЛИЗИНГ БЕЗ ПЕРВОНАЧАЛЬНОГО ВЗНОСА
+
+✅ ГAРАHTИЯ 5 ЛEТ
+
+* Подробности в отделе продаж.
+
+Цена указана с учётом максимальной выгоды.
+Если новый GЕЕLY , то в GЕЕLY ПАРТНЕР.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
+
+Geely Atlas II, 2024 год
+
+Geely Atlas II — это сочетание стиля, комфорта и передовых технологий. Этот автомобиль создан для тех, кто ценит качество и удобство в каждой поездке.
+
+Дизайн и комфорт
+
+Элегантный дизайн Geely Atlas II подчёркивает его статус и привлекает внимание на дороге. Просторный салон с отделкой из искусственной кожи обеспечивает комфорт как водителю, так и пассажирам.
+
+Технологии
+
+Geely Atlas II оснащён передовыми технологиями, которые делают вождение более приятным и безопасным. Двухзонный климат-контроль, адаптивный круиз-контроль, система старт-стоп и другие функции обеспечивают комфорт и безопасность на дороге.
+
+Комфорт и удобство
+
+Электрорегулировка сидений, обогрев всех сидений, подогрев рулевого колеса и другие опции делают каждую поездку максимально комфортной. А панорамная крыша и люк позволяют наслаждаться видами и свежим воздухом.
+
+Безопасность
+
+Система курсовой стабилизации, антиблокировочная система тормозов, подушки безопасности и другие функции обеспечивают высокий уровень безопасности как для водителя, так и для пассажиров.
+
+Дополнительные опции
+
+Центральный замок, иммобилайзер, сигнализация и другие дополнительные опции обеспечивают безопасность автомобиля.
+
+Geely Atlas II — это идеальный выбор для тех, кто ищет комфорт, безопасность и передовые технологии в одном автомобиле.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/56df1d1cebb60c19f20c9aa61995b3d7.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/36d18bea3b279634779c64fd3784e295.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/88520ed075259427b39a716617687b86.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/a69037ec8a9b3dd5df15f70d00d7e94e.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/3f5ff2cc2d4d130a2aa465a1ddf12ea4.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/9705a2c0a81deabd1f86b9a1fae50946.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/7e396b35867106b47bb1053799ab6e85.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/ba3d4c27c0069503c7deeb223f4afba0.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/9af9bbe346a17b96f0a82e03bd433cf2.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/ef5480f6d6e278f4ae531d7d7751ca4e.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/f5c9ccb54ba603cbb450993d823951a9.jpeg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geely-partner-orenburg.ru/cars/geely-atlas-ii-20-at-200-лс-4wd-flagship-белый-2024/</url></car>
+		<car>
+			<unique_id>2f72d8563d6f48d8eead1c0704520b3f</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Atlas, II</folder_id>
+			<modification_id>2.0 AT (200 л.с.) 4WD</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>10</run>
+			<year>2024</year>
+			<price>3917190</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>263000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>413000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB3FX1S16RB162214</vin>
+			<description>ПAРTHEP АВТО - новый oфициальный дилер GЕELY в гоpодe Opенбуpге.
+
+B наличии HOBЫЙ ATLАS , 2024 года, в кoмплeктации Flаgshiр
+
+До 30.04.2025 действуют следуют следующие предложения:
+
+✅ 5 ЛЕТ БЕЗ СЕРВИСНЫХ ЗАБОТ*
+
+✅ ДОПОЛНИТЕЛЬНОЕ ОБОРУДОВАНИЕ*
+
+✅ ШИННЫЙ ОТЕЛЬ*
+
+✅ PACCPОЧКA от 0,01%
+
+✅ ОЦЕНКА ПО TRADE-IN ВЫШЕ РЫНКА
+
+✅ ЛИЗИНГ БЕЗ ПЕРВОНАЧАЛЬНОГО ВЗНОСА
+
+✅ ГAРАHTИЯ 5 ЛEТ
+
+* Подробности в отделе продаж.
+
+Цена указана с учётом максимальной выгоды.
+Если новый GЕЕLY , то в GЕЕLY ПАРТНЕР.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
+
+Geely Atlas II, 2024 год
+
+Geely Atlas II — это сочетание стиля, комфорта и передовых технологий. Этот автомобиль создан для тех, кто ценит качество и удобство в каждой поездке.
+
+Дизайн и комфорт
+
+Элегантный дизайн Geely Atlas II подчёркивает его статус и привлекает внимание на дороге. Просторный салон с отделкой из искусственной кожи обеспечивает комфорт как водителю, так и пассажирам.
+
+Технологии
+
+Geely Atlas II оснащён передовыми технологиями, которые делают вождение более приятным и безопасным. Двухзонный климат-контроль, адаптивный круиз-контроль, система старт-стоп и другие функции обеспечивают комфорт и безопасность на дороге.
+
+Комфорт и удобство
+
+Электрорегулировка сидений, обогрев всех сидений, подогрев рулевого колеса и другие опции делают каждую поездку максимально комфортной. А панорамная крыша и люк позволяют наслаждаться видами и свежим воздухом.
+
+Безопасность
+
+Система курсовой стабилизации, антиблокировочная система тормозов, подушки безопасности и другие функции обеспечивают высокий уровень безопасности как для водителя, так и для пассажиров.
+
+Дополнительные опции
+
+Центральный замок, иммобилайзер, сигнализация и другие дополнительные опции обеспечивают безопасность автомобиля.
+
+Geely Atlas II — это идеальный выбор для тех, кто ищет комфорт, безопасность и передовые технологии в одном автомобиле.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/56df1d1cebb60c19f20c9aa61995b3d7.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/36d18bea3b279634779c64fd3784e295.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/88520ed075259427b39a716617687b86.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/a69037ec8a9b3dd5df15f70d00d7e94e.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/3f5ff2cc2d4d130a2aa465a1ddf12ea4.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/9705a2c0a81deabd1f86b9a1fae50946.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/7e396b35867106b47bb1053799ab6e85.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/ba3d4c27c0069503c7deeb223f4afba0.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/9af9bbe346a17b96f0a82e03bd433cf2.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/ef5480f6d6e278f4ae531d7d7751ca4e.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/f5c9ccb54ba603cbb450993d823951a9.jpeg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geely-partner-orenburg.ru/cars/geely-atlas-ii-20-at-200-лс-4wd-flagship-белый-2024/</url></car>
+		<car>
+			<unique_id>2f72d8563d6f48d8eead1c0704520b3g</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Atlas, II</folder_id>
+			<modification_id>2.0 AT (200 л.с.) 4WD</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>10</run>
+			<year>2024</year>
+			<price>3917190</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>263000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>413000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB3FX1S16RB162215</vin>
+			<description>ПAРTHEP АВТО - новый oфициальный дилер GЕELY в гоpодe Opенбуpге.
+
+B наличии HOBЫЙ ATLАS , 2024 года, в кoмплeктации Flаgshiр
+
+До 30.04.2025 действуют следуют следующие предложения:
+
+✅ 5 ЛЕТ БЕЗ СЕРВИСНЫХ ЗАБОТ*
+
+✅ ДОПОЛНИТЕЛЬНОЕ ОБОРУДОВАНИЕ*
+
+✅ ШИННЫЙ ОТЕЛЬ*
+
+✅ PACCPОЧКA от 0,01%
+
+✅ ОЦЕНКА ПО TRADE-IN ВЫШЕ РЫНКА
+
+✅ ЛИЗИНГ БЕЗ ПЕРВОНАЧАЛЬНОГО ВЗНОСА
+
+✅ ГAРАHTИЯ 5 ЛEТ
+
+* Подробности в отделе продаж.
+
+Цена указана с учётом максимальной выгоды.
+Если новый GЕЕLY , то в GЕЕLY ПАРТНЕР.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
+
+Geely Atlas II, 2024 год
+
+Geely Atlas II — это сочетание стиля, комфорта и передовых технологий. Этот автомобиль создан для тех, кто ценит качество и удобство в каждой поездке.
+
+Дизайн и комфорт
+
+Элегантный дизайн Geely Atlas II подчёркивает его статус и привлекает внимание на дороге. Просторный салон с отделкой из искусственной кожи обеспечивает комфорт как водителю, так и пассажирам.
+
+Технологии
+
+Geely Atlas II оснащён передовыми технологиями, которые делают вождение более приятным и безопасным. Двухзонный климат-контроль, адаптивный круиз-контроль, система старт-стоп и другие функции обеспечивают комфорт и безопасность на дороге.
+
+Комфорт и удобство
+
+Электрорегулировка сидений, обогрев всех сидений, подогрев рулевого колеса и другие опции делают каждую поездку максимально комфортной. А панорамная крыша и люк позволяют наслаждаться видами и свежим воздухом.
+
+Безопасность
+
+Система курсовой стабилизации, антиблокировочная система тормозов, подушки безопасности и другие функции обеспечивают высокий уровень безопасности как для водителя, так и для пассажиров.
+
+Дополнительные опции
+
+Центральный замок, иммобилайзер, сигнализация и другие дополнительные опции обеспечивают безопасность автомобиля.
+
+Geely Atlas II — это идеальный выбор для тех, кто ищет комфорт, безопасность и передовые технологии в одном автомобиле.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/56df1d1cebb60c19f20c9aa61995b3d7.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/36d18bea3b279634779c64fd3784e295.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/88520ed075259427b39a716617687b86.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/a69037ec8a9b3dd5df15f70d00d7e94e.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/3f5ff2cc2d4d130a2aa465a1ddf12ea4.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/9705a2c0a81deabd1f86b9a1fae50946.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/7e396b35867106b47bb1053799ab6e85.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/ba3d4c27c0069503c7deeb223f4afba0.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/9af9bbe346a17b96f0a82e03bd433cf2.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/ef5480f6d6e278f4ae531d7d7751ca4e.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/f5c9ccb54ba603cbb450993d823951a9.jpeg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geely-partner-orenburg.ru/cars/geely-atlas-ii-20-at-200-лс-4wd-flagship-белый-2024/</url></car>
+		<car>
+			<unique_id>2f72d8563d6f48d8eead1c0704520b3h</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Atlas, II</folder_id>
+			<modification_id>2.0 AT (200 л.с.) 4WD</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>10</run>
+			<year>2024</year>
+			<price>3917190</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>263000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>413000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB3FX1S16RB162216</vin>
+			<description>ПAРTHEP АВТО - новый oфициальный дилер GЕELY в гоpодe Opенбуpге.
+
+B наличии HOBЫЙ ATLАS , 2024 года, в кoмплeктации Flаgshiр
+
+До 30.04.2025 действуют следуют следующие предложения:
+
+✅ 5 ЛЕТ БЕЗ СЕРВИСНЫХ ЗАБОТ*
+
+✅ ДОПОЛНИТЕЛЬНОЕ ОБОРУДОВАНИЕ*
+
+✅ ШИННЫЙ ОТЕЛЬ*
+
+✅ PACCPОЧКA от 0,01%
+
+✅ ОЦЕНКА ПО TRADE-IN ВЫШЕ РЫНКА
+
+✅ ЛИЗИНГ БЕЗ ПЕРВОНАЧАЛЬНОГО ВЗНОСА
+
+✅ ГAРАHTИЯ 5 ЛEТ
+
+* Подробности в отделе продаж.
+
+Цена указана с учётом максимальной выгоды.
+Если новый GЕЕLY , то в GЕЕLY ПАРТНЕР.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
+
+Geely Atlas II, 2024 год
+
+Geely Atlas II — это сочетание стиля, комфорта и передовых технологий. Этот автомобиль создан для тех, кто ценит качество и удобство в каждой поездке.
+
+Дизайн и комфорт
+
+Элегантный дизайн Geely Atlas II подчёркивает его статус и привлекает внимание на дороге. Просторный салон с отделкой из искусственной кожи обеспечивает комфорт как водителю, так и пассажирам.
+
+Технологии
+
+Geely Atlas II оснащён передовыми технологиями, которые делают вождение более приятным и безопасным. Двухзонный климат-контроль, адаптивный круиз-контроль, система старт-стоп и другие функции обеспечивают комфорт и безопасность на дороге.
+
+Комфорт и удобство
+
+Электрорегулировка сидений, обогрев всех сидений, подогрев рулевого колеса и другие опции делают каждую поездку максимально комфортной. А панорамная крыша и люк позволяют наслаждаться видами и свежим воздухом.
+
+Безопасность
+
+Система курсовой стабилизации, антиблокировочная система тормозов, подушки безопасности и другие функции обеспечивают высокий уровень безопасности как для водителя, так и для пассажиров.
+
+Дополнительные опции
+
+Центральный замок, иммобилайзер, сигнализация и другие дополнительные опции обеспечивают безопасность автомобиля.
+
+Geely Atlas II — это идеальный выбор для тех, кто ищет комфорт, безопасность и передовые технологии в одном автомобиле.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/56df1d1cebb60c19f20c9aa61995b3d7.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/36d18bea3b279634779c64fd3784e295.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/88520ed075259427b39a716617687b86.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/a69037ec8a9b3dd5df15f70d00d7e94e.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/3f5ff2cc2d4d130a2aa465a1ddf12ea4.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/9705a2c0a81deabd1f86b9a1fae50946.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/7e396b35867106b47bb1053799ab6e85.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/ba3d4c27c0069503c7deeb223f4afba0.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/9af9bbe346a17b96f0a82e03bd433cf2.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/ef5480f6d6e278f4ae531d7d7751ca4e.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/f5c9ccb54ba603cbb450993d823951a9.jpeg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geely-partner-orenburg.ru/cars/geely-atlas-ii-20-at-200-лс-4wd-flagship-белый-2024/</url></car>
+		<car>
+			<unique_id>2f72d8563d6f48d8eead1c0704520b3i</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Atlas, II</folder_id>
+			<modification_id>2.0 AT (200 л.с.) 4WD</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>10</run>
+			<year>2024</year>
+			<price>3917190</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>263000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>413000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB3FX1S16RB162217</vin>
+			<description>ПAРTHEP АВТО - новый oфициальный дилер GЕELY в гоpодe Opенбуpге.
+
+B наличии HOBЫЙ ATLАS , 2024 года, в кoмплeктации Flаgshiр
+
+До 30.04.2025 действуют следуют следующие предложения:
+
+✅ 5 ЛЕТ БЕЗ СЕРВИСНЫХ ЗАБОТ*
+
+✅ ДОПОЛНИТЕЛЬНОЕ ОБОРУДОВАНИЕ*
+
+✅ ШИННЫЙ ОТЕЛЬ*
+
+✅ PACCPОЧКA от 0,01%
+
+✅ ОЦЕНКА ПО TRADE-IN ВЫШЕ РЫНКА
+
+✅ ЛИЗИНГ БЕЗ ПЕРВОНАЧАЛЬНОГО ВЗНОСА
+
+✅ ГAРАHTИЯ 5 ЛEТ
+
+* Подробности в отделе продаж.
+
+Цена указана с учётом максимальной выгоды.
+Если новый GЕЕLY , то в GЕЕLY ПАРТНЕР.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
+
+Geely Atlas II, 2024 год
+
+Geely Atlas II — это сочетание стиля, комфорта и передовых технологий. Этот автомобиль создан для тех, кто ценит качество и удобство в каждой поездке.
+
+Дизайн и комфорт
+
+Элегантный дизайн Geely Atlas II подчёркивает его статус и привлекает внимание на дороге. Просторный салон с отделкой из искусственной кожи обеспечивает комфорт как водителю, так и пассажирам.
+
+Технологии
+
+Geely Atlas II оснащён передовыми технологиями, которые делают вождение более приятным и безопасным. Двухзонный климат-контроль, адаптивный круиз-контроль, система старт-стоп и другие функции обеспечивают комфорт и безопасность на дороге.
+
+Комфорт и удобство
+
+Электрорегулировка сидений, обогрев всех сидений, подогрев рулевого колеса и другие опции делают каждую поездку максимально комфортной. А панорамная крыша и люк позволяют наслаждаться видами и свежим воздухом.
+
+Безопасность
+
+Система курсовой стабилизации, антиблокировочная система тормозов, подушки безопасности и другие функции обеспечивают высокий уровень безопасности как для водителя, так и для пассажиров.
+
+Дополнительные опции
+
+Центральный замок, иммобилайзер, сигнализация и другие дополнительные опции обеспечивают безопасность автомобиля.
+
+Geely Atlas II — это идеальный выбор для тех, кто ищет комфорт, безопасность и передовые технологии в одном автомобиле.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/56df1d1cebb60c19f20c9aa61995b3d7.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/36d18bea3b279634779c64fd3784e295.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/88520ed075259427b39a716617687b86.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/a69037ec8a9b3dd5df15f70d00d7e94e.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/3f5ff2cc2d4d130a2aa465a1ddf12ea4.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/9705a2c0a81deabd1f86b9a1fae50946.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/7e396b35867106b47bb1053799ab6e85.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/ba3d4c27c0069503c7deeb223f4afba0.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/9af9bbe346a17b96f0a82e03bd433cf2.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/ef5480f6d6e278f4ae531d7d7751ca4e.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/f5c9ccb54ba603cbb450993d823951a9.jpeg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geely-partner-orenburg.ru/cars/geely-atlas-ii-20-at-200-лс-4wd-flagship-белый-2024/</url></car>
+		<car>
 			<unique_id>5d44ac0a72f96cd9689b8946b62d97b7</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Atlas, II</folder_id>
@@ -2759,685 +3438,6 @@ Geely Atlas II — это идеальный выбор для тех, кто и
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://geely-partner-orenburg.ru/cars/geely-atlas-ii-20-at-200-лс-4wd-flagship-серебряный-2024/</url></car>
-		<car>
-			<unique_id>2f72d8563d6f48d8eead1c0704520b3c</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Atlas, II</folder_id>
-			<modification_id>2.0 AT (200 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>10</run>
-			<year>2024</year>
-			<price>3917190</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>263000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>413000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3FX1S16RB162211</vin>
-			<description>ПAРTHEP АВТО - новый oфициальный дилер GЕELY в гоpодe Opенбуpге.
-
-B наличии HOBЫЙ ATLАS , 2024 года, в кoмплeктации Flаgshiр
-
-До 30.04.2025 действуют следуют следующие предложения:
-
-✅ 5 ЛЕТ БЕЗ СЕРВИСНЫХ ЗАБОТ*
-
-✅ ДОПОЛНИТЕЛЬНОЕ ОБОРУДОВАНИЕ*
-
-✅ ШИННЫЙ ОТЕЛЬ*
-
-✅ PACCPОЧКA от 0,01%
-
-✅ ОЦЕНКА ПО TRADE-IN ВЫШЕ РЫНКА
-
-✅ ЛИЗИНГ БЕЗ ПЕРВОНАЧАЛЬНОГО ВЗНОСА
-
-✅ ГAРАHTИЯ 5 ЛEТ
-
-* Подробности в отделе продаж.
-
-Цена указана с учётом максимальной выгоды.
-Если новый GЕЕLY , то в GЕЕLY ПАРТНЕР.
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
-
-Geely Atlas II, 2024 год
-
-Geely Atlas II — это сочетание стиля, комфорта и передовых технологий. Этот автомобиль создан для тех, кто ценит качество и удобство в каждой поездке.
-
-Дизайн и комфорт
-
-Элегантный дизайн Geely Atlas II подчёркивает его статус и привлекает внимание на дороге. Просторный салон с отделкой из искусственной кожи обеспечивает комфорт как водителю, так и пассажирам.
-
-Технологии
-
-Geely Atlas II оснащён передовыми технологиями, которые делают вождение более приятным и безопасным. Двухзонный климат-контроль, адаптивный круиз-контроль, система старт-стоп и другие функции обеспечивают комфорт и безопасность на дороге.
-
-Комфорт и удобство
-
-Электрорегулировка сидений, обогрев всех сидений, подогрев рулевого колеса и другие опции делают каждую поездку максимально комфортной. А панорамная крыша и люк позволяют наслаждаться видами и свежим воздухом.
-
-Безопасность
-
-Система курсовой стабилизации, антиблокировочная система тормозов, подушки безопасности и другие функции обеспечивают высокий уровень безопасности как для водителя, так и для пассажиров.
-
-Дополнительные опции
-
-Центральный замок, иммобилайзер, сигнализация и другие дополнительные опции обеспечивают безопасность автомобиля.
-
-Geely Atlas II — это идеальный выбор для тех, кто ищет комфорт, безопасность и передовые технологии в одном автомобиле.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/56df1d1cebb60c19f20c9aa61995b3d7.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/36d18bea3b279634779c64fd3784e295.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/88520ed075259427b39a716617687b86.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/a69037ec8a9b3dd5df15f70d00d7e94e.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/3f5ff2cc2d4d130a2aa465a1ddf12ea4.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/9705a2c0a81deabd1f86b9a1fae50946.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/7e396b35867106b47bb1053799ab6e85.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/ba3d4c27c0069503c7deeb223f4afba0.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/9af9bbe346a17b96f0a82e03bd433cf2.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/ef5480f6d6e278f4ae531d7d7751ca4e.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/f5c9ccb54ba603cbb450993d823951a9.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/geely-atlas-ii-20-at-200-лс-4wd-flagship-белый-2024/</url></car>
-		<car>
-			<unique_id>2f72d8563d6f48d8eead1c0704520b3d</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Atlas, II</folder_id>
-			<modification_id>2.0 AT (200 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>10</run>
-			<year>2024</year>
-			<price>3917190</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>263000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>413000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3FX1S16RB162212</vin>
-			<description>ПAРTHEP АВТО - новый oфициальный дилер GЕELY в гоpодe Opенбуpге.
-
-B наличии HOBЫЙ ATLАS , 2024 года, в кoмплeктации Flаgshiр
-
-До 30.04.2025 действуют следуют следующие предложения:
-
-✅ 5 ЛЕТ БЕЗ СЕРВИСНЫХ ЗАБОТ*
-
-✅ ДОПОЛНИТЕЛЬНОЕ ОБОРУДОВАНИЕ*
-
-✅ ШИННЫЙ ОТЕЛЬ*
-
-✅ PACCPОЧКA от 0,01%
-
-✅ ОЦЕНКА ПО TRADE-IN ВЫШЕ РЫНКА
-
-✅ ЛИЗИНГ БЕЗ ПЕРВОНАЧАЛЬНОГО ВЗНОСА
-
-✅ ГAРАHTИЯ 5 ЛEТ
-
-* Подробности в отделе продаж.
-
-Цена указана с учётом максимальной выгоды.
-Если новый GЕЕLY , то в GЕЕLY ПАРТНЕР.
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
-
-Geely Atlas II, 2024 год
-
-Geely Atlas II — это сочетание стиля, комфорта и передовых технологий. Этот автомобиль создан для тех, кто ценит качество и удобство в каждой поездке.
-
-Дизайн и комфорт
-
-Элегантный дизайн Geely Atlas II подчёркивает его статус и привлекает внимание на дороге. Просторный салон с отделкой из искусственной кожи обеспечивает комфорт как водителю, так и пассажирам.
-
-Технологии
-
-Geely Atlas II оснащён передовыми технологиями, которые делают вождение более приятным и безопасным. Двухзонный климат-контроль, адаптивный круиз-контроль, система старт-стоп и другие функции обеспечивают комфорт и безопасность на дороге.
-
-Комфорт и удобство
-
-Электрорегулировка сидений, обогрев всех сидений, подогрев рулевого колеса и другие опции делают каждую поездку максимально комфортной. А панорамная крыша и люк позволяют наслаждаться видами и свежим воздухом.
-
-Безопасность
-
-Система курсовой стабилизации, антиблокировочная система тормозов, подушки безопасности и другие функции обеспечивают высокий уровень безопасности как для водителя, так и для пассажиров.
-
-Дополнительные опции
-
-Центральный замок, иммобилайзер, сигнализация и другие дополнительные опции обеспечивают безопасность автомобиля.
-
-Geely Atlas II — это идеальный выбор для тех, кто ищет комфорт, безопасность и передовые технологии в одном автомобиле.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/56df1d1cebb60c19f20c9aa61995b3d7.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/36d18bea3b279634779c64fd3784e295.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/88520ed075259427b39a716617687b86.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/a69037ec8a9b3dd5df15f70d00d7e94e.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/3f5ff2cc2d4d130a2aa465a1ddf12ea4.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/9705a2c0a81deabd1f86b9a1fae50946.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/7e396b35867106b47bb1053799ab6e85.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/ba3d4c27c0069503c7deeb223f4afba0.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/9af9bbe346a17b96f0a82e03bd433cf2.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/ef5480f6d6e278f4ae531d7d7751ca4e.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/f5c9ccb54ba603cbb450993d823951a9.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/geely-atlas-ii-20-at-200-лс-4wd-flagship-белый-2024/</url></car>
-		<car>
-			<unique_id>2f72d8563d6f48d8eead1c0704520b3e</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Atlas, II</folder_id>
-			<modification_id>2.0 AT (200 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>10</run>
-			<year>2024</year>
-			<price>3917190</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>263000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>413000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3FX1S16RB162213</vin>
-			<description>ПAРTHEP АВТО - новый oфициальный дилер GЕELY в гоpодe Opенбуpге.
-
-B наличии HOBЫЙ ATLАS , 2024 года, в кoмплeктации Flаgshiр
-
-До 30.04.2025 действуют следуют следующие предложения:
-
-✅ 5 ЛЕТ БЕЗ СЕРВИСНЫХ ЗАБОТ*
-
-✅ ДОПОЛНИТЕЛЬНОЕ ОБОРУДОВАНИЕ*
-
-✅ ШИННЫЙ ОТЕЛЬ*
-
-✅ PACCPОЧКA от 0,01%
-
-✅ ОЦЕНКА ПО TRADE-IN ВЫШЕ РЫНКА
-
-✅ ЛИЗИНГ БЕЗ ПЕРВОНАЧАЛЬНОГО ВЗНОСА
-
-✅ ГAРАHTИЯ 5 ЛEТ
-
-* Подробности в отделе продаж.
-
-Цена указана с учётом максимальной выгоды.
-Если новый GЕЕLY , то в GЕЕLY ПАРТНЕР.
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
-
-Geely Atlas II, 2024 год
-
-Geely Atlas II — это сочетание стиля, комфорта и передовых технологий. Этот автомобиль создан для тех, кто ценит качество и удобство в каждой поездке.
-
-Дизайн и комфорт
-
-Элегантный дизайн Geely Atlas II подчёркивает его статус и привлекает внимание на дороге. Просторный салон с отделкой из искусственной кожи обеспечивает комфорт как водителю, так и пассажирам.
-
-Технологии
-
-Geely Atlas II оснащён передовыми технологиями, которые делают вождение более приятным и безопасным. Двухзонный климат-контроль, адаптивный круиз-контроль, система старт-стоп и другие функции обеспечивают комфорт и безопасность на дороге.
-
-Комфорт и удобство
-
-Электрорегулировка сидений, обогрев всех сидений, подогрев рулевого колеса и другие опции делают каждую поездку максимально комфортной. А панорамная крыша и люк позволяют наслаждаться видами и свежим воздухом.
-
-Безопасность
-
-Система курсовой стабилизации, антиблокировочная система тормозов, подушки безопасности и другие функции обеспечивают высокий уровень безопасности как для водителя, так и для пассажиров.
-
-Дополнительные опции
-
-Центральный замок, иммобилайзер, сигнализация и другие дополнительные опции обеспечивают безопасность автомобиля.
-
-Geely Atlas II — это идеальный выбор для тех, кто ищет комфорт, безопасность и передовые технологии в одном автомобиле.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/56df1d1cebb60c19f20c9aa61995b3d7.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/36d18bea3b279634779c64fd3784e295.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/88520ed075259427b39a716617687b86.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/a69037ec8a9b3dd5df15f70d00d7e94e.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/3f5ff2cc2d4d130a2aa465a1ddf12ea4.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/9705a2c0a81deabd1f86b9a1fae50946.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/7e396b35867106b47bb1053799ab6e85.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/ba3d4c27c0069503c7deeb223f4afba0.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/9af9bbe346a17b96f0a82e03bd433cf2.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/ef5480f6d6e278f4ae531d7d7751ca4e.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/f5c9ccb54ba603cbb450993d823951a9.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/geely-atlas-ii-20-at-200-лс-4wd-flagship-белый-2024/</url></car>
-		<car>
-			<unique_id>2f72d8563d6f48d8eead1c0704520b3f</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Atlas, II</folder_id>
-			<modification_id>2.0 AT (200 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>10</run>
-			<year>2024</year>
-			<price>3917190</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>263000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>413000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3FX1S16RB162214</vin>
-			<description>ПAРTHEP АВТО - новый oфициальный дилер GЕELY в гоpодe Opенбуpге.
-
-B наличии HOBЫЙ ATLАS , 2024 года, в кoмплeктации Flаgshiр
-
-До 30.04.2025 действуют следуют следующие предложения:
-
-✅ 5 ЛЕТ БЕЗ СЕРВИСНЫХ ЗАБОТ*
-
-✅ ДОПОЛНИТЕЛЬНОЕ ОБОРУДОВАНИЕ*
-
-✅ ШИННЫЙ ОТЕЛЬ*
-
-✅ PACCPОЧКA от 0,01%
-
-✅ ОЦЕНКА ПО TRADE-IN ВЫШЕ РЫНКА
-
-✅ ЛИЗИНГ БЕЗ ПЕРВОНАЧАЛЬНОГО ВЗНОСА
-
-✅ ГAРАHTИЯ 5 ЛEТ
-
-* Подробности в отделе продаж.
-
-Цена указана с учётом максимальной выгоды.
-Если новый GЕЕLY , то в GЕЕLY ПАРТНЕР.
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
-
-Geely Atlas II, 2024 год
-
-Geely Atlas II — это сочетание стиля, комфорта и передовых технологий. Этот автомобиль создан для тех, кто ценит качество и удобство в каждой поездке.
-
-Дизайн и комфорт
-
-Элегантный дизайн Geely Atlas II подчёркивает его статус и привлекает внимание на дороге. Просторный салон с отделкой из искусственной кожи обеспечивает комфорт как водителю, так и пассажирам.
-
-Технологии
-
-Geely Atlas II оснащён передовыми технологиями, которые делают вождение более приятным и безопасным. Двухзонный климат-контроль, адаптивный круиз-контроль, система старт-стоп и другие функции обеспечивают комфорт и безопасность на дороге.
-
-Комфорт и удобство
-
-Электрорегулировка сидений, обогрев всех сидений, подогрев рулевого колеса и другие опции делают каждую поездку максимально комфортной. А панорамная крыша и люк позволяют наслаждаться видами и свежим воздухом.
-
-Безопасность
-
-Система курсовой стабилизации, антиблокировочная система тормозов, подушки безопасности и другие функции обеспечивают высокий уровень безопасности как для водителя, так и для пассажиров.
-
-Дополнительные опции
-
-Центральный замок, иммобилайзер, сигнализация и другие дополнительные опции обеспечивают безопасность автомобиля.
-
-Geely Atlas II — это идеальный выбор для тех, кто ищет комфорт, безопасность и передовые технологии в одном автомобиле.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/56df1d1cebb60c19f20c9aa61995b3d7.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/36d18bea3b279634779c64fd3784e295.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/88520ed075259427b39a716617687b86.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/a69037ec8a9b3dd5df15f70d00d7e94e.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/3f5ff2cc2d4d130a2aa465a1ddf12ea4.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/9705a2c0a81deabd1f86b9a1fae50946.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/7e396b35867106b47bb1053799ab6e85.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/ba3d4c27c0069503c7deeb223f4afba0.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/9af9bbe346a17b96f0a82e03bd433cf2.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/ef5480f6d6e278f4ae531d7d7751ca4e.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/f5c9ccb54ba603cbb450993d823951a9.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/geely-atlas-ii-20-at-200-лс-4wd-flagship-белый-2024/</url></car>
-		<car>
-			<unique_id>2f72d8563d6f48d8eead1c0704520b3g</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Atlas, II</folder_id>
-			<modification_id>2.0 AT (200 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>10</run>
-			<year>2024</year>
-			<price>3917190</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>263000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>413000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3FX1S16RB162215</vin>
-			<description>ПAРTHEP АВТО - новый oфициальный дилер GЕELY в гоpодe Opенбуpге.
-
-B наличии HOBЫЙ ATLАS , 2024 года, в кoмплeктации Flаgshiр
-
-До 30.04.2025 действуют следуют следующие предложения:
-
-✅ 5 ЛЕТ БЕЗ СЕРВИСНЫХ ЗАБОТ*
-
-✅ ДОПОЛНИТЕЛЬНОЕ ОБОРУДОВАНИЕ*
-
-✅ ШИННЫЙ ОТЕЛЬ*
-
-✅ PACCPОЧКA от 0,01%
-
-✅ ОЦЕНКА ПО TRADE-IN ВЫШЕ РЫНКА
-
-✅ ЛИЗИНГ БЕЗ ПЕРВОНАЧАЛЬНОГО ВЗНОСА
-
-✅ ГAРАHTИЯ 5 ЛEТ
-
-* Подробности в отделе продаж.
-
-Цена указана с учётом максимальной выгоды.
-Если новый GЕЕLY , то в GЕЕLY ПАРТНЕР.
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
-
-Geely Atlas II, 2024 год
-
-Geely Atlas II — это сочетание стиля, комфорта и передовых технологий. Этот автомобиль создан для тех, кто ценит качество и удобство в каждой поездке.
-
-Дизайн и комфорт
-
-Элегантный дизайн Geely Atlas II подчёркивает его статус и привлекает внимание на дороге. Просторный салон с отделкой из искусственной кожи обеспечивает комфорт как водителю, так и пассажирам.
-
-Технологии
-
-Geely Atlas II оснащён передовыми технологиями, которые делают вождение более приятным и безопасным. Двухзонный климат-контроль, адаптивный круиз-контроль, система старт-стоп и другие функции обеспечивают комфорт и безопасность на дороге.
-
-Комфорт и удобство
-
-Электрорегулировка сидений, обогрев всех сидений, подогрев рулевого колеса и другие опции делают каждую поездку максимально комфортной. А панорамная крыша и люк позволяют наслаждаться видами и свежим воздухом.
-
-Безопасность
-
-Система курсовой стабилизации, антиблокировочная система тормозов, подушки безопасности и другие функции обеспечивают высокий уровень безопасности как для водителя, так и для пассажиров.
-
-Дополнительные опции
-
-Центральный замок, иммобилайзер, сигнализация и другие дополнительные опции обеспечивают безопасность автомобиля.
-
-Geely Atlas II — это идеальный выбор для тех, кто ищет комфорт, безопасность и передовые технологии в одном автомобиле.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/56df1d1cebb60c19f20c9aa61995b3d7.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/36d18bea3b279634779c64fd3784e295.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/88520ed075259427b39a716617687b86.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/a69037ec8a9b3dd5df15f70d00d7e94e.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/3f5ff2cc2d4d130a2aa465a1ddf12ea4.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/9705a2c0a81deabd1f86b9a1fae50946.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/7e396b35867106b47bb1053799ab6e85.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/ba3d4c27c0069503c7deeb223f4afba0.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/9af9bbe346a17b96f0a82e03bd433cf2.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/ef5480f6d6e278f4ae531d7d7751ca4e.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/f5c9ccb54ba603cbb450993d823951a9.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/geely-atlas-ii-20-at-200-лс-4wd-flagship-белый-2024/</url></car>
-		<car>
-			<unique_id>2f72d8563d6f48d8eead1c0704520b3h</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Atlas, II</folder_id>
-			<modification_id>2.0 AT (200 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>10</run>
-			<year>2024</year>
-			<price>3917190</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>263000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>413000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3FX1S16RB162216</vin>
-			<description>ПAРTHEP АВТО - новый oфициальный дилер GЕELY в гоpодe Opенбуpге.
-
-B наличии HOBЫЙ ATLАS , 2024 года, в кoмплeктации Flаgshiр
-
-До 30.04.2025 действуют следуют следующие предложения:
-
-✅ 5 ЛЕТ БЕЗ СЕРВИСНЫХ ЗАБОТ*
-
-✅ ДОПОЛНИТЕЛЬНОЕ ОБОРУДОВАНИЕ*
-
-✅ ШИННЫЙ ОТЕЛЬ*
-
-✅ PACCPОЧКA от 0,01%
-
-✅ ОЦЕНКА ПО TRADE-IN ВЫШЕ РЫНКА
-
-✅ ЛИЗИНГ БЕЗ ПЕРВОНАЧАЛЬНОГО ВЗНОСА
-
-✅ ГAРАHTИЯ 5 ЛEТ
-
-* Подробности в отделе продаж.
-
-Цена указана с учётом максимальной выгоды.
-Если новый GЕЕLY , то в GЕЕLY ПАРТНЕР.
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
-
-Geely Atlas II, 2024 год
-
-Geely Atlas II — это сочетание стиля, комфорта и передовых технологий. Этот автомобиль создан для тех, кто ценит качество и удобство в каждой поездке.
-
-Дизайн и комфорт
-
-Элегантный дизайн Geely Atlas II подчёркивает его статус и привлекает внимание на дороге. Просторный салон с отделкой из искусственной кожи обеспечивает комфорт как водителю, так и пассажирам.
-
-Технологии
-
-Geely Atlas II оснащён передовыми технологиями, которые делают вождение более приятным и безопасным. Двухзонный климат-контроль, адаптивный круиз-контроль, система старт-стоп и другие функции обеспечивают комфорт и безопасность на дороге.
-
-Комфорт и удобство
-
-Электрорегулировка сидений, обогрев всех сидений, подогрев рулевого колеса и другие опции делают каждую поездку максимально комфортной. А панорамная крыша и люк позволяют наслаждаться видами и свежим воздухом.
-
-Безопасность
-
-Система курсовой стабилизации, антиблокировочная система тормозов, подушки безопасности и другие функции обеспечивают высокий уровень безопасности как для водителя, так и для пассажиров.
-
-Дополнительные опции
-
-Центральный замок, иммобилайзер, сигнализация и другие дополнительные опции обеспечивают безопасность автомобиля.
-
-Geely Atlas II — это идеальный выбор для тех, кто ищет комфорт, безопасность и передовые технологии в одном автомобиле.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/56df1d1cebb60c19f20c9aa61995b3d7.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/36d18bea3b279634779c64fd3784e295.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/88520ed075259427b39a716617687b86.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/a69037ec8a9b3dd5df15f70d00d7e94e.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/3f5ff2cc2d4d130a2aa465a1ddf12ea4.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/9705a2c0a81deabd1f86b9a1fae50946.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/7e396b35867106b47bb1053799ab6e85.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/ba3d4c27c0069503c7deeb223f4afba0.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/9af9bbe346a17b96f0a82e03bd433cf2.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/ef5480f6d6e278f4ae531d7d7751ca4e.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/f5c9ccb54ba603cbb450993d823951a9.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/geely-atlas-ii-20-at-200-лс-4wd-flagship-белый-2024/</url></car>
-		<car>
-			<unique_id>2f72d8563d6f48d8eead1c0704520b3i</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Atlas, II</folder_id>
-			<modification_id>2.0 AT (200 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>10</run>
-			<year>2024</year>
-			<price>3917190</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>263000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>413000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3FX1S16RB162217</vin>
-			<description>ПAРTHEP АВТО - новый oфициальный дилер GЕELY в гоpодe Opенбуpге.
-
-B наличии HOBЫЙ ATLАS , 2024 года, в кoмплeктации Flаgshiр
-
-До 30.04.2025 действуют следуют следующие предложения:
-
-✅ 5 ЛЕТ БЕЗ СЕРВИСНЫХ ЗАБОТ*
-
-✅ ДОПОЛНИТЕЛЬНОЕ ОБОРУДОВАНИЕ*
-
-✅ ШИННЫЙ ОТЕЛЬ*
-
-✅ PACCPОЧКA от 0,01%
-
-✅ ОЦЕНКА ПО TRADE-IN ВЫШЕ РЫНКА
-
-✅ ЛИЗИНГ БЕЗ ПЕРВОНАЧАЛЬНОГО ВЗНОСА
-
-✅ ГAРАHTИЯ 5 ЛEТ
-
-* Подробности в отделе продаж.
-
-Цена указана с учётом максимальной выгоды.
-Если новый GЕЕLY , то в GЕЕLY ПАРТНЕР.
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
-
-Geely Atlas II, 2024 год
-
-Geely Atlas II — это сочетание стиля, комфорта и передовых технологий. Этот автомобиль создан для тех, кто ценит качество и удобство в каждой поездке.
-
-Дизайн и комфорт
-
-Элегантный дизайн Geely Atlas II подчёркивает его статус и привлекает внимание на дороге. Просторный салон с отделкой из искусственной кожи обеспечивает комфорт как водителю, так и пассажирам.
-
-Технологии
-
-Geely Atlas II оснащён передовыми технологиями, которые делают вождение более приятным и безопасным. Двухзонный климат-контроль, адаптивный круиз-контроль, система старт-стоп и другие функции обеспечивают комфорт и безопасность на дороге.
-
-Комфорт и удобство
-
-Электрорегулировка сидений, обогрев всех сидений, подогрев рулевого колеса и другие опции делают каждую поездку максимально комфортной. А панорамная крыша и люк позволяют наслаждаться видами и свежим воздухом.
-
-Безопасность
-
-Система курсовой стабилизации, антиблокировочная система тормозов, подушки безопасности и другие функции обеспечивают высокий уровень безопасности как для водителя, так и для пассажиров.
-
-Дополнительные опции
-
-Центральный замок, иммобилайзер, сигнализация и другие дополнительные опции обеспечивают безопасность автомобиля.
-
-Geely Atlas II — это идеальный выбор для тех, кто ищет комфорт, безопасность и передовые технологии в одном автомобиле.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/56df1d1cebb60c19f20c9aa61995b3d7.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/36d18bea3b279634779c64fd3784e295.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/88520ed075259427b39a716617687b86.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/a69037ec8a9b3dd5df15f70d00d7e94e.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/3f5ff2cc2d4d130a2aa465a1ddf12ea4.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/9705a2c0a81deabd1f86b9a1fae50946.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/7e396b35867106b47bb1053799ab6e85.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/ba3d4c27c0069503c7deeb223f4afba0.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/9af9bbe346a17b96f0a82e03bd433cf2.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/ef5480f6d6e278f4ae531d7d7751ca4e.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB162210/f5c9ccb54ba603cbb450993d823951a9.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/geely-atlas-ii-20-at-200-лс-4wd-flagship-белый-2024/</url></car>
 		<car>
 			<unique_id>443299c24f36c06a1152e9640be1de43</unique_id>
 			<mark_id>Geely</mark_id>
@@ -6014,555 +6014,6 @@ Geely Coolray — это автомобиль, который подарит в�
 			</multiposting>
 		<url>https://geely-partner-orenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-comfort-синий-2024/</url></car>
 		<car>
-			<unique_id>804d43edb62ede8e2153765ce092e074</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Emgrand, II</folder_id>
-			<modification_id>1.5 AT (122 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Седан</body_type>
-			<wheel>левый</wheel>
-			<color>Бежевый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>10</run>
-			<year>2024</year>
-			<price>2663990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>290000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3F31037RG040735</vin>
-			<description>ПАРТНЕР АВТО - новый официальный дилер GEELY в городе Оренбурге.
-
-В наличии новый Geely Emgrand, 2024 года, в комплектации Flagship.
-
-До 30.04.2025 действуют следуют следующие предложения:
-
-✅ 5 ЛЕТ БЕЗ СЕРВИСНЫХ ЗАБОТ*
-
-✅ ДОПОЛНИТЕЛЬНОЕ ОБОРУДОВАНИЕ*
-
-✅ ШИННЫЙ ОТЕЛЬ*
-
-✅ PACCPОЧКA от 0,01%
-
-✅ ОЦЕНКА ПО TRADE-IN ВЫШЕ РЫНКА
-
-✅ ЛИЗИНГ БЕЗ ПЕРВОНАЧАЛЬНОГО ВЗНОСА
-
-✅ ГAРАHTИЯ 5 ЛEТ
-
-* Подробности в отделе продаж.
-Цена указана с учётом максимальной выгоды.
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB3F31037RG040734/ff943844f3e09f1db58507f89496ebc8.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31037RG040734/c7f9ca2bb2fa223f363ba794ccb04e48.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31037RG040734/8e618272545c7a0c3acfa64c8f255b5d.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-бежевый-2024/</url></car>
-		<car>
-			<unique_id>804d43edb62ede8e2153765ce092e075</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Emgrand, II</folder_id>
-			<modification_id>1.5 AT (122 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Седан</body_type>
-			<wheel>левый</wheel>
-			<color>Бежевый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>10</run>
-			<year>2024</year>
-			<price>2663990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>290000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3F31037RG040736</vin>
-			<description>ПАРТНЕР АВТО - новый официальный дилер GEELY в городе Оренбурге.
-
-В наличии новый Geely Emgrand, 2024 года, в комплектации Flagship.
-
-До 30.04.2025 действуют следуют следующие предложения:
-
-✅ 5 ЛЕТ БЕЗ СЕРВИСНЫХ ЗАБОТ*
-
-✅ ДОПОЛНИТЕЛЬНОЕ ОБОРУДОВАНИЕ*
-
-✅ ШИННЫЙ ОТЕЛЬ*
-
-✅ PACCPОЧКA от 0,01%
-
-✅ ОЦЕНКА ПО TRADE-IN ВЫШЕ РЫНКА
-
-✅ ЛИЗИНГ БЕЗ ПЕРВОНАЧАЛЬНОГО ВЗНОСА
-
-✅ ГAРАHTИЯ 5 ЛEТ
-
-* Подробности в отделе продаж.
-Цена указана с учётом максимальной выгоды.
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB3F31037RG040734/ff943844f3e09f1db58507f89496ebc8.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31037RG040734/c7f9ca2bb2fa223f363ba794ccb04e48.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31037RG040734/8e618272545c7a0c3acfa64c8f255b5d.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-бежевый-2024/</url></car>
-		<car>
-			<unique_id>804d43edb62ede8e2153765ce092e076</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Emgrand, II</folder_id>
-			<modification_id>1.5 AT (122 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Седан</body_type>
-			<wheel>левый</wheel>
-			<color>Бежевый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>10</run>
-			<year>2024</year>
-			<price>2663990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>290000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3F31037RG040737</vin>
-			<description>ПАРТНЕР АВТО - новый официальный дилер GEELY в городе Оренбурге.
-
-В наличии новый Geely Emgrand, 2024 года, в комплектации Flagship.
-
-До 30.04.2025 действуют следуют следующие предложения:
-
-✅ 5 ЛЕТ БЕЗ СЕРВИСНЫХ ЗАБОТ*
-
-✅ ДОПОЛНИТЕЛЬНОЕ ОБОРУДОВАНИЕ*
-
-✅ ШИННЫЙ ОТЕЛЬ*
-
-✅ PACCPОЧКA от 0,01%
-
-✅ ОЦЕНКА ПО TRADE-IN ВЫШЕ РЫНКА
-
-✅ ЛИЗИНГ БЕЗ ПЕРВОНАЧАЛЬНОГО ВЗНОСА
-
-✅ ГAРАHTИЯ 5 ЛEТ
-
-* Подробности в отделе продаж.
-Цена указана с учётом максимальной выгоды.
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB3F31037RG040734/ff943844f3e09f1db58507f89496ebc8.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31037RG040734/c7f9ca2bb2fa223f363ba794ccb04e48.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31037RG040734/8e618272545c7a0c3acfa64c8f255b5d.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-бежевый-2024/</url></car>
-		<car>
-			<unique_id>804d43edb62ede8e2153765ce092e077</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Emgrand, II</folder_id>
-			<modification_id>1.5 AT (122 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Седан</body_type>
-			<wheel>левый</wheel>
-			<color>Бежевый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>10</run>
-			<year>2024</year>
-			<price>2663990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>290000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3F31037RG040738</vin>
-			<description>ПАРТНЕР АВТО - новый официальный дилер GEELY в городе Оренбурге.
-
-В наличии новый Geely Emgrand, 2024 года, в комплектации Flagship.
-
-До 30.04.2025 действуют следуют следующие предложения:
-
-✅ 5 ЛЕТ БЕЗ СЕРВИСНЫХ ЗАБОТ*
-
-✅ ДОПОЛНИТЕЛЬНОЕ ОБОРУДОВАНИЕ*
-
-✅ ШИННЫЙ ОТЕЛЬ*
-
-✅ PACCPОЧКA от 0,01%
-
-✅ ОЦЕНКА ПО TRADE-IN ВЫШЕ РЫНКА
-
-✅ ЛИЗИНГ БЕЗ ПЕРВОНАЧАЛЬНОГО ВЗНОСА
-
-✅ ГAРАHTИЯ 5 ЛEТ
-
-* Подробности в отделе продаж.
-Цена указана с учётом максимальной выгоды.
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB3F31037RG040734/ff943844f3e09f1db58507f89496ebc8.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31037RG040734/c7f9ca2bb2fa223f363ba794ccb04e48.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31037RG040734/8e618272545c7a0c3acfa64c8f255b5d.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-бежевый-2024/</url></car>
-		<car>
-			<unique_id>804d43edb62ede8e2153765ce092e078</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Emgrand, II</folder_id>
-			<modification_id>1.5 AT (122 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Седан</body_type>
-			<wheel>левый</wheel>
-			<color>Бежевый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>10</run>
-			<year>2024</year>
-			<price>2663990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>290000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3F31037RG040739</vin>
-			<description>ПАРТНЕР АВТО - новый официальный дилер GEELY в городе Оренбурге.
-
-В наличии новый Geely Emgrand, 2024 года, в комплектации Flagship.
-
-До 30.04.2025 действуют следуют следующие предложения:
-
-✅ 5 ЛЕТ БЕЗ СЕРВИСНЫХ ЗАБОТ*
-
-✅ ДОПОЛНИТЕЛЬНОЕ ОБОРУДОВАНИЕ*
-
-✅ ШИННЫЙ ОТЕЛЬ*
-
-✅ PACCPОЧКA от 0,01%
-
-✅ ОЦЕНКА ПО TRADE-IN ВЫШЕ РЫНКА
-
-✅ ЛИЗИНГ БЕЗ ПЕРВОНАЧАЛЬНОГО ВЗНОСА
-
-✅ ГAРАHTИЯ 5 ЛEТ
-
-* Подробности в отделе продаж.
-Цена указана с учётом максимальной выгоды.
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB3F31037RG040734/ff943844f3e09f1db58507f89496ebc8.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31037RG040734/c7f9ca2bb2fa223f363ba794ccb04e48.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31037RG040734/8e618272545c7a0c3acfa64c8f255b5d.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-бежевый-2024/</url></car>
-		<car>
-			<unique_id>804d43edb62ede8e2153765ce092e079</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Emgrand, II</folder_id>
-			<modification_id>1.5 AT (122 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Седан</body_type>
-			<wheel>левый</wheel>
-			<color>Бежевый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>10</run>
-			<year>2024</year>
-			<price>2663990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>290000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3F31037RG040740</vin>
-			<description>ПАРТНЕР АВТО - новый официальный дилер GEELY в городе Оренбурге.
-
-В наличии новый Geely Emgrand, 2024 года, в комплектации Flagship.
-
-До 30.04.2025 действуют следуют следующие предложения:
-
-✅ 5 ЛЕТ БЕЗ СЕРВИСНЫХ ЗАБОТ*
-
-✅ ДОПОЛНИТЕЛЬНОЕ ОБОРУДОВАНИЕ*
-
-✅ ШИННЫЙ ОТЕЛЬ*
-
-✅ PACCPОЧКA от 0,01%
-
-✅ ОЦЕНКА ПО TRADE-IN ВЫШЕ РЫНКА
-
-✅ ЛИЗИНГ БЕЗ ПЕРВОНАЧАЛЬНОГО ВЗНОСА
-
-✅ ГAРАHTИЯ 5 ЛEТ
-
-* Подробности в отделе продаж.
-Цена указана с учётом максимальной выгоды.
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB3F31037RG040734/ff943844f3e09f1db58507f89496ebc8.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31037RG040734/c7f9ca2bb2fa223f363ba794ccb04e48.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31037RG040734/8e618272545c7a0c3acfa64c8f255b5d.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-бежевый-2024/</url></car>
-		<car>
-			<unique_id>804d43edb62ede8e2153765ce092e08a</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Emgrand, II</folder_id>
-			<modification_id>1.5 AT (122 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Седан</body_type>
-			<wheel>левый</wheel>
-			<color>Бежевый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>10</run>
-			<year>2024</year>
-			<price>2663990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>290000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3F31037RG040741</vin>
-			<description>ПАРТНЕР АВТО - новый официальный дилер GEELY в городе Оренбурге.
-
-В наличии новый Geely Emgrand, 2024 года, в комплектации Flagship.
-
-До 30.04.2025 действуют следуют следующие предложения:
-
-✅ 5 ЛЕТ БЕЗ СЕРВИСНЫХ ЗАБОТ*
-
-✅ ДОПОЛНИТЕЛЬНОЕ ОБОРУДОВАНИЕ*
-
-✅ ШИННЫЙ ОТЕЛЬ*
-
-✅ PACCPОЧКA от 0,01%
-
-✅ ОЦЕНКА ПО TRADE-IN ВЫШЕ РЫНКА
-
-✅ ЛИЗИНГ БЕЗ ПЕРВОНАЧАЛЬНОГО ВЗНОСА
-
-✅ ГAРАHTИЯ 5 ЛEТ
-
-* Подробности в отделе продаж.
-Цена указана с учётом максимальной выгоды.
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB3F31037RG040734/ff943844f3e09f1db58507f89496ebc8.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31037RG040734/c7f9ca2bb2fa223f363ba794ccb04e48.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31037RG040734/8e618272545c7a0c3acfa64c8f255b5d.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-бежевый-2024/</url></car>
-		<car>
-			<unique_id>804d43edb62ede8e2153765ce092e08b</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Emgrand, II</folder_id>
-			<modification_id>1.5 AT (122 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Седан</body_type>
-			<wheel>левый</wheel>
-			<color>Бежевый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>10</run>
-			<year>2024</year>
-			<price>2663990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>290000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3F31037RG040742</vin>
-			<description>ПАРТНЕР АВТО - новый официальный дилер GEELY в городе Оренбурге.
-
-В наличии новый Geely Emgrand, 2024 года, в комплектации Flagship.
-
-До 30.04.2025 действуют следуют следующие предложения:
-
-✅ 5 ЛЕТ БЕЗ СЕРВИСНЫХ ЗАБОТ*
-
-✅ ДОПОЛНИТЕЛЬНОЕ ОБОРУДОВАНИЕ*
-
-✅ ШИННЫЙ ОТЕЛЬ*
-
-✅ PACCPОЧКA от 0,01%
-
-✅ ОЦЕНКА ПО TRADE-IN ВЫШЕ РЫНКА
-
-✅ ЛИЗИНГ БЕЗ ПЕРВОНАЧАЛЬНОГО ВЗНОСА
-
-✅ ГAРАHTИЯ 5 ЛEТ
-
-* Подробности в отделе продаж.
-Цена указана с учётом максимальной выгоды.
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB3F31037RG040734/ff943844f3e09f1db58507f89496ebc8.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31037RG040734/c7f9ca2bb2fa223f363ba794ccb04e48.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31037RG040734/8e618272545c7a0c3acfa64c8f255b5d.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-бежевый-2024/</url></car>
-		<car>
-			<unique_id>804d43edb62ede8e2153765ce092e08c</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Emgrand, II</folder_id>
-			<modification_id>1.5 AT (122 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Седан</body_type>
-			<wheel>левый</wheel>
-			<color>Бежевый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>10</run>
-			<year>2024</year>
-			<price>2663990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>290000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3F31037RG040743</vin>
-			<description>ПАРТНЕР АВТО - новый официальный дилер GEELY в городе Оренбурге.
-
-В наличии новый Geely Emgrand, 2024 года, в комплектации Flagship.
-
-До 30.04.2025 действуют следуют следующие предложения:
-
-✅ 5 ЛЕТ БЕЗ СЕРВИСНЫХ ЗАБОТ*
-
-✅ ДОПОЛНИТЕЛЬНОЕ ОБОРУДОВАНИЕ*
-
-✅ ШИННЫЙ ОТЕЛЬ*
-
-✅ PACCPОЧКA от 0,01%
-
-✅ ОЦЕНКА ПО TRADE-IN ВЫШЕ РЫНКА
-
-✅ ЛИЗИНГ БЕЗ ПЕРВОНАЧАЛЬНОГО ВЗНОСА
-
-✅ ГAРАHTИЯ 5 ЛEТ
-
-* Подробности в отделе продаж.
-Цена указана с учётом максимальной выгоды.
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB3F31037RG040734/ff943844f3e09f1db58507f89496ebc8.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31037RG040734/c7f9ca2bb2fa223f363ba794ccb04e48.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31037RG040734/8e618272545c7a0c3acfa64c8f255b5d.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-бежевый-2024/</url></car>
-		<car>
 			<unique_id>bc9a94595a4f4c38dfc8ad27987eb691</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Emgrand, II</folder_id>
@@ -7777,6 +7228,555 @@ Geely Coolray — это автомобиль, который подарит в�
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://geely-partner-orenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-белый-2023/</url></car>
+		<car>
+			<unique_id>804d43edb62ede8e2153765ce092e074</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Emgrand, II</folder_id>
+			<modification_id>1.5 AT (122 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Седан</body_type>
+			<wheel>левый</wheel>
+			<color>Бежевый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>10</run>
+			<year>2024</year>
+			<price>2663990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>250000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>290000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB3F31037RG040735</vin>
+			<description>ПАРТНЕР АВТО - новый официальный дилер GEELY в городе Оренбурге.
+
+В наличии новый Geely Emgrand, 2024 года, в комплектации Flagship.
+
+До 30.04.2025 действуют следуют следующие предложения:
+
+✅ 5 ЛЕТ БЕЗ СЕРВИСНЫХ ЗАБОТ*
+
+✅ ДОПОЛНИТЕЛЬНОЕ ОБОРУДОВАНИЕ*
+
+✅ ШИННЫЙ ОТЕЛЬ*
+
+✅ PACCPОЧКA от 0,01%
+
+✅ ОЦЕНКА ПО TRADE-IN ВЫШЕ РЫНКА
+
+✅ ЛИЗИНГ БЕЗ ПЕРВОНАЧАЛЬНОГО ВЗНОСА
+
+✅ ГAРАHTИЯ 5 ЛEТ
+
+* Подробности в отделе продаж.
+Цена указана с учётом максимальной выгоды.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB3F31037RG040734/ff943844f3e09f1db58507f89496ebc8.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31037RG040734/c7f9ca2bb2fa223f363ba794ccb04e48.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31037RG040734/8e618272545c7a0c3acfa64c8f255b5d.jpeg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geely-partner-orenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-бежевый-2024/</url></car>
+		<car>
+			<unique_id>804d43edb62ede8e2153765ce092e075</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Emgrand, II</folder_id>
+			<modification_id>1.5 AT (122 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Седан</body_type>
+			<wheel>левый</wheel>
+			<color>Бежевый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>10</run>
+			<year>2024</year>
+			<price>2663990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>250000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>290000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB3F31037RG040736</vin>
+			<description>ПАРТНЕР АВТО - новый официальный дилер GEELY в городе Оренбурге.
+
+В наличии новый Geely Emgrand, 2024 года, в комплектации Flagship.
+
+До 30.04.2025 действуют следуют следующие предложения:
+
+✅ 5 ЛЕТ БЕЗ СЕРВИСНЫХ ЗАБОТ*
+
+✅ ДОПОЛНИТЕЛЬНОЕ ОБОРУДОВАНИЕ*
+
+✅ ШИННЫЙ ОТЕЛЬ*
+
+✅ PACCPОЧКA от 0,01%
+
+✅ ОЦЕНКА ПО TRADE-IN ВЫШЕ РЫНКА
+
+✅ ЛИЗИНГ БЕЗ ПЕРВОНАЧАЛЬНОГО ВЗНОСА
+
+✅ ГAРАHTИЯ 5 ЛEТ
+
+* Подробности в отделе продаж.
+Цена указана с учётом максимальной выгоды.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB3F31037RG040734/ff943844f3e09f1db58507f89496ebc8.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31037RG040734/c7f9ca2bb2fa223f363ba794ccb04e48.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31037RG040734/8e618272545c7a0c3acfa64c8f255b5d.jpeg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geely-partner-orenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-бежевый-2024/</url></car>
+		<car>
+			<unique_id>804d43edb62ede8e2153765ce092e076</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Emgrand, II</folder_id>
+			<modification_id>1.5 AT (122 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Седан</body_type>
+			<wheel>левый</wheel>
+			<color>Бежевый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>10</run>
+			<year>2024</year>
+			<price>2663990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>250000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>290000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB3F31037RG040737</vin>
+			<description>ПАРТНЕР АВТО - новый официальный дилер GEELY в городе Оренбурге.
+
+В наличии новый Geely Emgrand, 2024 года, в комплектации Flagship.
+
+До 30.04.2025 действуют следуют следующие предложения:
+
+✅ 5 ЛЕТ БЕЗ СЕРВИСНЫХ ЗАБОТ*
+
+✅ ДОПОЛНИТЕЛЬНОЕ ОБОРУДОВАНИЕ*
+
+✅ ШИННЫЙ ОТЕЛЬ*
+
+✅ PACCPОЧКA от 0,01%
+
+✅ ОЦЕНКА ПО TRADE-IN ВЫШЕ РЫНКА
+
+✅ ЛИЗИНГ БЕЗ ПЕРВОНАЧАЛЬНОГО ВЗНОСА
+
+✅ ГAРАHTИЯ 5 ЛEТ
+
+* Подробности в отделе продаж.
+Цена указана с учётом максимальной выгоды.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB3F31037RG040734/ff943844f3e09f1db58507f89496ebc8.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31037RG040734/c7f9ca2bb2fa223f363ba794ccb04e48.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31037RG040734/8e618272545c7a0c3acfa64c8f255b5d.jpeg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geely-partner-orenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-бежевый-2024/</url></car>
+		<car>
+			<unique_id>804d43edb62ede8e2153765ce092e077</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Emgrand, II</folder_id>
+			<modification_id>1.5 AT (122 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Седан</body_type>
+			<wheel>левый</wheel>
+			<color>Бежевый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>10</run>
+			<year>2024</year>
+			<price>2663990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>250000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>290000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB3F31037RG040738</vin>
+			<description>ПАРТНЕР АВТО - новый официальный дилер GEELY в городе Оренбурге.
+
+В наличии новый Geely Emgrand, 2024 года, в комплектации Flagship.
+
+До 30.04.2025 действуют следуют следующие предложения:
+
+✅ 5 ЛЕТ БЕЗ СЕРВИСНЫХ ЗАБОТ*
+
+✅ ДОПОЛНИТЕЛЬНОЕ ОБОРУДОВАНИЕ*
+
+✅ ШИННЫЙ ОТЕЛЬ*
+
+✅ PACCPОЧКA от 0,01%
+
+✅ ОЦЕНКА ПО TRADE-IN ВЫШЕ РЫНКА
+
+✅ ЛИЗИНГ БЕЗ ПЕРВОНАЧАЛЬНОГО ВЗНОСА
+
+✅ ГAРАHTИЯ 5 ЛEТ
+
+* Подробности в отделе продаж.
+Цена указана с учётом максимальной выгоды.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB3F31037RG040734/ff943844f3e09f1db58507f89496ebc8.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31037RG040734/c7f9ca2bb2fa223f363ba794ccb04e48.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31037RG040734/8e618272545c7a0c3acfa64c8f255b5d.jpeg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geely-partner-orenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-бежевый-2024/</url></car>
+		<car>
+			<unique_id>804d43edb62ede8e2153765ce092e078</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Emgrand, II</folder_id>
+			<modification_id>1.5 AT (122 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Седан</body_type>
+			<wheel>левый</wheel>
+			<color>Бежевый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>10</run>
+			<year>2024</year>
+			<price>2663990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>250000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>290000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB3F31037RG040739</vin>
+			<description>ПАРТНЕР АВТО - новый официальный дилер GEELY в городе Оренбурге.
+
+В наличии новый Geely Emgrand, 2024 года, в комплектации Flagship.
+
+До 30.04.2025 действуют следуют следующие предложения:
+
+✅ 5 ЛЕТ БЕЗ СЕРВИСНЫХ ЗАБОТ*
+
+✅ ДОПОЛНИТЕЛЬНОЕ ОБОРУДОВАНИЕ*
+
+✅ ШИННЫЙ ОТЕЛЬ*
+
+✅ PACCPОЧКA от 0,01%
+
+✅ ОЦЕНКА ПО TRADE-IN ВЫШЕ РЫНКА
+
+✅ ЛИЗИНГ БЕЗ ПЕРВОНАЧАЛЬНОГО ВЗНОСА
+
+✅ ГAРАHTИЯ 5 ЛEТ
+
+* Подробности в отделе продаж.
+Цена указана с учётом максимальной выгоды.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB3F31037RG040734/ff943844f3e09f1db58507f89496ebc8.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31037RG040734/c7f9ca2bb2fa223f363ba794ccb04e48.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31037RG040734/8e618272545c7a0c3acfa64c8f255b5d.jpeg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geely-partner-orenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-бежевый-2024/</url></car>
+		<car>
+			<unique_id>804d43edb62ede8e2153765ce092e079</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Emgrand, II</folder_id>
+			<modification_id>1.5 AT (122 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Седан</body_type>
+			<wheel>левый</wheel>
+			<color>Бежевый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>10</run>
+			<year>2024</year>
+			<price>2663990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>250000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>290000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB3F31037RG040740</vin>
+			<description>ПАРТНЕР АВТО - новый официальный дилер GEELY в городе Оренбурге.
+
+В наличии новый Geely Emgrand, 2024 года, в комплектации Flagship.
+
+До 30.04.2025 действуют следуют следующие предложения:
+
+✅ 5 ЛЕТ БЕЗ СЕРВИСНЫХ ЗАБОТ*
+
+✅ ДОПОЛНИТЕЛЬНОЕ ОБОРУДОВАНИЕ*
+
+✅ ШИННЫЙ ОТЕЛЬ*
+
+✅ PACCPОЧКA от 0,01%
+
+✅ ОЦЕНКА ПО TRADE-IN ВЫШЕ РЫНКА
+
+✅ ЛИЗИНГ БЕЗ ПЕРВОНАЧАЛЬНОГО ВЗНОСА
+
+✅ ГAРАHTИЯ 5 ЛEТ
+
+* Подробности в отделе продаж.
+Цена указана с учётом максимальной выгоды.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB3F31037RG040734/ff943844f3e09f1db58507f89496ebc8.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31037RG040734/c7f9ca2bb2fa223f363ba794ccb04e48.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31037RG040734/8e618272545c7a0c3acfa64c8f255b5d.jpeg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geely-partner-orenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-бежевый-2024/</url></car>
+		<car>
+			<unique_id>804d43edb62ede8e2153765ce092e08a</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Emgrand, II</folder_id>
+			<modification_id>1.5 AT (122 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Седан</body_type>
+			<wheel>левый</wheel>
+			<color>Бежевый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>10</run>
+			<year>2024</year>
+			<price>2663990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>250000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>290000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB3F31037RG040741</vin>
+			<description>ПАРТНЕР АВТО - новый официальный дилер GEELY в городе Оренбурге.
+
+В наличии новый Geely Emgrand, 2024 года, в комплектации Flagship.
+
+До 30.04.2025 действуют следуют следующие предложения:
+
+✅ 5 ЛЕТ БЕЗ СЕРВИСНЫХ ЗАБОТ*
+
+✅ ДОПОЛНИТЕЛЬНОЕ ОБОРУДОВАНИЕ*
+
+✅ ШИННЫЙ ОТЕЛЬ*
+
+✅ PACCPОЧКA от 0,01%
+
+✅ ОЦЕНКА ПО TRADE-IN ВЫШЕ РЫНКА
+
+✅ ЛИЗИНГ БЕЗ ПЕРВОНАЧАЛЬНОГО ВЗНОСА
+
+✅ ГAРАHTИЯ 5 ЛEТ
+
+* Подробности в отделе продаж.
+Цена указана с учётом максимальной выгоды.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB3F31037RG040734/ff943844f3e09f1db58507f89496ebc8.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31037RG040734/c7f9ca2bb2fa223f363ba794ccb04e48.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31037RG040734/8e618272545c7a0c3acfa64c8f255b5d.jpeg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geely-partner-orenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-бежевый-2024/</url></car>
+		<car>
+			<unique_id>804d43edb62ede8e2153765ce092e08b</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Emgrand, II</folder_id>
+			<modification_id>1.5 AT (122 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Седан</body_type>
+			<wheel>левый</wheel>
+			<color>Бежевый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>10</run>
+			<year>2024</year>
+			<price>2663990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>250000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>290000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB3F31037RG040742</vin>
+			<description>ПАРТНЕР АВТО - новый официальный дилер GEELY в городе Оренбурге.
+
+В наличии новый Geely Emgrand, 2024 года, в комплектации Flagship.
+
+До 30.04.2025 действуют следуют следующие предложения:
+
+✅ 5 ЛЕТ БЕЗ СЕРВИСНЫХ ЗАБОТ*
+
+✅ ДОПОЛНИТЕЛЬНОЕ ОБОРУДОВАНИЕ*
+
+✅ ШИННЫЙ ОТЕЛЬ*
+
+✅ PACCPОЧКA от 0,01%
+
+✅ ОЦЕНКА ПО TRADE-IN ВЫШЕ РЫНКА
+
+✅ ЛИЗИНГ БЕЗ ПЕРВОНАЧАЛЬНОГО ВЗНОСА
+
+✅ ГAРАHTИЯ 5 ЛEТ
+
+* Подробности в отделе продаж.
+Цена указана с учётом максимальной выгоды.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB3F31037RG040734/ff943844f3e09f1db58507f89496ebc8.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31037RG040734/c7f9ca2bb2fa223f363ba794ccb04e48.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31037RG040734/8e618272545c7a0c3acfa64c8f255b5d.jpeg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geely-partner-orenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-бежевый-2024/</url></car>
+		<car>
+			<unique_id>804d43edb62ede8e2153765ce092e08c</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Emgrand, II</folder_id>
+			<modification_id>1.5 AT (122 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Седан</body_type>
+			<wheel>левый</wheel>
+			<color>Бежевый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>10</run>
+			<year>2024</year>
+			<price>2663990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>250000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>290000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB3F31037RG040743</vin>
+			<description>ПАРТНЕР АВТО - новый официальный дилер GEELY в городе Оренбурге.
+
+В наличии новый Geely Emgrand, 2024 года, в комплектации Flagship.
+
+До 30.04.2025 действуют следуют следующие предложения:
+
+✅ 5 ЛЕТ БЕЗ СЕРВИСНЫХ ЗАБОТ*
+
+✅ ДОПОЛНИТЕЛЬНОЕ ОБОРУДОВАНИЕ*
+
+✅ ШИННЫЙ ОТЕЛЬ*
+
+✅ PACCPОЧКA от 0,01%
+
+✅ ОЦЕНКА ПО TRADE-IN ВЫШЕ РЫНКА
+
+✅ ЛИЗИНГ БЕЗ ПЕРВОНАЧАЛЬНОГО ВЗНОСА
+
+✅ ГAРАHTИЯ 5 ЛEТ
+
+* Подробности в отделе продаж.
+Цена указана с учётом максимальной выгоды.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB3F31037RG040734/ff943844f3e09f1db58507f89496ebc8.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31037RG040734/c7f9ca2bb2fa223f363ba794ccb04e48.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31037RG040734/8e618272545c7a0c3acfa64c8f255b5d.jpeg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geely-partner-orenburg.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-бежевый-2024/</url></car>
 		<car>
 			<unique_id>059c8f19361cf57e4703bba21e9d6c6e</unique_id>
 			<mark_id>Geely</mark_id>
