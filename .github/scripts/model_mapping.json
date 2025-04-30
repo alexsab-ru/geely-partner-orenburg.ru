@@ -371,7 +371,8 @@
                 "Голубой": "light-blue.webp",
                 "White": "white.webp",
                 "Белый": "white.webp",
-                "Серебристый": "silver-metallic.webp"
+                "Серебристый": "silver-metallic.webp",
+                "Серебряный": "silver-metallic.webp"
             }
         }
     },
