@@ -7,7 +7,9 @@ slug: "vopros-otvet"
 image: "https://cdn.alexsab.ru/for-owners/geely/vopros-otvet/thumb.webp"
 description: "Запись на ТО автомобилей Geely в Саратове"
 ---
-import { SITE_NAME, PHONE, BRAND, AGREE_LABEL } from '@/const';
+import { AGREE_LABEL } from '@/const';
+import settings from '@/data/settings.json';
+export const { site_name, phone_common, brand } = settings;
 import { phoneFormat } from '@/js/utils/numbers.format';
 import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
 

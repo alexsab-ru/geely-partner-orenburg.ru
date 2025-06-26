@@ -11,7 +11,8 @@ export const DateFrom = "01.01.2024"
 export const DateTo = "31.01.2024"
 
 import Button from '@/components/Button/Button.astro';
-import { SITE_NAME, PHONE } from '@/const';
+import settings from '@/data/settings.json';
+export const { site_name, phone_common, brand } = settings;
 import { phoneFormat } from '@/js/utils/numbers.format';
 import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
 
@@ -1057,7 +1058,7 @@ import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
 <br />
 <br />
 
-Подробности в отделе продаж по телефону: <a href={`tel:${phoneFormat(PHONE)}`}>{PHONE}</a>
+Подробности в отделе продаж по телефону: <a href={`tel:${phoneFormat(phone_common)}`}>{phone_common}</a>
 
 <div class="flex justify-center mt-10 mb-5">
 	<Button 
