@@ -321,7 +321,7 @@ Geely Atlas II — это идеальный выбор для тех, кто и
 			<price>4017190</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>150000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
 			<vin>LB3FX1S12RB133805</vin>
@@ -399,7 +399,7 @@ Geely Atlas II оснащён современными технологиями,
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<max_discount>0</max_discount><priceWithDiscount>4017190</priceWithDiscount><sale_price>4017190</sale_price><url>https://geely-partner-orenburg.ru/cars/geely-atlas-ii-20-at-200-лс-4wd-flagship-sport-белый-2024/</url></car>
+		<max_discount>150000</max_discount><priceWithDiscount>3867190</priceWithDiscount><sale_price>3867190</sale_price><url>https://geely-partner-orenburg.ru/cars/geely-atlas-ii-20-at-200-лс-4wd-flagship-sport-белый-2024/</url></car>
 		<car>
 			<unique_id>77b74cd5eadfc44c3310c3f6322ae99e</unique_id>
 			<mark_id>Geely</mark_id>
